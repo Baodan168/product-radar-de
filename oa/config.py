@@ -28,7 +28,7 @@ PORTAL_VERSION = 'v4.0'
 
 # GitHub Pages 站点根，postMessage 校验和探针都用它
 SITE_ORIGIN = 'https://Baodan168.github.io'
-SITE_BASE = f'{SITE_ORIGIN}/product-radar-fr'
+SITE_BASE = f'{SITE_ORIGIN}/product-radar-de'
 
 # 首页 key：不是 iframe 板块，由生成器直接渲染进主区（DESIGN-DECISIONS D6）
 DASHBOARD_KEY = 'dashboard'

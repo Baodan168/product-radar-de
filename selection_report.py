@@ -15,7 +15,7 @@ from collections import Counter
 DATA_DIR = Path(__file__).parent / "data"
 DISCOVERY_DIR = DATA_DIR / "discovery"
 CHANNELS_DIR = DATA_DIR / "channels"
-SITE_URL = "https://Baodan168.github.io/product-radar-fr/output/index.html"
+SITE_URL = "https://Baodan168.github.io/product-radar-de/"
 
 
 def _load_json(path):

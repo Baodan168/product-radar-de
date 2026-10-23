@@ -6,7 +6,7 @@ import urllib.request
 import urllib.error
 import http.client
 
-REPO = 'Baodan168/product-radar-fr'
+REPO = 'Baodan168/product-radar-de'
 BRANCH = 'main'
 
 # 部署只推「内容变化」的文件：用 sha1 状态文件记录上次推送的文件指纹，
