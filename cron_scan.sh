@@ -45,7 +45,7 @@ fi
 # 会让远程领先本地（正常，不警告）；只有本地与远程分叉/被 force push 才警告。
 LOCAL_SHA=$(git rev-parse HEAD)
 REMOTE_COMMITS=$(curl -s --max-time 20 -H "Authorization: token $GITHUB_TOKEN" \
-  "https://api.github.com/repos/Baodan168/product-radar/commits?sha=main&per_page=100" 2>/dev/null \
+  "https://api.github.com/repos/Baodan168/product-radar-de/commits?sha=main&per_page=100" 2>/dev/null \
   | python3 -c "import json,sys; print(' '.join(c['sha'] for c in json.load(sys.stdin)))" 2>/dev/null || echo "")
 if [ -n "$REMOTE_COMMITS" ] && ! echo "$REMOTE_COMMITS" | grep -qw "$LOCAL_SHA"; then
     echo "⚠️ 警告: 本地 HEAD ($(echo $LOCAL_SHA | cut -c1-7)) 不在远程 main 历史中，可能与远程分叉" >&2

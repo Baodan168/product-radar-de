@@ -436,19 +436,16 @@ def main():
     print(f"  Sources: Amazon+TikTok+HotUKDeals+Temu+Etsy+YouTube+Google+Reddit", file=sys.stderr)
     print(f"{'='*60}\n", file=sys.stderr)
 
-    # 1. Amazon (New/BSR/Wished/Gifts)
-    print("[1/8] Amazon UK (New+BSR+Wished+Gifts)...", file=sys.stderr)
-    amazon_products = fetch_amazon(max_per_channel_type=5)  # 跟新默认值保持一致
-    print(f"  Amazon UK: {len(amazon_products)} products", file=sys.stderr)
-
-    # 1a. Amazon DE (new releases + bsr — 德国站爬虫，CloakBrowser 预热通道)
-    print("\n[1a/8] Amazon FR (new releases)...", file=sys.stderr)
+    # 1. Amazon DE（主扫描：new_releases + bsr 双渠道，德国站爬虫）
+    # 2026-10-23 DE 化：FR 版是「UK 主扫 + FR 补充」，DE 站反转为 DE 主扫。
+    # UK 页面抓回来的是 GBP 价格/英文标题，对 DE 过滤链（EUR 带宽/德语禁售词）全是噪音。
+    print("[1/8] Amazon DE (New+BSR)...", file=sys.stderr)
     de_products = []
     try:
-        de_products = fetch_amazon_de(max_per_channel=3)
-        print(f"  Amazon FR: {len(de_products)} products", file=sys.stderr)
+        de_products = fetch_amazon_de(max_per_channel=5)
+        print(f"  Amazon DE: {len(de_products)} products", file=sys.stderr)
     except Exception as e:
-        print(f"  ⚠️ Amazon FR 扫描失败（非致命）: {e}", file=sys.stderr)
+        print(f"  ⚠️ Amazon DE 扫描失败: {e}", file=sys.stderr)
 
     # 1b. Keyword-driven scan (discovery + festival keywords) with dedicated Playwright
     print("\n[1b/8] Keyword-driven scan (discovery + festival)...", file=sys.stderr)
@@ -469,8 +466,8 @@ def main():
         try:
             keyword_products = _future.result(timeout=KEYWORD_SCAN_TIMEOUT)
             if keyword_products:
-                amazon_products.extend(keyword_products)
-                print(f"  Added {len(keyword_products)} keyword products → total {len(amazon_products)}", file=sys.stderr)
+                de_products.extend(keyword_products)
+                print(f"  Added {len(keyword_products)} keyword products → total {len(de_products)}", file=sys.stderr)
         except concurrent.futures.TimeoutError:
             print(f"  ⏰ 关键词扫描超时（>{KEYWORD_SCAN_TIMEOUT}s），跳过", file=sys.stderr)
             _future.cancel()
@@ -512,13 +509,13 @@ def main():
     # 3. TikTok keyword matching
     print("\n[3/7] TikTok UK...", file=sys.stderr)
     tiktok_products = fetch_tiktok()
-    tiktok_matched = match_keywords_to_products(tiktok_products, amazon_products, "TikTok趋势")
+    tiktok_matched = match_keywords_to_products(tiktok_products, de_products, "TikTok趋势")
     print(f"  TikTok → {len(tiktok_matched)} products", file=sys.stderr)
 
     # Merge FR products (with FR-specific platform tag)
     for p in de_products:
-        p.setdefault("sources", []).append("AmazonFR新品")
-    all_products = amazon_products + de_products
+        p.setdefault("sources", []).append("AmazonDE新品")
+    all_products = de_products
 
     # ── Checkpoint save: save raw products even if later steps crash ──
     checkpoint = {
@@ -529,7 +526,7 @@ def main():
     try:
         (BASE / "data" / "channels" / f"{scan_ts}-raw.json").write_text(
             json.dumps(checkpoint, ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"  💾 Checkpoint saved ({len(amazon_products)} products)", file=sys.stderr)
+        print(f"  💾 Checkpoint saved ({len(de_products)} products)", file=sys.stderr)
     except Exception as e:
         print(f"  ⚠️  Checkpoint save failed: {e}", file=sys.stderr)
 

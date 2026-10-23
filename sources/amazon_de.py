@@ -212,6 +212,29 @@ def _curl_fetch(url):
             return result.stdout
     except Exception as e:
         print(f"  Worker proxy error: {e}", file=sys.stderr)
+    # CloakBrowser 预热 context 兜底（2026-10-23 补：DE 详情页 curl 通道 22s 空手而归；
+    # thread-local 冷启动 goto 30s 超时也挂——预热首页 + de-DE context 实测 10s/3MB 稳定）
+    try:
+        from playwright.sync_api import sync_playwright
+        from sources.amazon_uk import CLOAKBROWSER_CHROME
+        with sync_playwright() as p:
+            browser = p.chromium.launch(executable_path=CLOAKBROWSER_CHROME, headless=True)
+            ctx = browser.new_context(locale="de-DE", timezone_id="Europe/Berlin")
+            page = ctx.new_page()
+            try:
+                page.goto("https://www.amazon.de/", timeout=30000, wait_until="domcontentloaded")
+                page.wait_for_timeout(1500)
+            except Exception:
+                pass  # 预热失败不阻塞主 goto
+            page.goto(url, timeout=45000, wait_until="domcontentloaded")
+            page.wait_for_timeout(2500)
+            html = page.content()
+            if html and _is_valid_response(html):
+                print(f"  CloakBrowser warm OK (len={len(html)})", file=sys.stderr)
+                return html
+            browser.close()
+    except Exception as e:
+        print(f"  CloakBrowser warm error: {e}", file=sys.stderr)
     return ""
 
 
