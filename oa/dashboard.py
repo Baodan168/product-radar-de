@@ -96,12 +96,10 @@ def collect_festivals(now=None, window_days=47) -> CardData:
     """
     now = now or datetime.now()
     try:
-        # 德国站与法国同属北半球：season_engine（UK 引擎）直接适用，无 fr_season_engine
-        try:
-            from fr_season_engine import get_upcoming_events as fr_get_events
-            get_events = fr_get_events
-        except ImportError:
-            from season_engine import get_upcoming_events as get_events
+        # 德国站走自己的 festival_engine（读 de_festivals_data.js）。
+        # 2026-10-23 修：原来回退到 season_engine —— 那是 UK 硬编码引擎，
+        # 会给德国站推出 Bonfire Night（篝火之夜）这类纯英国节点。
+        from festival_engine import get_upcoming_events as get_events
         events = get_events(days_ahead=window_days)
         note = ''
         if not events:

@@ -722,3 +722,60 @@ if __name__ == '__main__':
     print(f"✅ 加载了 {len(festivals)} 个节日")
     for f in festivals[:3]:
         print(f"   - {f['icon']} {f['name']} ({f['date']})")
+
+def get_upcoming_events(days_ahead=90):
+    """给 oa/dashboard 用的适配层：把德国节日库转成 season_engine 同款事件结构。
+
+    2026-10-23 建：DE 门户原来 import season_engine（UK 硬编码引擎，带 Bonfire Night
+    篝火之夜等英国节点），德国站会显示英国节日。改为走本引擎的 de_festivals_data.js。
+
+    返回字段与 season_engine.get_upcoming_events 对齐：
+    event_name/date/days_until/recommended_categories/
+    sourcing_deadline_{air,rail,sea}/sourcing_urgency
+    """
+    today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    cutoff = today + timedelta(days=days_ahead)
+    festivals = load_festivals()
+    if not festivals:
+        return []
+
+    upcoming = []
+    for f in festivals:
+        f_date_str = f.get('date') or ''
+        try:
+            f_date = datetime.strptime(f_date_str, '%Y-%m-%d')
+        except (ValueError, TypeError):
+            continue
+        if f_date < today or f_date > cutoff:
+            continue
+
+        deadlines = get_deadlines(f)
+        air_days = deadlines.get('air', {}).get('days_from_today', 999)
+        rail_days = deadlines.get('truck', {}).get('days_from_today', 999)
+        sea_days = deadlines.get('sea', {}).get('days_from_today', 999)
+
+        if air_days < 0:
+            sourcing_urgency = 'OVERDUE'      # 全部方式过期
+        elif rail_days < 0:
+            sourcing_urgency = 'AIR_ONLY'     # 仅剩空运
+        elif sea_days < 0:
+            sourcing_urgency = 'RAIL_OR_AIR'  # 海运过期
+        elif air_days <= 7:
+            sourcing_urgency = 'URGENT'
+        else:
+            sourcing_urgency = 'OK'
+
+        products = f.get('products') or []
+        upcoming.append({
+            'event_name': f"{f.get('icon', '📅')} {f.get('name', '')}".strip(),
+            'date': f_date_str,
+            'days_until': (f_date - today).days,
+            'recommended_categories': [p.get('category', '') for p in products[:4]],
+            'sourcing_deadline_air': deadlines.get('air', {}).get('date', ''),
+            'sourcing_deadline_rail': deadlines.get('truck', {}).get('date', ''),
+            'sourcing_deadline_sea': deadlines.get('sea', {}).get('date', ''),
+            'sourcing_urgency': sourcing_urgency,
+        })
+
+    upcoming.sort(key=lambda x: x['days_until'])
+    return upcoming
