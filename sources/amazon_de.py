@@ -340,7 +340,7 @@ def _parse_amazon_de_page(html, category, channel_type):
                 "amazon_url": f"https://www.amazon.de/dp/{asin}",
                 "image_url": img_url,
                 "currency": "EUR",
-                "platform": "Amazon-FR",
+                "platform": "Amazon-DE",
             })
     
     return products
@@ -421,7 +421,7 @@ def main():
         json.dump({
             'scan_date': date_str,
             'scan_time': scan_time,
-            'platform': 'Amazon-FR',
+            'platform': 'Amazon-DE',
             'products': products,
             'stats': {
                 'total': len(products),

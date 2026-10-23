@@ -264,13 +264,13 @@ def main():
         with open(latest, "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        # 按 amazon_url 域名路由（FR 产品去 .fr 查，UK 产品去 .co.uk 查）
+        # 按 amazon_url 域名路由（2026-10-23 DE 站：DE 产品去 .de 查，UK 老产品去 .co.uk 查）
         targets = []
         for p_ in data.get("products", []):
             if not p_.get("asin"):
                 continue
             au = (p_.get("amazon_url") or "").lower()
-            domain = "fr" if ("amazon.de" in au or p_.get("platform") == "Amazon-FR") else "co.uk"
+            domain = "de" if ("amazon.de" in au or p_.get("platform") == "Amazon-DE") else "co.uk"
             targets.append((p_["asin"], domain))
         print(f"Scraping {len(targets)} products "
               f"(fr={sum(1 for _, d in targets if d == 'fr')}, "
