@@ -1,0 +1,225 @@
+{
+  "category_scores": {
+    "phone": 36,
+    "beauty": 32,
+    "lighting": 36,
+    "crafts": 100,
+    "kitchen": 47,
+    "car": 68,
+    "kitchen_gadgets": 5,
+    "eco": 89,
+    "pets": 100,
+    "sports": 41,
+    "office": 47,
+    "storage": 31,
+    "bedding": 11,
+    "home decor": 11,
+    "seasonal": 16,
+    "garden": 41,
+    "travel": 11,
+    "cleaning": 5
+  },
+  "category_evidence": {
+    "phone": [
+      "case",
+      "phone"
+    ],
+    "beauty": [
+      "hair",
+      "skincare",
+      "makeup"
+    ],
+    "lighting": [
+      "led",
+      "light"
+    ],
+    "crafts": [
+      "art"
+    ],
+    "kitchen": [
+      "gadget",
+      "kitchen",
+      "cup"
+    ],
+    "car": [
+      "motor",
+      "car"
+    ],
+    "kitchen_gadgets": [
+      "kitchen gadget"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "pets": [
+      "pet",
+      "bed",
+      "cat",
+      "toy"
+    ],
+    "sports": [
+      "fitness",
+      "gym",
+      "sport"
+    ],
+    "office": [
+      "office",
+      "stationery",
+      "pen"
+    ],
+    "storage": [
+      "box",
+      "storage"
+    ],
+    "bedding": [
+      "pillow",
+      "throw"
+    ],
+    "home decor": [
+      "decor"
+    ],
+    "seasonal": [
+      "gift",
+      "halloween"
+    ],
+    "garden": [
+      "plant",
+      "outdoor",
+      "garden"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "cleaning": [
+      "cleaning"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "phone": 1,
+      "beauty": 3,
+      "lighting": 1,
+      "crafts": 1,
+      "kitchen": 2,
+      "car": 1,
+      "kitchen_gadgets": 1,
+      "eco": 1
+    },
+    "dealabs": {
+      "car": 1,
+      "pets": 2,
+      "crafts": 3,
+      "sports": 1,
+      "eco": 1
+    },
+    "temu": {
+      "eco": 2,
+      "car": 2,
+      "office": 1,
+      "storage": 1,
+      "lighting": 1,
+      "pets": 3,
+      "sports": 1,
+      "crafts": 2,
+      "kitchen": 1
+    },
+    "etsy": {
+      "pets": 3,
+      "crafts": 3,
+      "bedding": 2,
+      "phone": 1,
+      "home decor": 1,
+      "eco": 3,
+      "seasonal": 3,
+      "car": 2,
+      "storage": 1,
+      "garden": 1
+    },
+    "youtube": {
+      "car": 3,
+      "lighting": 2,
+      "pets": 2,
+      "sports": 3,
+      "crafts": 3,
+      "travel": 1,
+      "eco": 2,
+      "office": 4,
+      "phone": 1,
+      "beauty": 3
+    },
+    "google_trends": {
+      "storage": 1,
+      "pets": 4,
+      "crafts": 3,
+      "travel": 1,
+      "eco": 2,
+      "kitchen": 1,
+      "garden": 2,
+      "home decor": 1
+    },
+    "reddit": {
+      "kitchen": 2,
+      "office": 1,
+      "crafts": 3,
+      "eco": 1,
+      "pets": 1,
+      "cleaning": 1
+    },
+    "market_intel": {
+      "pets": 4,
+      "crafts": 1,
+      "phone": 1,
+      "garden": 2,
+      "car": 1,
+      "eco": 2
+    }
+  },
+  "cross_validated": {
+    "phone": 4,
+    "lighting": 3,
+    "crafts": 8,
+    "kitchen": 4,
+    "car": 6,
+    "eco": 8,
+    "pets": 7,
+    "sports": 3,
+    "office": 3,
+    "storage": 3,
+    "garden": 3
+  },
+  "demand_keywords": [
+    "amazon drops new deals three",
+    "amazon investit",
+    "amazon lance",
+    "are these",
+    "art dans la",
+    "autumn clothes sold on",
+    "big deal",
+    "bon plan",
+    "bons plans",
+    "ce manteau",
+    "code promo",
+    "collier de perles pendentif soleil",
+    "comment trouver des super bons",
+    "commitment to",
+    "cosy fall decor in the",
+    "couleurs d",
+    "de magnifiques d",
+    "dernier jour des",
+    "et si tu n",
+    "full list of",
+    "gingerbread houses",
+    "how is",
+    "ils sont appr",
+    "jardin d",
+    "jardinage en",
+    "je teste",
+    "la collection",
+    "le top des produits",
+    "le virus",
+    "leading trends for"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 60666
+}
