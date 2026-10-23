@@ -1,0 +1,511 @@
+{
+  "scan_date": "2026-10-23",
+  "scan_time": "15:30",
+  "scan_ts": "2026-10-23_1530",
+  "stats": {
+    "total_scanned": 26,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B008YETL18",
+      "name": "De'Longhi Original Decalk Care DLSC500 Entkalker für Kaffeemaschinen, mit Milchsäure, 500 ml, 5 Entkalkungen",
+      "price": 15.62,
+      "reviews": 170512,
+      "rating": 4.8,
+      "rank": 1,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "170512 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B008YETL18",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71DuIPbpAaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B074M9DZ4M",
+      "name": "Philips Original AquaClean Wasser-Filter Doppelpack für Kaffeevollautomaten | Bis zu 5000 Tassen ohne Entkalken, Click&G",
+      "price": 14.28,
+      "reviews": 36390,
+      "rating": 4.7,
+      "rank": 2,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "36390 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B074M9DZ4M",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61lf71xP0UL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08GHN366K",
+      "name": "EMSA Clip & Close Frischhaltedosen-Set, rechteckig, 5 X 0,8 L, Aufbewahrungsboxen, 100 Prozent dicht, spülmaschinen-, ge",
+      "price": 16.8,
+      "reviews": 2622,
+      "rating": 4.7,
+      "rank": 3,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2622 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B08GHN366K",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61z-vKUYCAL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09F98MMVC",
+      "name": "JURA original Reinigungstabletten Kaffeevollautomat 6 Stk. (24225) | 3-Phasen: Reinigung + Pflege + Schutz · TÜV-zertifi",
+      "price": 8.39,
+      "reviews": 8434,
+      "rating": 4.8,
+      "rank": 4,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "8434 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B09F98MMVC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61ctoJVjMLL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FCSSND2X",
+      "name": "uandu Glasbehälter mit Deckel 20-teilig – Meal Prep Boxen Glas | 10 Behälter, 10 Deckel, Borosilikatglas, Auslaufsichere",
+      "price": 33.89,
+      "reviews": 1212,
+      "rating": 4.5,
+      "rank": 5,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1212 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0FCSSND2X",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81vFwLoMJnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00CSLL1NE",
+      "name": "edding 5200 Permanent Spray - tiefschwarz matt - 200 ml - Sprühlack | Acryllack zum Lackieren und Dekorieren von Glas, M",
+      "price": 12.95,
+      "reviews": 25685,
+      "rating": 4.4,
+      "rank": 6,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "25685 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B00CSLL1NE",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51kLFss8a5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0F2DJV6SZ",
+      "name": "SWEET VIEW Olivenölspender und Ölsprüher 470 ml | Glas lichtdichter Ölausgießer für Küche, Luftfritteuse, Kochen, Salat ",
+      "price": 9.24,
+      "reviews": 15920,
+      "rating": 4.4,
+      "rank": 7,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "15920 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0F2DJV6SZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71DIsOFG4XL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H8Y1QYDF",
+      "name": "Legami - Halloween-Set, 1 Erasable Pen Blind Box, 2 Lovely Friends Stifte | 1 Blind Box mit 1 Überraschungs-Radierstift,",
+      "price": 10.46,
+      "reviews": 307,
+      "rating": 4.2,
+      "rank": 1,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "307 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0H8Y1QYDF",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71e9OIL535L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HJZLHHGR",
+      "name": "Legami Halloween löschbarer Gelschreiber \"Spooky Party\" - ein Set | Glow-in-the-dark Gelschreiber in Blindbox im Sarg",
+      "price": 7.0,
+      "reviews": 63,
+      "rating": 1.9,
+      "rank": 2,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "63 Bewertungen, 1.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0HJZLHHGR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61HSs1Ph6tL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HDSYB6K2",
+      "name": "GutSache 6er Set 0,7mm radierbare Gelstifte Halloween Edition 2026 | Mit 6 verschiedenen Tintenfarben für mehr Kreativit",
+      "price": 7.64,
+      "reviews": 197,
+      "rating": 4.4,
+      "rank": 3,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "197 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HDSYB6K2",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71IfwGgad-L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHN1GJ86",
+      "name": "Demotivierender Tischkalender 2027 | 52 Wochen mit 52 unmotivierendenden Sprüchen als Witzige Geschenkidee für Büro Deko",
+      "price": 15.12,
+      "reviews": 4,
+      "rating": 4.1,
+      "rank": 4,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHN1GJ86",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71OH+834WvL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HK4QBT6F",
+      "name": "XXL Wandkalender 2027 groß (90x60cm) - Jahresplaner 2027 quer als Kalender für die Wand - Jahreskalender für 14 Monate m",
+      "price": 5.99,
+      "reviews": 1918,
+      "rating": 4.6,
+      "rank": 5,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1918 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HK4QBT6F",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81OSmk39XLL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "3440184404",
+      "name": "Kosmos Himmelsjahr 2027: Sonne, Mond und Sterne im Jahreslauf – Astronomie-Jahrbuch mit digitalem Astrokalender, Planete",
+      "price": 17.59,
+      "reviews": 18,
+      "rating": 5.0,
+      "rank": 6,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "18 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/3440184404",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71iMNU7Hz2L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKN6N6D9",
+      "name": "LEGAMI Spooky Party Halloween löschbare Gelschreiber, 3 Blindboxen | 3 einzeln vom Hersteller versiegelte Boxen, leuchte",
+      "price": 26.99,
+      "reviews": 7,
+      "rating": 2.8,
+      "rank": 7,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "7 Bewertungen, 2.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKN6N6D9",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71oTsgMWyFL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKJRD1QY",
+      "name": "Einpflanzbarer Samen Kalender 2027, Wildblumen Papierkalender | Saatgut Kalender 2027 Mit Ständer, Umweltfreundlicher Pf",
+      "price": 4.99,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 8,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HKJRD1QY",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81xmh36FvBL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HBNGWVBY",
+      "name": "UNITURE® Grüner Tischkalender 2027 quer Wochenkalender zum Aufstellen | Jan–Dez 2027, 297 x 115 mm, FSC-zertifiziert, Ma",
+      "price": 9.99,
+      "reviews": 1066,
+      "rating": 4.5,
+      "rank": 9,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1066 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HBNGWVBY",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/816H9OO+1AL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HG94RDXY",
+      "name": "Radierbare Kugelschreiber Halloween Edition 2026 – 6 Stück | 0,4 mm Blauer Radierbare Stifte, Halloween Mitgebsel für St",
+      "price": 13.92,
+      "reviews": 11,
+      "rating": 4.3,
+      "rank": 10,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "11 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0HG94RDXY",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71es6mIzLIL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HJH4RMD2",
+      "name": "Legami Gorilla Radierbarer Gelschreiber, schwarze Tinte | Radierbarer Gelschreiber mit schwarzer Tinte, 0,7 mm Spitze un",
+      "price": 2.95,
+      "reviews": 4,
+      "rating": 2.9,
+      "rank": 11,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 Bewertungen, 2.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0HJH4RMD2",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/415YbOzOeLL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GVDLVL93",
+      "name": "BONSEN Mikroschnitt Aktenvernichter,12 Blatt, Sicherheitsstufe P4, S5211-W | Sehr Leise Papierschredder für Zuhause & Bü",
+      "price": 49.99,
+      "reviews": 455,
+      "rating": 4.6,
+      "rank": 12,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "455 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0GVDLVL93",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61OBTN-YCmL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GTBJXKT7",
+      "name": "Brigitte Goldkalender 2027: Taschenkalender 10 x 14 cm mit Leseband, Stifthalter & vielen nützlichen Sonderseiten",
+      "price": 13.8,
+      "reviews": 8,
+      "rating": 3.4,
+      "rank": 13,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "8 Bewertungen, 3.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0GTBJXKT7",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/A1PN4za2HEL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGQY3JT8",
+      "name": "Saatgut Kalender 2027 A5 – Pflanzkalender mit 12 Sorten Samen, Geschenkidee | 12 Samentütchen - 1 x pro Monat - Kräuter,",
+      "price": 24.99,
+      "reviews": 170,
+      "rating": 4.5,
+      "rank": 14,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "170 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGQY3JT8",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81-0OwbCN7L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HM86DNCX",
+      "name": "Boxclever Press Home Planer Kalender 2027 Wandkalender. Familienplaner 2027 von Januar bis Dezember 2027. Wandkalender 2",
+      "price": 16.34,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 15,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HM86DNCX",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81eBRsH8gGL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMLWBZ93",
+      "name": "Herlitz Taschenkalender Sidney 2027 A5 Blau, 144 Seiten | 1 Woche auf 2 Seiten, Wattierter Hardcover, 80 g/qm Papier, Mi",
+      "price": 9.23,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 16,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HMLWBZ93",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71FlzshxjmL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKSDD7YZ",
+      "name": "Samen Kalender 2027, Samenpapier Saatgut Gartenkalender [kernlos] | 1/2/3PCS Flower Paper Calendar 2027, Monatsplaner Mi",
+      "price": 16.59,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 17,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HKSDD7YZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61IYZ9B9cbL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGRL7CGB",
+      "name": "Tischkalender 2027 quer bunt – Wochenkalender mit Aufsteller, Stehkalender | Wochenkalender 2027 quer - farbige Tagesspa",
+      "price": 9.99,
+      "reviews": 204,
+      "rating": 4.4,
+      "rank": 18,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "204 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGRL7CGB",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715B2VOgnwL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HJZ8Q3YH",
+      "name": "Einpflanzbarer Kalender 2027, Blumen Samenkalender Tischkalender 2027 Klein | Saatgut Kalender 2027, Pflanzkalender 2027",
+      "price": 4.99,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 19,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HJZ8Q3YH",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71x4hIWNwnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}

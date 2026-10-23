@@ -1,0 +1,252 @@
+{
+  "category_scores": {
+    "lighting": 44,
+    "crafts": 100,
+    "kitchen": 53,
+    "cleaning": 27,
+    "car": 61,
+    "pets": 100,
+    "sports": 40,
+    "phone": 36,
+    "beauty": 17,
+    "home decor": 48,
+    "travel": 40,
+    "eco": 57,
+    "garden": 40,
+    "bedding": 40,
+    "seasonal": 44,
+    "office": 48,
+    "baby": 4
+  },
+  "category_evidence": {
+    "lighting": [
+      "led",
+      "light"
+    ],
+    "crafts": [
+      "craft",
+      "art",
+      "tape"
+    ],
+    "kitchen": [
+      "spice",
+      "cooking",
+      "kitchen",
+      "gadget"
+    ],
+    "cleaning": [
+      "vacuum",
+      "cleaning"
+    ],
+    "car": [
+      "car"
+    ],
+    "pets": [
+      "cat",
+      "toy",
+      "bed",
+      "pet"
+    ],
+    "sports": [
+      "fitness",
+      "sport"
+    ],
+    "phone": [
+      "case",
+      "stand",
+      "phone"
+    ],
+    "beauty": [
+      "skincare",
+      "makeup",
+      "hair"
+    ],
+    "home decor": [
+      "decor",
+      "candle",
+      "wall art"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "garden": [
+      "garden",
+      "plant",
+      "outdoor"
+    ],
+    "bedding": [
+      "pillow",
+      "throw",
+      "sheet",
+      "blanket"
+    ],
+    "seasonal": [
+      "christmas",
+      "halloween",
+      "gift",
+      "birthday"
+    ],
+    "office": [
+      "pen"
+    ],
+    "baby": [
+      "kids"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "lighting": 2,
+      "crafts": 3,
+      "kitchen": 2,
+      "cleaning": 1,
+      "car": 2,
+      "pets": 1,
+      "sports": 1,
+      "phone": 1,
+      "beauty": 4,
+      "home decor": 1,
+      "travel": 1,
+      "eco": 1
+    },
+    "dealabs": {
+      "pets": 5,
+      "crafts": 2,
+      "eco": 2,
+      "garden": 1,
+      "lighting": 1,
+      "sports": 1,
+      "bedding": 2,
+      "phone": 1,
+      "home decor": 1,
+      "seasonal": 1,
+      "kitchen": 1,
+      "cleaning": 1,
+      "office": 1
+    },
+    "temu": {
+      "car": 2,
+      "bedding": 1,
+      "phone": 1,
+      "kitchen": 2,
+      "garden": 1,
+      "office": 2,
+      "pets": 2,
+      "sports": 1,
+      "home decor": 1,
+      "baby": 1,
+      "eco": 1,
+      "crafts": 1
+    },
+    "etsy": {
+      "kitchen": 1,
+      "pets": 4,
+      "crafts": 4,
+      "bedding": 2,
+      "home decor": 4,
+      "eco": 3,
+      "seasonal": 5,
+      "car": 2,
+      "travel": 1
+    },
+    "youtube": {
+      "car": 2,
+      "lighting": 1,
+      "pets": 3,
+      "crafts": 4,
+      "travel": 1,
+      "garden": 1,
+      "sports": 1,
+      "office": 1
+    },
+    "google_trends": {
+      "travel": 2,
+      "eco": 2,
+      "kitchen": 1,
+      "office": 2,
+      "pets": 3,
+      "crafts": 2,
+      "garden": 2,
+      "car": 1,
+      "home decor": 1
+    },
+    "reddit": {
+      "car": 2,
+      "office": 1,
+      "pets": 3,
+      "crafts": 3,
+      "bedding": 1,
+      "travel": 1,
+      "phone": 1,
+      "seasonal": 1,
+      "kitchen": 1,
+      "cleaning": 1,
+      "lighting": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "pets": 3,
+      "sports": 2,
+      "crafts": 3,
+      "garden": 1,
+      "office": 1,
+      "lighting": 2,
+      "phone": 1,
+      "eco": 1
+    }
+  },
+  "cross_validated": {
+    "lighting": 5,
+    "crafts": 8,
+    "kitchen": 7,
+    "cleaning": 3,
+    "car": 6,
+    "pets": 8,
+    "sports": 5,
+    "phone": 5,
+    "home decor": 5,
+    "travel": 5,
+    "eco": 6,
+    "garden": 5,
+    "bedding": 4,
+    "seasonal": 3,
+    "office": 6
+  },
+  "demand_keywords": [
+    "acheter pour la vie",
+    "amazon va concurrencer temu",
+    "amazon vs",
+    "are these",
+    "art dans la",
+    "autumn in the",
+    "bonne nouvelle chez",
+    "bons plans",
+    "build d",
+    "buy and",
+    "cher tous",
+    "chiffres e",
+    "code promo",
+    "codes promo",
+    "collier de perles pendentif soleil",
+    "comment g",
+    "cosy fall decor in the",
+    "dernier jour des",
+    "essentiels pour la maison et",
+    "estimation des co",
+    "etsy bans some",
+    "european spring autumn new french",
+    "excited to share the latest",
+    "explorez les produits tendance",
+    "garden trends and industry newsv",
+    "google cardboard",
+    "household consumption of goods fell",
+    "how is",
+    "il y a eu",
+    "illegal"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 59409
+}
