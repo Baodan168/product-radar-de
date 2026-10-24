@@ -1,0 +1,227 @@
+{
+  "category_scores": {
+    "lighting": 62,
+    "pets": 78,
+    "eco": 78,
+    "kitchen": 62,
+    "car": 52,
+    "beauty": 11,
+    "kitchen_gadgets": 5,
+    "crafts": 100,
+    "cleaning": 31,
+    "office": 41,
+    "storage": 11,
+    "travel": 36,
+    "home decor": 16,
+    "phone": 36,
+    "seasonal": 16,
+    "bathroom": 5,
+    "baby": 5,
+    "garden": 36
+  },
+  "category_evidence": {
+    "lighting": [
+      "lamp",
+      "light",
+      "led",
+      "strip"
+    ],
+    "pets": [
+      "cat",
+      "pet"
+    ],
+    "eco": [
+      "organic",
+      "eco"
+    ],
+    "kitchen": [
+      "kitchen",
+      "spice",
+      "cup",
+      "gadget",
+      "mug"
+    ],
+    "car": [
+      "motor",
+      "car"
+    ],
+    "beauty": [
+      "skincare",
+      "hair"
+    ],
+    "kitchen_gadgets": [
+      "kitchen gadget"
+    ],
+    "crafts": [
+      "art",
+      "paint",
+      "craft"
+    ],
+    "cleaning": [
+      "vacuum",
+      "cleaning"
+    ],
+    "office": [
+      "pen"
+    ],
+    "storage": [
+      "box",
+      "storage"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "home decor": [
+      "decor"
+    ],
+    "phone": [
+      "phone",
+      "case"
+    ],
+    "seasonal": [
+      "halloween",
+      "christmas"
+    ],
+    "bathroom": [
+      "shower"
+    ],
+    "baby": [
+      "baby"
+    ],
+    "garden": [
+      "garden",
+      "outdoor",
+      "plant"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "lighting": 1,
+      "pets": 2,
+      "eco": 2,
+      "kitchen": 2,
+      "car": 1,
+      "beauty": 2,
+      "kitchen_gadgets": 1
+    },
+    "dealabs": {
+      "crafts": 3,
+      "pets": 2,
+      "kitchen": 1,
+      "cleaning": 1,
+      "office": 1,
+      "storage": 1,
+      "travel": 1
+    },
+    "temu": {
+      "car": 1,
+      "office": 1,
+      "crafts": 3,
+      "home decor": 1,
+      "eco": 1,
+      "pets": 3,
+      "phone": 1,
+      "lighting": 1
+    },
+    "etsy": {
+      "kitchen": 2,
+      "crafts": 3,
+      "home decor": 2,
+      "eco": 2,
+      "seasonal": 2,
+      "bathroom": 1,
+      "pets": 1,
+      "baby": 1
+    },
+    "youtube": {
+      "car": 3,
+      "lighting": 2,
+      "crafts": 3,
+      "travel": 1,
+      "phone": 2,
+      "eco": 3,
+      "kitchen": 2,
+      "cleaning": 1,
+      "storage": 1,
+      "garden": 1,
+      "pets": 1,
+      "seasonal": 1
+    },
+    "google_trends": {
+      "lighting": 3,
+      "travel": 1,
+      "eco": 1,
+      "car": 1,
+      "crafts": 1,
+      "kitchen": 1,
+      "garden": 2
+    },
+    "reddit": {
+      "office": 1,
+      "eco": 1,
+      "kitchen": 1,
+      "pets": 1,
+      "crafts": 2,
+      "cleaning": 1,
+      "travel": 1
+    },
+    "market_intel": {
+      "car": 1,
+      "pets": 2,
+      "crafts": 4,
+      "phone": 1,
+      "garden": 1,
+      "office": 2,
+      "eco": 2,
+      "lighting": 2
+    }
+  },
+  "cross_validated": {
+    "lighting": 5,
+    "pets": 7,
+    "eco": 7,
+    "kitchen": 6,
+    "car": 5,
+    "crafts": 7,
+    "cleaning": 3,
+    "office": 4,
+    "travel": 4,
+    "phone": 3,
+    "garden": 3
+  },
+  "demand_keywords": [
+    "add to",
+    "amazon ne dit pas qu",
+    "amazon rolls out",
+    "amazon va concurrencer temu",
+    "amazon vs",
+    "are these",
+    "autumn clothes sold on",
+    "bon plan",
+    "bons plans",
+    "code promo",
+    "comment font les gens pour",
+    "consumer trends in e",
+    "dernier jour des",
+    "etsy bans some",
+    "etsy to restrict",
+    "four trends that will reshape",
+    "how is",
+    "illegal",
+    "is it possible that",
+    "je teste",
+    "la mode",
+    "la production nationale a",
+    "le top des produits",
+    "leading trends for",
+    "les meilleures ventes",
+    "les ustensiles de cuisine",
+    "most anticipated",
+    "new on",
+    "offre d",
+    "plume en verre"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 57679
+}
