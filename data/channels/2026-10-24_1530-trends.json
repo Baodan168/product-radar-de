@@ -1,0 +1,228 @@
+{
+  "category_scores": {
+    "eco": 77,
+    "car": 48,
+    "crafts": 100,
+    "phone": 32,
+    "beauty": 8,
+    "kitchen": 40,
+    "pets": 82,
+    "home decor": 44,
+    "seasonal": 40,
+    "bedding": 4,
+    "travel": 27,
+    "office": 53,
+    "lighting": 36,
+    "garden": 36,
+    "bathroom": 4,
+    "baby": 4,
+    "sports": 4,
+    "storage": 8
+  },
+  "category_evidence": {
+    "eco": [
+      "eco"
+    ],
+    "car": [
+      "car"
+    ],
+    "crafts": [
+      "craft",
+      "tape",
+      "art",
+      "stickers"
+    ],
+    "phone": [
+      "charger",
+      "phone"
+    ],
+    "beauty": [
+      "hair",
+      "skincare"
+    ],
+    "kitchen": [
+      "kitchen",
+      "gadget",
+      "cup"
+    ],
+    "pets": [
+      "pet",
+      "bed",
+      "cat",
+      "toy"
+    ],
+    "home decor": [
+      "candle",
+      "decor"
+    ],
+    "seasonal": [
+      "gift",
+      "halloween"
+    ],
+    "bedding": [
+      "throw"
+    ],
+    "travel": [
+      "travel",
+      "luggage"
+    ],
+    "office": [
+      "pen"
+    ],
+    "lighting": [
+      "light",
+      "led"
+    ],
+    "garden": [
+      "bird",
+      "plant",
+      "outdoor",
+      "garden"
+    ],
+    "bathroom": [
+      "shower"
+    ],
+    "baby": [
+      "baby"
+    ],
+    "sports": [
+      "sport"
+    ],
+    "storage": [
+      "basket",
+      "box"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "eco": 2,
+      "car": 1,
+      "crafts": 2,
+      "phone": 1,
+      "beauty": 2,
+      "kitchen": 1
+    },
+    "dealabs": {
+      "crafts": 4,
+      "eco": 2,
+      "pets": 3,
+      "home decor": 2,
+      "seasonal": 1,
+      "kitchen": 1,
+      "phone": 2
+    },
+    "temu": {
+      "kitchen": 2,
+      "car": 2,
+      "pets": 2,
+      "crafts": 3,
+      "bedding": 1,
+      "travel": 1,
+      "office": 2,
+      "lighting": 1,
+      "eco": 1
+    },
+    "etsy": {
+      "pets": 4,
+      "home decor": 4,
+      "eco": 3,
+      "seasonal": 3,
+      "car": 2,
+      "office": 1,
+      "crafts": 5,
+      "garden": 1,
+      "bathroom": 1,
+      "phone": 1,
+      "baby": 1
+    },
+    "youtube": {
+      "car": 1,
+      "lighting": 1,
+      "sports": 1,
+      "crafts": 2,
+      "travel": 1,
+      "eco": 1,
+      "seasonal": 2,
+      "garden": 1,
+      "pets": 1
+    },
+    "google_trends": {
+      "car": 1,
+      "office": 1,
+      "storage": 2,
+      "pets": 3,
+      "crafts": 3,
+      "travel": 1,
+      "eco": 2,
+      "lighting": 1,
+      "garden": 2,
+      "home decor": 1
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 3,
+      "eco": 1,
+      "pets": 2,
+      "crafts": 2,
+      "car": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "pets": 1,
+      "crafts": 3,
+      "eco": 3,
+      "garden": 1,
+      "office": 2,
+      "lighting": 2
+    }
+  },
+  "cross_validated": {
+    "eco": 8,
+    "car": 6,
+    "crafts": 8,
+    "phone": 3,
+    "kitchen": 5,
+    "pets": 7,
+    "home decor": 3,
+    "seasonal": 3,
+    "travel": 3,
+    "office": 5,
+    "lighting": 4,
+    "garden": 4
+  },
+  "demand_keywords": [
+    "achats de qualit",
+    "adam et",
+    "add to",
+    "alors que l",
+    "amazon annonce un plan d",
+    "amazon communities lose water as",
+    "amazon cr",
+    "amazon investit",
+    "amazon lance",
+    "amazon va concurrencer temu",
+    "amazon vs",
+    "are these",
+    "bon plan",
+    "bons plans",
+    "code promo",
+    "codes promo et r",
+    "comment cr",
+    "connaissez vous des bons plans",
+    "consumer trends in e",
+    "cosy fall decor in the",
+    "couleurs d",
+    "creators are slapping rhinestones",
+    "delivering the",
+    "des meilleures ventes",
+    "essentiels pour la maison et",
+    "faites attention avec la sorcellerie",
+    "four trends that will reshape",
+    "illegal",
+    "india script history with best",
+    "jardin d"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 61798
+}
