@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "asin": "B0HDSN884L",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/71CXF1QCIpL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "title": "com-four® 11x Weihnachtsbaumanhänger aus Glas - Sterne, Zapfen & Vögel",
+    "price": null,
+    "scraped_at": "2026-10-26T15:33:36.406366"
+  },
+  {
+    "asin": "B09JLX6GKW",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/81+m+7MSBuL._AC_PT0_BL0_SX490_SY275_FMwebp_QL25_.jpg\\&quot;",
+    "title": "com-four® 56-teiliges Weihnachtsdekorations-Set - Sterne und Deko-Äpfel",
+    "price": null,
+    "scraped_at": "2026-10-26T15:33:36.408226"
+  },
+  {
+    "asin": "B08P1WJYW5",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/81BGedQ4v8L._AC_SY300_SX300_QL70_ML2_.jpg",
+    "title": "4 Stück Strohkränze, Strohkranz Dekokranz, Strohrömer Blumenkranz",
+    "price": null,
+    "scraped_at": "2026-10-26T15:33:36.408915"
+  },
+  {
+    "asin": "B0FFBDZ5CR",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/81Ci4NQBtXL._AC_SX569_.jpg",
+    "title": "20 Stück Rote Beeren Deko Weihnachten,Beerenzweig Künstlich,Adventskranz Künstlich Stechpalme Deko 22 cm Länge, Leuchtende Farben,Dekoration für Weihnachten,Hochzeit,Handwerk und Heimornamente",
+    "price": null,
+    "scraped_at": "2026-10-26T15:33:45.219562"
+  },
+  {
+    "asin": "B0F1F72KR2",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/71JqDcJ6uoL._AC_SX569_.jpg",
+    "title": "150 Stück Kranz Binden Zubehör 40mm*20mm Strohblumennadeln Stecknadeln Blumen Klammer Pflanzenstecker Patenthaften Robuste Krampen Steckhaften Efeunadeln für Floristikbedarf und Kränze Weiß",
+    "price": null,
+    "scraped_at": "2026-10-26T15:33:45.220616"
+  }
+]

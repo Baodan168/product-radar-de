@@ -1,0 +1,225 @@
+{
+  "category_scores": {
+    "car": 53,
+    "crafts": 100,
+    "beauty": 24,
+    "home decor": 44,
+    "eco": 100,
+    "kitchen": 48,
+    "pets": 91,
+    "seasonal": 48,
+    "cleaning": 29,
+    "storage": 5,
+    "sports": 10,
+    "phone": 39,
+    "office": 14,
+    "lighting": 34,
+    "baby": 10,
+    "travel": 5,
+    "garden": 19
+  },
+  "category_evidence": {
+    "car": [
+      "car"
+    ],
+    "crafts": [
+      "art",
+      "tape",
+      "craft"
+    ],
+    "beauty": [
+      "skincare",
+      "hair",
+      "nail",
+      "makeup"
+    ],
+    "home decor": [
+      "decor"
+    ],
+    "eco": [
+      "organic",
+      "eco"
+    ],
+    "kitchen": [
+      "cup",
+      "gadget",
+      "spice"
+    ],
+    "pets": [
+      "bed",
+      "pet",
+      "cat"
+    ],
+    "seasonal": [
+      "christmas",
+      "halloween",
+      "gift"
+    ],
+    "cleaning": [
+      "cleaning",
+      "cleaner"
+    ],
+    "storage": [
+      "box"
+    ],
+    "sports": [
+      "fitness",
+      "sport"
+    ],
+    "phone": [
+      "cable",
+      "earbuds",
+      "case",
+      "phone"
+    ],
+    "office": [
+      "pen"
+    ],
+    "lighting": [
+      "led",
+      "light"
+    ],
+    "baby": [
+      "kids",
+      "baby"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "garden": [
+      "outdoor",
+      "plant",
+      "garden"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "car": 2,
+      "crafts": 1,
+      "beauty": 5,
+      "home decor": 1,
+      "eco": 3,
+      "kitchen": 1,
+      "pets": 1
+    },
+    "dealabs": {
+      "pets": 5,
+      "crafts": 4,
+      "eco": 4,
+      "home decor": 1,
+      "seasonal": 2,
+      "kitchen": 1,
+      "cleaning": 1,
+      "storage": 1,
+      "sports": 1,
+      "phone": 2
+    },
+    "temu": {
+      "sports": 1,
+      "crafts": 3,
+      "home decor": 1,
+      "eco": 2,
+      "pets": 2,
+      "phone": 1,
+      "kitchen": 1,
+      "car": 1,
+      "office": 1,
+      "lighting": 1
+    },
+    "etsy": {
+      "kitchen": 1,
+      "car": 1,
+      "lighting": 1,
+      "pets": 1,
+      "crafts": 4,
+      "home decor": 2,
+      "eco": 2,
+      "seasonal": 3,
+      "phone": 1,
+      "baby": 2
+    },
+    "youtube": {
+      "car": 1,
+      "crafts": 2,
+      "travel": 1,
+      "eco": 2,
+      "kitchen": 1,
+      "cleaning": 1,
+      "pets": 2,
+      "seasonal": 1
+    },
+    "google_trends": {
+      "crafts": 3,
+      "eco": 2,
+      "car": 1,
+      "garden": 2,
+      "home decor": 1
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 2,
+      "crafts": 3,
+      "eco": 1,
+      "pets": 2,
+      "seasonal": 1,
+      "cleaning": 1,
+      "phone": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "car": 2,
+      "pets": 3,
+      "crafts": 1,
+      "eco": 3,
+      "garden": 2,
+      "lighting": 2
+    }
+  },
+  "cross_validated": {
+    "car": 6,
+    "crafts": 8,
+    "home decor": 5,
+    "eco": 8,
+    "kitchen": 7,
+    "pets": 7,
+    "seasonal": 4,
+    "cleaning": 3,
+    "phone": 4,
+    "lighting": 3
+  },
+  "demand_keywords": [
+    "achats de qualit",
+    "ai microfoni con",
+    "alice in",
+    "amazon ne dit pas qu",
+    "amazon va concurrencer temu",
+    "amazon vs",
+    "are these",
+    "autumn clothes sold on",
+    "autumn is the best season",
+    "berceau en",
+    "bon plan",
+    "bonne nouvelle chez",
+    "bons plans",
+    "cet automne",
+    "code promo",
+    "comment cr",
+    "comment trouver des super bons",
+    "cosy fall decor in the",
+    "couleurs d",
+    "de vous",
+    "des produits de",
+    "en quoi",
+    "fall clothes for women sold",
+    "feeling the autumn vibes at",
+    "how is",
+    "if you",
+    "increased supply",
+    "jardin d",
+    "jardinage en",
+    "je teste"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 68890
+}
