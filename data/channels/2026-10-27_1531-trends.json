@@ -1,0 +1,215 @@
+{
+  "category_scores": {
+    "office": 57,
+    "lighting": 44,
+    "crafts": 100,
+    "kitchen": 48,
+    "eco": 82,
+    "pets": 61,
+    "bedding": 27,
+    "home decor": 40,
+    "phone": 12,
+    "seasonal": 44,
+    "car": 44,
+    "travel": 8,
+    "cleaning": 8,
+    "beauty": 4,
+    "garden": 17
+  },
+  "category_evidence": {
+    "office": [
+      "stationery",
+      "pen"
+    ],
+    "lighting": [
+      "fairy",
+      "strip",
+      "led",
+      "light"
+    ],
+    "crafts": [
+      "art",
+      "brush",
+      "tape",
+      "stickers"
+    ],
+    "kitchen": [
+      "kitchen",
+      "mug",
+      "spice",
+      "gadget",
+      "cup"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "pets": [
+      "pet",
+      "cat"
+    ],
+    "bedding": [
+      "cushion",
+      "blanket"
+    ],
+    "home decor": [
+      "decor",
+      "candle"
+    ],
+    "phone": [
+      "phone",
+      "case"
+    ],
+    "seasonal": [
+      "halloween",
+      "christmas",
+      "gift",
+      "birthday"
+    ],
+    "car": [
+      "car",
+      "motor"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "cleaning": [
+      "brush",
+      "cleaning"
+    ],
+    "beauty": [
+      "brush"
+    ],
+    "garden": [
+      "garden",
+      "plant",
+      "outdoor"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "office": 1,
+      "lighting": 2,
+      "crafts": 3,
+      "kitchen": 1,
+      "eco": 1
+    },
+    "dealabs": {
+      "crafts": 3,
+      "eco": 3,
+      "kitchen": 2,
+      "office": 1,
+      "pets": 1,
+      "bedding": 1,
+      "home decor": 2
+    },
+    "temu": {
+      "crafts": 3,
+      "phone": 2,
+      "eco": 2,
+      "lighting": 1,
+      "pets": 3,
+      "kitchen": 1
+    },
+    "etsy": {
+      "kitchen": 2,
+      "crafts": 4,
+      "home decor": 1,
+      "eco": 3,
+      "seasonal": 5,
+      "car": 2,
+      "pets": 2,
+      "office": 2,
+      "bedding": 1
+    },
+    "youtube": {
+      "car": 4,
+      "office": 2,
+      "crafts": 4,
+      "travel": 1,
+      "eco": 2,
+      "kitchen": 1,
+      "cleaning": 1,
+      "lighting": 1,
+      "beauty": 1,
+      "pets": 1,
+      "seasonal": 1
+    },
+    "google_trends": {
+      "lighting": 1,
+      "crafts": 4,
+      "travel": 1,
+      "eco": 2,
+      "seasonal": 1,
+      "garden": 2,
+      "car": 1,
+      "pets": 1,
+      "bedding": 1,
+      "home decor": 2
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 2,
+      "eco": 1,
+      "pets": 2,
+      "crafts": 2,
+      "cleaning": 1
+    },
+    "market_intel": {
+      "pets": 1,
+      "crafts": 1,
+      "phone": 1,
+      "garden": 2,
+      "office": 2,
+      "home decor": 1,
+      "eco": 2,
+      "lighting": 2
+    }
+  },
+  "cross_validated": {
+    "office": 6,
+    "lighting": 5,
+    "crafts": 8,
+    "kitchen": 6,
+    "eco": 8,
+    "pets": 7,
+    "bedding": 3,
+    "home decor": 4,
+    "seasonal": 3,
+    "car": 3
+  },
+  "demand_keywords": [
+    "amazon lance",
+    "amazon vs",
+    "are these",
+    "autumn clothes sold on",
+    "best way to get good",
+    "bon plan",
+    "brussels accepts",
+    "code promo",
+    "comment trouver des super bons",
+    "cosy fall decor in the",
+    "etsy les boutiques",
+    "explore trending products",
+    "french ideas",
+    "halloween approche",
+    "how is",
+    "increased supply",
+    "jardinage en",
+    "je teste",
+    "la biotech bretonne d",
+    "le nouveau concurrent d",
+    "le produit le plus vendu",
+    "leading trends for",
+    "lemonading",
+    "les annonces du gouvernement fran",
+    "les clients veulent aller vite",
+    "les meilleures ventes",
+    "les tendances peuvent inspirer une",
+    "les voil",
+    "meilleures ventes",
+    "nos objets d"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 60567
+}

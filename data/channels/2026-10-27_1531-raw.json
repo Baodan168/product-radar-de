@@ -1,0 +1,587 @@
+{
+  "scan_date": "2026-10-27",
+  "scan_time": "15:31",
+  "scan_ts": "2026-10-27_1531",
+  "stats": {
+    "total_scanned": 30,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0GTYJG326",
+      "name": "Owala FreeSip Isolierte Edelstahl Trinkflasche mit Strohhalm, 710 ml – BPA-frei, optimal für Sport, Fitness, Outdoor und",
+      "price": 203.87,
+      "reviews": 96816,
+      "rating": 4.7,
+      "rank": 1,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "96816 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0GTYJG326",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51OFNrW0f5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H5HLSNLH",
+      "name": "Handwärmer Elektrisch 2er-Set, Taschenwärmer Wiederverwendbar | 1s Schnellheizung, 3 Stufen, 11h Wärme, 4000mAh Ultradün",
+      "price": 111.65,
+      "reviews": 24,
+      "rating": 4.7,
+      "rank": 2,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "24 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0H5HLSNLH",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61LYupvy68L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H715D22G",
+      "name": "Superun Walking Pad mit Steigung 10%, Laufband mit App Erlebnis vor Ort | Max 6km/h & 12km/h, Design der seitlichen Arml",
+      "price": 563.26,
+      "reviews": 227,
+      "rating": 4.4,
+      "rank": 3,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "227 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H715D22G",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61ZyIATLjzL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6WFNLDR",
+      "name": "Gaiatop Handwärmer Elektrisch 2er-Set, Taschenwärmer Wiederverwendbar | Kompakt für Handschuhe, Camping Zubehör, Wichtel",
+      "price": 8931.0,
+      "reviews": 70,
+      "rating": 4.6,
+      "rank": 4,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "70 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6WFNLDR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61D2XL061mL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08HHV3KHS",
+      "name": "MAMEIDO Trinkflasche Kohlensäure geeignet aus Tritan 1 l Wild Allure | auslaufsicher, BPA-frei mit abnehmbarer Trageschl",
+      "price": 17869.0,
+      "reviews": 258,
+      "rating": 4.6,
+      "rank": 5,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "258 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B08HHV3KHS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Qpt0dIHQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0F2TJ5Z7L",
+      "name": "NEOLYMP Bodenschutzmatte Fitnessgerät - Laufband Matte 8mm Dicke - langlebig, rutschfest & stoßdämpfend - Fitness Unterl",
+      "price": 17720.0,
+      "reviews": 95,
+      "rating": 4.5,
+      "rank": 6,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "95 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0F2TJ5Z7L",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71j-x1ZHteL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HNPBCVKQ",
+      "name": "Generisch Taktische Weste für Herren und Damen Leichte Schnellverschlussweste Airsoftweste für Outdoor-Paintball-Schieße",
+      "price": 9668.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 7,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HNPBCVKQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61UjSv+hxvL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GJD7L7TM",
+      "name": "NEOLYMP Soft Kettlebell bodenschonend & leise - stoßdämpfende Kugelhantel mit Eisensandfüllung - ergonomischer Softgriff",
+      "price": 18614.0,
+      "reviews": 67,
+      "rating": 4.8,
+      "rank": 8,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "67 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0GJD7L7TM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/7197b3CvZML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08HLDDNGK",
+      "name": "MAMEIDO Trinkflasche mit Strohhalm 1 l (Wild Allure) | auslaufsicher, BPA-frei mit 2-in-1-Sportdeckel, Strohhalm & Trage",
+      "price": 15165.0,
+      "reviews": 781,
+      "rating": 4.4,
+      "rank": 9,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "781 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B08HLDDNGK",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81SYA9Rl2KL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HF5F4DT3",
+      "name": "OOONO Co-Driver NO2 Plus Aluminium – Optimierter Co-Driver fürs Auto Warnt vor Tempo-Kontrollen und Gefahrenstellen – Wi",
+      "price": 39731.0,
+      "reviews": 54357,
+      "rating": 4.3,
+      "rank": 1,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "54357 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0HF5F4DT3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61BfRGnqpUL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMQYK6KM",
+      "name": "Magnetischer Scheibenreiniger Auto, Doppelter Magnetischer Windschutzscheiben Reiniger, Dual Side Fensterreiniger für St",
+      "price": 17817.0,
+      "reviews": 3,
+      "rating": 3.0,
+      "rank": 2,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3 Bewertungen, 3.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMQYK6KM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71eOaU3KsaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H9LGZLZ5",
+      "name": "Parkturon Elektronische Parkscheibe mit Zulassung, Automatische Parkscheibe | Automatische Zeiteinstellung, Automatische",
+      "price": 13996.0,
+      "reviews": 57,
+      "rating": 4.7,
+      "rank": 3,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "57 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0H9LGZLZ5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71JXu3uvgTL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKHSJP8V",
+      "name": "Doppelter Magnetischer Scheibenreiniger mit Teleskopstange, Auto Scheibenreiniger Magnetisch,Windschutzscheiben Reiniger",
+      "price": 175.19,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 4,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HKHSJP8V",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61nqLg-vnZL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HK3R2S93",
+      "name": "Sauberkugel® Saubergeist Innenraumreiniger Auto für Zwischenräume | Handgefertigt für Lüftungsschlitze, Getränkehalter, ",
+      "price": 11136.0,
+      "reviews": 133,
+      "rating": 4.3,
+      "rank": 5,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "133 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0HK3R2S93",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716F+9pS-zL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLYQNZLJ",
+      "name": "Doppelter magnetischer Auto-Windschutzscheiben,Windschutzscheiben Reiniger | Doppelseitiges Magnet Design Fensterreinige",
+      "price": 13102.0,
+      "reviews": 2,
+      "rating": 5.0,
+      "rank": 6,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLYQNZLJ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71jVfmTTjVL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HDSV2WJ8",
+      "name": "Handstaubsauger Akku, 32000Pa Handstaubsauger Stark Kabellos | 1-Knopf-Selbstentleerung & 4-in-1 Autostaubsauger mit Bür",
+      "price": 21154.0,
+      "reviews": 37,
+      "rating": 4.8,
+      "rank": 7,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "37 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HDSV2WJ8",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/612lBoRHSXL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H5BD5C37",
+      "name": "2026 Version Frontscheibenabdeckung Winter, 700D wasserdichte & EIS Schnee Windschutzscheibenabdeckung Auto, deckt Seite",
+      "price": 181.45,
+      "reviews": 205,
+      "rating": 4.3,
+      "rank": 8,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "205 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0H5BD5C37",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81qM8XH091L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H5R2CGQ1",
+      "name": "Nokwocy 5er Pack warnwesten Auto, Reflektierende Warnweste gelb & Sicherheitsweste für Erwachsene, Praktische Warnweste ",
+      "price": 59.51,
+      "reviews": 50,
+      "rating": 4.4,
+      "rank": 9,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "50 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H5R2CGQ1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Gq3w+-KlL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7JB1LLR",
+      "name": "Elektrische Luftpumpe, Akku Fahrradpumpe, Tragbarer Reifenfüller mit Memory | 90 s Schnellaufpumpen, Auto-Stopp, präzise",
+      "price": 22338.0,
+      "reviews": 26,
+      "rating": 4.4,
+      "rank": 10,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "26 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7JB1LLR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71AeyI9bkUL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6X26Y6H",
+      "name": "Frontscheibe Abdeckung Auto Winter, gegen EIS, Schnee, Frost Sonnenschutz | 4-lagige Extra Dick Frostschutz",
+      "price": 106.37,
+      "reviews": 17,
+      "rating": 4.6,
+      "rank": 11,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "17 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6X26Y6H",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/818IjqUUYrL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLCV4DCJ",
+      "name": "Blytra 150W Autoheizlüfter 12V, PTC Entfroster, 360° drehbar, Kompakt | Heizung für Auto, 360° Drehbarer Sockel, Scheibe",
+      "price": 168.93,
+      "reviews": 67,
+      "rating": 5.0,
+      "rank": 12,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "67 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLCV4DCJ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61CZcmHaPaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHN9WNRZ",
+      "name": "Winter SitzbezüGe Auto Vordersitze Verstellbar Warm Bequem Autositzauflage Geeignet für Alle Fahrzeugtypen,ZweiSitze",
+      "price": 29780.0,
+      "reviews": 3,
+      "rating": 5.0,
+      "rank": 13,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHN9WNRZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hdRXN2fJL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HC83R4PD",
+      "name": "VZL Auto Zubehör - V16 Warnleuchte Auto, LED Pannenleuchte, Warndreieck | 360° Rundumlicht · Magnetfuß · IP54 Sofort ein",
+      "price": 14860.0,
+      "reviews": 21,
+      "rating": 4.8,
+      "rank": 14,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "21 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HC83R4PD",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61-NFtyTrgL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHD6G71W",
+      "name": "2 Stück Autozubehör Innenraum, Kompatibel mit den meisten Autos",
+      "price": 14145.0,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 15,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHD6G71W",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61bPIavf3pL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H3V1D8GB",
+      "name": "SANIWERK Verbandskasten Auto 2026 TÜV Geprüft (SVHC) | Lange Haltbarkeit & Robust | KFZ Erste Hilfe Set Auto Verbandstas",
+      "price": 74.93,
+      "reviews": 26,
+      "rating": 4.5,
+      "rank": 16,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "26 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0H3V1D8GB",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81xsJz8yfiL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6HJNG2V",
+      "name": "moveland Reifentaschen 18-22 Zoll, 600D & 210D Oxford-Gewebe, 4er-Set | Reißfeste Keep Clean Reifenschutzhüllen und Reif",
+      "price": 20849.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 17,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0H6HJNG2V",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81HnHB+VVLL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GWTSZTZZ",
+      "name": "IGRARK Lamp Auto 80W 600% Helligkeit 16000LM 6000K Superhelle Weiß Scheinwerferbirne, 1:1 Mini-Größe, 12V, 2 Stück (H/7)",
+      "price": 22338.0,
+      "reviews": 17,
+      "rating": 4.0,
+      "rank": 18,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "17 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0GWTSZTZZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61DVJxqyh-L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7NWSBZV",
+      "name": "Gooofly Chrono Pro Parkscheibe Elektrisch mit Zulassung, Elektronische Parkscheibe Digitale Parkscheibe Auto, Elektrisch",
+      "price": 12514.0,
+      "reviews": 29,
+      "rating": 4.6,
+      "rank": 19,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "29 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7NWSBZV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/618bJYxX-BL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H5V2V6SD",
+      "name": "Elektronische Parkscheibe Solar mit Zulassung,Automatische Digitale Parkuhr | Automatische Digitale Parkscheibe mit KBA-",
+      "price": 18167.0,
+      "reviews": 96,
+      "rating": 4.7,
+      "rank": 20,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "96 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0H5V2V6SD",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61t15goMtKL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMX56JSL",
+      "name": "BERGSTEIN® Scheibenenteiser Spray [6x500 ml] Enteiserspray Auto -30 °C | Scheibenenteiser Spray | Enteiserspray Auto | E",
+      "price": 14875.0,
+      "reviews": 7,
+      "rating": 5.0,
+      "rank": 21,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "7 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMX56JSL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81TheZJ2+uL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}
