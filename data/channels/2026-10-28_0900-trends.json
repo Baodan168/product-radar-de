@@ -1,0 +1,233 @@
+{
+  "category_scores": {
+    "lighting": 44,
+    "beauty": 17,
+    "eco": 94,
+    "crafts": 100,
+    "kitchen": 40,
+    "cleaning": 8,
+    "car": 32,
+    "pets": 77,
+    "home decor": 40,
+    "office": 40,
+    "phone": 40,
+    "travel": 40,
+    "seasonal": 21,
+    "garden": 32,
+    "sports": 8,
+    "storage": 4,
+    "bedding": 4,
+    "bathroom": 4
+  },
+  "category_evidence": {
+    "lighting": [
+      "led",
+      "light"
+    ],
+    "beauty": [
+      "makeup",
+      "hair",
+      "skincare"
+    ],
+    "eco": [
+      "organic",
+      "eco"
+    ],
+    "crafts": [
+      "art",
+      "craft",
+      "tape"
+    ],
+    "kitchen": [
+      "kitchen",
+      "cup",
+      "gadget"
+    ],
+    "cleaning": [
+      "cleaner",
+      "cleaning"
+    ],
+    "car": [
+      "car",
+      "vehicle"
+    ],
+    "pets": [
+      "toy",
+      "cat",
+      "pet",
+      "bed"
+    ],
+    "home decor": [
+      "candle",
+      "decor"
+    ],
+    "office": [
+      "pen",
+      "stationery"
+    ],
+    "phone": [
+      "holder",
+      "case",
+      "charger",
+      "stand",
+      "phone"
+    ],
+    "travel": [
+      "passport",
+      "travel"
+    ],
+    "seasonal": [
+      "halloween",
+      "christmas",
+      "gift"
+    ],
+    "garden": [
+      "garden",
+      "plant"
+    ],
+    "sports": [
+      "sport"
+    ],
+    "storage": [
+      "box"
+    ],
+    "bedding": [
+      "cushion"
+    ],
+    "bathroom": [
+      "towel"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "lighting": 1,
+      "beauty": 4,
+      "eco": 4,
+      "crafts": 2,
+      "kitchen": 1,
+      "cleaning": 1,
+      "car": 1
+    },
+    "dealabs": {
+      "pets": 2,
+      "crafts": 3,
+      "eco": 3,
+      "lighting": 1,
+      "home decor": 1,
+      "kitchen": 1,
+      "office": 1
+    },
+    "temu": {
+      "crafts": 4,
+      "home decor": 1,
+      "eco": 2,
+      "office": 1,
+      "pets": 4,
+      "phone": 2
+    },
+    "etsy": {
+      "crafts": 4,
+      "travel": 1,
+      "home decor": 2,
+      "eco": 3,
+      "seasonal": 4,
+      "kitchen": 2,
+      "garden": 1,
+      "car": 1,
+      "office": 1
+    },
+    "youtube": {
+      "car": 2,
+      "pets": 3,
+      "crafts": 3,
+      "travel": 1,
+      "phone": 1,
+      "garden": 1,
+      "sports": 1,
+      "eco": 1
+    },
+    "google_trends": {
+      "travel": 2,
+      "eco": 3,
+      "lighting": 3,
+      "crafts": 2,
+      "phone": 1,
+      "seasonal": 1,
+      "garden": 1,
+      "office": 1,
+      "storage": 1,
+      "pets": 1,
+      "bedding": 1,
+      "home decor": 2
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 2,
+      "crafts": 3,
+      "eco": 1,
+      "pets": 2,
+      "cleaning": 1,
+      "phone": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "bathroom": 1,
+      "pets": 3,
+      "sports": 1,
+      "crafts": 3,
+      "travel": 2,
+      "phone": 1,
+      "eco": 2,
+      "garden": 1,
+      "lighting": 2
+    }
+  },
+  "cross_validated": {
+    "lighting": 4,
+    "eco": 8,
+    "crafts": 8,
+    "kitchen": 5,
+    "car": 3,
+    "pets": 6,
+    "home decor": 4,
+    "office": 5,
+    "phone": 5,
+    "travel": 4,
+    "garden": 4
+  },
+  "demand_keywords": [
+    "accessoires pour la maison",
+    "amazon is now",
+    "amazon lance",
+    "amazon ne dit pas qu",
+    "amazon rolls out",
+    "are these",
+    "automne et hiver nouveau ensemble",
+    "automne hiver nouveau ensemble pi",
+    "autumn clothes sold on",
+    "bon plan",
+    "bons plans",
+    "code promo",
+    "comment trouver des super bons",
+    "commerces pill",
+    "consumer trends in e",
+    "cosy fall decor in the",
+    "culture du th",
+    "des cages",
+    "eccholine is at",
+    "essentiels pour la maison et",
+    "explore trending products",
+    "explorez les produits tendance",
+    "fall clothes for women sold",
+    "france finds",
+    "france offers",
+    "france runs live at",
+    "french high neck crochet floral",
+    "handmade home decor kitchen and",
+    "how is",
+    "ils sont appr"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 60165
+}
