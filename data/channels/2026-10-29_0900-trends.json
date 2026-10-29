@@ -1,0 +1,339 @@
+{
+  "category_scores": {
+    "kitchen": 61,
+    "garden": 65,
+    "car": 63,
+    "office": 71,
+    "storage": 48,
+    "pets": 100,
+    "sports": 42,
+    "crafts": 94,
+    "phone": 78,
+    "eco": 65,
+    "beauty": 38,
+    "seasonal": 28,
+    "cleaning": 28,
+    "lighting": 65,
+    "home decor": 42,
+    "baby": 36,
+    "bedding": 28,
+    "bathroom": 28,
+    "travel": 8
+  },
+  "category_evidence": {
+    "kitchen": [
+      "cup",
+      "organiser",
+      "mug",
+      "kitchen",
+      "cooking",
+      "spice",
+      "gadget"
+    ],
+    "garden": [
+      "flower",
+      "patio",
+      "outdoor",
+      "bird",
+      "plant",
+      "grill",
+      "solar",
+      "garden"
+    ],
+    "car": [
+      "organiser",
+      "motor",
+      "vehicle",
+      "car"
+    ],
+    "office": [
+      "laptop",
+      "pen",
+      "office",
+      "organiser",
+      "desk"
+    ],
+    "storage": [
+      "box",
+      "storage",
+      "drawer",
+      "basket",
+      "organiser"
+    ],
+    "pets": [
+      "toy",
+      "dog",
+      "bed",
+      "cat",
+      "grooming",
+      "pet"
+    ],
+    "sports": [
+      "fitness",
+      "sport",
+      "gym",
+      "yoga"
+    ],
+    "crafts": [
+      "brush",
+      "art",
+      "craft",
+      "stickers",
+      "tape",
+      "sewing"
+    ],
+    "phone": [
+      "ring light",
+      "case",
+      "holder",
+      "charger",
+      "stand",
+      "cable",
+      "phone"
+    ],
+    "eco": [
+      "organic",
+      "eco",
+      "sustainable"
+    ],
+    "beauty": [
+      "brush",
+      "skincare",
+      "hair",
+      "nail",
+      "organiser",
+      "mirror",
+      "makeup"
+    ],
+    "seasonal": [
+      "halloween",
+      "christmas",
+      "gift"
+    ],
+    "cleaning": [
+      "brush",
+      "vacuum",
+      "cleaning",
+      "cleaner"
+    ],
+    "lighting": [
+      "light",
+      "led",
+      "strip",
+      "lamp"
+    ],
+    "home decor": [
+      "decor",
+      "vase",
+      "wall art",
+      "candle",
+      "mirror"
+    ],
+    "baby": [
+      "child",
+      "baby",
+      "kids",
+      "nursery"
+    ],
+    "bedding": [
+      "pillow",
+      "cushion",
+      "blanket",
+      "throw"
+    ],
+    "bathroom": [
+      "bath",
+      "toilet",
+      "bathroom",
+      "shower",
+      "mirror"
+    ],
+    "travel": [
+      "travel"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "kitchen": 2,
+      "garden": 1,
+      "car": 3,
+      "office": 3,
+      "storage": 2,
+      "pets": 6,
+      "sports": 2,
+      "crafts": 5,
+      "phone": 6,
+      "eco": 4,
+      "beauty": 3,
+      "seasonal": 2,
+      "cleaning": 1
+    },
+    "dealabs": {
+      "pets": 3,
+      "crafts": 3,
+      "eco": 3,
+      "kitchen": 2,
+      "office": 3,
+      "lighting": 4,
+      "home decor": 2,
+      "cleaning": 1,
+      "car": 2,
+      "storage": 1,
+      "sports": 1,
+      "phone": 1,
+      "baby": 1
+    },
+    "temu": {
+      "car": 3,
+      "office": 5,
+      "storage": 2,
+      "lighting": 4,
+      "pets": 6,
+      "sports": 2,
+      "crafts": 4,
+      "bedding": 2,
+      "phone": 1,
+      "home decor": 1,
+      "eco": 4,
+      "kitchen": 3,
+      "garden": 1,
+      "bathroom": 3,
+      "cleaning": 2,
+      "beauty": 2,
+      "baby": 3
+    },
+    "etsy": {
+      "kitchen": 6,
+      "garden": 8,
+      "bathroom": 3,
+      "car": 4,
+      "office": 5,
+      "lighting": 5,
+      "pets": 9,
+      "sports": 1,
+      "crafts": 10,
+      "travel": 2,
+      "phone": 7,
+      "home decor": 8,
+      "baby": 4,
+      "eco": 2,
+      "seasonal": 4,
+      "storage": 4,
+      "bedding": 1,
+      "beauty": 1
+    },
+    "youtube": {
+      "kitchen": 5,
+      "car": 3,
+      "office": 4,
+      "storage": 2,
+      "lighting": 6,
+      "pets": 8,
+      "crafts": 4,
+      "travel": 2,
+      "eco": 4,
+      "cleaning": 1,
+      "sports": 4,
+      "phone": 7,
+      "baby": 2,
+      "garden": 2,
+      "bathroom": 1,
+      "bedding": 4,
+      "beauty": 3,
+      "home decor": 3,
+      "seasonal": 1
+    },
+    "google_trends": {
+      "kitchen": 3,
+      "garden": 6,
+      "car": 4,
+      "office": 3,
+      "storage": 1,
+      "lighting": 3,
+      "pets": 6,
+      "sports": 4,
+      "crafts": 4,
+      "phone": 5,
+      "beauty": 2,
+      "eco": 3
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 2,
+      "pets": 3,
+      "crafts": 3,
+      "phone": 2,
+      "eco": 1
+    },
+    "market_intel": {
+      "kitchen": 2,
+      "garden": 8,
+      "car": 6,
+      "office": 4,
+      "storage": 5,
+      "lighting": 4,
+      "pets": 11,
+      "crafts": 8,
+      "phone": 4,
+      "eco": 5,
+      "cleaning": 2,
+      "beauty": 1,
+      "baby": 1
+    }
+  },
+  "cross_validated": {
+    "kitchen": 8,
+    "garden": 6,
+    "car": 7,
+    "office": 8,
+    "storage": 7,
+    "pets": 8,
+    "sports": 6,
+    "crafts": 8,
+    "phone": 8,
+    "eco": 8,
+    "beauty": 6,
+    "seasonal": 3,
+    "cleaning": 5,
+    "lighting": 6,
+    "home decor": 4,
+    "baby": 5,
+    "bedding": 3,
+    "bathroom": 3
+  },
+  "demand_keywords": [
+    "14 500 salariés en cdi à la fin l’année.",
+    "3d wall art",
+    "achetez des cadeaux faits main",
+    "achetez maintenant",
+    "affiliation",
+    "amazon avait d",
+    "amazon blocks sales of competitor",
+    "amazon lance un nouveau",
+    "amazon lockers",
+    "amazon ne dit pas qu",
+    "amazon vend un gadget malin",
+    "amazon vs",
+    "apprenez comment le r",
+    "are these",
+    "arrete de scroller si tu...",
+    "articles tendances pour financer vos",
+    "artisanat fran",
+    "autumn things + activities",
+    "avant/après",
+    "avec un potentiel de marketing",
+    "bassin de jardin",
+    "bassins de jardin",
+    "behind-the-scenes",
+    "bleu marine",
+    "bleu roi",
+    "bois massif",
+    "bon plan",
+    "bons plans",
+    "bons plans et trouvailles",
+    "boucles d"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 659643
+}
