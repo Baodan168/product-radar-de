@@ -1,0 +1,1561 @@
+{
+  "scan_date": "2026-10-29",
+  "scan_time": "15:30",
+  "scan_ts": "2026-10-29_1530",
+  "stats": {
+    "total_scanned": 81,
+    "passed": 5,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0H715D22G",
+      "name": "Superun Walking Pad mit Steigung 10%, Laufband mit App Erlebnis vor Ort | Max 6km/h & 12km/h, Design der seitlichen Arml",
+      "price": 876.5,
+      "reviews": 228,
+      "rating": 4.4,
+      "rank": 1,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "228 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H715D22G",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61ZyIATLjzL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GTYJG326",
+      "name": "Owala FreeSip Isolierte Edelstahl Trinkflasche mit Strohhalm, 710 ml – BPA-frei, optimal für Sport, Fitness, Outdoor und",
+      "price": 195.73,
+      "reviews": 96942,
+      "rating": 4.7,
+      "rank": 2,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "96942 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0GTYJG326",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51OFNrW0f5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H5HLSNLH",
+      "name": "Handwärmer Elektrisch 2er-Set, Taschenwärmer Wiederverwendbar | 1s Schnellheizung, 3 Stufen, 11h Wärme, 4000mAh Ultradün",
+      "price": 96.78,
+      "reviews": 28,
+      "rating": 4.7,
+      "rank": 3,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "28 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0H5HLSNLH",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61LYupvy68L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08HHV3KHS",
+      "name": "MAMEIDO Trinkflasche Kohlensäure geeignet aus Tritan 1 l Wild Allure | auslaufsicher, BPA-frei mit abnehmbarer Trageschl",
+      "price": 17874.0,
+      "reviews": 261,
+      "rating": 4.5,
+      "rank": 4,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "261 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B08HHV3KHS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Qpt0dIHQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H93Y497R",
+      "name": "Garmin CIRQA Smart Band, Fitnesstracker ohne Display, L/XL, Schwarz | ohne Abo, bis zu 10 Tage Akkulaufzeit, 80+ Sportpr",
+      "price": 1252.16,
+      "reviews": 264,
+      "rating": 4.1,
+      "rank": 5,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "264 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0H93Y497R",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81ESAFsgNbL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6WFNLDR",
+      "name": "Gaiatop Handwärmer Elektrisch 2er-Set, Taschenwärmer Wiederverwendbar | Kompakt für Handschuhe, Camping Zubehör, Wichtel",
+      "price": 8933.0,
+      "reviews": 74,
+      "rating": 4.6,
+      "rank": 6,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "74 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6WFNLDR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61D2XL061mL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0F2TJ5Z7L",
+      "name": "NEOLYMP Bodenschutzmatte Fitnessgerät - Laufband Matte 8mm Dicke - langlebig, rutschfest & stoßdämpfend - Fitness Unterl",
+      "price": 20854.0,
+      "reviews": 94,
+      "rating": 4.5,
+      "rank": 7,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "94 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0F2TJ5Z7L",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71j-x1ZHteL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHBL2V5C",
+      "name": "Fitbit Edge von Google - Gehäuse in Matte Black/Sportarmband in Obsidian | Fitness-Tracker, Gesundheitscoach, Schlafanal",
+      "price": 1126.91,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 8,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HHBL2V5C",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61U5XmKoFQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08HLDDNGK",
+      "name": "MAMEIDO Trinkflasche mit Strohhalm 1 l (Wild Allure) | auslaufsicher, BPA-frei mit 2-in-1-Sportdeckel, Strohhalm & Trage",
+      "price": 15170.0,
+      "reviews": 784,
+      "rating": 4.4,
+      "rank": 9,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "784 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B08HLDDNGK",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81SYA9Rl2KL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H35GJD2R",
+      "name": "Fokky Fitnessbänder Resistance Bands Set, 5 Stufen Widerstandsbänder mit Übungsposter & Tragetasche, Fitnessband Klimmzu",
+      "price": 141.41,
+      "reviews": 110,
+      "rating": 4.7,
+      "rank": 10,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "110 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0H35GJD2R",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71BNeO9LFtL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HF5F4DT3",
+      "name": "OOONO Co-Driver NO2 Plus Aluminium – Optimierter Co-Driver fürs Auto Warnt vor Tempo-Kontrollen und Gefahrenstellen – Wi",
+      "price": 40941.0,
+      "reviews": 54440,
+      "rating": 4.3,
+      "rank": 1,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "54440 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0HF5F4DT3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61BfRGnqpUL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMQYK6KM",
+      "name": "Magnetischer Scheibenreiniger Auto, Doppelter Magnetischer Windschutzscheiben Reiniger, Dual Side Fensterreiniger für St",
+      "price": 17867.0,
+      "reviews": 4,
+      "rating": 3.0,
+      "rank": 2,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 Bewertungen, 3.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMQYK6KM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71eOaU3KsaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHD6G71W",
+      "name": "2 Stück Autozubehör Innenraum, Kompatibel mit den meisten Autos",
+      "price": 14894.0,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 3,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHD6G71W",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61bPIavf3pL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H9LGZLZ5",
+      "name": "Parkturon Elektronische Parkscheibe mit Zulassung, Automatische Parkscheibe | Automatische Zeiteinstellung, Automatische",
+      "price": 14000.0,
+      "reviews": 60,
+      "rating": 4.8,
+      "rank": 4,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "60 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H9LGZLZ5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71JXu3uvgTL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HK3R2S93",
+      "name": "Sauberkugel® Saubergeist Innenraumreiniger Auto für Zwischenräume | Handgefertigt für Lüftungsschlitze, Getränkehalter, ",
+      "price": 11139.0,
+      "reviews": 136,
+      "rating": 4.2,
+      "rank": 5,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "136 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0HK3R2S93",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716F+9pS-zL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HDSV2WJ8",
+      "name": "Handstaubsauger Akku, 32000Pa Handstaubsauger Stark Kabellos | 1-Knopf-Selbstentleerung & 4-in-1 Autostaubsauger mit Bür",
+      "price": 21160.0,
+      "reviews": 45,
+      "rating": 4.5,
+      "rank": 6,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "45 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HDSV2WJ8",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/612lBoRHSXL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLYQNZLJ",
+      "name": "Doppelter magnetischer Auto-Windschutzscheiben,Windschutzscheiben Reiniger | Doppelseitiges Magnet Design Fensterreinige",
+      "price": 13106.0,
+      "reviews": 4,
+      "rating": 2.4,
+      "rank": 7,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 Bewertungen, 2.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLYQNZLJ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71jVfmTTjVL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H5BD5C37",
+      "name": "2026 Version Frontscheibenabdeckung Winter, 700D wasserdichte & EIS Schnee Windschutzscheibenabdeckung Auto, deckt Seite",
+      "price": 138.28,
+      "reviews": 207,
+      "rating": 4.3,
+      "rank": 8,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "207 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0H5BD5C37",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81qM8XH091L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKHSJP8V",
+      "name": "Doppelter Magnetischer Scheibenreiniger mit Teleskopstange, Auto Scheibenreiniger Magnetisch,Windschutzscheiben Reiniger",
+      "price": 21599.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 9,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HKHSJP8V",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61nqLg-vnZL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H5R2CGQ1",
+      "name": "Nokwocy 5er Pack warnwesten Auto, Reflektierende Warnweste gelb & Sicherheitsweste für Erwachsene, Praktische Warnweste ",
+      "price": 59.53,
+      "reviews": 52,
+      "rating": 4.3,
+      "rank": 10,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "52 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0H5R2CGQ1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Gq3w+-KlL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLCV4DCJ",
+      "name": "Blytra 150W Autoheizlüfter 12V, PTC Entfroster, 360° drehbar, Kompakt | Heizung für Auto, 360° Drehbarer Sockel, Scheibe",
+      "price": 168.98,
+      "reviews": 67,
+      "rating": 5.0,
+      "rank": 11,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "67 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLCV4DCJ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61CZcmHaPaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGM8188K",
+      "name": "dé Mobile Wallbox 11kW mit APP 7,5m 6–16A | 3-phasig | Ladekabel e Auto CEE-16A 400V auf Typ 2 mit einstellbarer Ladelei",
+      "price": 1.34075,
+      "reviews": 82,
+      "rating": 4.5,
+      "rank": 12,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "82 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGM8188K",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61X-jzgJ-rL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHN9WNRZ",
+      "name": "Winter SitzbezüGe Auto Vordersitze Verstellbar Warm Bequem Autositzauflage Geeignet für Alle Fahrzeugtypen,ZweiSitze",
+      "price": 29788.0,
+      "reviews": 4,
+      "rating": 5.0,
+      "rank": 13,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHN9WNRZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hdRXN2fJL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMX56JSL",
+      "name": "BERGSTEIN® Scheibenenteiser Spray [6x500 ml] Enteiserspray Auto -30 °C | Scheibenenteiser Spray | Enteiserspray Auto | E",
+      "price": 14879.0,
+      "reviews": 10,
+      "rating": 5.0,
+      "rank": 14,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "10 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMX56JSL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81TheZJ2+uL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H5V2V6SD",
+      "name": "Elektronische Parkscheibe Solar mit Zulassung,Automatische Digitale Parkuhr | Automatische Digitale Parkscheibe mit KBA-",
+      "price": 18172.0,
+      "reviews": 98,
+      "rating": 4.7,
+      "rank": 15,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "98 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0H5V2V6SD",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61t15goMtKL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7JB1LLR",
+      "name": "Elektrische Luftpumpe, Akku Fahrradpumpe, Tragbarer Reifenfüller mit Memory | 90 s Schnellaufpumpen, Auto-Stopp, präzise",
+      "price": 22345.0,
+      "reviews": 33,
+      "rating": 4.4,
+      "rank": 16,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "33 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7JB1LLR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71AeyI9bkUL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMHXQS79",
+      "name": "AD Tuning Erste-Hilfe-Set Auto – Verbandstasche mit Warndreieck & Warnweste | KFZ-Verbandskasten-Set nach DIN 13164, War",
+      "price": 8904.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 17,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HMHXQS79",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71-QJRbjU0L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6HJNG2V",
+      "name": "moveland Reifentaschen 18-22 Zoll, 600D & 210D Oxford-Gewebe, 4er-Set | Reißfeste Keep Clean Reifenschutzhüllen und Reif",
+      "price": 20854.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 18,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0H6HJNG2V",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81HnHB+VVLL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HN2PJWWC",
+      "name": "ROBBYROB Scheibenfrostschutz Konzentrat 2 x 5 L bis -60 °C – Winter | Für Auto & Scheibenwaschanlage – polycarbonatvertr",
+      "price": 11616.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 19,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HN2PJWWC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71N7behYm6L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGRT3JDZ",
+      "name": "HELDENWERK® 2026 Warnleuchte V16 Notlicht für Auto & Motorrad | Bis zu 1 km sichtbar, 360° LED Rundumlicht, IP54 geschüt",
+      "price": 125.17,
+      "reviews": 7,
+      "rating": 4.0,
+      "rank": 20,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "7 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGRT3JDZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81mbgCiTUhL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7NWSBZV",
+      "name": "Gooofly Chrono Pro Parkscheibe Elektrisch mit Zulassung, Elektronische Parkscheibe Digitale Parkscheibe Auto, Elektrisch",
+      "price": 13404.0,
+      "reviews": 30,
+      "rating": 4.6,
+      "rank": 21,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "30 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7NWSBZV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/618bJYxX-BL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6X26Y6H",
+      "name": "Frontscheibe Abdeckung Auto Winter, gegen EIS, Schnee, Frost Sonnenschutz | 4-lagige Extra Dick Frostschutz",
+      "price": 106.4,
+      "reviews": 25,
+      "rating": 4.8,
+      "rank": 22,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "25 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6X26Y6H",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/818IjqUUYrL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07D4T5XVT",
+      "name": "MjAMjAM - Premium Nassfutter für Katzen - saftiges Huhn an leckeren Möhrchen, 6er Pack (6 x 400 g), getreidefrei mit ext",
+      "price": 8226.0,
+      "reviews": 1655,
+      "rating": 4.5,
+      "rank": 1,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1655 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07D4T5XVT",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715zaQl9iML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07CPK4T22",
+      "name": "Biokat's Diamond Care Fresh Katzenstreu mit Babypuder-Duft - Feine Klumpstreu aus Bentonit mit Aktivkohle und Aloe Vera ",
+      "price": 71.97,
+      "reviews": 26542,
+      "rating": 4.5,
+      "rank": 2,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "26542 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07CPK4T22",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61JZ0-J35cL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01J57509O",
+      "name": "animonda Carny Adult Katzenfutter nass Kräftige Variation (12 x 400g) | getreidefreies Katzennassfutter ohne Zucker, für",
+      "price": 11914.0,
+      "reviews": 4802,
+      "rating": 4.4,
+      "rank": 3,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4802 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B01J57509O",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81rcyGwBgSL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CP2G2SZ5",
+      "name": "SHEBA Adult Sauce Collection Mix Katzennassfutter in Sauce Schale 32 x 85g | 100% Qualität, Huhn, Ente, Lachs, Thunfisch",
+      "price": 9231.0,
+      "reviews": 1872,
+      "rating": 4.7,
+      "rank": 4,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1872 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0CP2G2SZ5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71avbjmhLTL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B077GPYZYL",
+      "name": "SHEBA Adult Katzennassfutter Geflügel in Sauce 40 x 85g (40er-Pack) | Katzenfutter als vollwertiges Alleinfuttermittel m",
+      "price": 11318.0,
+      "reviews": 10772,
+      "rating": 4.7,
+      "rank": 5,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "10772 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B077GPYZYL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71j-SX5ONnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BPD587DQ",
+      "name": "WHISKAS TASTY MIX Nassfutter in Sauce für Katzen 40 x 85g Chef’s Choice",
+      "price": 8173.0,
+      "reviews": 2939,
+      "rating": 4.7,
+      "rank": 6,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2939 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0BPD587DQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71zGQPrCA8L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B001N02F5Y",
+      "name": "animonda GranCarno Adult Hunde Nassfutter mit Rind+Huhn (6x800 g) | getreidefreies Hundenassfutter ohne Zucker, für ausg",
+      "price": 8933.0,
+      "reviews": 539,
+      "rating": 4.4,
+      "rank": 7,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "539 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B001N02F5Y",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81GXkhrUlML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07CPDVRD9",
+      "name": "Biokat's Diamond Care Classic Katzenstreu ohne Duft - Feine Klumpstreu aus Bentonit mit Aktivkohle und Aloe Vera - 1 Sac",
+      "price": 71.97,
+      "reviews": 9827,
+      "rating": 4.5,
+      "rank": 8,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "9827 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07CPDVRD9",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71BTCs+F4GL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0932XH443",
+      "name": "GimCat Nutri Pockets Dental - Knuspriger Katzensnack mit cremiger Füllung und funktionalen Inhaltsstoffen - 1 Beutel (1 ",
+      "price": 887.0,
+      "reviews": 7874,
+      "rating": 4.7,
+      "rank": 9,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "7874 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0932XH443",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71nU24AgGfL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08HP7BH9B",
+      "name": "FELIX So gut wie es aussieht Nassfutter für Katzen Geschmacksvielfalt vom Land Vorteilspack, 44 praktische Portionsbeute",
+      "price": 10423.0,
+      "reviews": 6112,
+      "rating": 4.7,
+      "rank": 10,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "6112 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B08HP7BH9B",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/810nqdlF5kL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CTCFWBQC",
+      "name": "by Amazon weißes Ultra-Klumpstreu für Katzen 10L",
+      "price": 75.1,
+      "reviews": 5432,
+      "rating": 4.1,
+      "rank": 11,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "5432 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0CTCFWBQC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61KZL8zBzHL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07D9XQWNS",
+      "name": "Bactador Enzymreiniger Konzentrat 1L - Geruchsentferner & Fleckenentferner | Mikrobiologischer Geruchsneutralisierer, Hu",
+      "price": 84.49,
+      "reviews": 4244,
+      "rating": 4.6,
+      "rank": 12,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4244 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B07D9XQWNS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71IMiUt+00L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BZ117CZZ",
+      "name": "animonda Carny Kitten Nassfutter Variation für Katzenkinder (12 x 200 g) | Kitten Nassfutter für wachsende Kätzchen, Kat",
+      "price": 8188.0,
+      "reviews": 1254,
+      "rating": 4.6,
+      "rank": 13,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1254 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0BZ117CZZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/919GXJds0vL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08GD94LQC",
+      "name": "by Amazon Nassfutter für Katzen, Pastete Gemischt, 100g, 32er-Pack",
+      "price": 8047.0,
+      "reviews": 5912,
+      "rating": 4.4,
+      "rank": 14,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "5912 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B08GD94LQC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71+N4YMGzwL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00MW8G3YU",
+      "name": "Amazon Basics Welpen Unterlagen, Pipi Matten für Hunde, 5-lagiges Auslaufsicheres Design, 56cm x 56cm, 50 Stück, Blau",
+      "price": 104.68,
+      "reviews": 223691,
+      "rating": 4.6,
+      "rank": 15,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "223691 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B00MW8G3YU",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Co+yjlWAL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00NABTC8M",
+      "name": "Amazon Basics Hundekotbeutel mit Spender und Leinenclip, Unparfümiert, 300er-Pack, Schwarz",
+      "price": 76.67,
+      "reviews": 236326,
+      "rating": 4.8,
+      "rank": 16,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "236326 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B00NABTC8M",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71RhBxKwOWL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01MFDF226",
+      "name": "Gourmet Perle Erlesene Streifen Katzenfutter nass, Sorten-Mix, 60er Pack (60 x 85g)",
+      "price": 22345.0,
+      "reviews": 7546,
+      "rating": 4.6,
+      "rank": 17,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "7546 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B01MFDF226",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71flBU6kITL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B093LS2KX8",
+      "name": "animonda GranCarno Adult Hunde Nassfutter Deftige Variation (6 x 800 g) | Hunde Nassfutter für ausgewachsene Tiere, Nass",
+      "price": 10274.0,
+      "reviews": 561,
+      "rating": 4.6,
+      "rank": 18,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "561 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B093LS2KX8",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/910Y7KFylPL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0DG933ZKR",
+      "name": "by Amazon Klumpende feine, geruchsneutrale Katzenstreu 10L (1er-Pack)",
+      "price": 45.0,
+      "reviews": 1788,
+      "rating": 4.2,
+      "rank": 19,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1788 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0DG933ZKR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71SwO75uDzL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08HPMP2QF",
+      "name": "FELIX So gut wie es aussieht Nassfutter für Katzen Gemischte Vielfalt Vorteilspack, 44 praktische Portionsbeutel, zarte ",
+      "price": 10617.0,
+      "reviews": 4474,
+      "rating": 4.7,
+      "rank": 20,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4474 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B08HPMP2QF",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81ExbQAi+2L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0079F3ICQ",
+      "name": "GOURMET Gold Feine Pastete, mit Huhn, 12 x 85g | Katzenfutter nass",
+      "price": 5730.0,
+      "reviews": 1862,
+      "rating": 4.7,
+      "rank": 21,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1862 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0079F3ICQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/712LJElq6eL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B001MZWR76",
+      "name": "Cat's Best Original Katzenstreu, 100 % pflanzliche Katzen Klumpstreu mit maximaler Saugkraft – bekämpft Gerüche natürlic",
+      "price": 152.07,
+      "reviews": 46002,
+      "rating": 4.5,
+      "rank": 22,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "46002 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B001MZWR76",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71bU+BzSPDL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B012H5THFO",
+      "name": "animonda Milkies Katzensnack Cups Selection Mixpack (20 Cups à 15 g) | leicht verdauliche Katzenmilch für erwachsene Kat",
+      "price": 4463.0,
+      "reviews": 4320,
+      "rating": 4.6,
+      "rank": 23,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4320 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B012H5THFO",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71l3r9h+1jL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0F7LY2FSZ",
+      "name": "Vitakraft Liquid Snack, Katzen Leckerli, Mega Pack, feine Auswahl (48x 15g) | cremiger Katzensnack, kalorienarm, pur ode",
+      "price": 12063.0,
+      "reviews": 1448,
+      "rating": 4.9,
+      "rank": 24,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1448 Bewertungen, 4.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0F7LY2FSZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Lwj0YlbIL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00K8UC1AY",
+      "name": "Cat's Best Sensitive, 100 % pflanzliche Katzenstreu, fest klumpend und antibakteriell aus veredelten Aktiv-Holzfasern – ",
+      "price": 51.93,
+      "reviews": 1027,
+      "rating": 4.4,
+      "rank": 25,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1027 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B00K8UC1AY",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81+KSnk2yAL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKN4RQ52",
+      "name": "Sodbrennen Pulver Hund bei Gras und Kotfressen mit Ulmenrinde für Hund | Tierärztlich entwickeltes Sodbrennen Pulver für",
+      "price": 26748.0,
+      "reviews": 9,
+      "rating": 4.4,
+      "rank": 1,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "9 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKN4RQ52",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71OyRBt7lvL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HP1SRHPH",
+      "name": "mammaly Happy Tummy® Magen-Komplex bei Sodbrennen für Hunde (120 Snacks) | Reicht ≈60 Tage - Drops für Magenschutz - bei",
+      "price": 37246.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 2,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HP1SRHPH",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Uq1aat4KL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHQQM7WR",
+      "name": "Ohrenreiniger Hund - Ohrentropfen für Hunde – geprüfte Qualität | Ohrenpflege Hund, Ohrenschmalz entfernen, Hundeohren r",
+      "price": 9611.0,
+      "reviews": 28,
+      "rating": 4.7,
+      "rank": 3,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "28 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHQQM7WR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716nLftQO-L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H9B33W4X",
+      "name": "OLANRUN Hundekostüm Halloween, Verstellbares Halloween Kostüm Fledermaus | Geeignet für Große Hunde, mit Motiven von Glö",
+      "price": 11914.0,
+      "reviews": 44,
+      "rating": 4.3,
+      "rank": 4,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "44 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0H9B33W4X",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/810QpueVw3L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHM76L35",
+      "name": "Dinosaur Skeleton Halloween Costume, 120cm Haustier Dino Kostüm, Weiches Plüsch Hund Dino Outfit, Dinosaur Skeleton Plus",
+      "price": 200.27,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 5,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HHM76L35",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71vzpsQXWTL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HJ1WSWTS",
+      "name": "Hundemantel Winter mit Geschirr Einstellbar, Wasserdicht, Schwarz, S | Reflektierende Winterjacke für Kleine Hunde, Wind",
+      "price": 119.14,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 6,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HJ1WSWTS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61HRaEUDkPL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GZNC3BDV",
+      "name": "Kuoser Hundemantel, Hundejacke Hunde Wintermantel Wasserdicht, Grün M | 4-Bein Hundemantel mit verstellbaren Kordelzügen",
+      "price": 250.42,
+      "reviews": 13,
+      "rating": 4.2,
+      "rank": 7,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "13 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0GZNC3BDV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71lM-Ytw3OL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMHTPG4Y",
+      "name": "Katzen Tracker Ohne ABO, GPS Katzenhalsband Ortungsgerät Kompatibel mit iOS & Android, Smart Tracker für Haustierhalsbän",
+      "price": 15639.0,
+      "reviews": 32,
+      "rating": 5.0,
+      "rank": 8,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "32 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMHTPG4Y",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71V0UDclaeL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H3THH1YB",
+      "name": "BEDSURE wasserdichte Hundedecke mittelgroße Hunde - 102x76cm Hundedecke waschbar, Decke Hund aus Sherpa Fleece, Katzende",
+      "price": 100.14,
+      "reviews": 368,
+      "rating": 4.5,
+      "rank": 9,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "368 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0H3THH1YB",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81SSEyfBdzL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HP5Z376M",
+      "name": "LED Equestrian Glow Safety Kit, Light-up Horse-riding Set | Mehrfarbiges Sicherheitslicht für Pferde, reflektierende Sic",
+      "price": 29795.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 10,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HP5Z376M",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61L8PCXAXTL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKPT5Q71",
+      "name": "Tracker Katzen Ohne ABO, GPS Katze Hund Tracker Halsband mit iOS ＆ Android | Wasserdicht Reflektierend GPS Halsbänder mi",
+      "price": 181.5,
+      "reviews": 14,
+      "rating": 5.0,
+      "rank": 11,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "14 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKPT5Q71",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71uwJWre99L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HJZS5N6Q",
+      "name": "200ML natürliche Katzen Ausbildung Spray，Mild Scent | schützt Möbel, Pflanzen & Garten, effektives Katzenverhalten",
+      "price": 11176.0,
+      "reviews": 8,
+      "rating": 5.0,
+      "rank": 12,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "8 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HJZS5N6Q",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Cer0Sd9LL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H71KKLWM",
+      "name": "Kratzfolie Katzen Selbstklebend, Kratzschutz Selbstklebend Tape 30x400 cm | Katzen Kratzschutz Folie Transparent, Anti K",
+      "price": 100.14,
+      "reviews": 124,
+      "rating": 4.6,
+      "rank": 13,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "124 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H71KKLWM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81GklNzWVXL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H3L6HVYV",
+      "name": "GPS Tracker Katze Kein Abonnement Erforderlich Tracker Katze Unterstützt Android & iOS Katzenhalsband Mit GPS Aktivitäte",
+      "price": 187.76,
+      "reviews": 37,
+      "rating": 4.4,
+      "rank": 14,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "37 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H3L6HVYV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71dpr+LP-PL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H2GJ5YGW",
+      "name": "CoCoDonut LED Leuchthalsband Hund Aufladbar, Sicherheit bei Nacht | Leuchtend, USB‑C, Kürzbar, Wasserdicht, 3 Lichtmodi,",
+      "price": 62.51,
+      "reviews": 15,
+      "rating": 4.8,
+      "rank": 15,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "15 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H2GJ5YGW",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71UbubFkuxL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HFNVGB1T",
+      "name": "VEGDOG Adventskalender vegan für Hunde, Vorweihnachtszeit mit Hundekeksen | Adventskalender für Hunde mit veganen Hundek",
+      "price": 10945.0,
+      "reviews": 29,
+      "rating": 4.6,
+      "rank": 16,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "29 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HFNVGB1T",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81uXoTFRTSL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HH8JV9H7",
+      "name": "Interaktives Katzenspielzeug Ball mit 3 Federschwänzen, Wiederaufladbarer Katzenball Elektrisch, 3 Modi, Automatisch Bew",
+      "price": 6698.0,
+      "reviews": 5,
+      "rating": 3.5,
+      "rank": 17,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "5 Bewertungen, 3.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HH8JV9H7",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71LhnQ9EmTL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HJRVPF84",
+      "name": "WOOWOOD Kletterwand Katzen 12-teilig XXL Schwarz, Hängematte, Höhle & Kratzsäule",
+      "price": 43698.0,
+      "reviews": 96,
+      "rating": 4.4,
+      "rank": 18,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "96 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HJRVPF84",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71r6ns2sQXL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GQVPHBFB",
+      "name": "VTech KittyLife – Virtuelles Haustier mit 2 Spielmodi & 30+ Missionen | Virtuelles Kätzchen pflegen und Abenteuer aus Ka",
+      "price": 37246.0,
+      "reviews": 27,
+      "rating": 4.5,
+      "rank": 19,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "27 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0GQVPHBFB",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51VuZw1w68L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HP3XDSFM",
+      "name": "FAVLY DENTAL Zahnpflege Pulver für Hunde und Katzen 250g gegen Maulgeruch | Mit Chlorella, Salbei & Naturmoor, kann Zahn",
+      "price": 29728.0,
+      "reviews": 1,
+      "rating": 3.0,
+      "rank": 20,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 3.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HP3XDSFM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61v6IC6PizL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HBVK46YZ",
+      "name": "8 in 1 Aquarium Teststreifen, 50 Stück Aquarium Wassertest (Meer/Süßwasser) | Wassertest Aquarium für Ammoniak, Nitrit, ",
+      "price": 10423.0,
+      "reviews": 35,
+      "rating": 4.0,
+      "rank": 21,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "35 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HBVK46YZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/812gY6cJ6jL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HJYRFC2P",
+      "name": "LELO PAWS Selbstreinigende Katzentoilette, 74L Katzenklo Selbstreinigend mit Türvorhang, Müllbeutel, Matte, APP Steuerun",
+      "price": 1502.57,
+      "reviews": 35,
+      "rating": 4.9,
+      "rank": 22,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "35 Bewertungen, 4.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0HJYRFC2P",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81rTPHCr3TL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHN1JWFN",
+      "name": "Tracker Hund Katze Ohne ABO, Kompatibel mit iOS & Android (1 Pack) | SmartTag Hundetracker mit Schutzhülle, GPS Wasserdi",
+      "price": 156.39,
+      "reviews": 6,
+      "rating": 4.7,
+      "rank": 23,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "6 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHN1JWFN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61dZ20-WvaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FN2VJ19P",
+      "name": "OLANRUN Hundekostüm Halloween, Hundekostüm Vampir Umhang | Zauberer Outfit, Hexen Cosplay Umhang, Kostüm Hund für Hallow",
+      "price": 9678.0,
+      "reviews": 28,
+      "rating": 4.3,
+      "rank": 24,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "28 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0FN2VJ19P",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71BeSK7C0OL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}
