@@ -1,0 +1,341 @@
+{
+  "scan_date": "2026-10-31",
+  "scan_time": "15:30",
+  "scan_ts": "2026-10-31_1530",
+  "stats": {
+    "total_scanned": 17,
+    "passed": 1,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0HLPKKRZZ",
+      "name": "Legami – Set aus 5 Mini Erasable Pen Dream Peaks, limitierte Edition | Set aus 5 Dream Peaks Mini Erasable Gel-Stiften, ",
+      "price": 8.36,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 1,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPKKRZZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WnCNlBOQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01FSGVN4M",
+      "name": "Amazon Basics Druckerpapier A4,80g/m², 2500 Blatt, 5er-Pack, Weiß",
+      "price": 18.48,
+      "reviews": 46424,
+      "rating": 4.5,
+      "rank": 2,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "46424 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B01FSGVN4M",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71xmc2j184L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09GS6RMTL",
+      "name": "100x Albyco Laminiertaschen - Format A4, 216x303mm - St. 2x80 (160) μm | Albyco Glänzende Laminierfolien - Für Papierfor",
+      "price": 9.2,
+      "reviews": 8644,
+      "rating": 4.8,
+      "rank": 3,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "8644 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B09GS6RMTL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71QD3Z7UAnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B016KYO2BM",
+      "name": "HP Home und Office, A4, Weiß, 5 Pakete mit 500 Blatt | HP Kopierpapier DIN A4, 500 Blatt, 80 g/m², weiß, Büro und Home O",
+      "price": 19.99,
+      "reviews": 19627,
+      "rating": 4.7,
+      "rank": 4,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "19627 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B016KYO2BM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61xD1VwX8kL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CJYFR9TQ",
+      "name": "FairToner Kopierpapier 2500 Blatt DIN-A4 80g, Weiß | 5 x 500 Blatt / 5er Pack, Universal Druckerpapier, Für Laserdrucker",
+      "price": 1990.0,
+      "reviews": 2352,
+      "rating": 4.8,
+      "rank": 5,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2352 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0CJYFR9TQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71lBRz9y1iL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0D1QQ2FMK",
+      "name": "Schneider Slider Rave XB Kugelschreiber, 4 Stück, Schwarz + 3 Farben | Tinte: Blau, Viscoglide-Technologie für lange Tex",
+      "price": 10.44,
+      "reviews": 9908,
+      "rating": 4.8,
+      "rank": 6,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "9908 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0D1QQ2FMK",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71HGmHIj2oL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CB18K7B4",
+      "name": "YSAGi Schreibtischunterlage, Premium PU Leder Mauspad, Beige, 80x40cm | Rutschfeste Schreibtisch Unterlage, Tischunterla",
+      "price": 12.6,
+      "reviews": 27359,
+      "rating": 4.6,
+      "rank": 7,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "27359 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0CB18K7B4",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Ywx2jYLKL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLPZ84DH",
+      "name": "LEGAMI - Gelschreiber mit dekorativem Tier Lovely Friends, rollt nicht, abnehmbares und wiederverwendbares Tier, 0,5 mm ",
+      "price": 719.0,
+      "reviews": 4478,
+      "rating": 4.8,
+      "rank": 8,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4478 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPZ84DH",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61po4BQRSJL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B007JTG9AK",
+      "name": "edding 3000 Permanentmarker - schwarz - 1 Stift - Universalmarker | Rundspitze 1,5-3 mm - schnell trocknender Permanent ",
+      "price": 475.0,
+      "reviews": 4058,
+      "rating": 4.8,
+      "rank": 9,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4058 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B007JTG9AK",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51dw5Y1hUGL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GGHH4VC5",
+      "name": "Häfft Familienplaner 2027 mit 5 Spalten - Wandkalender \"Blattgold\" | Mit Stickern, Feiertagen, Ferienterminen & Zusatzin",
+      "price": 9.24,
+      "reviews": 188,
+      "rating": 4.6,
+      "rank": 10,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "188 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0GGHH4VC5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/710LMGPXwAL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GV69Q3QZ",
+      "name": "Superplaner Farbenfroh - 4 Spalten 2027: bunter Familienkalender 22x45 cm mit 4 Spalten, Schulferien, Feiertagen & Notiz",
+      "price": 1312.0,
+      "reviews": 36,
+      "rating": 5.0,
+      "rank": 11,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "36 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0GV69Q3QZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Dq5O16HnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0DSW7R4VN",
+      "name": "WOLFBOX MegaFlow 50 Electric Air Duster, 110000 RPM, Cordless, 3-Gang | Mit Akku, für Computer, Tastatur, Haus, Outdoor,",
+      "price": 33.61,
+      "reviews": 16702,
+      "rating": 4.6,
+      "rank": 12,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "16702 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0DSW7R4VN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/713BEhBxXWL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0F1PCRDLG",
+      "name": "NEU: Easyprint Druckerpapier Kopierpapier 2500 Blatt 5 x 500 A4 Premium Hochweiß CIE 160 Testsieger PEFC zertifiziert",
+      "price": 1995.0,
+      "reviews": 1799,
+      "rating": 4.7,
+      "rank": 13,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1799 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0F1PCRDLG",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71HSzV7VBrL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00H8NUBY2",
+      "name": "Pelikan Tintenlöscher Super Pirat, Strichstärke B (breit), 6 Stück | Tintenkiller zum Löschen und Überschreiben",
+      "price": 5.29,
+      "reviews": 11822,
+      "rating": 4.7,
+      "rank": 14,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "11822 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B00H8NUBY2",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/712mV9U4EfL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B000OZKBTG",
+      "name": "STABILO - Dreikant-Buntstift - Trio dick kurz - 12er Pack - Mini - kleiner Buntstift",
+      "price": 4.28,
+      "reviews": 7022,
+      "rating": 4.6,
+      "rank": 15,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "7022 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B000OZKBTG",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81wjjljUCkL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00X0VOPJ8",
+      "name": "edding 400 Permanentmarker - schwarz - 1 Stift - feine Rundspitze 1 mm - wasserfest, schnell-trocknend - wischfest - für",
+      "price": 243.0,
+      "reviews": 3911,
+      "rating": 4.8,
+      "rank": 16,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "3911 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B00X0VOPJ8",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51kjEIXxmbL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0D98PTCN9",
+      "name": "AFIING Schreibtischunterlage aus PU Leder, Große Mausmatte, Rutschfest & Wasserdicht, Tischunterlage für Büro, Homeoffic",
+      "price": 9.28,
+      "reviews": 2388,
+      "rating": 4.6,
+      "rank": 17,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2388 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0D98PTCN9",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71BVnRDykUL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}
