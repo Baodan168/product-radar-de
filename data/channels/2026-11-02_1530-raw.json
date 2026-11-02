@@ -1,0 +1,348 @@
+{
+  "scan_date": "2026-11-02",
+  "scan_time": "15:30",
+  "scan_ts": "2026-11-02_1530",
+  "stats": {
+    "total_scanned": 17,
+    "passed": 8,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0DNHRW9CR",
+      "name": "Amazon Basics Neopren Hanteln Gewichte, Hantelset, 2er-Set, 1–5kg, Sechseckig, für Krafttraining und Fitnesskurse",
+      "price": 23.52,
+      "reviews": 32143,
+      "rating": 4.7,
+      "rank": 1,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "32143 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0DNHRW9CR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/718b0A68-EL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01F2OGJQM",
+      "name": "Fitgriff® Zughilfen (gepolstert) für Krafttraining, Bodybuilding, Fitness - Kreuzheben Gurte - Lifting Straps - für Frau",
+      "price": 8.39,
+      "reviews": 23841,
+      "rating": 4.6,
+      "rank": 2,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "23841 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B01F2OGJQM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81ZDizb0wEL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FS785WWX",
+      "name": "FISCHER Fahrrad Beleuchtung-Set Square, 90 Lumen, 40/20 Lux, Front- und Rückleuchte, Fahrradlicht mit USB-Ladefunktion, ",
+      "price": 12.6,
+      "reviews": 384,
+      "rating": 4.5,
+      "rank": 3,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "384 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0FS785WWX",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715rckiOpQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0B943PD7Y",
+      "name": "Fit-Flip Mikrofaser Handtuch schnelltrocknend für Fitness, Sport & Sauna",
+      "price": 15.12,
+      "reviews": 32298,
+      "rating": 4.6,
+      "rank": 4,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "32298 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0B943PD7Y",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71PBYgXx6bL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07BJG2XKZ",
+      "name": "Sparrow Trinkflasche 500ml/750ml/1L - BPA-frei Tritan Wasserflasche 1-Klick | Sportflasche, Auslaufsicher, Leicht, Spülm",
+      "price": 9.24,
+      "reviews": 45575,
+      "rating": 4.5,
+      "rank": 5,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "45575 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07BJG2XKZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/712KRHYehiL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07L9WLKZQ",
+      "name": "Gritin Fitnessbänder Widerstandsbänder mit 5 Stufen | Latex Fitnessband Resistance mit Deutscher Übungsanleitung & Trage",
+      "price": 9.24,
+      "reviews": 112916,
+      "rating": 4.4,
+      "rank": 6,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "112916 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B07L9WLKZQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/617NmwvU4tL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07CNRN566",
+      "name": "DANSI Fahrradleuchten-Set StVZO I LED-Fahrradlicht I Rad-Licht hell vorne",
+      "price": 9.24,
+      "reviews": 38666,
+      "rating": 4.3,
+      "rank": 7,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "38666 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B07CNRN566",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61CCfbU1IML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0D4Z7NM3Y",
+      "name": "OnMeto Fahrradlicht Set,IPX5 Wasserdicht Frontfahrrad Lampe Rücklicht Fahrrad licht,USB Typ-C Wiederaufladbares Fahrradl",
+      "price": 2399.0,
+      "reviews": 1301,
+      "rating": 4.3,
+      "rank": 8,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1301 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0D4Z7NM3Y",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61V60Uo5ZyL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CDPVQZ9J",
+      "name": "Antimi Fahrradleuchten-Set, StVZO-zugelassen Beleuchtungsset Led IPX5 Frontlicht + Rücklicht Fahrradlicht Set USB Typ C",
+      "price": 20.16,
+      "reviews": 8066,
+      "rating": 4.3,
+      "rank": 9,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "8066 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0CDPVQZ9J",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Rkrepr7NL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07113WZ15",
+      "name": "Fit-Flip Fitness Handtuch aus Mikrofaser kompakt und schnelltrocknend | mit Magnet und Reißverschluss Tasche, Fitnesshan",
+      "price": 19.32,
+      "reviews": 4312,
+      "rating": 4.4,
+      "rank": 10,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4312 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B07113WZ15",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/714DapP0gFL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0DR374D6C",
+      "name": "CAMPLORA Gaskocher für Gaskartuschen Campingkocher | 2,2 kW inkl. Sicherheitsabschaltung + Tragekoffer mit Piezozündung ",
+      "price": 2990.0,
+      "reviews": 319,
+      "rating": 4.6,
+      "rank": 11,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "319 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0DR374D6C",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81z4N1FKz0L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GP1ZD39T",
+      "name": "Sigg WMB ONE Top 2 Verschluss (One Size), Ersatzteile Trinkflaschen, einhändig bedienbarer & auslaufsicherer Verschluss ",
+      "price": 3.32,
+      "reviews": 516,
+      "rating": 4.1,
+      "rank": 12,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "516 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0GP1ZD39T",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41qkgL8eCmL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CM9J2FHV",
+      "name": "GYMERK Fitnessbänder Set 4er, 1.8M/2M Fitnessband, 4 Widerstandsstufen mit Übungsposter, Gymnastikband mit Tragetasche &",
+      "price": 1049.0,
+      "reviews": 2805,
+      "rating": 4.6,
+      "rank": 13,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2805 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0CM9J2FHV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71L9dz+zwML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0D1VP5HKM",
+      "name": "SPEEDAP Imprägnierspray 400 ml, für Textilien, Leder & Outdoor-Ausrüstung | Wasser- & schmutzabweisend, atmungsaktiv, rü",
+      "price": 895.0,
+      "reviews": 247,
+      "rating": 4.5,
+      "rank": 14,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "247 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0D1VP5HKM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Nur4Xz58L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0DDRBR1PW",
+      "name": "KIVY Trinkflasche 1l aus Tritan - Kohlensäure geeignet & Auslaufsicher | Für Sport, Schule & Büro - Sport Trinkflasche G",
+      "price": 15.96,
+      "reviews": 2719,
+      "rating": 4.6,
+      "rank": 15,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2719 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0DDRBR1PW",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81T6hdGOGYL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHNVLTVZ",
+      "name": "Milu Thermobecher Kaffee to go - 270ml, 390ml - 100% Auslaufsicher | Kaffeebecher, Trinkbecher aus Edelstahl - Autobeche",
+      "price": 16.76,
+      "reviews": 37,
+      "rating": 4.5,
+      "rank": 1,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "37 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHNVLTVZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/811UO4BYlsL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HJ54DW8P",
+      "name": "Pfandflaschen Sammelbehälter mit Decke,100L Pfandflaschen Behälter | , Pfandsammler Organizer and Altglas Aufbewahrung m",
+      "price": 1799.0,
+      "reviews": 12,
+      "rating": 4.6,
+      "rank": 2,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "12 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HJ54DW8P",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71ETtMTeTkL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "TikTok趋势",
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}
