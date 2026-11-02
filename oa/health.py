@@ -66,9 +66,10 @@ def _latest_scan_date(subdir: str, pattern: str):
         stamp = None
         try:
             data = json.loads(f.read_text(encoding='utf-8'))
+        except (json.JSONDecodeError, OSError):
+            data = None
+        if isinstance(data, dict):
             stamp = _parse(data.get('scan_date'), (data.get('scan_time') or '')[:5] or None)
-        except (json.JSONDecodeError, OSError, TypeError):
-            pass
         if stamp is None:
             m = DATE_IN_NAME.search(f.name)
             stamp = _parse(m.group(1)) if m else None
