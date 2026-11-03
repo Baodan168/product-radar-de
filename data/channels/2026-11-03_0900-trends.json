@@ -1,0 +1,345 @@
+{
+  "category_scores": {
+    "kitchen": 54,
+    "garden": 59,
+    "cleaning": 24,
+    "car": 72,
+    "office": 67,
+    "storage": 59,
+    "lighting": 87,
+    "pets": 100,
+    "sports": 45,
+    "crafts": 89,
+    "phone": 84,
+    "beauty": 37,
+    "kitchen_gadgets": 24,
+    "eco": 56,
+    "seasonal": 43,
+    "bedding": 4,
+    "bathroom": 24,
+    "home decor": 43,
+    "baby": 30,
+    "travel": 6
+  },
+  "category_evidence": {
+    "kitchen": [
+      "gadget",
+      "kitchen",
+      "mug",
+      "organiser",
+      "cup"
+    ],
+    "garden": [
+      "bbq",
+      "flower",
+      "patio",
+      "garden",
+      "bird",
+      "plant",
+      "outdoor",
+      "grill",
+      "solar"
+    ],
+    "cleaning": [
+      "mop",
+      "vacuum",
+      "sponge",
+      "cleaner"
+    ],
+    "car": [
+      "automotive",
+      "vehicle",
+      "car",
+      "organiser",
+      "motor"
+    ],
+    "office": [
+      "desk",
+      "pen",
+      "organiser",
+      "office"
+    ],
+    "storage": [
+      "drawer",
+      "basket",
+      "shelf",
+      "container",
+      "box",
+      "storage",
+      "organiser"
+    ],
+    "lighting": [
+      "light",
+      "lamp",
+      "night light",
+      "strip",
+      "fairy",
+      "led"
+    ],
+    "pets": [
+      "dog",
+      "pet",
+      "cat",
+      "toy",
+      "bed"
+    ],
+    "sports": [
+      "yoga",
+      "sport",
+      "fitness"
+    ],
+    "crafts": [
+      "tape",
+      "craft",
+      "sewing",
+      "art",
+      "stickers"
+    ],
+    "phone": [
+      "cable",
+      "case",
+      "phone",
+      "earbuds",
+      "ring light",
+      "stand",
+      "charger"
+    ],
+    "beauty": [
+      "hair",
+      "nail",
+      "makeup",
+      "organiser",
+      "skincare",
+      "mirror"
+    ],
+    "kitchen_gadgets": [
+      "kitchen gadget",
+      "measuring",
+      "slicer",
+      "timer"
+    ],
+    "eco": [
+      "organic",
+      "sustainable",
+      "eco",
+      "reusable"
+    ],
+    "seasonal": [
+      "halloween",
+      "birthday",
+      "christmas",
+      "gift"
+    ],
+    "bedding": [
+      "sheet",
+      "cushion"
+    ],
+    "bathroom": [
+      "toilet",
+      "mirror",
+      "shower"
+    ],
+    "home decor": [
+      "candle",
+      "vase",
+      "wall art",
+      "decor",
+      "mirror"
+    ],
+    "baby": [
+      "baby",
+      "kids",
+      "child"
+    ],
+    "travel": [
+      "travel"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "kitchen": 3,
+      "garden": 3,
+      "cleaning": 1,
+      "car": 3,
+      "office": 3,
+      "storage": 2,
+      "lighting": 3,
+      "pets": 7,
+      "sports": 3,
+      "crafts": 6,
+      "phone": 7,
+      "beauty": 6,
+      "kitchen_gadgets": 1,
+      "eco": 4,
+      "seasonal": 2,
+      "bedding": 1
+    },
+    "dealabs": {
+      "pets": 6,
+      "crafts": 4,
+      "bathroom": 1,
+      "cleaning": 1,
+      "car": 3,
+      "office": 2,
+      "storage": 2,
+      "lighting": 4,
+      "sports": 2,
+      "phone": 3,
+      "home decor": 1,
+      "eco": 2,
+      "kitchen": 1,
+      "baby": 1
+    },
+    "temu": {
+      "car": 3,
+      "office": 5,
+      "storage": 4,
+      "lighting": 3,
+      "pets": 8,
+      "sports": 3,
+      "crafts": 5,
+      "bedding": 1,
+      "beauty": 1,
+      "eco": 4,
+      "kitchen": 1,
+      "garden": 3,
+      "cleaning": 3,
+      "phone": 3
+    },
+    "etsy": {
+      "kitchen": 6,
+      "garden": 5,
+      "bathroom": 3,
+      "car": 3,
+      "office": 5,
+      "storage": 5,
+      "lighting": 6,
+      "pets": 8,
+      "sports": 1,
+      "crafts": 10,
+      "phone": 9,
+      "beauty": 1,
+      "home decor": 8,
+      "baby": 3,
+      "eco": 2,
+      "seasonal": 4,
+      "travel": 1
+    },
+    "youtube": {
+      "kitchen": 2,
+      "car": 3,
+      "storage": 4,
+      "lighting": 6,
+      "pets": 7,
+      "crafts": 3,
+      "phone": 5,
+      "eco": 2,
+      "office": 2,
+      "sports": 1,
+      "baby": 2,
+      "garden": 2,
+      "bathroom": 1,
+      "beauty": 1,
+      "home decor": 3,
+      "kitchen_gadgets": 1,
+      "seasonal": 2
+    },
+    "google_trends": {
+      "kitchen": 1,
+      "garden": 4,
+      "car": 5,
+      "office": 3,
+      "storage": 2,
+      "lighting": 5,
+      "pets": 6,
+      "sports": 3,
+      "crafts": 3,
+      "travel": 2,
+      "phone": 3,
+      "beauty": 1,
+      "eco": 3,
+      "seasonal": 1
+    },
+    "reddit": {
+      "car": 3,
+      "office": 3,
+      "pets": 3,
+      "crafts": 3,
+      "seasonal": 1,
+      "kitchen": 1,
+      "phone": 1
+    },
+    "market_intel": {
+      "kitchen": 6,
+      "garden": 7,
+      "car": 8,
+      "office": 5,
+      "lighting": 3,
+      "pets": 9,
+      "sports": 3,
+      "crafts": 6,
+      "phone": 6,
+      "eco": 5,
+      "storage": 5,
+      "beauty": 2,
+      "baby": 2,
+      "kitchen_gadgets": 3,
+      "seasonal": 2
+    }
+  },
+  "cross_validated": {
+    "kitchen": 8,
+    "garden": 6,
+    "cleaning": 3,
+    "car": 8,
+    "office": 8,
+    "storage": 7,
+    "lighting": 7,
+    "pets": 8,
+    "sports": 7,
+    "crafts": 8,
+    "phone": 8,
+    "beauty": 6,
+    "kitchen_gadgets": 3,
+    "eco": 7,
+    "seasonal": 6,
+    "bathroom": 3,
+    "home decor": 3,
+    "baby": 4
+  },
+  "demand_keywords": [
+    "3d wall art",
+    "accessoires mode et d",
+    "achetez des cadeaux faits main",
+    "achetez maintenant",
+    "affordable fashion",
+    "ajouter des annonces de produits",
+    "along with a variety of",
+    "amazon f",
+    "amazon lance",
+    "amazon vs",
+    "are these",
+    "arrete de scroller si tu...",
+    "artisanat fran",
+    "avant/après",
+    "avec un potentiel de marketing",
+    "bassin de jardin",
+    "bassins de jardin",
+    "behind-the-scenes",
+    "bleu marine",
+    "bleu roi",
+    "bois massif",
+    "booster les vid",
+    "boucles d",
+    "c'est mon micro préféré à moins de 30 €",
+    "cadeau",
+    "cadeau original",
+    "cadeaux en livestream",
+    "cadeaux enfant",
+    "cascade de jardin solaire",
+    "cascade pour jardin tendance"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 603517
+}
