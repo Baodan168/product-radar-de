@@ -1,0 +1,334 @@
+{
+  "category_scores": {
+    "kitchen": 58,
+    "garden": 61,
+    "cleaning": 29,
+    "car": 61,
+    "office": 66,
+    "storage": 61,
+    "lighting": 92,
+    "pets": 100,
+    "sports": 49,
+    "crafts": 100,
+    "phone": 78,
+    "beauty": 35,
+    "kitchen_gadgets": 29,
+    "eco": 78,
+    "seasonal": 41,
+    "home decor": 52,
+    "baby": 41,
+    "bathroom": 32,
+    "travel": 35,
+    "bedding": 9
+  },
+  "category_evidence": {
+    "kitchen": [
+      "cup",
+      "gadget",
+      "kitchen",
+      "mug"
+    ],
+    "garden": [
+      "bird",
+      "plant",
+      "flower",
+      "patio",
+      "outdoor",
+      "garden"
+    ],
+    "cleaning": [
+      "cleaner",
+      "cleaning",
+      "vacuum",
+      "sponge"
+    ],
+    "car": [
+      "vehicle",
+      "car",
+      "motor",
+      "automotive"
+    ],
+    "office": [
+      "pen",
+      "office",
+      "desk"
+    ],
+    "storage": [
+      "basket",
+      "box",
+      "container",
+      "storage",
+      "drawer"
+    ],
+    "lighting": [
+      "light",
+      "led",
+      "night light",
+      "lamp",
+      "strip"
+    ],
+    "pets": [
+      "bed",
+      "cat",
+      "toy",
+      "pet"
+    ],
+    "sports": [
+      "fitness",
+      "sport"
+    ],
+    "crafts": [
+      "craft",
+      "stickers",
+      "sewing",
+      "tape",
+      "art"
+    ],
+    "phone": [
+      "case",
+      "stand",
+      "earbuds",
+      "phone",
+      "cable",
+      "charger",
+      "ring light"
+    ],
+    "beauty": [
+      "skincare",
+      "nail",
+      "makeup",
+      "mirror",
+      "hair"
+    ],
+    "kitchen_gadgets": [
+      "kitchen gadget",
+      "measuring",
+      "slicer",
+      "timer"
+    ],
+    "eco": [
+      "reusable",
+      "eco",
+      "sustainable",
+      "organic"
+    ],
+    "seasonal": [
+      "halloween",
+      "gift",
+      "christmas",
+      "birthday"
+    ],
+    "home decor": [
+      "candle",
+      "decor",
+      "wall art",
+      "mirror",
+      "vase"
+    ],
+    "baby": [
+      "kids",
+      "child",
+      "baby"
+    ],
+    "bathroom": [
+      "bathroom",
+      "bath",
+      "toilet",
+      "mirror",
+      "shower"
+    ],
+    "travel": [
+      "packing",
+      "travel"
+    ],
+    "bedding": [
+      "throw",
+      "pillow",
+      "sheet"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "kitchen": 2,
+      "garden": 2,
+      "cleaning": 2,
+      "car": 2,
+      "office": 2,
+      "storage": 2,
+      "lighting": 1,
+      "pets": 5,
+      "sports": 3,
+      "crafts": 4,
+      "phone": 5,
+      "beauty": 4,
+      "kitchen_gadgets": 1,
+      "eco": 4,
+      "seasonal": 1
+    },
+    "dealabs": {
+      "crafts": 3,
+      "eco": 2,
+      "pets": 1,
+      "home decor": 1,
+      "kitchen": 1,
+      "garden": 1,
+      "office": 1,
+      "sports": 1,
+      "baby": 1
+    },
+    "temu": {
+      "garden": 1,
+      "lighting": 4,
+      "pets": 6,
+      "crafts": 4,
+      "home decor": 1,
+      "eco": 3,
+      "kitchen": 1,
+      "bathroom": 3,
+      "cleaning": 2,
+      "car": 1,
+      "office": 3,
+      "storage": 1,
+      "sports": 1,
+      "phone": 1,
+      "baby": 2
+    },
+    "etsy": {
+      "crafts": 9,
+      "travel": 2,
+      "home decor": 5,
+      "baby": 3,
+      "eco": 2,
+      "seasonal": 2,
+      "kitchen": 3,
+      "garden": 4,
+      "bathroom": 2,
+      "car": 2,
+      "office": 2,
+      "storage": 3,
+      "lighting": 4,
+      "pets": 5,
+      "bedding": 1,
+      "phone": 5
+    },
+    "youtube": {
+      "kitchen": 2,
+      "car": 2,
+      "storage": 4,
+      "lighting": 5,
+      "pets": 6,
+      "sports": 1,
+      "crafts": 3,
+      "travel": 2,
+      "eco": 2,
+      "cleaning": 1,
+      "office": 2,
+      "garden": 2,
+      "bathroom": 1,
+      "phone": 3,
+      "beauty": 2,
+      "home decor": 3,
+      "baby": 1,
+      "kitchen_gadgets": 1,
+      "seasonal": 2
+    },
+    "google_trends": {
+      "crafts": 3,
+      "travel": 3,
+      "eco": 3,
+      "car": 3,
+      "office": 2,
+      "storage": 1,
+      "lighting": 3,
+      "pets": 3,
+      "sports": 2,
+      "phone": 2,
+      "garden": 3
+    },
+    "reddit": {
+      "kitchen": 2,
+      "office": 2,
+      "crafts": 3,
+      "eco": 1,
+      "storage": 1,
+      "lighting": 1,
+      "pets": 1,
+      "sports": 1,
+      "car": 1
+    },
+    "market_intel": {
+      "kitchen": 4,
+      "garden": 3,
+      "car": 5,
+      "office": 4,
+      "lighting": 3,
+      "pets": 8,
+      "sports": 3,
+      "crafts": 5,
+      "phone": 6,
+      "eco": 5,
+      "storage": 4,
+      "bedding": 2,
+      "beauty": 1,
+      "baby": 2,
+      "kitchen_gadgets": 3,
+      "seasonal": 2
+    }
+  },
+  "cross_validated": {
+    "kitchen": 7,
+    "garden": 7,
+    "cleaning": 3,
+    "car": 7,
+    "office": 8,
+    "storage": 7,
+    "lighting": 7,
+    "pets": 8,
+    "sports": 7,
+    "crafts": 8,
+    "phone": 6,
+    "beauty": 3,
+    "kitchen_gadgets": 3,
+    "eco": 8,
+    "seasonal": 4,
+    "home decor": 4,
+    "baby": 5,
+    "bathroom": 3,
+    "travel": 3
+  },
+  "demand_keywords": [
+    "3d wall art",
+    "accessoires mode et d",
+    "achetez des cadeaux faits main",
+    "achetez maintenant",
+    "affordable fashion",
+    "along with a variety of",
+    "amazon annonce un plan d",
+    "amazon avait d",
+    "amazon blocks sales of competitor",
+    "amazon contre",
+    "amazon cr",
+    "amazon f",
+    "amazon fait un cadeau",
+    "amazon lance",
+    "amazon ne dit pas qu",
+    "amazon va concurrencer temu",
+    "are these",
+    "arrete de scroller si tu...",
+    "artisanat fran",
+    "avant/après",
+    "avec un potentiel de marketing",
+    "behind-the-scenes",
+    "best countries for backpacking in",
+    "bleu marine",
+    "bleu roi",
+    "bon plan",
+    "bonne nouvelle chez",
+    "bons plans",
+    "booster les vid",
+    "c'est mon micro préféré à moins de 30 €"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 376957
+}
