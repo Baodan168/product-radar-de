@@ -1,0 +1,350 @@
+{
+  "category_scores": {
+    "kitchen": 60,
+    "garden": 64,
+    "car": 72,
+    "office": 78,
+    "storage": 62,
+    "lighting": 88,
+    "pets": 100,
+    "sports": 48,
+    "crafts": 95,
+    "phone": 84,
+    "beauty": 33,
+    "kitchen_gadgets": 27,
+    "eco": 62,
+    "seasonal": 44,
+    "cleaning": 25,
+    "bathroom": 27,
+    "home decor": 48,
+    "baby": 31,
+    "bedding": 25,
+    "travel": 23
+  },
+  "category_evidence": {
+    "kitchen": [
+      "cup",
+      "gadget",
+      "organiser",
+      "mug",
+      "baking",
+      "kitchen"
+    ],
+    "garden": [
+      "flower",
+      "bird",
+      "outdoor",
+      "solar",
+      "grill",
+      "plant",
+      "patio",
+      "garden"
+    ],
+    "car": [
+      "organiser",
+      "vehicle",
+      "motor",
+      "automotive",
+      "car"
+    ],
+    "office": [
+      "desk",
+      "laptop",
+      "organiser",
+      "pen",
+      "office"
+    ],
+    "storage": [
+      "shelf",
+      "container",
+      "storage",
+      "organiser",
+      "box",
+      "drawer",
+      "basket"
+    ],
+    "lighting": [
+      "led",
+      "light",
+      "lamp",
+      "fairy",
+      "strip",
+      "night light"
+    ],
+    "pets": [
+      "pet",
+      "toy",
+      "bed",
+      "dog",
+      "cat"
+    ],
+    "sports": [
+      "sport",
+      "fitness",
+      "yoga"
+    ],
+    "crafts": [
+      "craft",
+      "art",
+      "tape",
+      "sewing",
+      "stickers"
+    ],
+    "phone": [
+      "charger",
+      "stand",
+      "phone",
+      "case",
+      "earbuds",
+      "ring light"
+    ],
+    "beauty": [
+      "makeup",
+      "mirror",
+      "hair",
+      "organiser",
+      "skincare"
+    ],
+    "kitchen_gadgets": [
+      "measuring",
+      "slicer",
+      "timer",
+      "kitchen gadget"
+    ],
+    "eco": [
+      "eco",
+      "organic",
+      "reusable",
+      "sustainable"
+    ],
+    "seasonal": [
+      "christmas",
+      "birthday",
+      "halloween",
+      "gift"
+    ],
+    "cleaning": [
+      "mop",
+      "cleaner",
+      "cleaning",
+      "vacuum"
+    ],
+    "bathroom": [
+      "shower",
+      "toilet",
+      "mirror"
+    ],
+    "home decor": [
+      "mirror",
+      "decor",
+      "candle",
+      "wall art",
+      "vase"
+    ],
+    "baby": [
+      "baby",
+      "child",
+      "kids"
+    ],
+    "bedding": [
+      "throw",
+      "pillow",
+      "cushion",
+      "sheet"
+    ],
+    "travel": [
+      "travel"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "kitchen": 3,
+      "garden": 2,
+      "car": 2,
+      "office": 3,
+      "storage": 1,
+      "lighting": 1,
+      "pets": 5,
+      "sports": 3,
+      "crafts": 4,
+      "phone": 4,
+      "beauty": 3,
+      "kitchen_gadgets": 1,
+      "eco": 4,
+      "seasonal": 2,
+      "cleaning": 1
+    },
+    "dealabs": {
+      "crafts": 4,
+      "bathroom": 1,
+      "cleaning": 1,
+      "car": 3,
+      "office": 3,
+      "storage": 2,
+      "lighting": 3,
+      "pets": 4,
+      "phone": 4,
+      "home decor": 2,
+      "eco": 2,
+      "kitchen": 1,
+      "sports": 1,
+      "baby": 1
+    },
+    "temu": {
+      "car": 3,
+      "office": 5,
+      "storage": 4,
+      "lighting": 3,
+      "pets": 7,
+      "sports": 3,
+      "crafts": 5,
+      "bedding": 1,
+      "beauty": 1,
+      "eco": 4,
+      "kitchen": 1,
+      "cleaning": 3,
+      "phone": 3,
+      "garden": 2
+    },
+    "etsy": {
+      "kitchen": 4,
+      "garden": 7,
+      "bathroom": 4,
+      "car": 3,
+      "office": 5,
+      "storage": 5,
+      "lighting": 7,
+      "pets": 9,
+      "sports": 2,
+      "crafts": 11,
+      "travel": 2,
+      "phone": 7,
+      "beauty": 1,
+      "home decor": 8,
+      "baby": 4,
+      "eco": 2,
+      "seasonal": 4,
+      "bedding": 1
+    },
+    "youtube": {
+      "car": 2,
+      "office": 3,
+      "storage": 3,
+      "lighting": 6,
+      "pets": 5,
+      "crafts": 3,
+      "travel": 1,
+      "eco": 2,
+      "seasonal": 3,
+      "kitchen": 3,
+      "sports": 1,
+      "phone": 4,
+      "baby": 1,
+      "kitchen_gadgets": 2,
+      "garden": 2,
+      "bathroom": 1,
+      "beauty": 1,
+      "home decor": 3
+    },
+    "google_trends": {
+      "kitchen": 1,
+      "garden": 4,
+      "car": 5,
+      "office": 3,
+      "storage": 2,
+      "lighting": 4,
+      "pets": 7,
+      "sports": 3,
+      "crafts": 3,
+      "phone": 5,
+      "beauty": 1,
+      "eco": 3,
+      "travel": 1
+    },
+    "reddit": {
+      "kitchen": 3,
+      "office": 3,
+      "lighting": 1,
+      "pets": 3,
+      "crafts": 3,
+      "eco": 1,
+      "car": 2,
+      "phone": 1
+    },
+    "market_intel": {
+      "kitchen": 6,
+      "garden": 7,
+      "car": 8,
+      "office": 6,
+      "lighting": 3,
+      "pets": 9,
+      "sports": 3,
+      "crafts": 6,
+      "phone": 6,
+      "eco": 5,
+      "storage": 6,
+      "beauty": 2,
+      "bedding": 2,
+      "baby": 2,
+      "kitchen_gadgets": 3,
+      "seasonal": 2
+    }
+  },
+  "cross_validated": {
+    "kitchen": 8,
+    "garden": 6,
+    "car": 8,
+    "office": 8,
+    "storage": 7,
+    "lighting": 8,
+    "pets": 8,
+    "sports": 7,
+    "crafts": 8,
+    "phone": 8,
+    "beauty": 6,
+    "kitchen_gadgets": 3,
+    "eco": 8,
+    "seasonal": 4,
+    "cleaning": 3,
+    "bathroom": 3,
+    "home decor": 3,
+    "baby": 4,
+    "bedding": 3,
+    "travel": 3
+  },
+  "demand_keywords": [
+    "3d wall art",
+    "accessoires mode et d",
+    "achetez des cadeaux faits main",
+    "achetez maintenant",
+    "add to",
+    "affordable fashion",
+    "ajouter des annonces de produits",
+    "all petite clothing",
+    "along with a variety of",
+    "amazon avait d",
+    "amazon f",
+    "amazon fall fashion haul",
+    "amazon lance",
+    "amazon ne dit pas qu",
+    "amazon s",
+    "are these",
+    "arrete de scroller si tu...",
+    "artisanat fran",
+    "avant/après",
+    "avec un potentiel de marketing",
+    "bassin de jardin",
+    "bassins de jardin",
+    "behind-the-scenes",
+    "bleu marine",
+    "bleu roi",
+    "bois massif",
+    "bon plan",
+    "booster les vid",
+    "boucles d",
+    "c'est mon micro préféré à moins de 30 €"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 557460
+}
