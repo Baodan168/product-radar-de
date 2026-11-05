@@ -1,0 +1,416 @@
+{
+  "scan_date": "2026-11-05",
+  "scan_time": "15:30",
+  "scan_ts": "2026-11-05_1530",
+  "stats": {
+    "total_scanned": 21,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0HMX56JSL",
+      "name": "BERGSTEIN® Scheibenenteiser Spray [6x500 ml] Enteiserspray Auto -30 °C | Scheibenenteiser Spray | Enteiserspray Auto | E",
+      "price": 2397.0,
+      "reviews": 12,
+      "rating": 5.0,
+      "rank": 1,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "12 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMX56JSL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81TheZJ2+uL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMS49BT4",
+      "name": "Felgenbaum für Autoreifen - Reifenständer für 4 Reifen, Reifenbaum Fahrbar | Felgenständer inkl. 8 Reifenmarkierer - Bel",
+      "price": 2699.0,
+      "reviews": 4,
+      "rating": 2.2,
+      "rank": 2,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 Bewertungen, 2.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMS49BT4",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Hw7VTT2XL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H5BD5C37",
+      "name": "2026 Version Frontscheibenabdeckung Winter, 700D wasserdichte & EIS Schnee Windschutzscheibenabdeckung Auto, deckt Seite",
+      "price": 24.36,
+      "reviews": 222,
+      "rating": 4.3,
+      "rank": 3,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "222 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0H5BD5C37",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81qM8XH091L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMQYK6KM",
+      "name": "Magnetischer Scheibenreiniger Auto, Doppelter Magnetischer Windschutzscheiben Reiniger, Dual Side Fensterreiniger für St",
+      "price": 2598.0,
+      "reviews": 4,
+      "rating": 3.0,
+      "rank": 4,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 Bewertungen, 3.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMQYK6KM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71eOaU3KsaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H8P23GD1",
+      "name": "BIRDDIE 148x110cm Frontscheibenabdeckung Winter Auto Frostschutz Abdeckung | Mit Rückspiegelabdeckung Frostabdeckung Son",
+      "price": 13.41,
+      "reviews": 34,
+      "rating": 4.4,
+      "rank": 5,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "34 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H8P23GD1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81dPu14NBcL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPXHHCGB",
+      "name": "Weihnachtsmann Taschentuchspender, Lustige Taschentücher Box 30 cm | Plüsch Santa Taschentuchbox zum Aufhängen, für Auto",
+      "price": 99.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 6,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HPXHHCGB",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/611P42gMsGL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HNTKRVT4",
+      "name": "Magnetischer Scheibenreiniger Auto, Professional Fensterputzer Magnetisch | Doppelseitiges Magnetdesign, Streifenfreie R",
+      "price": 2299.0,
+      "reviews": 3,
+      "rating": 5.0,
+      "rank": 7,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HNTKRVT4",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/711k0AyfaAL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HF5F4DT3",
+      "name": "OOONO Co-Driver NO2 Plus Aluminium – Optimierter Co-Driver fürs Auto Warnt vor Tempo-Kontrollen und Gefahrenstellen – Wi",
+      "price": 5495.0,
+      "reviews": 54687,
+      "rating": 4.3,
+      "rank": 8,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "54687 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0HF5F4DT3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61BfRGnqpUL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6X26Y6H",
+      "name": "Frontscheibe Abdeckung Auto Winter, gegen EIS, Schnee, Frost Sonnenschutz | 4-lagige Extra Dick Frostschutz",
+      "price": 12.13,
+      "reviews": 28,
+      "rating": 4.8,
+      "rank": 9,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "28 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6X26Y6H",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/818IjqUUYrL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HK3R2S93",
+      "name": "Sauberkugel® Saubergeist Innenraumreiniger Auto für Zwischenräume | Handgefertigt für Lüftungsschlitze, Getränkehalter, ",
+      "price": 1495.0,
+      "reviews": 143,
+      "rating": 4.2,
+      "rank": 10,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "143 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0HK3R2S93",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716F+9pS-zL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HK86GBTL",
+      "name": "zentrontx Auto Heizung 12V 200W KFZ Heizlüfter, Tragbare Scheibenheizung Defroster mit 360° Drehbasis, 2-in-1 Heizen und",
+      "price": 2299.0,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 11,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HK86GBTL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71iuF9k-OoL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H9LGZLZ5",
+      "name": "Parkturon Elektronische Parkscheibe mit Zulassung, Automatische Parkscheibe | Automatische Zeiteinstellung, Automatische",
+      "price": 1879.0,
+      "reviews": 69,
+      "rating": 4.8,
+      "rank": 12,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "69 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H9LGZLZ5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71JXu3uvgTL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HCJGFNCL",
+      "name": "EzGoGo Typ 2 Ladekabel Schuko 3,7kW 6,1m, 6-16A, EV Ladegerät | Ladekabel Auto, Einstellbare Leistung & Ladezeit, IP65 W",
+      "price": 78.56,
+      "reviews": 86,
+      "rating": 4.8,
+      "rank": 13,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "86 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HCJGFNCL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71BGagxysjL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6HJNG2V",
+      "name": "moveland Reifentaschen 18-22 Zoll, 600D & 210D Oxford-Gewebe, 4er-Set | Reißfeste Keep Clean Reifenschutzhüllen und Reif",
+      "price": 2659.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 14,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0H6HJNG2V",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81HnHB+VVLL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HQ6JTL2B",
+      "name": "Weihnachtsmann Taschentuchspender Lustigem Design 30 cm (Weihnachtlich 15) | Zum Aufhängen, Für Auto Autositz & Zuhause,",
+      "price": 1789.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 15,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HQ6JTL2B",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71fwCyaD-PL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HN2GH4N5",
+      "name": "ROBBYROB Scheibenfrostschutz Konzentrat 3 x 5 L bis -60 °C – Winter | Für Auto & Scheibenwaschanlage – polycarbonatvertr",
+      "price": 2559.0,
+      "reviews": 7,
+      "rating": 5.0,
+      "rank": 16,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "7 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HN2GH4N5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71w6Kyig0BL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H5R2CGQ1",
+      "name": "Nokwocy 5er Pack warnwesten Auto, Reflektierende Warnweste gelb & Sicherheitsweste für Erwachsene, Praktische Warnweste ",
+      "price": 7.99,
+      "reviews": 56,
+      "rating": 4.4,
+      "rank": 17,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "56 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H5R2CGQ1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Gq3w+-KlL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HDYYKQP8",
+      "name": "Ultraschall Marderschreck Auto, Marderabwehr für 12V Autobatterie, Automatischer Marderschutz für den Motorraum mit wech",
+      "price": 16.8,
+      "reviews": 16,
+      "rating": 4.6,
+      "rank": 18,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "16 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HDYYKQP8",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71KtDnU4gBL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H952SYY3",
+      "name": "VulpesGoods Marderschreck Auto für Innen & Außen - Marderabwehr Batterie | Marderschrecker Ultraschall [Wiederaufladbar]",
+      "price": 3995.0,
+      "reviews": 9,
+      "rating": 4.7,
+      "rank": 19,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "9 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0H952SYY3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81jJu6e+FxL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HL8JMTT3",
+      "name": "Latava Ölsprüher für Speiseöl, UV- Schutz Glas Sprühflasche Öl, 100% BPA frei Öl Zerstäuber Küche Ölsprühflasche Heißluf",
+      "price": 7.99,
+      "reviews": 11,
+      "rating": 5.0,
+      "rank": 1,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "11 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HL8JMTT3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61EMt3723RL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHD6SSB9",
+      "name": "Towkom Glaswasserkocher 1,8 L, 2200 W elektrischer Wasserkocher aus durchsichtigem Borosilikatglas, mit LED-Beleuchtung,",
+      "price": 15.96,
+      "reviews": 7,
+      "rating": 4.8,
+      "rank": 2,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "7 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHD6SSB9",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71gkrcCCDjL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}
