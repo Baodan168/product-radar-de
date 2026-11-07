@@ -1,0 +1,1048 @@
+{
+  "scan_date": "2026-11-07",
+  "scan_time": "09:00",
+  "scan_ts": "2026-11-07_0900",
+  "stats": {
+    "total_scanned": 158,
+    "passed_filter": 12,
+    "rejected": 144,
+    "channels": {
+      "keyword_search": 12,
+      "multi_source": 12
+    },
+    "detail_reject": {},
+    "theme_trimmed": [
+      {
+        "asin": "B0FJF7JXWN",
+        "name": "Gesponserte Anzeige – 44er Weihnachtskugeln Kunststoff Gold Silber Set,3/6cm Weihnachtskugeln Bruchsicher Christbaumkuge"
+      },
+      {
+        "asin": "B0H7984BBK",
+        "name": "Gesponserte Anzeige – Weihnachtskugeln Kunststoff Klein 6cm - 16 STK Christbaumkugeln Rot Bruchsichere - Christbaumschmu"
+      }
+    ],
+    "trend_categories": {},
+    "supply_demand": {},
+    "divergences": {
+      "kitchen": {
+        "current_heat": 59,
+        "previous_heat": 58,
+        "heat_change_pct": 1.7,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "garden": {
+        "current_heat": 61,
+        "previous_heat": 64,
+        "heat_change_pct": -4.7,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "car": {
+        "current_heat": 67,
+        "previous_heat": 70,
+        "heat_change_pct": -4.3,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "office": {
+        "current_heat": 71,
+        "previous_heat": 74,
+        "heat_change_pct": -4.1,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "storage": {
+        "current_heat": 55,
+        "previous_heat": 60,
+        "heat_change_pct": -8.3,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "lighting": {
+        "current_heat": 86,
+        "previous_heat": 84,
+        "heat_change_pct": 2.4,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "pets": {
+        "current_heat": 100,
+        "previous_heat": 100,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "sports": {
+        "current_heat": 44,
+        "previous_heat": 44,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "crafts": {
+        "current_heat": 88,
+        "previous_heat": 91,
+        "heat_change_pct": -3.3,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "phone": {
+        "current_heat": 80,
+        "previous_heat": 88,
+        "heat_change_pct": -9.1,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "beauty": {
+        "current_heat": 36,
+        "previous_heat": 33,
+        "heat_change_pct": 9.1,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "kitchen_gadgets": {
+        "current_heat": 4,
+        "previous_heat": 6,
+        "heat_change_pct": -33.3,
+        "direction": "falling",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "eco": {
+        "current_heat": 61,
+        "previous_heat": 64,
+        "heat_change_pct": -4.7,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "seasonal": {
+        "current_heat": 40,
+        "previous_heat": 35,
+        "heat_change_pct": 14.3,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "bathroom": {
+        "current_heat": 32,
+        "previous_heat": 31,
+        "heat_change_pct": 3.2,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "bedding": {
+        "current_heat": 25,
+        "previous_heat": 25,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "baby": {
+        "current_heat": 28,
+        "previous_heat": 31,
+        "heat_change_pct": -9.7,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "cleaning": {
+        "current_heat": 27,
+        "previous_heat": 27,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "home decor": {
+        "current_heat": 46,
+        "previous_heat": 44,
+        "heat_change_pct": 4.5,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      },
+      "travel": {
+        "current_heat": 23,
+        "previous_heat": 23,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-06_0900",
+          "2026-11-06_1530"
+        ]
+      }
+    },
+    "gap_opportunities": 0
+  },
+  "products": [
+    {
+      "asin": "B0H759SGG3",
+      "name": "Weihnachtskugeln 40 Stücke Kunststoff Ornaments Baumschmuck Rot Gold Deko | Weihnachtsdeko Christbaumkugeln mit Kugeln u",
+      "price": 10.71,
+      "reviews": 9,
+      "rating": 5.0,
+      "rank": 8,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "9 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0H759SGG3",
+      "image_url": "https://m.media-amazon.com/images/I/81MlGCAfxmL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "weihnachtskugeln set",
+      "festival_event": "圣诞节（Weihnachten）",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-11-08",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞节（Weihnachten）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.25,
+      "net_profit": 2.68,
+      "cost_breakdown": {
+        "vat": 2.14,
+        "commission": 1.61,
+        "fba": 2.2,
+        "ads": 1.07,
+        "returns": 0.21,
+        "sourcing": 0.8,
+        "total_cost": 8.03
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 9,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-02",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0H8XRTKY7",
+      "name": "Gesponserte Anzeige – 30 Stück Weihnachtskugeln Set Kunststoff Christbaumschmuck mit Band | Verschiedene Formen, bruchsi",
+      "price": 11.82,
+      "reviews": 5,
+      "rating": 3.9,
+      "rank": 13,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "5 Bewertungen, 3.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0H8XRTKY7",
+      "image_url": "https://m.media-amazon.com/images/I/81XZCAtVtuL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "weihnachtskugeln set",
+      "festival_event": "圣诞节（Weihnachten）",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-11-08",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞节（Weihnachten）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.276,
+      "net_profit": 3.26,
+      "cost_breakdown": {
+        "vat": 2.36,
+        "commission": 1.77,
+        "fba": 2.2,
+        "ads": 1.18,
+        "returns": 0.24,
+        "sourcing": 0.8,
+        "total_cost": 8.56
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 6,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🌊 蓝海": 15,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-07",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0H7BZKLZP",
+      "name": "40er Set Weihnachtskugeln Rot Weiß, Christbaumkugeln Weihnachtsbaumschmuck | Weihnachtskugeln Klein & Sterne & Herz,Chri",
+      "price": 10.92,
+      "reviews": 9,
+      "rating": 4.4,
+      "rank": 15,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "9 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7BZKLZP",
+      "image_url": "https://m.media-amazon.com/images/I/811FdFJpV5L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "weihnachtskugeln set",
+      "festival_event": "圣诞节（Weihnachten）",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-11-08",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞节（Weihnachten）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.255,
+      "net_profit": 2.79,
+      "cost_breakdown": {
+        "vat": 2.18,
+        "commission": 1.64,
+        "fba": 2.2,
+        "ads": 1.09,
+        "returns": 0.22,
+        "sourcing": 0.8,
+        "total_cost": 8.13
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -4,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🌊 蓝海": 15,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-04",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B08P1WJYW5",
+      "name": "Ltsbaed 4 Stück Strohkränze, Strohkranz Dekokranz, Strohrömer Blumenkranz | Naturkranz;Deko Türkranz Rohling;für Wohnacc",
+      "price": 13.43,
+      "reviews": 100,
+      "rating": 3.6,
+      "rank": 7,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "100 Bewertungen, 3.6★",
+      "amazon_url": "https://www.amazon.de/dp/B08P1WJYW5",
+      "image_url": "https://m.media-amazon.com/images/I/81BGedQ4v8L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "adventskranz rohling",
+      "festival_event": "圣诞节（Weihnachten）",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-11-08",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞节（Weihnachten）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.307,
+      "net_profit": 4.12,
+      "cost_breakdown": {
+        "vat": 2.69,
+        "commission": 2.01,
+        "fba": 2.2,
+        "ads": 1.34,
+        "returns": 0.27,
+        "sourcing": 0.8,
+        "total_cost": 9.31
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 8,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "💰 高利润": 8,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-07",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0FNMVZDJJ",
+      "name": "Adventskranz Rohling 4 Stück,Kranz Rohling,15/20/25/30cm,Weinreben Kränze Für Adventskranz Deko,Strohkranz Rohling, Türk",
+      "price": 11.76,
+      "reviews": 11,
+      "rating": 3.8,
+      "rank": 1,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "11 Bewertungen, 3.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0FNMVZDJJ",
+      "image_url": "https://m.media-amazon.com/images/I/81lF2p7Xx-L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "adventskranz rohling",
+      "festival_event": "圣诞节（Weihnachten）",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-11-08",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞节（Weihnachten）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.275,
+      "net_profit": 3.23,
+      "cost_breakdown": {
+        "vat": 2.35,
+        "commission": 1.76,
+        "fba": 2.2,
+        "ads": 1.18,
+        "returns": 0.24,
+        "sourcing": 0.8,
+        "total_cost": 8.53
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -4,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🌊 蓝海": 15,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-06",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0DJG2N6SR",
+      "name": "CREATIV green künstlicher Tannen-Kranz 30 cm I Weihnachtskranz mit 76 naturgetreuen Ästen I hochwertiger Tannen-Weihnach",
+      "price": 11.34,
+      "reviews": 83,
+      "rating": 4.5,
+      "rank": 26,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "83 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0DJG2N6SR",
+      "image_url": "https://m.media-amazon.com/images/I/81B4RBrR2NL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "adventskranz rohling",
+      "festival_event": "圣诞节（Weihnachten）",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-11-08",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞节（Weihnachten）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.265,
+      "net_profit": 3.01,
+      "cost_breakdown": {
+        "vat": 2.27,
+        "commission": 1.7,
+        "fba": 2.2,
+        "ads": 1.13,
+        "returns": 0.23,
+        "sourcing": 0.8,
+        "total_cost": 8.33
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 1,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-07",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0BPYG27LN",
+      "name": "206 Stück Weihnachtskranz Deko, Adventskranz Selber Basteln, Weihnachtsdeko mit Tannenzapfen, Zimtstangen, Getrocknete O",
+      "price": 13.44,
+      "reviews": 121,
+      "rating": 4.5,
+      "rank": 19,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "121 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0BPYG27LN",
+      "image_url": "https://m.media-amazon.com/images/I/81hMtciZS7L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "adventskranz rohling",
+      "festival_event": "圣诞节（Weihnachten）",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-11-08",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞节（Weihnachten）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.307,
+      "net_profit": 4.12,
+      "cost_breakdown": {
+        "vat": 2.69,
+        "commission": 2.02,
+        "fba": 2.2,
+        "ads": 1.34,
+        "returns": 0.27,
+        "sourcing": 0.8,
+        "total_cost": 9.32
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -5,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 高利润": 8,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-06",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0HK3YF2Q4",
+      "name": "JINDANCL 4 Stück Kreative Doppelseitige Gebäckform, 2‑In‑1 Keksformen Runde Handpresse, Abnehmbar für Einfache Reinigung",
+      "price": 12.99,
+      "reviews": 16,
+      "rating": 3.7,
+      "rank": 16,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "16 Bewertungen, 3.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HK3YF2Q4",
+      "image_url": "https://m.media-amazon.com/images/I/71Lt7+5hwCL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "plätzchenform set",
+      "festival_event": "圣诞节（Weihnachten）",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-11-08",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞节（Weihnachten）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.299,
+      "net_profit": 3.88,
+      "cost_breakdown": {
+        "vat": 2.6,
+        "commission": 1.95,
+        "fba": 2.2,
+        "ads": 1.3,
+        "returns": 0.26,
+        "sourcing": 0.8,
+        "total_cost": 9.11
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -4,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🌊 蓝海": 15,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-03",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0HMX3FR97",
+      "name": "Keksausstecher, 3 Stück Plätzchen Ausstecher, Zwei Muster Keksstempel | Plätzchenformen Abnehmbar, Ausstechformen für Ge",
+      "price": 12.6,
+      "reviews": 75,
+      "rating": 4.7,
+      "rank": 21,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "75 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMX3FR97",
+      "image_url": "https://m.media-amazon.com/images/I/71VPybacIrL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "plätzchenform set",
+      "festival_event": "圣诞节（Weihnachten）",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-11-08",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞节（Weihnachten）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.292,
+      "net_profit": 3.68,
+      "cost_breakdown": {
+        "vat": 2.52,
+        "commission": 1.89,
+        "fba": 2.2,
+        "ads": 1.26,
+        "returns": 0.25,
+        "sourcing": 0.8,
+        "total_cost": 8.92
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -9,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-06",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0FDG7ZXR8",
+      "name": "WUNZILO 1 Stück Rebenkranz, 460 cm ø,Dekokranz, Tischkranz, Adventskranz, Türkranz, Kranz aus Zweigen Naturkranz, Wandkr",
+      "price": 10.99,
+      "reviews": 10,
+      "rating": 4.2,
+      "rank": 25,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "10 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0FDG7ZXR8",
+      "image_url": "https://m.media-amazon.com/images/I/7111DUJcR6L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "adventskranz rohling",
+      "festival_event": "圣诞节（Weihnachten）",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-11-08",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞节（Weihnachten）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.257,
+      "net_profit": 2.82,
+      "cost_breakdown": {
+        "vat": 2.2,
+        "commission": 1.65,
+        "fba": 2.2,
+        "ads": 1.1,
+        "returns": 0.22,
+        "sourcing": 0.8,
+        "total_cost": 8.17
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -4,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🌊 蓝海": 15,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-06",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B08H16645S",
+      "name": "KAHEIGN 4er-Pack Drahtkranz Ringe & Rahmen, 35cm 14 Zoll Metall Kranzrahmen Drahtkranz Ringe für DIY Türkranz, Osterkran",
+      "price": 9.24,
+      "reviews": 142,
+      "rating": 4.4,
+      "rank": 27,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "142 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B08H16645S",
+      "image_url": "https://m.media-amazon.com/images/I/71Sc3GLoNXL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "adventskranz rohling",
+      "festival_event": "圣诞节（Weihnachten）",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-11-08",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞节（Weihnachten）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -18,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-06",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0B2P8LFVG",
+      "name": "275 Stück Weihnachtskranzherstellung, Zimtstäbchen, getrocknete Orangenscheiben, Sternanis, Eicheln zum Basteln und küns",
+      "price": 11.42,
+      "reviews": 68,
+      "rating": 4.3,
+      "rank": 30,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "68 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0B2P8LFVG",
+      "image_url": "https://m.media-amazon.com/images/I/819HpirWhsL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "adventskranz rohling",
+      "festival_event": "圣诞节（Weihnachten）",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-11-08",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞节（Weihnachten）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.267,
+      "net_profit": 3.05,
+      "cost_breakdown": {
+        "vat": 2.28,
+        "commission": 1.71,
+        "fba": 2.2,
+        "ads": 1.14,
+        "returns": 0.23,
+        "sourcing": 0.8,
+        "total_cost": 8.37
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -14,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-06",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    }
+  ],
+  "gaps": [],
+  "trend_summary": {
+    "top_categories": [],
+    "cross_validated": [],
+    "demand_keywords": [],
+    "season": "",
+    "sources_scanned": []
+  }
+}
