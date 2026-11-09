@@ -1,0 +1,16 @@
+{
+  "scan_date": "2026-11-09",
+  "scan_time": "15:31",
+  "scan_ts": "2026-11-09_1531",
+  "stats": {
+    "total_scanned": 0,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": []
+}
