@@ -1,0 +1,237 @@
+{
+  "category_scores": {
+    "office": 53,
+    "crafts": 100,
+    "beauty": 8,
+    "lighting": 77,
+    "phone": 48,
+    "eco": 65,
+    "car": 57,
+    "pets": 98,
+    "seasonal": 44,
+    "storage": 32,
+    "kitchen": 27,
+    "garden": 48,
+    "baby": 8,
+    "bedding": 12,
+    "home decor": 40,
+    "sports": 12,
+    "travel": 8,
+    "cleaning": 4
+  },
+  "category_evidence": {
+    "office": [
+      "pen"
+    ],
+    "crafts": [
+      "art",
+      "paint",
+      "craft"
+    ],
+    "beauty": [
+      "makeup",
+      "nail"
+    ],
+    "lighting": [
+      "lamp",
+      "led",
+      "strip",
+      "light"
+    ],
+    "phone": [
+      "phone",
+      "case",
+      "charger",
+      "stand"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "car": [
+      "car"
+    ],
+    "pets": [
+      "cat",
+      "toy",
+      "pet"
+    ],
+    "seasonal": [
+      "christmas",
+      "gift",
+      "halloween"
+    ],
+    "storage": [
+      "box"
+    ],
+    "kitchen": [
+      "spice",
+      "gadget",
+      "cup"
+    ],
+    "garden": [
+      "outdoor",
+      "plant",
+      "patio",
+      "garden"
+    ],
+    "baby": [
+      "baby",
+      "kids"
+    ],
+    "bedding": [
+      "throw",
+      "pillow"
+    ],
+    "home decor": [
+      "wall art",
+      "decor"
+    ],
+    "sports": [
+      "exercise",
+      "sport"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "cleaning": [
+      "vacuum"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "office": 2,
+      "crafts": 2,
+      "beauty": 2,
+      "lighting": 1,
+      "phone": 4,
+      "eco": 2,
+      "car": 1,
+      "pets": 2,
+      "seasonal": 1
+    },
+    "dealabs": {
+      "storage": 1,
+      "crafts": 3,
+      "office": 1,
+      "pets": 2,
+      "kitchen": 1
+    },
+    "temu": {
+      "garden": 2,
+      "car": 2,
+      "lighting": 3,
+      "pets": 3,
+      "crafts": 3,
+      "phone": 3,
+      "eco": 3,
+      "storage": 1,
+      "baby": 1,
+      "seasonal": 1
+    },
+    "etsy": {
+      "kitchen": 1,
+      "lighting": 3,
+      "crafts": 5,
+      "bedding": 3,
+      "home decor": 3,
+      "eco": 2,
+      "seasonal": 4,
+      "garden": 2,
+      "pets": 3,
+      "office": 1
+    },
+    "youtube": {
+      "car": 3,
+      "lighting": 3,
+      "sports": 1,
+      "crafts": 3,
+      "travel": 1,
+      "cleaning": 1,
+      "office": 2,
+      "storage": 1,
+      "pets": 4
+    },
+    "google_trends": {
+      "car": 2,
+      "storage": 1,
+      "lighting": 1,
+      "pets": 3,
+      "crafts": 3,
+      "travel": 1,
+      "sports": 2,
+      "eco": 2,
+      "garden": 2,
+      "office": 1,
+      "home decor": 1
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 1,
+      "crafts": 2,
+      "eco": 1,
+      "pets": 1,
+      "car": 1
+    },
+    "market_intel": {
+      "car": 1,
+      "pets": 2,
+      "crafts": 3,
+      "phone": 1,
+      "baby": 1,
+      "garden": 2,
+      "home decor": 1,
+      "eco": 2,
+      "office": 1,
+      "lighting": 1
+    }
+  },
+  "cross_validated": {
+    "office": 7,
+    "crafts": 8,
+    "lighting": 6,
+    "phone": 3,
+    "eco": 6,
+    "car": 6,
+    "pets": 8,
+    "seasonal": 3,
+    "storage": 4,
+    "kitchen": 3,
+    "garden": 4,
+    "home decor": 3
+  },
+  "demand_keywords": [
+    "acheter des bons d",
+    "amazon blocks sales of competitor",
+    "amazon d",
+    "amazon lance",
+    "amazon ne dit pas qu",
+    "amazon presence in",
+    "amazon rolls out",
+    "amazon vs",
+    "are these",
+    "best times to buy on",
+    "bon plan",
+    "bons plans",
+    "cadeaux",
+    "casting hommes pour film",
+    "clean girl autumn nail designs",
+    "code promo",
+    "cosy fall decor in the",
+    "coucou tout le monde",
+    "decorate your home for",
+    "dernier jour des",
+    "dressing the",
+    "en avance",
+    "fall fashion trends",
+    "is it possible that",
+    "jardin contemporain",
+    "jardinage en",
+    "la collection",
+    "la communaut",
+    "la nature s",
+    "la rose des temps"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 73144
+}
