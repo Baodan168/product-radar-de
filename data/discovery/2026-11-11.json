@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-11",
+  "updated_at": "2026-11-11T21:45:00+08:00",
+  "scan_date": "2026-11-11",
+  "scan_time": "21:38",
+  "summary": "首批DE发现扫描（14天目录为空，无历史去重约束，5条全部按新品计）。信号源：Amazon.de Bestseller实抓（家居品类统治榜单）、TikTok Shop DE生态数据（家居占17.1%，头部为beauty/电器——均为禁区，故取家居小件方向）、1688供应链价格实测（切模单模¥0.8-0.94/套装¥5.9-16.5、24格日历盒¥1-7、静电窗贴¥0.9-8）、Merkur.de媒体级宠物毛发清除病毒信号（ACE2ACE滚筒10万+评论）。5条推荐：圣诞烘焙切模、空白DIY降临历、静电窗贴、Silvester拍照道具、洗衣机宠物毛发过滤器。圣诞主窗常规大货死线（11/08）已过，本期圣诞条目均按『现货款小批量空运试单』口径执行，不追大货。",
+  "trend_forecast": "未来4-8周（2026/11/12-2027/01/06）德国需求窗口与空运下单死线（口径：窗口开始日倒推3周，空运10-15天）：① Silvester/Neujahr派对窗（12/15-01/02）：德国跨年派对用品（Foto-Requisiten拍照道具、拉旗、派对帽、桌面装饰）在12月第二周起进入采购高峰，12/31当天为峰值，驱动事件=Silvester家庭/朋友聚会传统；品类方向=派对印刷品+轻量装饰，规避烟花类（受限）。死线11/24——这是本期最紧迫的可执行窗口，11/24后下单到货即错过采购期。② Weihnachtsferien室内季窗（12/20-01/06）：圣诞假期+寒冬居家，室内手工/烘焙/桌面活动需求上升，驱动事件=全国学校放假（多数州12/21起）+圣诞市场结束后居家消费转移；品类方向=烘焙工具延续销售（1月Neujahrsvorsatz新年决心带动家庭烘焙与整理）、室内收纳与桌面整理。死线11/29。③ 1月烘焙与整理窗（01/01-01/06及以后）：新年决心（Neujahrsvorsätze）驱动家庭烘焙自控（用切模做健康点心）与全屋整理，驱动事件=1/1新年+1/6 Dreikönig假期；品类方向=烘焙模具、收纳小件；死线12/11——即12月中上旬下单空运可承接1月需求，是圣诞货清完后无缝衔接的补位窗口。④ Karnevalsauftakt狂欢季启动窗（01/06-01/31，峰值02/04-02/08 Weiberfastnacht至Rosenmontag）：第五季11/11已正式开始（Session Eröffnung），1月起科隆/杜塞/美因茨Sitzungen带动的化妆配饰、派对装饰采购启动，驱动事件=莱茵地区狂欢节传统+2027年Rosenmontag为02/08；品类方向=派对装饰、面部以外的狂欢配饰（假发/珠链/装饰披风类轻小件），避开直接接触面部的彩妆类；死线12/16——12月中旬前下单可赶上1月启动波，2月峰值需12月底前补货。⑤ 圣诞主窗诚实提示：Advent开始日11/29倒推3周的死线为11/08，已过线；本期圣诞相关条目（切模/降临历/窗贴）仅以1688现货款（无定制印刷交期）小批量空运试单补位，到货预计11/24-29卡在Advent首周，存在3-5天延误风险，一律不追大货；若11/13前未能下单，圣诞条目整体放弃、预算转投①④窗口。黑五（11/27）本周即为流量高峰，对轻小件测品意义有限（价格战），不作为独立窗口。",
+  "insights": [
+    {
+      "keyword": "Plätzchen Ausstechformen Edelstahl Weihnachten",
+      "keyword_cn": "圣诞饼干切模不锈钢套装",
+      "amazon_keyword": "Plätzchen Ausstechformen Edelstahl Weihnachten Set",
+      "search_1688": "圣诞饼干切模不锈钢套装跨境亚马逊",
+      "category": "Küche/Backen",
+      "demand_signals": [
+        "Amazon.de Bestseller Home & Kitchen 实抓（2026-11-11）：榜单前列全为家居品类（床品37k评论/除垢剂170k/地毯19k），家居烘焙类流量池为全站最大之一",
+        "1688供应实测：义乌/深圳多工厂圣诞切模现货——单模¥0.8-0.94、24件套¥5.9-16.5、14件套¥6.84，标题直标'亚马逊跨境爆款'，出口需求已被供应链验证",
+        "德国季节锚点：Advent（11/29开始）后Plätzchen backen为全德家庭传统，12月为烘焙工具年度搜索峰值",
+        "TikTok Shop DE家居类30天GMV约€29.8M、占比17.1%（Kalodata经Lengow测算2026-04~07），厨房小工具是短视频可视化最强的家居子类"
+      ],
+      "trend_score": 82,
+      "trend_direction": "up",
+      "reason": "12月德国烘焙季+供应链现货成熟（¥6-9/套装）+家居类站内流量最大。切入差异点：8件套起配 christmas 造型组合（雪花/姜饼人/圣诞树），定价€11.99留出比单模卖家更高的感知价值。",
+      "action": "落店130店（成熟店承接节日烘焙流量）。定价€11.99（毛利≈€2.85/23.8%）。1688采购词：圣诞饼干切模不锈钢套装跨境。节奏：现货款11/13前下首单300套空运（到货11/25±3天卡Advent首周，延误风险3-5天，只试单不追大货）；12/05后停补；1月初可用同链接换冬季/动物造型测Neujahr窗（死线12/11）。",
+      "competition": "头部为无品牌中国卖家，热卖listing评论数百至数千、4.4星+；品牌集中度低但同款图案极多，需主图差异化（场景图+件数对比）。估算竞品€9.99-14.99。",
+      "signal_scores": {
+        "trend": 82,
+        "gap": 55,
+        "profit": 72,
+        "final": 70,
+        "recommendation": "buy"
+      },
+      "price_eur": 11.99,
+      "profit_estimate_eur": 2.85,
+      "margin_pct": 23.8,
+      "weight_g": 150,
+      "recommendation_note": "现货试单300套，评论破50再补"
+    },
+    {
+      "keyword": "Adventskalender zum Befüllen",
+      "keyword_cn": "空白DIY降临节日历盒24格",
+      "amazon_keyword": "Adventskalender zum Befüllen 24 Türchen Papier",
+      "search_1688": "圣诞降临日历24格空白DIY纸盒",
+      "category": "Weihnachten/Kalender",
+      "demand_signals": [
+        "1688/Alibaba供应实测：'Adventskalender Zum Befüllen'德语关键词直接出现在跨境供应商标题（Dongguan Hengxinshun $0.10-0.39）；可填充款Guangzhou Wosen $0.32-0.95（MOQ100）、义乌24格款$1.60-2已售5364件——德语词反推德国需求明确",
+        "dingzao现货款规格25×17×4cm/净重150g——尺寸重量正好命中轻小件红线内（≤30×21×6cm/200g）",
+        "季节锚点：Advent 11/29开始，德国家长11月中集中采购降临历，12/1-24每天开门的仪式感驱动刚需",
+        "Amazon.de家居Bestseller统治（实抓2026-11-11）+DIY/自装类在德区为高频家庭采购"
+      ],
+      "trend_score": 88,
+      "trend_direction": "up",
+      "reason": "需求刚性且时间窗明确（11月中-12月初集中下单），空白DIY款避开品牌IP日历（Walter/Coppenrath等占位），供应链报价¥1-7跨度大可选品质带，毛利空间€3+为5条中最佳。风险：定制印刷交期长，必须选现货款。",
+      "action": "落店110店。定价€12.99（毛利≈€3.42/26.3%）。1688采购词：圣诞降临日历24格空白DIY纸盒。节奏：现货白色/牛皮纸款11/13前首单200-300个空运（到货11/24-29）；12/05后不再补单（补了也卖不完窗口）；未赶上则此条整体放弃。",
+      "competition": "中等：品牌IP日历占儿童位但价格€5-20错位竞争；空白DIY款以中国卖家为主，评论数十至数百，集中度低。差异化靠牛皮纸质感+24格大容量。",
+      "signal_scores": {
+        "trend": 88,
+        "gap": 62,
+        "profit": 75,
+        "final": 74,
+        "recommendation": "buy"
+      },
+      "price_eur": 12.99,
+      "profit_estimate_eur": 3.42,
+      "margin_pct": 26.3,
+      "weight_g": 180,
+      "recommendation_note": "现货款优先，定制款交期超3周不碰"
+    },
+    {
+      "keyword": "Fensterbilder Weihnachten statisch",
+      "keyword_cn": "圣诞静电窗贴双面",
+      "amazon_keyword": "Fensterbilder Weihnachten statisch Winter Deko Fenster",
+      "search_1688": "圣诞静电窗贴双面跨境亚马逊",
+      "category": "Weihnachten/Fenster",
+      "demand_signals": [
+        "1688供应实测（2026-11-11）：静电窗贴批发页数十条跨境亚马逊专供款，¥0.9-8/套（雪花单张¥0.9、双面款¥10、通用圣诞款¥2.5-4.5），回头率最高66%——成熟复购供应链",
+        "季节锚点双窗口：圣诞（12月）+纯冬季款（1月可继续卖雪花/麋鹿无圣诞文字款），销售窗口比圣诞主线长4周",
+        "重量优势：双面静电贴50-100g，为本期最轻条目，空运成本占比最低，€8.99下毛利仍>20%",
+        "TikTok Shop DE家居类占比17.1%——氛围改造类内容（Fenster deko前后对比）为短视频高传播题材"
+      ],
+      "trend_direction": "up",
+      "trend_score": 78,
+      "reason": "供应链最成熟+最轻+双季节窗口，容错最高的条目。注意规避：带LED/电池的电动窗贴（禁电子件），纯静电PVC款合规。",
+      "action": "落店3002店（稳定店承接长尾流量）。定价€8.99（毛利≈€1.97/21.9%）。1688采购词：圣诞静电窗贴双面跨境亚马逊。节奏：现货通用款11/14前首单400套空运；同时选1个纯冬季雪花款（无圣诞文字）作为1月延续SKU；无窗口死线压力，Q4后转常规。",
+      "competition": "头部季节listing评论数百至1-2k（多年积累），但设计款式极度分散、无品牌垄断；金葱/双面款有明显溢价空间。估算竞品€6.99-12.99。",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 60,
+        "profit": 80,
+        "final": 72,
+        "recommendation": "buy"
+      },
+      "price_eur": 8.99,
+      "profit_estimate_eur": 1.97,
+      "margin_pct": 21.9,
+      "weight_g": 90,
+      "recommendation_note": "容错最高，配1个冬季延续款"
+    },
+    {
+      "keyword": "Silvester Foto Requisiten",
+      "keyword_cn": "跨年派对拍照道具套装",
+      "amazon_keyword": "Silvester Fotobox Requisiten Set Party Deko",
+      "search_1688": "新年派对拍照道具手举牌拉旗",
+      "category": "Party/Silvester",
+      "demand_signals": [
+        "季节锚点：Silvester 12/31全德派对传统，Foto-Box（拍照道具）是德区派对用品固定子类，采购窗12/15-12/30",
+        "1688同类印刷品锚点（派对手举牌/拉旗类，非该SKU直接报价）：¥1.5-8——估算该SKU到岸€1.3-1.6，标注为同类推算非实测",
+        "TikTok传播验证：派对场景为短视频高可视化品类（本期TikTok搜索实证：派对/家居内容为beauty之外主要品类）",
+        "竞争格局：德区Silvester-Requisiten头部集中度显著低于圣诞主线，窗口短但爆发集中"
+      ],
+      "trend_score": 72,
+      "trend_direction": "up",
+      "reason": "窗口短（约2周集中销售）但竞争最分散、供应链便宜。作为圣诞主线外的错峰补充：12月中旬上架即吃Silvester单波流量，1月可清尾或转Geburtstag派对款常年卖。",
+      "action": "落店130店。定价€10.99（毛利≈€2.51/22.8%，25件套手举牌+眼镜+拉旗组合）。1688采购词：新年派对拍照道具手举牌拉旗。节奏：死线11/24（最晚下单日，再晚到货错过采购窗）——11/24前下首单150-200套小量试水；若11/20仍未比价完成则放弃此条。",
+      "competition": "评论普遍<300，品牌集中度低；头部为大组合套装（€12.99+），€10.99/25件卡中间位。诚实提示：价格基于同类推算，下单前必须实测1688报价。",
+      "signal_scores": {
+        "trend": 72,
+        "gap": 70,
+        "profit": 62,
+        "final": 66,
+        "recommendation": "watch"
+      },
+      "price_eur": 10.99,
+      "profit_estimate_eur": 2.51,
+      "margin_pct": 22.8,
+      "weight_g": 160,
+      "recommendation_note": "死线11/24，比价确认后小量试"
+    },
+    {
+      "keyword": "Waschmaschine Tierhaarentferner",
+      "keyword_cn": "洗衣机宠物毛发过滤器",
+      "amazon_keyword": "Waschmaschine Tierhaarentferner Wäsche Haare Filter Set",
+      "search_1688": "洗衣机除毛器过滤网袋宠物毛发",
+      "category": "Haushalt/Tier",
+      "demand_signals": [
+        "媒体级验证（merkur.de 2026-11）：Tierhaarentferner为TikTok病毒品类——ACE2ACE滚筒式10万+评论、4.3星、约€15，需求已被媒体+销量双确认",
+        "同报道列出洗机型细分竞品'8件套€8.49'——洗机型为滚筒主品类之外的细分，€9.99-10.99品质升级位存在空档",
+        "德国家庭养宠率高（猫狗家庭占比>40%的欧洲常态水平，常识锚点）+秋冬换毛季（11-1月为掉毛高峰）双驱动",
+        "常青属性：不依赖圣诞窗口，Q4后可转常年款，是本期唯一非季节依赖条目"
+      ],
+      "trend_score": 85,
+      "trend_direction": "up",
+      "reason": "TikTok+媒体双验证的需求，用洗机型细分避开滚筒品类ACE2ACE（10万+评论）的正面竞争。1688价格¥0.5-2/个为同类日百锚点（非直接实测），下单前须实测。12件套组合€10.99对€8.49竞品形成件数差异。",
+      "action": "落店110店。定价€10.99/12件组（毛利≈€2.47/22.5%）。1688采购词：洗衣机除毛器过滤网袋宠物毛发。节奏：常青款无窗口压力，11/15前首单300组空运；测品期看出单与退货率，若12月转化<2%则降价至€9.99清库。避开带胶粘滚筒式（重量超200g+正面竞争）。",
+      "competition": "滚筒主品类被ACE2ACE（100,000+评论）垄断——绝不正面进入；洗机型细分评论<500，集中度低，为可切入缝隙。",
+      "signal_scores": {
+        "trend": 85,
+        "gap": 58,
+        "profit": 68,
+        "final": 70,
+        "recommendation": "buy"
+      },
+      "price_eur": 10.99,
+      "profit_estimate_eur": 2.47,
+      "margin_pct": 22.5,
+      "weight_g": 170,
+      "recommendation_note": "细分切入，避开滚筒正面竞争"
+    }
+  ]
+}
