@@ -1,0 +1,340 @@
+{
+  "scan_date": "2026-11-12",
+  "scan_time": "15:30",
+  "scan_ts": "2026-11-12_1530",
+  "stats": {
+    "total_scanned": 17,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0HLPKKRZZ",
+      "name": "Legami – Set aus 5 Mini Erasable Pen Dream Peaks, limitierte Edition | Set aus 5 Dream Peaks Mini Erasable Gel-Stiften, ",
+      "price": 8.36,
+      "reviews": 54,
+      "rating": 4.7,
+      "rank": 1,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "54 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPKKRZZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WnCNlBOQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01FSGVN4M",
+      "name": "Amazon Basics Druckerpapier A4,80g/m², 2500 Blatt, 5er-Pack, Weiß",
+      "price": 18.48,
+      "reviews": 46540,
+      "rating": 4.5,
+      "rank": 2,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "46540 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B01FSGVN4M",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71xmc2j184L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09Z3F73D3",
+      "name": "Papierdrachen Adventskalender 2026 zum Befüllen - Motiv Holy Night - 24 braune bedruckte Geschenktüten mit Zahlenaufkleb",
+      "price": 10.84,
+      "reviews": 1936,
+      "rating": 4.6,
+      "rank": 3,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1936 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B09Z3F73D3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81HA7U7LFwL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08C5DR9GR",
+      "name": "Papierdrachen Adventskalender 2026 - Cozy Winter Schwarz | 24 bedruckte Papiertüten - praktische Größe 14x22 cm - inkl. ",
+      "price": 10.84,
+      "reviews": 2177,
+      "rating": 4.6,
+      "rank": 4,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2177 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B08C5DR9GR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81AViBx9x5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09GS6RMTL",
+      "name": "100x Albyco Laminiertaschen - Format A4, 216x303mm - St. 2x80 (160) μm | Albyco Glänzende Laminierfolien - Für Papierfor",
+      "price": 7.83,
+      "reviews": 8693,
+      "rating": 4.8,
+      "rank": 5,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "8693 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B09GS6RMTL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71QD3Z7UAnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B016KYO2BM",
+      "name": "HP Home und Office, A4, Weiß, 5 Pakete mit 500 Blatt | HP Kopierpapier DIN A4, 500 Blatt, 80 g/m², weiß, Büro und Home O",
+      "price": 20.08,
+      "reviews": 19657,
+      "rating": 4.7,
+      "rank": 6,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "19657 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B016KYO2BM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61xD1VwX8kL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CJYFR9TQ",
+      "name": "FairToner Kopierpapier 2500 Blatt DIN-A4 80g, Weiß | 5 x 500 Blatt / 5er Pack, Universal Druckerpapier, Für Laserdrucker",
+      "price": 1990.0,
+      "reviews": 2390,
+      "rating": 4.8,
+      "rank": 7,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2390 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0CJYFR9TQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71lBRz9y1iL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CB18K7B4",
+      "name": "YSAGi Schreibtischunterlage, Premium PU Leder Mauspad, Beige, 80x40cm | Rutschfeste Schreibtisch Unterlage, Tischunterla",
+      "price": 12.6,
+      "reviews": 27394,
+      "rating": 4.6,
+      "rank": 8,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "27394 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0CB18K7B4",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Ywx2jYLKL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00BI5H0PY",
+      "name": "Schneider Slider Rave XB Kugelschreiber, 5 Stück, Hellblau-Blau | Tinte: Blau, Viscoglide-Technologie für lange Texte oh",
+      "price": 15.18,
+      "reviews": 9943,
+      "rating": 4.8,
+      "rank": 9,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "9943 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B00BI5H0PY",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71PUNwiMB5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00H8NUBY2",
+      "name": "Pelikan Tintenlöscher Super Pirat, Strichstärke B (breit), 6 Stück | Tintenkiller zum Löschen und Überschreiben",
+      "price": 4.45,
+      "reviews": 11847,
+      "rating": 4.7,
+      "rank": 10,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "11847 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B00H8NUBY2",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/712mV9U4EfL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GGHH4VC5",
+      "name": "Häfft Familienplaner 2027 mit 5 Spalten - Wandkalender \"Blattgold\" | Mit Stickern, Feiertagen, Ferienterminen & Zusatzin",
+      "price": 10.92,
+      "reviews": 237,
+      "rating": 4.6,
+      "rank": 11,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "237 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0GGHH4VC5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/710LMGPXwAL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B007JTG9AK",
+      "name": "edding 3000 Permanentmarker - schwarz - 1 Stift - Universalmarker | Rundspitze 1,5-3 mm - schnell trocknender Permanent ",
+      "price": 225.0,
+      "reviews": 4105,
+      "rating": 4.8,
+      "rank": 12,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4105 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B007JTG9AK",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51dw5Y1hUGL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B000OZKBTG",
+      "name": "STABILO - Dreikant-Buntstift - Trio dick kurz | 12er Pack, Mini, kurzer Buntstift",
+      "price": 3.41,
+      "reviews": 7033,
+      "rating": 4.6,
+      "rank": 13,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "7033 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B000OZKBTG",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81wjjljUCkL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GMZQP5D9",
+      "name": "LEGAMI - Set mit 4 Löschbaren Gelstiften - Farm Sweet Farm",
+      "price": 5.84,
+      "reviews": 1977,
+      "rating": 4.6,
+      "rank": 14,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1977 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0GMZQP5D9",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61SbWCE4TAL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GV5ZXBCX",
+      "name": "Familienplaner Unser buntes Jahr 2027: bunter Familienkalender 20x45 cm mit 5 Spalten, Feiertagen, Mondphasen, ideal für",
+      "price": 426.0,
+      "reviews": 75,
+      "rating": 4.7,
+      "rank": 15,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "75 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0GV5ZXBCX",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61ShdZVO+HL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B082BF2G68",
+      "name": "STAEDTLER Noris Colour 187 Buntstifte – 16er Set, Dreikant | Aus PEFC-Holz, rutschfeste Soft-Oberfläche, leuchtende Farb",
+      "price": 3.27,
+      "reviews": 7755,
+      "rating": 4.7,
+      "rank": 16,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "7755 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B082BF2G68",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61I9P+rBorL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07TSL31SV",
+      "name": "50x braune Beutel 20 x 13 cm - EXTRA STARK - Kraftpapiertüten Geschenktüten Kraftpapier als DIY Adventskalender - Ostern",
+      "price": 8.39,
+      "reviews": 2979,
+      "rating": 4.6,
+      "rank": 17,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2979 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B07TSL31SV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715VHa27VbL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}

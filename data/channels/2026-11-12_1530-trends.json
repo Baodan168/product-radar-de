@@ -1,0 +1,248 @@
+{
+  "category_scores": {
+    "pets": 100,
+    "crafts": 100,
+    "phone": 37,
+    "beauty": 17,
+    "eco": 58,
+    "kitchen": 32,
+    "bathroom": 9,
+    "car": 41,
+    "office": 54,
+    "baby": 28,
+    "kitchen_gadgets": 4,
+    "garden": 41,
+    "sports": 4,
+    "seasonal": 28,
+    "cleaning": 28,
+    "lighting": 54,
+    "travel": 32,
+    "bedding": 4,
+    "home decor": 13,
+    "storage": 28
+  },
+  "category_evidence": {
+    "pets": [
+      "dog",
+      "pet",
+      "cat",
+      "bed"
+    ],
+    "crafts": [
+      "art"
+    ],
+    "phone": [
+      "phone",
+      "case",
+      "stand"
+    ],
+    "beauty": [
+      "hair",
+      "nail",
+      "skincare",
+      "makeup"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "kitchen": [
+      "kitchen",
+      "cup",
+      "gadget"
+    ],
+    "bathroom": [
+      "bath",
+      "bathroom"
+    ],
+    "car": [
+      "car"
+    ],
+    "office": [
+      "pen"
+    ],
+    "baby": [
+      "kids",
+      "child",
+      "baby"
+    ],
+    "kitchen_gadgets": [
+      "kitchen gadget"
+    ],
+    "garden": [
+      "garden",
+      "outdoor",
+      "plant"
+    ],
+    "sports": [
+      "fitness"
+    ],
+    "seasonal": [
+      "gift",
+      "christmas"
+    ],
+    "cleaning": [
+      "vacuum",
+      "cleaning",
+      "mop"
+    ],
+    "lighting": [
+      "light",
+      "led"
+    ],
+    "travel": [
+      "travel",
+      "luggage"
+    ],
+    "bedding": [
+      "pillow"
+    ],
+    "home decor": [
+      "wall art",
+      "decor"
+    ],
+    "storage": [
+      "box"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "pets": 3,
+      "crafts": 2,
+      "phone": 2,
+      "beauty": 4,
+      "eco": 1,
+      "kitchen": 2,
+      "bathroom": 2,
+      "car": 1,
+      "office": 1,
+      "baby": 1,
+      "kitchen_gadgets": 1
+    },
+    "dealabs": {
+      "crafts": 3,
+      "phone": 2,
+      "garden": 1,
+      "office": 1,
+      "pets": 2,
+      "sports": 1,
+      "car": 1
+    },
+    "temu": {
+      "pets": 5,
+      "crafts": 3,
+      "seasonal": 1,
+      "cleaning": 1,
+      "office": 1,
+      "lighting": 1,
+      "eco": 1
+    },
+    "etsy": {
+      "lighting": 3,
+      "crafts": 3,
+      "travel": 1,
+      "office": 2,
+      "pets": 3,
+      "bedding": 1,
+      "home decor": 2,
+      "eco": 1,
+      "seasonal": 1,
+      "garden": 1
+    },
+    "youtube": {
+      "car": 3,
+      "crafts": 3,
+      "travel": 2,
+      "eco": 2,
+      "garden": 1,
+      "cleaning": 1,
+      "office": 2,
+      "storage": 1,
+      "lighting": 1,
+      "pets": 4,
+      "baby": 1
+    },
+    "google_trends": {
+      "car": 1,
+      "storage": 1,
+      "pets": 3,
+      "crafts": 2,
+      "travel": 1,
+      "office": 1,
+      "eco": 2,
+      "garden": 2,
+      "home decor": 1
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 1,
+      "eco": 1,
+      "storage": 1,
+      "lighting": 1,
+      "pets": 1,
+      "crafts": 2,
+      "cleaning": 1,
+      "baby": 1,
+      "seasonal": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "pets": 2,
+      "crafts": 2,
+      "garden": 1,
+      "eco": 2,
+      "lighting": 1,
+      "phone": 1
+    }
+  },
+  "cross_validated": {
+    "pets": 8,
+    "crafts": 8,
+    "phone": 3,
+    "eco": 7,
+    "kitchen": 3,
+    "car": 4,
+    "office": 7,
+    "baby": 3,
+    "garden": 5,
+    "seasonal": 3,
+    "cleaning": 3,
+    "lighting": 5,
+    "travel": 3,
+    "storage": 3
+  },
+  "demand_keywords": [
+    "acheter des bons d",
+    "add to",
+    "alternatives to",
+    "amazon anticipe un bond de",
+    "amazon blocks sales of competitor",
+    "amazon d",
+    "amazon investit",
+    "amazon investit un montant record",
+    "amazon ne dit pas qu",
+    "amazon presence in",
+    "amazon rolls out",
+    "amazon va investir plus de",
+    "amazon vs",
+    "are priced under",
+    "are these",
+    "atelier blueberry",
+    "autumn is the best season",
+    "bon plan",
+    "bons plans",
+    "c'est la vie",
+    "c'est la vie!",
+    "cadeaux",
+    "code promo",
+    "combien de pi",
+    "consumer trends in e",
+    "cosy fall decor in the",
+    "dealabs",
+    "decorate your home for",
+    "dernier jour des",
+    "des produits de"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 74506
+}
