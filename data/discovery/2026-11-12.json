@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-12",
+  "updated_at": "2026-11-12T08:50:00+08:00",
+  "scan_date": "2026-11-12",
+  "scan_time": "08:50",
+  "summary": "2026-11-12 DE选品发现：本轮4条buy+1条watch，全部锚定12月中旬-2月的德国日历窗口。最强双信号=门缝密封条（Amazon.de DIY榜D-Profil款3,161评+TikTok突破榜76.3K播放）与汽车冰刮（1688义乌现货¥2.50/个+头部€11.79/6,844评）。Federboa抓住头部仅3.2-3.3星的换供缺口，Taschenkalender 2027吃新年计划窗。全部为非电子、无液体、≤200g轻小件，禁词链通过；14天品类去重与2026-11-11报告零重复（已回避饼干切模/降临历盒/静电窗贴/跨年拍照道具/宠物毛发过滤器）。",
+  "insights": [
+    {
+      "keyword": "Eiskratzer Auto Messing",
+      "keyword_cn": "汽车冰刮（黄铜刃双件装）",
+      "amazon_keyword": "Eiskratzer Auto 2er Set Messing Klinge Winter",
+      "search_1688": "汽车除冰铲 跨境 亚马逊",
+      "demand_signals": [
+        "Amazon.de Eiskratzer类目Bestseller快照：在售主力价€4.70-15.99，头部LYVANAS €11.79/6,844评、AstroAI雪刷€15.29/31,263评，品类体量已验证（来源：amazon.de bestsellers/automotive/82539031，2026-11-12）",
+        "头部款普遍挂『Test Winner 2026』徽章获客，德国用户按『测评背书+€9-14价格带』决策；新链接可用『Messing-Klinge不伤玻璃』差异词切入（来源：同上快照）",
+        "长尾仍在进场：LICARGO 2025款81评、HOKYYCC 6评已进该类目Top30，新链接有上榜通道（来源：同上快照）",
+        "1688现货充足：义乌购DM-137除雪铲¥2.50/个（≥100个）、库存4.9万+、跨境专供标（来源：yiwugo.com/product/detail/986028442，2026-07更新）"
+      ],
+      "trend_score": 72,
+      "trend_direction": "up",
+      "reason": "冬季刚需+季节窗口明确：12/15起霜冻期主销。1688采购¥2.50/个→双件装€12.99，扣除FBA小件€2.20、佣金15%、广告10%、退货2%、VAT与头程后净利率约32%，超20%红线。差异化打黄铜刃中价位段，避开€1.88纯塑料红海。",
+      "action": "落店110；€12.99双件装（黄铜刃+EVA防滑柄，整重≤160g，包装≤22×10×4cm）；1688搜『汽车除冰铲』按¥2.5/个×500起订；节奏：本周询价打样→空运死线11/24前下单（覆盖12/15-2/15霜冻主窗口），FBA入仓12/10前完成",
+      "competition": "头部双强但非垄断：LYVANAS 6,844评+L&P芬兰黄铜4,303-6,097评，€4.7-13.99价格带拥挤；黄铜刃中价位段在售竞品约<10条（快照所见），长尾<100评链接仍能进Top30；集中度中等偏高，必须靠2er Set+材质词卡位",
+      "signal_scores": {
+        "trend": 72,
+        "gap": 55,
+        "profit": 78,
+        "final": 68,
+        "recommendation": "buy"
+      },
+      "recommendation": "buy"
+    },
+    {
+      "keyword": "Federboa Karneval",
+      "keyword_cn": "羽毛披肩（60g高密度，Karneval配件）",
+      "amazon_keyword": "Federboa 180 cm Karneval Fasching Kostüm Zubehör",
+      "search_1688": "羽毛披肩 180cm 火鸡毛 跨境",
+      "demand_signals": [
+        "Amazon.de Boas类目头部Boland €7.19/1,763评仅3.2★、KarnevalsTeufel €8.49/974评仅3.3★——销量大但差评集中在掉毛/染色，换供窗口明确（来源：amazon.de商品页快照，2026-11-12）",
+        "Karneval 2027日历锚点：Weiberfastnacht 2027-02-04、Rosenmontag 2027-02-08（dateutil计算验证），需求自1月中旬起爆，NRW/莱茵地区为核心市场",
+        "低价长尾€4.29仅81评仍在售、Widmann €9.29/39评在榜，说明类目未被品牌锁死；€9.99『60g高密度』可对标现役40g主流款做溢价（来源：同上快照）"
+      ],
+      "trend_score": 65,
+      "trend_direction": "up",
+      "reason": "整重约100g空运友好；头部3.2-3.3星=只需质检升级（防掉毛工艺+独立网袋）即可差异化。Karneval为德国固定日历事件，2027窗口可精确倒排。€9.99定价扣费后净利率约23%。",
+      "action": "落店3002；€9.99（60g高密度、黑/白/红/粉/金5色起订）；1688搜『羽毛披肩 180cm』目标¥5-9/条；节奏：空运死线12/21前下单（窗口1/11-2/10会期），1/10前入仓，首批300条测款",
+      "competition": "Boland/Widmann/KarnevalsTeufel三品牌占类目前排（1,763/39/974评），但评分3.2-3.7集体低垂；<100评长尾链接活跃，集中度中等；入场券是质量而非价格战",
+      "signal_scores": {
+        "trend": 65,
+        "gap": 70,
+        "profit": 72,
+        "final": 69,
+        "recommendation": "buy"
+      },
+      "recommendation": "buy"
+    },
+    {
+      "keyword": "Taschenkalender 2027",
+      "keyword_cn": "2027年A6袖珍日程本（周视图软壳）",
+      "amazon_keyword": "Taschenkalender 2027 A6 Terminkalender Wochenplaner Softcover",
+      "search_1688": "A6日程本 2027 出口 定制",
+      "demand_signals": [
+        "TOBJA A6 2027硬壳 €10.99/562评/4.7★，验证A6周计划规格在德有稳定付费（来源：amazon.de商品页快照，2026-11-12）",
+        "『Eine der Guten』A5 €16.99-19.99/196评/4.5★，€15+高端带成立；€7-9软壳带由杂牌填充、评分参差，存在质量空位（来源：同类目在售快照）",
+        "结构需求：新年Vorsätze（新年计划）+1月6日后返校返工，Kalender类目峰值持续到1月底（类目『Kalender, Planer & Organizer』在售规模验证）"
+      ],
+      "trend_score": 62,
+      "trend_direction": "up",
+      "reason": "120-150g超轻印刷品、空运友好无认证风险；成本¥4-6/本→€8.99定价扣费后净利率约23%；软壳FSC纸+周视图+假期标注即可对标TOBJA硬壳打六折价卡位。",
+      "action": "落店130；€8.99（A6软壳『1周2页+德国假期标注+2028预览』）；1688搜『A6日程本 2027 出口』目标¥4-6/本；节奏：空运死线12/05前下单（窗口12/26-1/31），12/20前入仓；错过死线直接放弃等2028版，不压库存",
+      "competition": "TOBJA 562评+多个『德国设计』家庭品牌在场；无绝对垄断但版本细节决定生死，纯铺货款难起量；集中度中等",
+      "signal_scores": {
+        "trend": 62,
+        "gap": 58,
+        "profit": 68,
+        "final": 62,
+        "recommendation": "buy"
+      },
+      "recommendation": "buy"
+    },
+    {
+      "keyword": "Dichtungsband Fenster Tür",
+      "keyword_cn": "门窗自粘密封条（D+P双截面12米组）",
+      "amazon_keyword": "Dichtungsband selbstklebend Fenster Tür D-Profil Zugluftstopper",
+      "search_1688": "门窗密封条 D型 自粘 跨境",
+      "demand_signals": [
+        "Amazon.de Weatherproofing Kits Bestseller：D-Profil密封条€7.49/3,161评/4.5★、tesa保温膜€4.90/11,171评——门缝密封需求已规模化（来源：amazon.de bestsellers/diy/2076296031，2026-11-12）",
+        "TikTok突破榜：Adhesive Weather Stripping Tape 76.3K views、33×常规播放，11月仍在breakout（来源：transclipper.ai，2026-11-12更新）",
+        "Wulkow EPDM €5.73/501评/4.6★排Sealing Tape类第13，主打『省暖气费』卖点——德国取暖成本敏感度提供长期需求（来源：amazon.de商品页快照）"
+      ],
+      "trend_score": 75,
+      "trend_direction": "up",
+      "reason": "供暖季12-1月是安装高峰，与TikTok breakout信号同频。D型+P型双截面共12m成本约¥6→€9.99定价扣费后净利率约23%；对tesa €4.90做『双截面加量』卡位，对Wulkow做『DIY友好』卡位。",
+      "action": "落店130；€9.99（D+P双截面共12m，2卷装整重≤180g）；1688搜『门窗密封条 D型 自粘』目标¥5-8/组；节奏：空运死线11/24前下单（窗口12/15-1/31供暖安装峰），12/10前入仓",
+      "competition": "tesa品牌膜€4.90/11,171评占用户心智，但密封条细分段最高3,161评、无万评级霸主；集中度中低，新链接可用组合装差异进场",
+      "signal_scores": {
+        "trend": 75,
+        "gap": 60,
+        "profit": 72,
+        "final": 70,
+        "recommendation": "buy"
+      },
+      "recommendation": "buy"
+    },
+    {
+      "keyword": "Christbaumschmuck Holz",
+      "keyword_cn": "木质圣诞挂饰12件套（rustikal风）",
+      "amazon_keyword": "Christbaumschmuck Holz Set Weihnachtsdeko Anhänger Rustikal",
+      "search_1688": "木质圣诞挂饰 跨境",
+      "demand_signals": [
+        "TikTok突破榜：Mercury Glass质感圣诞挂件（Bauble）101.3K views、37×常规播放——圣诞挂饰品类情绪热度高（来源：transclipper.ai，2026-11-12更新）",
+        "Amazon.de Saisonale Deko Bestseller快照：前排被灯串/降临历/静电窗贴占据（灯串禁做、后两类已推或重复），非电木质/纸制挂饰不在前排，存在可见空档（来源：bestsellers/kitchen/2970812031）",
+        "德国圣诞树12/24才立，12月中下旬为挂饰补货尾峰（日历结构）；同类非电装饰EANLOLY纸星€16.91/498评，证明该风格有€15+溢价带（来源：同上快照）"
+      ],
+      "trend_score": 60,
+      "trend_direction": "flat",
+      "reason": "木质/纸质挂饰避开灯串红海，12件套≤170g合规；€9.99定价扣费后净利率约24%。但本轮未实时扫到类目review数据，信号置信度中等，先watch待复扫验证，不盲压库存。",
+      "action": "落店3002；€9.99（12件木牌+麻绳，包装≤25×20×5cm）；1688搜『木质圣诞挂饰』目标¥6-10/套；节奏：空运死线11/22（窗口12/13-12/24）——若11月下旬复扫确认类目排名上行则下单，否则本轮放弃",
+      "competition": "未实时验证具体review数（本轮搜索预算未覆盖商品页）；类目判断头部为节日品牌，木质rustikal风格多为中小卖家——置信度中等，明确标注待验证",
+      "signal_scores": {
+        "trend": 60,
+        "gap": 65,
+        "profit": 65,
+        "final": 62,
+        "recommendation": "watch"
+      },
+      "recommendation": "watch"
+    }
+  ],
+  "trend_forecast": "未来4-8周（2026年11月中旬至2027年1月上旬）德国需求窗口按日历锚点推演如下，全部按空运10-15天时效倒推死线，过线窗口一律不列入采购计划：①12/13-12/24圣诞装饰与餐桌补货窗：德国圣诞树按传统12/24才立，3rd/4th Advent（12/13、12/20）家庭集中完成布置，非电木质挂饰、餐桌装饰、礼物小件补货需求集中释放，空运死线11/22（窗口起点12/13倒推3周）；②12/15-1/31供暖季节能改造窗：取暖成本敏感叠加持续低温，门窗自粘密封条、门底挡风件、保温膜进入安装高峰，同时12月车队冬检带动冰刮/雪刷换新复购，空运死线11/24；③12/26-1/31新年计划窗：Vorsätze（新年决心）驱动日程本、日历、收纳件销售峰值延至1月底，叠加1月6日假期结束后的返校返工采购小峰，空运死线12/05；④1/11-2/10 Karneval服装配件窗（前瞻预埋，采购决策死线12/21仍在8周决策期内）：Weiberfastnacht 2027-02-04、Rosenmontag 2027-02-08，NRW与莱茵地区为核心，羽毛披肩、亮片领结、派对配件自1月中旬起爆，提前3周备货可吃满整个会期；⑤12/13-12/23礼物包装窗：Heiligabend前10天是礼物袋、礼盒、拉菲草填充件最后一波补货，零售端清空即停，空运死线11/22。两个已过空运死线的窗口（1st Advent 11/30起、Nikolaus 12/06）不再列入任何采购计划，勿被当下高热度误导下单。所有窗口若错过空运死线，宁可放弃本轮，不做海运补位——海运77天口径下这些季节品到仓即过季。"
+}
