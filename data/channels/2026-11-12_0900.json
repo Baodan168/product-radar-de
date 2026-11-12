@@ -1,0 +1,2098 @@
+{
+  "scan_date": "2026-11-12",
+  "scan_time": "09:00",
+  "scan_ts": "2026-11-12_0900",
+  "stats": {
+    "total_scanned": 255,
+    "passed_filter": 21,
+    "rejected": 211,
+    "channels": {
+      "keyword_search": 21,
+      "multi_source": 21,
+      "etsy_trending": 1,
+      "youtube_review": 1,
+      "tiktok_verified": 1,
+      "event_product": 1,
+      "temu_trending": 1
+    },
+    "detail_reject": {},
+    "theme_trimmed": [
+      {
+        "asin": "B0D3C79N95",
+        "name": "Taschenkalender 2027, A6 Kalender von Jan. - Dez. | Terminplaner 2027 Wochenplaner mit Hardcover, 2 Lesezeichen, Stiftsc"
+      },
+      {
+        "asin": "B08DG484TJ",
+        "name": "Dekoration Schaukelpferd Anhänger aus Holz, 6 Stück mit Glöckchen, 8 x 6,5 cm, Christbaumschmuck in Braun, Grau und Weiß"
+      },
+      {
+        "asin": "B0GV3HQ85Y",
+        "name": "POPRUN Kalender 2027 Klein Taschenkalender A6(15,6 x 10cm) mit Softcover | 12-Monate-Terminplaner(Jan.2027-Dez.2027),1 W"
+      },
+      {
+        "asin": "B0G7Z58KR2",
+        "name": "SIGEL Conceptum Terminplaner 2027 A6 Tageskalender Softcover schwarz | C2721, 400 Seiten, Chefkalender mit Gummiband, St"
+      },
+      {
+        "asin": "B0GYF6LLX3",
+        "name": "Kalender 2027 Personal A6 Ringbuch Nachfüllbar Deutsch, Buchkalender 1 Woche 2 Seiten, Wochenplaner/Terminplaner mit Mon"
+      },
+      {
+        "asin": "B0H9BP8ZK4",
+        "name": "40 Stück Weihnachtsanhänger Mit 5m Seil, Holz Weihnachtsbaumschmuck | Holz 40er Set (8cm) für Weihnachtsbaum Deko & Weih"
+      },
+      {
+        "asin": "B0CX8P5MWX",
+        "name": "52Ft Hängenden Papier Girlande Holographisch Regenbogen,Rund und Stern Papier Deko for Party(4M x 4)"
+      },
+      {
+        "asin": "B09C1RLS2D",
+        "name": "HOWAF Silvester Deko 2027 Neujahr Deko Banner Silvester Dekoration Schwarz Gold Happy New Year Girlande Silvester Wimpel"
+      },
+      {
+        "asin": "B0DLVX5TLV",
+        "name": "DazzJoy Silvester Deko 2027 Luftballons Schwarz Gold, 32 Zoll Happy New Year Deko 2027, Silvester Deko 2027 Party Set Fo"
+      },
+      {
+        "asin": "B0GV3QYXBH",
+        "name": "Gesponserte Anzeige – POPRUN Taschenkalender 2027 Wochenplaner Horizontal A6(15,6x10cm) Hardcover | PU-Leder,(Jan.2027-D"
+      },
+      {
+        "asin": "B0FJ2H2SGG",
+        "name": "Gesponserte Anzeige – 349 Knicklichter Party Set - 150 Leuchtstäbe 8 Farben, mit Verbinder für Armreifen Brillen Ohrring"
+      },
+      {
+        "asin": "B0DDNL34DF",
+        "name": "Gesponserte Anzeige – 16 Geburtstagsdeko, gold 16 Geburtstag deko für Jungen Mädchen gold weiße Luftballons HAPPY BIRTHD"
+      },
+      {
+        "asin": "B0HJGRSY6Y",
+        "name": "Gesponserte Anzeige – Taschenkalender 2027 Klein - Terminplaner von Januar 2027 bis Dezember 2027, Wochenplaner 2027 mit"
+      },
+      {
+        "asin": "B0GVN1P8V8",
+        "name": "Gesponserte Anzeige – POPRUN Taschenkalender 2027 Wochenplaner mit Notizen A6 mit PU-Softcover | (15,6 x 10cm),(Jan.2027"
+      },
+      {
+        "asin": "B0GVNBD8DZ",
+        "name": "Gesponserte Anzeige – IN-LUXPRO Kalender 2027 Buchkalender Vertikal Spiralbindung Wochenplanung | 12-Monate Wochenplaner"
+      },
+      {
+        "asin": "B0BFKL5VSM",
+        "name": "Gesponserte Anzeige – HOUISM 24Stück Weihnachtsbaumschmuck Holz Schneeflocken Anhänger, Christbaumschmuck Holz Weihnacht"
+      },
+      {
+        "asin": "B0BBV7FCNW",
+        "name": "Gesponserte Anzeige – 24 Stück Baumschmuck Weihnachten aus Holz，Weihnachtsdeko Zuhause | Weihnachtsanhänger & Christbaum"
+      },
+      {
+        "asin": "B0GTHWSJ2D",
+        "name": "Gesponserte Anzeige – BEZEND Taschenkalender 2027 Klein Wochenkalender A6 15,5 x 9 cm | 12-Monate Wochenplaner (Jan - De"
+      },
+      {
+        "asin": "B0F6MJW18F",
+        "name": "Gesponserte Anzeige – Taschenkalender 2027 - A6 Terminkalender von Januar 2027 bis Dezember 2027 | Wochenplaner a6, Kale"
+      },
+      {
+        "asin": "B0GY8Y1NF6",
+        "name": "Gesponserte Anzeige – KICNIC 6 Stück Lametta Vorhang Champagner Glitzer, 1m x 2.5m Glitzervorhang | Lametta Vorhänge, Ti"
+      },
+      {
+        "asin": "B0GV3TN281",
+        "name": "Gesponserte Anzeige – POPRUN Taschenkalender 2027 Kalender A6(15,6 x 10cm) mit Softcover | 12-Monate-Terminplaner(Jan.20"
+      },
+      {
+        "asin": "B09HB2HRPQ",
+        "name": "Gesponserte Anzeige – 27 Stück Holz Weihnachten Anhänger, Weihnachtsdekoration Hirsch Dekofigur mit Rentier Baumschmuck "
+      },
+      {
+        "asin": "B0CPP4Y883",
+        "name": "Gesponserte Anzeige – Explosionsstern Luftballons Silber, 8 Stück Explosion Stern Folienballons, Silber Stern Folienluft"
+      }
+    ],
+    "trend_categories": {
+      "crafts": 100,
+      "pets": 100,
+      "lighting": 71,
+      "eco": 67,
+      "office": 55,
+      "home decor": 55
+    },
+    "supply_demand": {
+      "pets": {
+        "ratio": 7.5,
+        "demand": 100,
+        "supply": 581194,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "kitchen": {
+        "ratio": 3.5,
+        "demand": 43,
+        "supply": 256758,
+        "label": "💧 浅蓝海",
+        "level": "light_blue"
+      },
+      "kitchen_gadgets": {
+        "ratio": 0.3,
+        "demand": 4,
+        "supply": 256758,
+        "label": "🔴 红海",
+        "level": "red_ocean"
+      },
+      "office": {
+        "ratio": 0,
+        "demand": 55,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "crafts": {
+        "ratio": 0,
+        "demand": 100,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "lighting": {
+        "ratio": 0,
+        "demand": 71,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "travel": {
+        "ratio": 0,
+        "demand": 8,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "phone": {
+        "ratio": 0,
+        "demand": 16,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      }
+    },
+    "divergences": {
+      "pets": {
+        "current_heat": 92,
+        "previous_heat": 100,
+        "heat_change_pct": -8.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "crafts": {
+        "current_heat": 100,
+        "previous_heat": 100,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "phone": {
+        "current_heat": 38,
+        "previous_heat": 17,
+        "heat_change_pct": 123.5,
+        "direction": "rising",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "beauty": {
+        "current_heat": 14,
+        "previous_heat": 4,
+        "heat_change_pct": 250.0,
+        "direction": "rising",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "seasonal": {
+        "current_heat": 38,
+        "previous_heat": 22,
+        "heat_change_pct": 72.7,
+        "direction": "rising",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "lighting": {
+        "current_heat": 65,
+        "previous_heat": 76,
+        "heat_change_pct": -14.5,
+        "direction": "stable",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "cleaning": {
+        "current_heat": 29,
+        "previous_heat": 4,
+        "heat_change_pct": 625.0,
+        "direction": "rising",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "eco": {
+        "current_heat": 60,
+        "previous_heat": 72,
+        "heat_change_pct": -16.7,
+        "direction": "stable",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "storage": {
+        "current_heat": 38,
+        "previous_heat": 4,
+        "heat_change_pct": 850.0,
+        "direction": "rising",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "kitchen": {
+        "current_heat": 42,
+        "previous_heat": 37,
+        "heat_change_pct": 13.5,
+        "direction": "stable",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "garden": {
+        "current_heat": 42,
+        "previous_heat": 37,
+        "heat_change_pct": 13.5,
+        "direction": "stable",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "sports": {
+        "current_heat": 9,
+        "previous_heat": 4,
+        "heat_change_pct": 125.0,
+        "direction": "rising",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "home decor": {
+        "current_heat": 29,
+        "previous_heat": 45,
+        "heat_change_pct": -35.6,
+        "direction": "falling",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "car": {
+        "current_heat": 51,
+        "previous_heat": 45,
+        "heat_change_pct": 13.3,
+        "direction": "stable",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "office": {
+        "current_heat": 60,
+        "previous_heat": 80,
+        "heat_change_pct": -25.0,
+        "direction": "falling",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      },
+      "travel": {
+        "current_heat": 33,
+        "previous_heat": 32,
+        "heat_change_pct": 3.1,
+        "direction": "stable",
+        "dates": [
+          "2026-11-11_0900",
+          "2026-11-11_1530"
+        ]
+      }
+    },
+    "gap_opportunities": 8
+  },
+  "products": [
+    {
+      "asin": "B001J6FTO6",
+      "name": "bsb Terminkalender Wochenplaner Taschenkalender Buchkalender, 2027, ca. A6 - schwarz - weiches Kunstleder - mit Gummiban",
+      "price": 13.52,
+      "reviews": 36,
+      "rating": 4.7,
+      "rank": 24,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "36 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B001J6FTO6",
+      "image_url": "https://m.media-amazon.com/images/I/71-SRzK4m0L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Taschenkalender 2027 A6 Terminkalender Wochenplaner Softcover",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.308,
+      "net_profit": 4.17,
+      "cost_breakdown": {
+        "vat": 2.7,
+        "commission": 2.03,
+        "fba": 2.2,
+        "ads": 1.35,
+        "returns": 0.27,
+        "sourcing": 0.8,
+        "total_cost": 9.35
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 33,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(lighting)": 23,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 高利润": 8,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0GSSW88HS",
+      "name": "Moleskine Wochenkalender 2027, 12-Monats-Planer mit Platz für Notizen, Deutsche Sprache, Softcover, Elastischer Verschlu",
+      "price": 13.58,
+      "reviews": 16,
+      "rating": 4.4,
+      "rank": 8,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "16 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0GSSW88HS",
+      "image_url": "https://m.media-amazon.com/images/I/81ergsvREpL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Taschenkalender 2027 A6 Terminkalender Wochenplaner Softcover",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.309,
+      "net_profit": 4.2,
+      "cost_breakdown": {
+        "vat": 2.72,
+        "commission": 2.04,
+        "fba": 2.2,
+        "ads": 1.36,
+        "returns": 0.27,
+        "sourcing": 0.8,
+        "total_cost": 9.38
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 10,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🌊 蓝海": 15,
+        "💰 高利润": 8,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0FR5BDRXV",
+      "name": "40 Stück Engel Anhänger Mit Schnur, Weihnachtsengel, Weihnachtsanhänger Holz, Weihnachtsschmuck, Christbaumschmuck, Anhä",
+      "price": 10.08,
+      "reviews": 15,
+      "rating": 4.7,
+      "rank": 37,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "15 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0FR5BDRXV",
+      "image_url": "https://m.media-amazon.com/images/I/81kPPmxP72L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Christbaumschmuck Holz Set Weihnachtsdeko Anhänger Rustikal",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.232,
+      "net_profit": 2.34,
+      "cost_breakdown": {
+        "vat": 2.02,
+        "commission": 1.51,
+        "fba": 2.2,
+        "ads": 1.01,
+        "returns": 0.2,
+        "sourcing": 0.8,
+        "total_cost": 7.74
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 7,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0FDQCBYTC",
+      "name": "Syoulin Party Dekoration Set, geburtstag deko，silvester deko，Lametta Vorhang Gold Glitzer,Disco Luftballons, Papier Pomp",
+      "price": 11.76,
+      "reviews": 17,
+      "rating": 4.2,
+      "rank": 7,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "17 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0FDQCBYTC",
+      "image_url": "https://m.media-amazon.com/images/I/913ruyazLwL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester deko party",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.275,
+      "net_profit": 3.23,
+      "cost_breakdown": {
+        "vat": 2.35,
+        "commission": 1.76,
+        "fba": 2.2,
+        "ads": 1.18,
+        "returns": 0.24,
+        "sourcing": 0.8,
+        "total_cost": 8.53
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 29,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🌊 蓝海": 15,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0DHZFR8DF",
+      "name": "ParPix Spiral Girlande Silvester Deko 2027 Party Set, Happy New Year Deko | Silvester Deko Hängend Spirale+Happy New Yea",
+      "price": 9.24,
+      "reviews": 13,
+      "rating": 3.5,
+      "rank": 55,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "13 Bewertungen, 3.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0DHZFR8DF",
+      "image_url": "https://m.media-amazon.com/images/I/81C8kMChWGL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester deko party",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 25,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🌊 蓝海": 15,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0CH3CWJBP",
+      "name": "YBwanli Silvester Deko 2027 party set, Bunt Neujahr Silvesterdeko, Fotobox accessoires Brille, Accessoire für Silvesterp",
+      "price": 9.24,
+      "reviews": 45,
+      "rating": 4.3,
+      "rank": 19,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "45 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0CH3CWJBP",
+      "image_url": "https://m.media-amazon.com/images/I/91EY+gujOoL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester deko party",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 20,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0G3T4C4TK",
+      "name": "Gesponserte Anzeige – 8 Stück Glitzer Deko Party,Papier Girlande Geburtstag,Bunt Glitzer Girlande,4m Hängende Party Deko",
+      "price": 10.89,
+      "reviews": 12,
+      "rating": 4.2,
+      "rank": 15,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "12 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0G3T4C4TK",
+      "image_url": "https://m.media-amazon.com/images/I/71TKqJn7KXL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "girlande gold silber",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.255,
+      "net_profit": 2.77,
+      "cost_breakdown": {
+        "vat": 2.18,
+        "commission": 1.63,
+        "fba": 2.2,
+        "ads": 1.09,
+        "returns": 0.22,
+        "sourcing": 0.8,
+        "total_cost": 8.12
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 29,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🌊 蓝海": 15,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0G48CDC4C",
+      "name": "Gesponserte Anzeige – CAZSYSDD 4Pack Disposable Plastic Tablecloths 137 * 274 cm and Satin Table Runner,Party Table Clot",
+      "price": 13.97,
+      "reviews": 28,
+      "rating": 4.1,
+      "rank": 11,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "28 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0G48CDC4C",
+      "image_url": "https://m.media-amazon.com/images/I/61Kw+NkAeLL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester deko party",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.315,
+      "net_profit": 4.4,
+      "cost_breakdown": {
+        "vat": 2.79,
+        "commission": 2.1,
+        "fba": 2.2,
+        "ads": 1.4,
+        "returns": 0.28,
+        "sourcing": 0.8,
+        "total_cost": 9.57
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 28,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "💰 高利润": 8,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0D1TSWF7Z",
+      "name": "Gesponserte Anzeige – NICROLANDEE Schwarz Gold 12 Stück Papierlaternen Seidenpapier Pompons Deko | Schwarz Gold Party De",
+      "price": 12.6,
+      "reviews": 131,
+      "rating": 4.5,
+      "rank": 63,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "131 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0D1TSWF7Z",
+      "image_url": "https://m.media-amazon.com/images/I/71+r7aquzGL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "girlande gold silber",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.292,
+      "net_profit": 3.68,
+      "cost_breakdown": {
+        "vat": 2.52,
+        "commission": 1.89,
+        "fba": 2.2,
+        "ads": 1.26,
+        "returns": 0.25,
+        "sourcing": 0.8,
+        "total_cost": 8.92
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 24,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0CHDGH9SG",
+      "name": "Basteln Weihnachten Kinder, 80P Holzanhänger zum Bemalen Weihnachten, Holz Weihnachtsdeko Anhänger, Weihnachtsbasteln DI",
+      "price": 10.08,
+      "reviews": 5,
+      "rating": 5.0,
+      "rank": 25,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "5 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0CHDGH9SG",
+      "image_url": "https://m.media-amazon.com/images/I/81WahWDcGkL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Christbaumschmuck Holz Set Weihnachtsdeko Anhänger Rustikal",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.232,
+      "net_profit": 2.34,
+      "cost_breakdown": {
+        "vat": 2.02,
+        "commission": 1.51,
+        "fba": 2.2,
+        "ads": 1.01,
+        "returns": 0.2,
+        "sourcing": 0.8,
+        "total_cost": 7.74
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 7,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0HG1CK65N",
+      "name": "20 Stück Christbaumschmuck Aus Holz, Engel Im Vintage Stil Für Weihnachten | Weihnachtsanhänger aus Holz, 8 x 5,5 x 0,2 ",
+      "price": 10.92,
+      "reviews": 3,
+      "rating": 4.4,
+      "rank": 45,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "3 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HG1CK65N",
+      "image_url": "https://m.media-amazon.com/images/I/71Lke6Myc1L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Christbaumschmuck Holz Set Weihnachtsdeko Anhänger Rustikal",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.255,
+      "net_profit": 2.79,
+      "cost_breakdown": {
+        "vat": 2.18,
+        "commission": 1.64,
+        "fba": 2.2,
+        "ads": 1.09,
+        "returns": 0.22,
+        "sourcing": 0.8,
+        "total_cost": 8.13
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -8,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "⏳ 评论偏少": -8,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0H13NDR9Y",
+      "name": "Terminplaner 2027 A6 Türkis – Buchkalender 2027 A6 1 Woche 2 Seiten, Kalender 2027 Buchkalender, Wochenplaner 2027, Agen",
+      "price": 9.24,
+      "reviews": 17,
+      "rating": 4.4,
+      "rank": 51,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "17 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H13NDR9Y",
+      "image_url": "https://m.media-amazon.com/images/I/91pY4n1lNAL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Taschenkalender 2027 A6 Terminkalender Wochenplaner Softcover",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 2,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🌊 蓝海": 15,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0GV3RKPJJ",
+      "name": "POPRUN Kalender 2027 Klein Taschenkalender A6(15,6 x 10cm) Hardcover | 12-Monate-Terminplaner(Jan.2027-Dez.2027),1 Woche",
+      "price": 12.6,
+      "reviews": 133,
+      "rating": 4.7,
+      "rank": 52,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "133 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0GV3RKPJJ",
+      "image_url": "https://m.media-amazon.com/images/I/71tVP9UaR3L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Taschenkalender 2027 A6 Terminkalender Wochenplaner Softcover",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.292,
+      "net_profit": 3.68,
+      "cost_breakdown": {
+        "vat": 2.52,
+        "commission": 1.89,
+        "fba": 2.2,
+        "ads": 1.26,
+        "returns": 0.25,
+        "sourcing": 0.8,
+        "total_cost": 8.92
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 1,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0GV3QVV1V",
+      "name": "POPRUN Taschenkalender 2027 kalender A6(15,6 x 10cm) Spiralbuch Hardcover | Wochenplaner,(Jan.2027-Dez.2027),Planer 1 Wo",
+      "price": 9.24,
+      "reviews": 136,
+      "rating": 4.6,
+      "rank": 42,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "136 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0GV3QVV1V",
+      "image_url": "https://m.media-amazon.com/images/I/7134g6B4uvL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Taschenkalender 2027 A6 Terminkalender Wochenplaner Softcover",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -3,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0D7VLVK24",
+      "name": "52 Ft Silber Glitzer Papier Circle und Stern Garland,4 Stücke Hängende Runde und Stern Garland für Geburtstag Hochzeit W",
+      "price": 9.24,
+      "reviews": 44,
+      "rating": 4.2,
+      "rank": 44,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "44 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0D7VLVK24",
+      "image_url": "https://m.media-amazon.com/images/I/61wXQKBHLqL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "girlande gold silber",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -3,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟢 低竞争": 10,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0DT3JMGGS",
+      "name": "12 Windlicht Tischdeko + 20 Stück Servietten Schön DASS Wir Zusammen Feiern + 500 Konfetti, Geburtstagsdeko Mann Frauen,",
+      "price": 9.24,
+      "reviews": 150,
+      "rating": 4.6,
+      "rank": 58,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "150 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0DT3JMGGS",
+      "image_url": "https://m.media-amazon.com/images/I/81LgEJzPm9L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester deko party",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -3,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0FJ1G9BTP",
+      "name": "Lametta Girlande Weihnachten, Lametta Girlande Weihnachtsbaum, LamettaGirlande Gold, Weihnachtsdeko LamettaGirlande, Glä",
+      "price": 9.24,
+      "reviews": 24,
+      "rating": 4.1,
+      "rank": 27,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "24 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0FJ1G9BTP",
+      "image_url": "https://m.media-amazon.com/images/I/81WUzLMT9BL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "girlande gold silber",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -3,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟢 低竞争": 10,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0HJ1T3LQ2",
+      "name": "Lametta Girlande Weihnachten, 10 Stück à 2 m, flexibel formbar | Gold, Silber, Rot oder Blau für festlichen Glanz an Bau",
+      "price": 9.99,
+      "reviews": 3,
+      "rating": 5.0,
+      "rank": 6,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "3 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HJ1T3LQ2",
+      "image_url": "https://m.media-amazon.com/images/I/91aSliLIMKL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "girlande gold silber",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.23,
+      "net_profit": 2.29,
+      "cost_breakdown": {
+        "vat": 2.0,
+        "commission": 1.5,
+        "fba": 2.2,
+        "ads": 1.0,
+        "returns": 0.2,
+        "sourcing": 0.8,
+        "total_cost": 7.7
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -8,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "⏳ 评论偏少": -8,
+        "⭐ 高评分": 5,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0GC76D1PR",
+      "name": "Geburtstagsdeko Lila, 78 Stück Luftballons Violett Rosa für Mädchen Frauen | Kpop Geburtstagsdeko, Geburtstagsdeko Mädch",
+      "price": 10.08,
+      "reviews": 152,
+      "rating": 4.0,
+      "rank": 52,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "152 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0GC76D1PR",
+      "image_url": "https://m.media-amazon.com/images/I/81YnBUY59OL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester ballon set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.232,
+      "net_profit": 2.34,
+      "cost_breakdown": {
+        "vat": 2.02,
+        "commission": 1.51,
+        "fba": 2.2,
+        "ads": 1.01,
+        "returns": 0.2,
+        "sourcing": 0.8,
+        "total_cost": 7.74
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -8,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0BBCSMKHM",
+      "name": "15M Weihnachtsbaum Perlengirlande Christbaumschmuck Perlenband | Perlendurchmesser 8mm&4mm | Christbaumkette Dekoration ",
+      "price": 10.91,
+      "reviews": 187,
+      "rating": 4.4,
+      "rank": 56,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "187 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0BBCSMKHM",
+      "image_url": "https://m.media-amazon.com/images/I/81ET6Q6RxHL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "girlande gold silber",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.255,
+      "net_profit": 2.78,
+      "cost_breakdown": {
+        "vat": 2.18,
+        "commission": 1.64,
+        "fba": 2.2,
+        "ads": 1.09,
+        "returns": 0.22,
+        "sourcing": 0.8,
+        "total_cost": 8.13
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -18,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-09",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0H865N87X",
+      "name": "Luftballon Girlande Schwarz Orange FQZYLCH 130 Stück Verschiedene Größe Latex Ballons Girlande für Geburtstag Halloween ",
+      "price": 10.08,
+      "reviews": 3,
+      "rating": 4.4,
+      "rank": 49,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "3 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H865N87X",
+      "image_url": "https://m.media-amazon.com/images/I/71auqlrQ6KL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester ballon set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": true,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品",
+        "TikTok趋势",
+        "YouTube种草",
+        "Etsy趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.232,
+      "net_profit": 2.34,
+      "cost_breakdown": {
+        "vat": 2.02,
+        "commission": 1.51,
+        "fba": 2.2,
+        "ads": 1.01,
+        "returns": 0.2,
+        "sourcing": 0.8,
+        "total_cost": 7.74
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [],
+      "score": 71,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "📈 趋势(seasonal)": 8,
+        "⏳ 评论偏少": -8,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 3,
+      "is_new": false,
+      "first_seen": "2026-11-11",
+      "is_multi": true,
+      "channel_tags": [
+        "etsy_trending",
+        "youtube_review",
+        "multi_source",
+        "keyword_search",
+        "tiktok_verified",
+        "event_product",
+        "temu_trending"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "art",
+        "paint",
+        "craft"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "acrylic paint set",
+        "paint brush set",
+        "paint by numbers",
+        "craft knife",
+        "craft supplies"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 100,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=art+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=art+supplies&geo=GB"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 71,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "led",
+        "lamp",
+        "light",
+        "strip"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "desk lamp",
+        "night light",
+        "table lamp",
+        "fairy lights",
+        "string lights"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 71,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=LED+bulb",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+bulb&geo=GB"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 67,
+      "score": 67,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 67,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=GB"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 55,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "pen"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "pen holder",
+        "pen set",
+        "fountain pen"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 55,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=pen+holder",
+      "url_google": "https://trends.google.com/trends/explore?q=pen+holder&geo=GB"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 55,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "candle",
+        "decor",
+        "wall art"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "candle holder",
+        "scented candle",
+        "candle set",
+        "home decor",
+        "room decor",
+        "table decor",
+        "wall art print",
+        "wall hanging"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 55,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=candle+holder",
+      "url_google": "https://trends.google.com/trends/explore?q=candle+holder&geo=GB"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 51,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "christmas",
+        "gift",
+        "halloween"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking",
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "halloween decoration",
+        "halloween costume"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 51,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=christmas+decoration",
+      "url_google": "https://trends.google.com/trends/explore?q=christmas+decoration&geo=GB"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 47,
+      "score": 60,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car",
+        "motor"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder",
+        "motorcycle accessories",
+        "motorcycle cover"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 47,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=GB"
+    },
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 43,
+      "score": 29,
+      "gap_level": "weak",
+      "amazon_count": 8,
+      "amazon_reviews": 256758,
+      "evidence": [
+        "mug",
+        "kitchen",
+        "gadget",
+        "cup"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "kitchen",
+        "gadget"
+      ],
+      "sd_info": {
+        "ratio": 3.5,
+        "demand": 43,
+        "supply": 256758,
+        "label": "💧 浅蓝海",
+        "level": "light_blue"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=kitchen",
+      "url_google": "https://trends.google.com/trends/explore?q=kitchen&geo=GB"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "lighting",
+        71
+      ],
+      [
+        "eco",
+        67
+      ],
+      [
+        "office",
+        55
+      ],
+      [
+        "home decor",
+        55
+      ]
+    ],
+    "cross_validated": [
+      "office",
+      "crafts",
+      "lighting",
+      "pets",
+      "eco",
+      "kitchen",
+      "car",
+      "seasonal",
+      "sports",
+      "home decor",
+      "garden"
+    ],
+    "demand_keywords": [
+      "acheter des bons d",
+      "amazon blocks sales of competitor",
+      "amazon investit",
+      "amazon lance",
+      "amazon ne dit pas qu",
+      "amazon pokes fun at glitches",
+      "amazon rolls out",
+      "amazon vs",
+      "are these",
+      "autumn food"
+    ],
+    "season": "autumn",
+    "sources_scanned": [
+      "tiktok",
+      "dealabs",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}

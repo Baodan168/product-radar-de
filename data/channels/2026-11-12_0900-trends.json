@@ -1,0 +1,245 @@
+{
+  "category_scores": {
+    "office": 55,
+    "crafts": 100,
+    "lighting": 71,
+    "pets": 100,
+    "travel": 8,
+    "phone": 16,
+    "beauty": 4,
+    "eco": 67,
+    "kitchen": 43,
+    "car": 47,
+    "seasonal": 51,
+    "sports": 31,
+    "home decor": 55,
+    "kitchen_gadgets": 4,
+    "storage": 12,
+    "bedding": 4,
+    "garden": 31,
+    "cleaning": 8,
+    "baby": 12
+  },
+  "category_evidence": {
+    "office": [
+      "pen"
+    ],
+    "crafts": [
+      "art",
+      "paint",
+      "craft"
+    ],
+    "lighting": [
+      "led",
+      "lamp",
+      "light",
+      "strip"
+    ],
+    "pets": [
+      "pet",
+      "bed",
+      "dog",
+      "cat"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "phone": [
+      "case",
+      "cable",
+      "phone",
+      "stand"
+    ],
+    "beauty": [
+      "makeup"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "kitchen": [
+      "mug",
+      "kitchen",
+      "gadget",
+      "cup"
+    ],
+    "car": [
+      "car",
+      "motor"
+    ],
+    "seasonal": [
+      "christmas",
+      "gift",
+      "halloween"
+    ],
+    "sports": [
+      "exercise",
+      "sport",
+      "fitness"
+    ],
+    "home decor": [
+      "candle",
+      "decor",
+      "wall art"
+    ],
+    "kitchen_gadgets": [
+      "kitchen gadget"
+    ],
+    "storage": [
+      "storage",
+      "box"
+    ],
+    "bedding": [
+      "pillow"
+    ],
+    "garden": [
+      "plant",
+      "garden"
+    ],
+    "cleaning": [
+      "cleaning",
+      "vacuum"
+    ],
+    "baby": [
+      "kids",
+      "toddler",
+      "child"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "office": 3,
+      "crafts": 3,
+      "lighting": 3,
+      "pets": 3,
+      "travel": 1,
+      "phone": 3,
+      "beauty": 1,
+      "eco": 2,
+      "kitchen": 1,
+      "car": 1,
+      "seasonal": 1
+    },
+    "dealabs": {
+      "crafts": 3,
+      "pets": 1,
+      "sports": 1,
+      "home decor": 1,
+      "eco": 2,
+      "kitchen": 2,
+      "kitchen_gadgets": 1
+    },
+    "temu": {
+      "pets": 5,
+      "crafts": 3,
+      "home decor": 1,
+      "eco": 3,
+      "car": 2,
+      "storage": 2,
+      "lighting": 2,
+      "sports": 1,
+      "seasonal": 1
+    },
+    "etsy": {
+      "kitchen": 1,
+      "pets": 5,
+      "crafts": 5,
+      "home decor": 3,
+      "eco": 2,
+      "seasonal": 4,
+      "office": 2,
+      "lighting": 3,
+      "bedding": 1,
+      "garden": 1
+    },
+    "youtube": {
+      "car": 3,
+      "pets": 5,
+      "crafts": 4,
+      "kitchen": 2,
+      "cleaning": 1,
+      "office": 2,
+      "storage": 1,
+      "home decor": 1,
+      "baby": 3,
+      "seasonal": 1
+    },
+    "google_trends": {
+      "car": 2,
+      "pets": 3,
+      "crafts": 3,
+      "sports": 2,
+      "garden": 1,
+      "office": 1,
+      "lighting": 1,
+      "travel": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 1,
+      "eco": 1,
+      "pets": 1,
+      "cleaning": 1,
+      "crafts": 1,
+      "phone": 1
+    },
+    "market_intel": {
+      "crafts": 3,
+      "garden": 2,
+      "home decor": 1,
+      "eco": 2,
+      "office": 1,
+      "lighting": 2,
+      "pets": 1
+    }
+  },
+  "cross_validated": {
+    "office": 6,
+    "crafts": 8,
+    "lighting": 5,
+    "pets": 8,
+    "eco": 7,
+    "kitchen": 5,
+    "car": 4,
+    "seasonal": 4,
+    "sports": 3,
+    "home decor": 6,
+    "garden": 3
+  },
+  "demand_keywords": [
+    "acheter des bons d",
+    "amazon blocks sales of competitor",
+    "amazon investit",
+    "amazon lance",
+    "amazon ne dit pas qu",
+    "amazon pokes fun at glitches",
+    "amazon rolls out",
+    "amazon vs",
+    "are these",
+    "autumn food",
+    "autumn is the best season",
+    "best early",
+    "bon plan",
+    "bons plans",
+    "cadeaux",
+    "code promo",
+    "dealabs",
+    "dernier jour des",
+    "des meilleures ventes",
+    "dressing the",
+    "en avance",
+    "etsy trend check",
+    "explore the latest",
+    "explorez les produits tendance",
+    "fall fashion trends",
+    "fall in",
+    "france finds",
+    "france travel",
+    "how can",
+    "how is"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 73465
+}
