@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13T08:55:00+08:00",
+  "scan_date": "2026-11-13",
+  "scan_time": "08:40",
+  "summary": "11/13扫描：Amazon.de New Releases+Similarweb类目增速+TikTok DE热榜+1688价格验证，产出4个新方向（14天内10条历史品类已全部去重）。主线=12月德国家庭餐桌与保暖：迷你毛绒热水袋（Bestseller前20占5席）、机械烤肉温度计（圣诞烤鹅季+无需电池）、北欧风圣诞纸餐巾（Partygeschirr单量+14.73%）、芝士火锅叉6件套（Fondue季+Silvester）。全部轻小件、非电子、无液体、无IP图案，空运10-15天节奏可控。",
+  "insights": [
+    {
+      "keyword": "Wärmflasche klein",
+      "keyword_cn": "迷你注水热水袋（圣诞毛绒套）",
+      "amazon_keyword": "Wärmflasche klein mit Plüschbezug Weihnachten Winter",
+      "search_1688": "跨境圣诞热水袋 毛绒注水迷你 防爆",
+      "demand_signals": [
+        "kaufperle.de（2026-11-01更新）：随机选的6款Wärmflasche中5款当期位于Amazon.de Wärmflasche Bestseller榜前20，品类热度确认",
+        "1688义乌九馨：'跨境Christmas圣诞热水袋毛绒注水款'¥8-10.5已售100+、基础款¥2.8已售1k+（跨境现货通道成熟，返单快）",
+        "merch-world促销目录新增AARHUS 250ml/AALBORG 310ml迷你款（批发€3.83-4.61起），说明'迷你细分'正被礼品渠道放量采购",
+        "德国11月起供暖成本敏感，注水热水袋为免电保暖传统解法，冬季需求持续到1月底"
+      ],
+      "trend_score": 78,
+      "trend_direction": "up",
+      "reason": "大类被fashy/Hugo Frosch等德国品牌占据，但0.25-0.35L迷你款+圣诞提花毛绒套是差异化切口：避开与大牌1.5-2L正面竞争，切入Nikolaus/Wichtelgeschenk低价礼赠场景；注水款无电池无电子，过全部禁词；整重含包装约180g，小号包装约22×16×5cm合规。",
+      "action": "落店130（DE主力承接SKU）。定价€8.99（套+瓶0.35L礼盒感包装）。1688搜索'跨境圣诞热水袋 毛绒注水迷你'，目标到手价¥6.5内（约€0.83），加头程空运约€0.55。节奏：11/15前询价确认防爆认证与套料可拆洗→11/17空运下单→11/28-12/03到仓上架，吃12月保暖+圣诞礼赠双场景，死线11/17。",
+      "competition": "Wärmflasche大类头部为fashy（德国产）、Hugo Frosch、Blumtal，review 2k+；迷你细分（0.3L级）头部listing多在150-400 review，品牌集中度中等，圣诞图案套款式尚有空位。",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 62,
+        "profit": 58,
+        "final": 66,
+        "recommendation": "buy"
+      }
+    },
+    {
+      "keyword": "Bratenthermometer analog",
+      "keyword_cn": "机械烤肉温度计（表盘式，无需电池）",
+      "amazon_keyword": "Bratenthermometer analog Edelstahl ohne Batterie",
+      "search_1688": "不锈钢表盘烤肉温度计 机械双金属",
+      "demand_signals": [
+        "trendtrack.de圣诞2026趋势Top12明确列出'Fleischthermometer+Raclette/Fondue接待配件'为德国家庭Heiligabend/Silvester场景品类",
+        "Heiligabend烤鹅/烤鸭传统+12月Raclette季，德国文化刚需场景，Anzeige钩子强",
+        "1688义乌喆达TA288机械双金属款¥5.3-5.5现货5020件、义乌购B-2C款≥3000件¥7.8，供货端活跃（近30天9人想买），且页面明确'无需电池'",
+        "Similarweb（11/01）：Küche Kochen & Backen单量同比+12.41%，烘焙烤制类目整体上行"
+      ],
+      "trend_score": 80,
+      "trend_direction": "up",
+      "reason": "数字温度计主导但多为电子类（触我们的禁电红线反向是机会），纯机械表盘款无需电池、探针全不锈钢，是'电子疲劳'人群的明确替代选项；重量约80g、包装约20×8×2cm，合规无忧；功能三秒可懂，适合Advent前礼品和烤鹅季自用双场景。落地差异化=300°C大表盘+中英德三语温度对照卡（无IP风险）。",
+      "action": "落店110（厨房类目流量最大店）。定价€9.99（含烤鹅温度对照卡+牛皮礼盒）。1688搜索'不锈钢表盘烤肉温度计 机械双金属'，目标到手价¥5.4（约€0.69）+头程€0.40。节奏：11/16前打样确认0-300°C表盘与探针长度≥15cm→11/19空运下单→12/01前后到仓，吃12/10-12/24烤鹅峰值，死线11/19（按峰值12/10倒推3周）；错过则转投1月Raclette季，死线12/15。",
+      "competition": "数字款霸榜（Etekcity等review 10万+），analog机械款头部review约200-800，品牌集中度低（多为白牌）；直接竞对少，gap清晰。",
+      "signal_scores": {
+        "trend": 80,
+        "gap": 68,
+        "profit": 74,
+        "final": 74,
+        "recommendation": "buy"
+      }
+    },
+    {
+      "keyword": "Weihnachtsservietten",
+      "keyword_cn": "圣诞纸餐巾（北欧风，无IP图案）",
+      "amazon_keyword": "Weihnachtsservietten Papier 20 Stück Nordic Muster",
+      "search_1688": "圣诞纸餐巾批发 20张装 三层 北欧雪花",
+      "demand_signals": [
+        "Similarweb（11/01）：Partygeschirr单量+14.73%、Papier & Papierkunst单量+14.99%，纸制品餐桌场景双增长",
+        "conzoom Solutions（Frankfurt展会方）圣诞2026趋势：Weiß/Creme极简+Skandi线条为年度主色系，直接支撑'北欧无IP图案'选款",
+        "JYSK 11/10新闻稿：圣诞+Silvester双桌景营销，餐巾为桌景标配（渠道端品类教育持续）",
+        "12月圣诞蛋糕/烘焙分享季，拍照晒图场景让图案类餐巾有社交传播属性"
+      ],
+      "trend_score": 70,
+      "trend_direction": "up",
+      "reason": "纸质餐巾轻（40张约180g）、平板包装（约17×17×3cm）、物流零风险，€9.99价位卡在Wichtelgeschenk随手买区间；选款红线=只用北欧几何/雪花/驯鹿剪影等通用元素，严禁Disney/皮卡丘等IP印花（侵权自查通过）。同一品类14天内未推（历史仅饼干切模/窗贴/木质挂饰，均不同类目）。",
+      "action": "落店130。定价€9.99（40张/2包装，3层33×33cm）。1688搜索'圣诞纸餐巾批发 20张装 三层'，目标¥8/包（约€1.03）+头程€0.50。节奏：11/16前确认印刷色牢度与无IP图案打样→11/19空运下单→12/05前到仓，吃圣诞餐桌+烘焙晒图季；死线11/19（按12/10峰值起点倒推），过线则本季降级watch、转1月派对场景再评估。",
+      "competition": "listing密度高（头部review 100-500），但图案差异化空间大、白牌为主、品牌集中度低；拼的是选款眼光与主图，不拼价格战。",
+      "signal_scores": {
+        "trend": 70,
+        "gap": 55,
+        "profit": 65,
+        "final": 63,
+        "recommendation": "buy"
+      }
+    },
+    {
+      "keyword": "Fonduegabeln",
+      "keyword_cn": "芝士火锅叉6件套（彩头防烫木柄）",
+      "amazon_keyword": "Fonduegabeln Edelstahl 6 Stück mit Farbmarkierung",
+      "search_1688": "芝士火锅叉套装 批发 橡木柄 不锈钢",
+      "demand_signals": [
+        "trendtrack.de圣诞2026趋势Top12：'Raclette, Fondue und Gastgeber-Zubehör'单列，明示Heiligabend/Silvester传统接待场景，市场判断'利润可观'",
+        "Similarweb（11/01）：Geschirr & Besteck单量+16.46%，餐桌配件整体上行",
+        "1688已有专供链接：6件套橡木柄不锈钢芝士火锅叉（offer 939150836567，含烧烤/巧克力/奶酪多用），外贸现货通道现成",
+        "JYSK Silvester桌景主打Chrom/Stahl金属主题，12月底-1月Fondue季与Silvester双窗口重叠"
+      ],
+      "trend_score": 75,
+      "trend_direction": "up",
+      "reason": "Fondue是瑞士/德国南部冬季传统，12月中-1月底为主场；叉子6支装总重约140g、盒装27×8×3cm（≤30×21×6合规），非电子无液体全过禁词；对比整锅Fondue（重、易碎），配件切入避开了物流短板。差异化=彩色色标头+防烫木柄（区分家人用叉，解决混用痛点）。",
+      "action": "落店3002（稳定店分流测试）。定价€10.99。1688搜索'芝士火锅叉套装 批发 橡木柄'，目标¥10/套（约€1.28，报价页未展示单价，按同类橡木柄6件套估，下单前必须询价确认）+头程€0.50。节奏：11/18前询价确认不锈钢304与木柄防烫→11/24空运下单→12/10-12/15到仓，主场Fondue季12/15-1/31，死线11/24（按窗口12/15倒推3周）；若赶Silvester（12/26-31）加推，死线12/05。",
+      "competition": "roessler、dealextras等有售但头部review约50-300，品牌集中度低；整锅产品竞争激烈而配件细分拥挤度中等，gap明确。",
+      "signal_scores": {
+        "trend": 75,
+        "gap": 72,
+        "profit": 70,
+        "final": 72,
+        "recommendation": "buy"
+      }
+    }
+  ],
+  "trend_forecast": "未来4-8周（2026-11-13至2027-01-08）德国需求窗口与空运死线推演（空运统一按10-15天，死线=窗口开始日倒推3周）：①圣诞采购尾量与12月全月峰值（12/01-12/24）：礼品类（厨房小工具、礼盒装配件、纸品）主窗口开始日12/01的倒推死线11/10已过，唯一可用余量是12/10烤鹅/餐桌峰值起点倒推的死线11/19——凡11/19后才能下单的季节品，一律不做圣诞礼品定位，降级为1月场景或放弃本季；驱动事件=Advent（11/29开始）点燃全月购物+Heiligabend烤鹅传统；品类方向=烤肉机械温度计、圣诞餐桌纸品、礼盒小工具。②Silvester跨年窗口（12/26-12/31）：驱动事件=家庭与小型派对双场景，餐桌金属主题与派对耗材并行；品类方向=火锅叉/餐桌配件、派对纸品（注意派对品类14天去重，11/11已推过跨年拍照道具）；死线12/05。③1月Raclette/Fondue季（12/15-01/31，峰值1月上旬）：德国家庭1月预算收缩但室内聚餐刚需，配件类（火锅叉、奶酪刮板用小工具、餐垫外配件）轻小件适配；死线12/15；驱动事件=学校寒假（12/22-01/05）与新年居家氛围。④新年组织季（01/01-01/31）：新一年计划/周历磁贴/办公桌面收纳小件需求反弹，驱动事件=Neujahrsvorsätze（新年决心）话题热度；死线12/06（按窗口1/1倒推）；注意11/12已推2027袖珍日程本，同主品类（Kalender）14天内禁推，磁贴计划板/桌面收纳为可行变体。⑤Karneval前哨（街庆1/20起，Rosenmontag 2027-02-08，主窗口02/01-02/10）：驱动事件=莱茵地区科隆/杜塞/美因茨街庆与公司派对双场景；品类方向=派对配件（假面配件、亮片贴、主题小道具，避开11/12已推Federboa同品类）；死线12/30——这是本轮预测中唯一适合海运前置思考的窗口，但按Lee口径不发海运，空运死线仍是12/30，到仓1/15-1/20刚好踩街庆启动。⑥Valentinstag前哨（窗口02/01-02/14）：非body care方向的木刻心形挂牌、贺卡木牌、礼盒丝带等轻小件，驱动事件=德国2月礼品消费小峰；死线1/11，4-8周内可从容打样。风险提示：黑五/网一（11/27-30）下单窗口已完全过线，不再纳入；所有季节品下单前必须重新核对类目BSR与review变化，死线一旦错过不做延期幻想，立即切换下一窗口。"
+}
