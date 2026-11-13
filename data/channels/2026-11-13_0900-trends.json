@@ -1,0 +1,236 @@
+{
+  "category_scores": {
+    "car": 47,
+    "office": 70,
+    "lighting": 74,
+    "beauty": 14,
+    "eco": 74,
+    "bathroom": 5,
+    "phone": 38,
+    "kitchen": 47,
+    "cleaning": 29,
+    "pets": 100,
+    "crafts": 100,
+    "home decor": 47,
+    "storage": 14,
+    "sports": 14,
+    "bedding": 14,
+    "seasonal": 42,
+    "garden": 29,
+    "travel": 5
+  },
+  "category_evidence": {
+    "car": [
+      "motor",
+      "car"
+    ],
+    "office": [
+      "pen",
+      "office",
+      "stationery"
+    ],
+    "lighting": [
+      "lamp",
+      "light",
+      "led"
+    ],
+    "beauty": [
+      "skincare",
+      "makeup",
+      "nail"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "bathroom": [
+      "shower"
+    ],
+    "phone": [
+      "stand",
+      "phone",
+      "case"
+    ],
+    "kitchen": [
+      "spice",
+      "kitchen",
+      "cup",
+      "gadget"
+    ],
+    "cleaning": [
+      "vacuum",
+      "cleaning"
+    ],
+    "pets": [
+      "pet",
+      "cat",
+      "bed"
+    ],
+    "crafts": [
+      "art",
+      "craft"
+    ],
+    "home decor": [
+      "decor"
+    ],
+    "storage": [
+      "storage",
+      "box"
+    ],
+    "sports": [
+      "sport",
+      "exercise"
+    ],
+    "bedding": [
+      "pillow",
+      "throw"
+    ],
+    "seasonal": [
+      "gift",
+      "halloween"
+    ],
+    "garden": [
+      "outdoor",
+      "plant",
+      "garden"
+    ],
+    "travel": [
+      "travel"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "car": 1,
+      "office": 1,
+      "lighting": 3,
+      "beauty": 2,
+      "eco": 3,
+      "bathroom": 1,
+      "phone": 2,
+      "kitchen": 1,
+      "cleaning": 1
+    },
+    "dealabs": {
+      "pets": 3,
+      "crafts": 3,
+      "phone": 1,
+      "home decor": 1,
+      "eco": 1,
+      "kitchen": 1
+    },
+    "temu": {
+      "car": 3,
+      "pets": 4,
+      "crafts": 5,
+      "phone": 2,
+      "home decor": 2,
+      "eco": 3,
+      "office": 1,
+      "storage": 2,
+      "lighting": 1,
+      "sports": 1,
+      "beauty": 1
+    },
+    "etsy": {
+      "kitchen": 1,
+      "crafts": 3,
+      "bedding": 2,
+      "home decor": 2,
+      "eco": 2,
+      "seasonal": 3,
+      "office": 3,
+      "lighting": 2,
+      "pets": 4,
+      "garden": 1
+    },
+    "youtube": {
+      "lighting": 2,
+      "pets": 3,
+      "crafts": 2,
+      "bedding": 1,
+      "travel": 1,
+      "eco": 1,
+      "kitchen": 2,
+      "cleaning": 1,
+      "car": 1,
+      "office": 3,
+      "storage": 1,
+      "seasonal": 1
+    },
+    "google_trends": {
+      "car": 2,
+      "pets": 3,
+      "crafts": 3,
+      "office": 2,
+      "sports": 2,
+      "garden": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "reddit": {
+      "kitchen": 2,
+      "office": 1,
+      "pets": 3,
+      "eco": 1,
+      "crafts": 2,
+      "cleaning": 1
+    },
+    "market_intel": {
+      "pets": 2,
+      "crafts": 3,
+      "seasonal": 1,
+      "garden": 1,
+      "office": 1,
+      "lighting": 2,
+      "eco": 1
+    }
+  },
+  "cross_validated": {
+    "car": 4,
+    "office": 7,
+    "lighting": 5,
+    "eco": 8,
+    "phone": 3,
+    "kitchen": 5,
+    "cleaning": 3,
+    "pets": 7,
+    "crafts": 7,
+    "home decor": 4,
+    "seasonal": 3,
+    "garden": 3
+  },
+  "demand_keywords": [
+    "acheter des bons d",
+    "all available on amazon cuz",
+    "amazon blocks sales of competitor",
+    "amazon ne dit pas qu",
+    "amazon pokes fun at glitches",
+    "amazon vs",
+    "are these",
+    "autumn winter elegant french style",
+    "best times to buy on",
+    "bon plan",
+    "bons plans",
+    "cadeaux",
+    "code promo",
+    "des meilleures ventes",
+    "dressing the",
+    "en avance",
+    "explorez les produits tendance",
+    "fall fashion trends",
+    "french e",
+    "holiday tables",
+    "how is",
+    "is it possible that",
+    "la culture du th",
+    "la rose des temps",
+    "leading trends for",
+    "les incontournables citrouilles",
+    "les meilleures ventes",
+    "les produits tendances",
+    "les tendances coiffures",
+    "les voil"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 72542
+}
