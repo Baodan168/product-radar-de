@@ -1,0 +1,224 @@
+{
+  "category_scores": {
+    "office": 55,
+    "lighting": 52,
+    "pets": 100,
+    "beauty": 7,
+    "car": 35,
+    "crafts": 85,
+    "kitchen": 35,
+    "cleaning": 25,
+    "phone": 3,
+    "eco": 55,
+    "home decor": 48,
+    "garden": 32,
+    "sports": 7,
+    "baby": 7,
+    "seasonal": 7,
+    "bedding": 3,
+    "travel": 7,
+    "storage": 7
+  },
+  "category_evidence": {
+    "office": [
+      "office",
+      "pen"
+    ],
+    "lighting": [
+      "led",
+      "light",
+      "lamp"
+    ],
+    "pets": [
+      "pet",
+      "cat",
+      "bed",
+      "toy"
+    ],
+    "beauty": [
+      "makeup",
+      "hair"
+    ],
+    "car": [
+      "car"
+    ],
+    "crafts": [
+      "art"
+    ],
+    "kitchen": [
+      "kitchen",
+      "gadget",
+      "cup"
+    ],
+    "cleaning": [
+      "cleaning",
+      "vacuum"
+    ],
+    "phone": [
+      "case"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "home decor": [
+      "wall art",
+      "decor"
+    ],
+    "garden": [
+      "garden",
+      "plant",
+      "outdoor"
+    ],
+    "sports": [
+      "sport"
+    ],
+    "baby": [
+      "kids",
+      "child"
+    ],
+    "seasonal": [
+      "gift"
+    ],
+    "bedding": [
+      "pillow"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "storage": [
+      "box"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "office": 2,
+      "lighting": 2,
+      "pets": 4,
+      "beauty": 1,
+      "car": 2,
+      "crafts": 2,
+      "kitchen": 1,
+      "cleaning": 1,
+      "phone": 1,
+      "eco": 1
+    },
+    "dealabs": {
+      "pets": 4,
+      "crafts": 3,
+      "kitchen": 1
+    },
+    "temu": {
+      "office": 3,
+      "lighting": 2,
+      "pets": 5,
+      "crafts": 3,
+      "home decor": 2,
+      "eco": 2,
+      "kitchen": 2,
+      "garden": 1,
+      "sports": 1,
+      "baby": 2,
+      "beauty": 1
+    },
+    "etsy": {
+      "crafts": 3,
+      "home decor": 3,
+      "eco": 2,
+      "office": 2,
+      "lighting": 2,
+      "pets": 4,
+      "seasonal": 1,
+      "garden": 1
+    },
+    "youtube": {
+      "pets": 5,
+      "crafts": 3,
+      "bedding": 1,
+      "travel": 1,
+      "cleaning": 1,
+      "car": 2,
+      "office": 2,
+      "storage": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "google_trends": {
+      "car": 2,
+      "storage": 1,
+      "pets": 2,
+      "crafts": 2,
+      "travel": 1,
+      "office": 1,
+      "eco": 2,
+      "garden": 1,
+      "home decor": 1
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 1,
+      "crafts": 2,
+      "eco": 2,
+      "pets": 3,
+      "cleaning": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "garden": 2,
+      "office": 1,
+      "lighting": 3,
+      "pets": 3,
+      "sports": 1,
+      "crafts": 3,
+      "home decor": 1,
+      "eco": 2,
+      "seasonal": 1
+    }
+  },
+  "cross_validated": {
+    "office": 7,
+    "lighting": 4,
+    "pets": 8,
+    "car": 3,
+    "crafts": 8,
+    "kitchen": 5,
+    "cleaning": 3,
+    "eco": 7,
+    "home decor": 5,
+    "garden": 4
+  },
+  "demand_keywords": [
+    "acheter des bons d",
+    "aesthetic clothing",
+    "amazon anticipe un bond de",
+    "amazon blocks sales of competitor",
+    "amazon investit un montant record",
+    "amazon ne dit pas qu",
+    "amazon rolls out",
+    "amazon va investir plus de",
+    "are these",
+    "bon plan",
+    "bons plans",
+    "cadeaux",
+    "code promo",
+    "cosy fall decor in the",
+    "decorate your home for",
+    "do not buy",
+    "en avance",
+    "explore trending products",
+    "fall fashion trends",
+    "french e",
+    "handmade products for home decor",
+    "how is",
+    "il mise notamment sur les",
+    "is it possible that",
+    "jeux pour gagner de l",
+    "la collection",
+    "la culture du th",
+    "la reconnaissance des titres de",
+    "la rose des temps",
+    "le pari strat"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 72856
+}
