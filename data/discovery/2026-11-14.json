@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-14",
+  "updated_at": "2026-11-14T08:45:00+08:00",
+  "scan_date": "2026-11-14",
+  "scan_time": "08:45",
+  "summary": "今日5个机会，全部为14天内未推荐的新品类（已避开饼干模具/降临日历/窗贴/拍照道具/冰刮/Karneval配件/日程本/密封条/圣诞挂饰/热水袋/烤肉温度计/纸餐巾/火锅叉/宠物毛发过滤器共14个已推品类）。新品5个、复扫0个、无重复。路径：TikTok德区本周viral榜以电子类为主（不可做），转向『季节刚需+1688价格验证』：Similarweb显示amazon.de收纳类11月views+10.16%、厨房小工具营收+18.48%。5品全部满足≤200g/€6.99-13.99/非电子/非液体/无IP风险，测算毛利率28-37%。",
+  "insights": [
+    {
+      "keyword": "Heizkörper-Entlüftungsschlüssel",
+      "keyword_cn": "暖气片放气阀钥匙套装",
+      "category": "DIY工具/供暖维护",
+      "amazon_keyword": "Heizkörper Entlüftungsschlüssel Set quadratisch Innensechskant Ventilschlüssel Heizung Entlüften",
+      "search_1688": "暖气片放气阀钥匙 四角 全铜 通用套装",
+      "demand_signals": [
+        "淘宝/1688行情(2026-10更新)：暖气片放气阀钥匙¥3.58-10现货多规格（四角/六角/内六角/全铜万向），9-11月国内供暖季采购峰",
+        "Camden Tools零售对比：同类黄铜钥匙2件套零售¥127.95(约€16.5)、单把仅10-28g——DE白牌€7.99定价空间明确",
+        "历史周期：德国供暖季10月-次年3月，暖气片积气排水为年度刚需，能源价格敏感放大DIY维护需求",
+        "竞争观察(估算，投放前实查)：amazon.de头部多为无品牌白牌，review约100-3000，品牌集中度低"
+      ],
+      "trend_score": 74,
+      "trend_direction": "rising",
+      "reason": "德国第一场霜冻(11月底-12月初)触发集中放气需求，每年必爆但无品牌锁定；50g超轻件空运成本几乎忽略，毛利率30%+，是本周时间窗最优标的",
+      "action": "落店3002，定价€7.99，1688采购词『暖气片放气阀钥匙 四角 全铜』（组合装：四角5×5mm+内六角+通用三件，成本约¥6）。节奏：11/17前首单空运100件（10-15天到货赶12月供暖峰），死线11/25；12/10前视动销补第二批，覆盖12月-2月整季",
+      "competition": "竞争低-中：无强势品牌，头部白牌review约100-3000(估算)，差异化=三件套组合+防滑胶柄",
+      "signal_scores": {
+        "trend": 74,
+        "gap": 72,
+        "profit": 80,
+        "final": 75,
+        "recommendation": "buy"
+      },
+      "recommendation": "buy",
+      "price_eur": 7.99,
+      "profit_estimate_eur": 2.42,
+      "margin_pct": 30,
+      "weight_g": 50
+    },
+    {
+      "keyword": "Woll-Wäschetrocknerbälle",
+      "keyword_cn": "羊毛烘干球4粒装",
+      "category": "家清/洗衣配件",
+      "amazon_keyword": "Wäschetrocknerbälle 4 Stück 100 Prozent Schafwolle Wollbälle Wäschetrockner Eco",
+      "search_1688": "羊毛烘干球 新西兰羊毛 6cm 跨境",
+      "demand_signals": [
+        "1688 wiki-烘干羊毛球：南宫毛毡产业带6家工厂¥0.14-0.78/个，聚顺毛毡44%回头率、2026-11-06成交500个订单",
+        "Tradewheel B2B行情：NZ羊毛烘干球FOB $0.39-0.99/pc，MOQ 100，河北南宫现货3/6粒装",
+        "1688买家评价：采购商10-11月高频补货（472个/2026-10-13、500个/2026-11-06成交），Q4进入烘干旺季",
+        "历史周期：德国冬季厚织物烘干+静电困扰，零化学柔顺剂环保概念持续增长"
+      ],
+      "trend_score": 60,
+      "trend_direction": "stable",
+      "reason": "采购成本极低（4粒装¥2.5≈€0.4），是5品中毛利率最高（37%）的利润款；常青需求+冬季上扬，几乎无季节死线风险，适合作为稳定利润补充SKU",
+      "action": "落店110，定价€9.99，1688采购词『羊毛烘干球 新西兰羊毛 6cm』（选5.5-6cm×4粒，控制在130g内，配棉布袋+英文用法卡）。节奏：无强死线，11/20前首单100套空运，12/05前完成12月-1月补货批次",
+      "competition": "竞争中等：头部白牌review 5000+(估算)，差异化=棉布袋包装+防静电用法说明卡",
+      "signal_scores": {
+        "trend": 60,
+        "gap": 62,
+        "profit": 88,
+        "final": 70,
+        "recommendation": "buy"
+      },
+      "recommendation": "buy",
+      "price_eur": 9.99,
+      "profit_estimate_eur": 3.69,
+      "margin_pct": 37,
+      "weight_g": 130
+    },
+    {
+      "keyword": "Widerstandsband Set",
+      "keyword_cn": "TPE弹力圈5件套（新年健身）",
+      "category": "运动健身配件",
+      "amazon_keyword": "Widerstandsband Set 5 Stärkelevels TPE Fitnessbänder mit Tragetasche",
+      "search_1688": "TPE弹力带套装 跨境 五档阻力 收纳袋",
+      "demand_signals": [
+        "1688 wiki-弹力带拉力器：弹力绳¥1.18款累计售出10万+件，多段位数字弹力带¥3款已售1万+，供应链成熟48h发货（2026-06平台数据）",
+        "1688市场页-瑜伽带：TPE阻力圈¥0.2-6.8价格带，义乌/金华/永康产业带30+工厂支持跨境定制印字",
+        "chip.de/oe24.at TikTok viral综述(2026)：健身小器械为TikTok德区常青viral类目，家用塑形场景内容持续产出",
+        "历史周期：德国1月Neujahrsvorsätze健身Resolution，Sports类目1月销量季节性峰值"
+      ],
+      "trend_score": 76,
+      "trend_direction": "rising",
+      "reason": "吃1月新年健身季的确定性周期，12/05前下单完全来得及；弹力带为TikTok德区常青展示品，短视频素材天然易做，毛利率32%",
+      "action": "落店3002，定价€9.99，1688采购词『TPE弹力带套装 跨境 五档阻力』（5档阻力圈+收纳袋+双语图解卡，成本约¥5）。节奏：11/20前完成首单设计定稿+100件空运下单，死线12/05前补货入库，1月首周流量峰值前铺满",
+      "competition": "竞争高：头部品牌review 1万+(估算)，需靠5档组合+收纳袋+训练卡差异化和广告切入，预估前期ACOS偏高（测品期只看出单）",
+      "signal_scores": {
+        "trend": 76,
+        "gap": 50,
+        "profit": 70,
+        "final": 66,
+        "recommendation": "buy"
+      },
+      "recommendation": "buy",
+      "price_eur": 9.99,
+      "profit_estimate_eur": 3.25,
+      "margin_pct": 33,
+      "weight_g": 110
+    },
+    {
+      "keyword": "Schmuckorganizer Reise",
+      "keyword_cn": "旅行首饰收纳卷包",
+      "category": "收纳整理",
+      "amazon_keyword": "Schmuckorganizer Reise aufrollbar Schmuckrolle für Ketten Ringe Ohrringe",
+      "search_1688": "首饰收纳包 旅行 卷式 抽绳 定制",
+      "demand_signals": [
+        "Similarweb amazon.de(2026-11-01)：Aufbewahrung & Organisation类目11月views同比+10.16%，为Q4增长最快的家居类目之一",
+        "1688 wiki-杜邦纸首饰收纳：收纳袋/卷包¥0.92-18价格带，道宏工艺品厂99.8%好评实力商家，义乌产业带支持定制",
+        "1688首饰包装行情：多页首饰收纳册出厂¥23-28、84卡位款现货4000+库存，品类供给成熟",
+        "历史周期：1月新年整理季+2月情人节旅行礼赠双节点承接，女装配件复购属性强"
+      ],
+      "trend_score": 68,
+      "trend_direction": "rising",
+      "reason": "收纳类正处Similarweb增速上行段；卷式设计150g轻件空运友好，毛利率28%；1月整理季+2月情人节两波承接，生命周期比圣诞品长一倍",
+      "action": "落店130，定价€10.99，1688采购词『首饰收纳包 旅行 卷式』（选卷式/抽绳双规格，成本约¥12）。节奏：11/25前首单空运100件吃1月整理季，死线12/05；情人节前(01/10)视动销补礼盒装升级款",
+      "competition": "竞争中等：头部Veejour/CTeam类品牌review 3000-8000(估算)，卷式/抽绳细分仍有空间，花色差异化可行",
+      "signal_scores": {
+        "trend": 68,
+        "gap": 58,
+        "profit": 64,
+        "final": 63,
+        "recommendation": "buy"
+      },
+      "recommendation": "buy",
+      "price_eur": 10.99,
+      "profit_estimate_eur": 3.08,
+      "margin_pct": 28,
+      "weight_g": 150
+    },
+    {
+      "keyword": "Teesieb Set",
+      "keyword_cn": "316不锈钢茶漏2件套（冬季热饮）",
+      "category": "厨房小工具",
+      "amazon_keyword": "Teesieb Set 2 Stück Edelstahl Teeei Doppelnetzsieb mit Abtropfschale",
+      "search_1688": "316不锈钢茶漏 带链子 双层网 卡扣",
+      "demand_signals": [
+        "Similarweb amazon.de(2026-11-01)：Küchenhelfer & Kochzubehör营收同比+18.48%，厨房小工具为11月增长头部类目",
+        "1688 wiki-不锈钢茶漏：潮州彩塘产业带¥0.67-2.41/个，藩达不锈钢厂316双层网款累计售出10万+件",
+        "1688跨境镜像(7sGood 2026)：316卡扣茶漏¥4.31-6.22、现货库存99万+件，带链子款为跨境热销规格",
+        "历史周期：德国冬季热饮季(11-2月)茶具配件需求上行，茶水分离为泡茶刚需场景"
+      ],
+      "trend_score": 62,
+      "trend_direction": "stable",
+      "reason": "厨房类目营收+18.5%的顺风+冬季热饮季，70g超轻空运成本极低，毛利率32%；非季节死线型品，风险最低",
+      "action": "落店130，定价€8.99，1688采购词『316不锈钢茶漏 带链子 双层』（卡扣大号+带链子2件套，成本约¥6）。节奏：11/25前首单空运100件，常青款无强死线，12/10前视动销补货",
+      "competition": "竞争中等：头部白牌review 1000-5000(估算)，德国用户偏好不锈钢双耳/弹簧款，差异化=316材质背书+滴落托架",
+      "signal_scores": {
+        "trend": 62,
+        "gap": 66,
+        "profit": 74,
+        "final": 67,
+        "recommendation": "buy"
+      },
+      "recommendation": "buy",
+      "price_eur": 8.99,
+      "profit_estimate_eur": 2.89,
+      "margin_pct": 32,
+      "weight_g": 70
+    }
+  ],
+  "trend_forecast": "未来4-8周（11/14-01/09）德国需求窗口与空运死线（口径：空运10-15天+FBA入库2-3天，死线=窗口开始日倒推3周）：①圣诞主窗口（11/28-12/24）的空运死线11/07已过——窗贴/降临日历/烘焙模具类不再新投，避免压货；Nikolaus 12/06死线11/15仅剩明日，仅适合在途库存，新订单不建议。②Silvester跨年窗口（12/26-12/31）仍开放：派对挂饰/气球/桌面装饰等轻小件，最晚空运下单死线12/05（到货12/15-20、冻结前入库）；注意12/20-12/26德国物流冻结+需求真空，该时段不排新品上架。③1月新年季（1/02-1/31）为本期最大增量窗口：健身塑形（弹力带/跳绳/筋膜球）、收纳整理（首饰收纳/抽屉整理）、环保家清（羊毛烘干球），最晚下单死线12/05——12/05后下单到货撞上物流冻结，赶不上1月首波流量。④供暖季长窗口（12月-2月）持续放量：暖气放气钥匙/门窗密封/管道保温类，死线宽松至11/25-12/10，可分批补货，能源价格敏感度持续放大DIY维护需求。⑤工厂端风险：2027年春节（2月上旬）前后1688工厂1月中旬起陆续停工涨价，1月及Karneval（2-3月，服饰配件类死线约01/15）补货须在12月底前锁定订单并付尾款，避免节后断供涨价。⑥黑五/网一（11/27-11/30）补货死线已过，不再新增投放，仅建议对在途SKU做站内秒杀占位收尾。⑦Ostern复活节（2027年3-4月）为下下个品类窗口，1月下旬起开始筛查卡航/空运双通道报价。"
+}
