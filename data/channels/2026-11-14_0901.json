@@ -1,0 +1,2101 @@
+{
+  "scan_date": "2026-11-14",
+  "scan_time": "09:01",
+  "scan_ts": "2026-11-14_0901",
+  "stats": {
+    "total_scanned": 325,
+    "passed_filter": 22,
+    "rejected": 274,
+    "channels": {
+      "keyword_search": 22,
+      "multi_source": 22,
+      "event_product": 1
+    },
+    "detail_reject": {},
+    "theme_trimmed": [
+      {
+        "asin": "B0FDQCBYTC",
+        "name": "Gesponserte Anzeige – Syoulin Party Dekoration Set, geburtstag deko，silvester deko，Lametta Vorhang Gold Glitzer,Disco Lu"
+      },
+      {
+        "asin": "B0F5WBVF7Y",
+        "name": "Gesponserte Anzeige – CEILIWEN Partygeschirr-Set mit silberfarbenen Muscheln für 25 Gäste – 22,9 cm und 17,8 cm Papptell"
+      },
+      {
+        "asin": "B0DSBXZGFY",
+        "name": "Gesponserte Anzeige – 240 Stk Buntes Partygeschirr aus Papier set, wiederverwendbar Tafelservice | für 60 Gäste, 60 x Sp"
+      },
+      {
+        "asin": "B0G4JZQSL2",
+        "name": "Gesponserte Anzeige – Nkaiso Partygeschirr 50 Stück Weiß und Grün Pappteller Kindergeburtstag Set mit Einweg Papiertelle"
+      },
+      {
+        "asin": "B0G3T4C4TK",
+        "name": "Gesponserte Anzeige – 8 Stück Glitzer Deko Party,Papier Girlande Geburtstag,Bunt Glitzer Girlande,4m Hängende Party Deko"
+      },
+      {
+        "asin": "B0FP2KKBRD",
+        "name": "Gesponserte Anzeige – 99 Stück Schmetterling Partygeschirr,Schmetterling Geburtstag Geschirr für 20 Gäste,Schmetterlings"
+      },
+      {
+        "asin": "B0DNQFRMW1",
+        "name": "Gesponserte Anzeige – Ainmto 6-Pakete Folie Fringe Girland Metallic Folie Tinsel Fringe Girland Wand Hängende Fringe Ban"
+      },
+      {
+        "asin": "B0H1GW8K21",
+        "name": "Gesponserte Anzeige – SPOKKI 201 Stück Salbeigrünes Partygeschirr Set, Pappteller mit gewelltem Rand aus dickem Papier, "
+      },
+      {
+        "asin": "B0HHDY67PF",
+        "name": "Gesponserte Anzeige – FINTIE Reise-Schmuck-Rollen-Organizer, verhedderungsfreie | 16 Reißverschlusstaschen für Halskette"
+      },
+      {
+        "asin": "B09N6KF7Y6",
+        "name": "Gesponserte Anzeige – KYEYGWO Schmuckrolle mit Blumen-Vogel-Stickerei, Reise Schmuck Organizer | Chinesischer Stil Faltb"
+      },
+      {
+        "asin": "B0D7H9K8FP",
+        "name": "Gesponserte Anzeige – dusaniyali 8 Stück Schmucktablett Schmuckaufbewahrung Beige 21×12,5×2,5 cm | Einfache Kombinierbar"
+      },
+      {
+        "asin": "B097PYP1W9",
+        "name": "Gesponserte Anzeige – Teesieb, Teefilter Teesieb Abtropfschale Edelstahl Gewürze Sieb Tee Ball mit Kette Separation Korb"
+      },
+      {
+        "asin": "B0DDTMLBR9",
+        "name": "Gesponserte Anzeige – DesignSter Schmuckkästchen Klein Reise, Klein PU-Leder Tragbarer Schmuckschatulle mit 6 transparen"
+      },
+      {
+        "asin": "B0BXJQSP9V",
+        "name": "Gesponserte Anzeige – Alihoo Teesieb für Losen Tee, 2 Stück Teefilter 316 Edelstahl Tee-Sieb Feinmaschiges Teesieb für T"
+      },
+      {
+        "asin": "B0FP4FF12V",
+        "name": "Gesponserte Anzeige – 2 Stück Teesieb für Losen Tee,Teesieb für Tasse,Teefilter 304 Edelstahl mit Teelöffel,Klappgriff u"
+      },
+      {
+        "asin": "B0HG4WVHBB",
+        "name": "Gesponserte Anzeige – Lametta Girlande Weihnachten, 10 Stück à 2 m, flexibel formbar | Gold, Silber, Rot oder Blau für f"
+      },
+      {
+        "asin": "B0CY2S2DRX",
+        "name": "Gesponserte Anzeige – 18 Geburtstagsdeko, gold 18 Geburtstag deko für Männer Frauen gold weiße Luftballons HAPPY BIRTHDA"
+      },
+      {
+        "asin": "B0G1YN2BR5",
+        "name": "Partygeschirr-Set in Beige und Folie | Pappteller, Becher, Servietten, Strohhalme für 25 Gäste, Partyzubehör für Geburts"
+      },
+      {
+        "asin": "B0H32GHWF1",
+        "name": "Neonfarbenes Partygeschirr für 16 Gäste,52 Stück Happy Birthday Partyteller Set,Neon Geburtstag Partygeschirr,Neonfarben"
+      },
+      {
+        "asin": "B0H5QR51H2",
+        "name": "Amlif Teesieb für Losen Tee 2 Stück, Teefilter Fein 304 Edelstahl | Feinmaschiges Teeei, mit Deckel & Faltbarem Griff & "
+      },
+      {
+        "asin": "B0HDZPZSGY",
+        "name": "Reise-Schmuckschatulle: tragbare Samtaufbewahrung für Schmuck | Kompakter Ordner mit Reißverschlusstaschen für Ohrringe,"
+      },
+      {
+        "asin": "B09N6STHR3",
+        "name": "KYEYGWO Schmuckrolle mit Blumen-Vogel-Stickerei, Reise Schmuck Organizer | Chinesischer Stil Faltbare Tragbare Rollenbeu"
+      },
+      {
+        "asin": "B0H6DBHR6Y",
+        "name": "Lolalet Reise Schmuckkästchen Schmuck Reiseetui Schmucktasche | Jewelry Organizer mit abnehmbaren Beuteln für Reisen, Sc"
+      },
+      {
+        "asin": "B0DRNVQWN1",
+        "name": "Special Leaves Teesieb für losen Tee, 2 Stück Edelstahl Teefilter mit Griff | Feines Sieb mit Tropfschale, für Tasse & T"
+      },
+      {
+        "asin": "B0FJ1G9BTP",
+        "name": "Lametta Girlande Weihnachten, Lametta Girlande Weihnachtsbaum, LamettaGirlande Gold, Weihnachtsdeko LamettaGirlande, Glä"
+      },
+      {
+        "asin": "B0HJ1T3LQ2",
+        "name": "Lametta Girlande Weihnachten, 10 Stück à 2 m, flexibel formbar | Gold, Silber, Rot oder Blau für festlichen Glanz an Bau"
+      },
+      {
+        "asin": "B0HDZ7L481",
+        "name": "Tragbares Reise-Schmucketui: leichter Samt-Schmuckorganisator | Kompakter, aber geräumiger Organizer für Halskette, Ohrr"
+      },
+      {
+        "asin": "B0HM2CG3GR",
+        "name": "FINTIE Reise-Schmuck-Rollen-Organizer, verhedderungsfreie, Rosa | 16 Reißverschlusstaschen für Halsketten, Armbänder, Ri"
+      },
+      {
+        "asin": "B0GCLNSSCP",
+        "name": "Mythlon Schmuckrolle Reise Schmuckaufbewahrung Tasche für Ketten Ohrringe Ringe - Faltbar Schmuckorganizer Groß aus Stof"
+      }
+    ],
+    "trend_categories": {
+      "crafts": 100,
+      "pets": 100,
+      "office": 65,
+      "lighting": 53,
+      "eco": 46,
+      "car": 42
+    },
+    "supply_demand": {
+      "pets": {
+        "ratio": 7.5,
+        "demand": 100,
+        "supply": 585983,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "kitchen": {
+        "ratio": 2.9,
+        "demand": 34,
+        "supply": 143177,
+        "label": "⚖️ 平衡",
+        "level": "balanced"
+      },
+      "sports": {
+        "ratio": 2.4,
+        "demand": 30,
+        "supply": 321587,
+        "label": "⚖️ 平衡",
+        "level": "balanced"
+      },
+      "car": {
+        "ratio": 0,
+        "demand": 42,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "lighting": {
+        "ratio": 0,
+        "demand": 53,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "crafts": {
+        "ratio": 0,
+        "demand": 100,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "office": {
+        "ratio": 0,
+        "demand": 65,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "phone": {
+        "ratio": 0,
+        "demand": 38,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      }
+    },
+    "divergences": {
+      "office": {
+        "current_heat": 55,
+        "previous_heat": 70,
+        "heat_change_pct": -21.4,
+        "direction": "falling",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "lighting": {
+        "current_heat": 52,
+        "previous_heat": 74,
+        "heat_change_pct": -29.7,
+        "direction": "falling",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "pets": {
+        "current_heat": 100,
+        "previous_heat": 100,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "beauty": {
+        "current_heat": 7,
+        "previous_heat": 14,
+        "heat_change_pct": -50.0,
+        "direction": "falling",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "car": {
+        "current_heat": 35,
+        "previous_heat": 47,
+        "heat_change_pct": -25.5,
+        "direction": "falling",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "crafts": {
+        "current_heat": 85,
+        "previous_heat": 100,
+        "heat_change_pct": -15.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "kitchen": {
+        "current_heat": 35,
+        "previous_heat": 47,
+        "heat_change_pct": -25.5,
+        "direction": "falling",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "cleaning": {
+        "current_heat": 25,
+        "previous_heat": 29,
+        "heat_change_pct": -13.8,
+        "direction": "stable",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "phone": {
+        "current_heat": 3,
+        "previous_heat": 38,
+        "heat_change_pct": -92.1,
+        "direction": "falling",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "eco": {
+        "current_heat": 55,
+        "previous_heat": 74,
+        "heat_change_pct": -25.7,
+        "direction": "falling",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "home decor": {
+        "current_heat": 48,
+        "previous_heat": 47,
+        "heat_change_pct": 2.1,
+        "direction": "stable",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "garden": {
+        "current_heat": 32,
+        "previous_heat": 29,
+        "heat_change_pct": 10.3,
+        "direction": "stable",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "sports": {
+        "current_heat": 7,
+        "previous_heat": 14,
+        "heat_change_pct": -50.0,
+        "direction": "falling",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "seasonal": {
+        "current_heat": 7,
+        "previous_heat": 42,
+        "heat_change_pct": -83.3,
+        "direction": "falling",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "bedding": {
+        "current_heat": 3,
+        "previous_heat": 14,
+        "heat_change_pct": -78.6,
+        "direction": "falling",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "travel": {
+        "current_heat": 7,
+        "previous_heat": 5,
+        "heat_change_pct": 40.0,
+        "direction": "rising",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      },
+      "storage": {
+        "current_heat": 7,
+        "previous_heat": 14,
+        "heat_change_pct": -50.0,
+        "direction": "falling",
+        "dates": [
+          "2026-11-13_0900",
+          "2026-11-13_1530"
+        ]
+      }
+    },
+    "gap_opportunities": 5
+  },
+  "products": [
+    {
+      "asin": "B0F9P96D41",
+      "name": "Gesponserte Anzeige – Holographischer Laser Partygeschirr,97 Stück Regenbogen Laser Pappteller Set Pappteller, Pappbeche",
+      "price": 13.44,
+      "reviews": 72,
+      "rating": 4.5,
+      "rank": 63,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "72 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0F9P96D41",
+      "image_url": "https://m.media-amazon.com/images/I/71cMaweH4DL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "partygeschirr set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.307,
+      "net_profit": 4.12,
+      "cost_breakdown": {
+        "vat": 2.69,
+        "commission": 2.02,
+        "fba": 2.2,
+        "ads": 1.34,
+        "returns": 0.27,
+        "sourcing": 0.8,
+        "total_cost": 9.32
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 36,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 高利润": 8,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0FLP929YD",
+      "name": "Gesponserte Anzeige – CEILIWEN Partygeschirr-Set mit roten und goldenen Sternen, 22,9 cm und 17,8 cm, Folien-Pappteller,",
+      "price": 13.34,
+      "reviews": 39,
+      "rating": 4.9,
+      "rank": 61,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "39 Bewertungen, 4.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0FLP929YD",
+      "image_url": "https://m.media-amazon.com/images/I/71zKo9berhL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "partygeschirr set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.305,
+      "net_profit": 4.07,
+      "cost_breakdown": {
+        "vat": 2.67,
+        "commission": 2.0,
+        "fba": 2.2,
+        "ads": 1.33,
+        "returns": 0.27,
+        "sourcing": 0.8,
+        "total_cost": 9.27
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 33,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 高利润": 8,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0GLMGFQX4",
+      "name": "Gesponserte Anzeige – 68 Stück Neonfarbenes Thematik Partygeschirr Set,Neon Party Pappteller Kindergeburtstag,Geburtstag",
+      "price": 9.15,
+      "reviews": 9,
+      "rating": 4.6,
+      "rank": 18,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "9 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0GLMGFQX4",
+      "image_url": "https://m.media-amazon.com/images/I/81gaNZVyxpL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "partygeschirr set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.202,
+      "net_profit": 1.85,
+      "cost_breakdown": {
+        "vat": 1.83,
+        "commission": 1.37,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.3
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 30,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0G7HGKCHX",
+      "name": "Groß Bunte Punkte Geburtstag Partygeschirr für 20 Gäste, 60 Stück Happy Birthday Partyteller Party Geschirr Set, Beinhal",
+      "price": 10.92,
+      "reviews": 15,
+      "rating": 4.9,
+      "rank": 58,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "15 Bewertungen, 4.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0G7HGKCHX",
+      "image_url": "https://m.media-amazon.com/images/I/71l8fS2ZPPL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "partygeschirr set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.255,
+      "net_profit": 2.79,
+      "cost_breakdown": {
+        "vat": 2.18,
+        "commission": 1.64,
+        "fba": 2.2,
+        "ads": 1.09,
+        "returns": 0.22,
+        "sourcing": 0.8,
+        "total_cost": 8.13
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 34,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0FJRS3TYL",
+      "name": "CEILIWEN Partygeschirr-Set für 25 Gäste, silberfarben, gepunktet, 22,9 cm & 17,8 cm, weiße und silberne Pappteller, Bech",
+      "price": 12.5,
+      "reviews": 71,
+      "rating": 4.6,
+      "rank": 54,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "71 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0FJRS3TYL",
+      "image_url": "https://m.media-amazon.com/images/I/61bkPZl3K+L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "partygeschirr set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.29,
+      "net_profit": 3.62,
+      "cost_breakdown": {
+        "vat": 2.5,
+        "commission": 1.88,
+        "fba": 2.2,
+        "ads": 1.25,
+        "returns": 0.25,
+        "sourcing": 0.8,
+        "total_cost": 8.88
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 32,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0DQPFN3PF",
+      "name": "VZXZXE 64 Stück waldtiere Partygeschirr Set, waldtiere geburtstag deko, dschungel party Kindergeburtstag Besteck Enthält",
+      "price": 9.24,
+      "reviews": 49,
+      "rating": 4.5,
+      "rank": 55,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "49 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0DQPFN3PF",
+      "image_url": "https://m.media-amazon.com/images/I/71b+U5OSFOL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "partygeschirr set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 25,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0GGC1L3BQ",
+      "name": "SYBYZF 125 Stück Partygeschirr Set Hellblau für 25 Gäste mit Papptellern | Gewellte Pappteller, Becher, Servietten & Str",
+      "price": 13.44,
+      "reviews": 34,
+      "rating": 4.7,
+      "rank": 34,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "34 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0GGC1L3BQ",
+      "image_url": "https://m.media-amazon.com/images/I/71dr9TWovOL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "partygeschirr set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.307,
+      "net_profit": 4.12,
+      "cost_breakdown": {
+        "vat": 2.69,
+        "commission": 2.02,
+        "fba": 2.2,
+        "ads": 1.34,
+        "returns": 0.27,
+        "sourcing": 0.8,
+        "total_cost": 9.32
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 33,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 高利润": 8,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0DY7WHYGX",
+      "name": "96 Stück Geburtstag Partygeschirr Set, Salbeigrün Gold, für 24 Gäste | Salbeigrün mit goldenen Punkten Liefert Teller Se",
+      "price": 10.92,
+      "reviews": 37,
+      "rating": 4.6,
+      "rank": 29,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "37 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0DY7WHYGX",
+      "image_url": "https://m.media-amazon.com/images/I/71Jp6yXjtaL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "partygeschirr set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.255,
+      "net_profit": 2.79,
+      "cost_breakdown": {
+        "vat": 2.18,
+        "commission": 1.64,
+        "fba": 2.2,
+        "ads": 1.09,
+        "returns": 0.22,
+        "sourcing": 0.8,
+        "total_cost": 8.13
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 29,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0FJLNTLVY",
+      "name": "Nkaiso 141 Stück Grün Punkt Partygeschirr Kindergeburtstag -20 Gäste | Party Teller Einweg Set mit Pappteller Becher Ser",
+      "price": 9.24,
+      "reviews": 44,
+      "rating": 4.7,
+      "rank": 33,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "44 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0FJLNTLVY",
+      "image_url": "https://m.media-amazon.com/images/I/71-zM4EFXmL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "partygeschirr set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 25,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0DLWJKPD3",
+      "name": "ZERODECO Schwarz Gold Party-Dekorationen, Silvester-Party-Artikel: Papierfächer, Wabenkugeln, Girlanden & Tüll-Wirbel fü",
+      "price": 11.76,
+      "reviews": 120,
+      "rating": 4.6,
+      "rank": 28,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "120 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0DLWJKPD3",
+      "image_url": "https://m.media-amazon.com/images/I/81PJoQvUDLL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester deko party",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.275,
+      "net_profit": 3.23,
+      "cost_breakdown": {
+        "vat": 2.35,
+        "commission": 1.76,
+        "fba": 2.2,
+        "ads": 1.18,
+        "returns": 0.24,
+        "sourcing": 0.8,
+        "total_cost": 8.53
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 24,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0FNCDZTZY",
+      "name": "20 Stück Servietten Silvester+ 12 Windlicht Tischdeko + 500 Konfetti Streudeko Schwarz Gold, Silvester Deko 2027, Happy ",
+      "price": 10.89,
+      "reviews": 15,
+      "rating": 3.8,
+      "rank": 43,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "15 Bewertungen, 3.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0FNCDZTZY",
+      "image_url": "https://m.media-amazon.com/images/I/81PUhm97qFL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester deko party",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.255,
+      "net_profit": 2.77,
+      "cost_breakdown": {
+        "vat": 2.18,
+        "commission": 1.63,
+        "fba": 2.2,
+        "ads": 1.09,
+        "returns": 0.22,
+        "sourcing": 0.8,
+        "total_cost": 8.12
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 6,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🌊 蓝海": 15,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0FN8431FD",
+      "name": "20 Stück Servietten Silvester+ 12 Windlicht Tischdeko + 500 Konfetti Streudeko Schwarz Gold, Silvester Deko 2027, Happy ",
+      "price": 9.24,
+      "reviews": 135,
+      "rating": 4.5,
+      "rank": 40,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "135 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0FN8431FD",
+      "image_url": "https://m.media-amazon.com/images/I/81lxRpjE6YL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester deko party",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -3,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0CH3CWJBP",
+      "name": "YBwanli Silvester Deko 2027 party set, Bunt Neujahr Silvesterdeko, Fotobox accessoires Brille, Accessoire für Silvesterp",
+      "price": 9.24,
+      "reviews": 45,
+      "rating": 4.3,
+      "rank": 16,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "45 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0CH3CWJBP",
+      "image_url": "https://m.media-amazon.com/images/I/91EY+gujOoL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester deko party",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 20,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "📈 排名上升": 10,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0CX8P5MWX",
+      "name": "52Ft Hängenden Papier Girlande Holographisch Regenbogen,Rund und Stern Papier Deko for Party(4M x 4)",
+      "price": 9.24,
+      "reviews": 170,
+      "rating": 4.4,
+      "rank": 23,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "170 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0CX8P5MWX",
+      "image_url": "https://m.media-amazon.com/images/I/61Da-225UDL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "girlande gold silber",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 8,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-09",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0H6PJN53X",
+      "name": "Lolalet Reise Schmuckrolle, Schmuck Reiseetui, Faltbare Schmucktasche -S | Tragbare Schmuckaufbewahrung PU-Leder Mehrere",
+      "price": 10.92,
+      "reviews": 17,
+      "rating": 4.8,
+      "rank": 24,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "17 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6PJN53X",
+      "image_url": "https://m.media-amazon.com/images/I/715Ktm4OH6L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Schmuckorganizer Reise aufrollbar Schmuckrolle für Ketten Ringe Ohrringe",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.255,
+      "net_profit": 2.79,
+      "cost_breakdown": {
+        "vat": 2.18,
+        "commission": 1.64,
+        "fba": 2.2,
+        "ads": 1.09,
+        "returns": 0.22,
+        "sourcing": 0.8,
+        "total_cost": 8.13
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 19,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "📈 趋势(lighting)": 8,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0H9GG8PRX",
+      "name": "Tiakay Reise Schmuck Organizer 2 Ebenen Kompakt Zip Tasche(Khaki) | 2 EBENEN DESIGN Kunstleder,Kompakt, rutschfest, weic",
+      "price": 10.92,
+      "reviews": 9,
+      "rating": 4.3,
+      "rank": 25,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "9 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0H9GG8PRX",
+      "image_url": "https://m.media-amazon.com/images/I/71urPGrqz0L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Schmuckorganizer Reise aufrollbar Schmuckrolle für Ketten Ringe Ohrringe",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.255,
+      "net_profit": 2.79,
+      "cost_breakdown": {
+        "vat": 2.18,
+        "commission": 1.64,
+        "fba": 2.2,
+        "ads": 1.09,
+        "returns": 0.22,
+        "sourcing": 0.8,
+        "total_cost": 8.13
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 14,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "📈 趋势(lighting)": 8,
+        "🌊 蓝海": 15,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0GH1HL6V2",
+      "name": "Schmuckaufbewahrung Reise, Reise Schmuckkästchen, Tragbare Schmucktasche für Reisen zur Aufbewahrung von Halsketten, Ohr",
+      "price": 11.76,
+      "reviews": 11,
+      "rating": 4.5,
+      "rank": 52,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "11 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0GH1HL6V2",
+      "image_url": "https://m.media-amazon.com/images/I/71o4+VztGXL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Schmuckorganizer Reise aufrollbar Schmuckrolle für Ketten Ringe Ohrringe",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.275,
+      "net_profit": 3.23,
+      "cost_breakdown": {
+        "vat": 2.35,
+        "commission": 1.76,
+        "fba": 2.2,
+        "ads": 1.18,
+        "returns": 0.24,
+        "sourcing": 0.8,
+        "total_cost": 8.53
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 11,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0DDKMY9F4",
+      "name": "HOWAF Silvester Foto Requisiten 2027, Happy New Year Aufblasbarer Fotorahmen, fotobox Accessoires, Neujahr Photo Booth B",
+      "price": 11.76,
+      "reviews": 43,
+      "rating": 4.1,
+      "rank": 46,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "43 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0DDKMY9F4",
+      "image_url": "https://m.media-amazon.com/images/I/81fx881jrXL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester deko party",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.275,
+      "net_profit": 3.23,
+      "cost_breakdown": {
+        "vat": 2.35,
+        "commission": 1.76,
+        "fba": 2.2,
+        "ads": 1.18,
+        "returns": 0.24,
+        "sourcing": 0.8,
+        "total_cost": 8.53
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 1,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟢 低竞争": 10,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0GYF73BS9",
+      "name": "ZblPyro Pappteller und Servietten Salbeigrün Gold, 72 Stück für 24 Gäste | 23 cm Pappteller, Servietten, Holzgabeln, für",
+      "price": 10.5,
+      "reviews": 124,
+      "rating": 4.7,
+      "rank": 43,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "124 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0GYF73BS9",
+      "image_url": "https://m.media-amazon.com/images/I/71blP8QbhTL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "partygeschirr set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.244,
+      "net_profit": 2.57,
+      "cost_breakdown": {
+        "vat": 2.1,
+        "commission": 1.57,
+        "fba": 2.2,
+        "ads": 1.05,
+        "returns": 0.21,
+        "sourcing": 0.8,
+        "total_cost": 7.93
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -3,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-14",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0D7VLVK24",
+      "name": "52 Ft Silber Glitzer Papier Circle und Stern Garland,4 Stücke Hängende Runde und Stern Garland für Geburtstag Hochzeit W",
+      "price": 9.24,
+      "reviews": 44,
+      "rating": 4.2,
+      "rank": 43,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "44 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0D7VLVK24",
+      "image_url": "https://m.media-amazon.com/images/I/61wXQKBHLqL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "girlande gold silber",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.205,
+      "net_profit": 1.9,
+      "cost_breakdown": {
+        "vat": 1.85,
+        "commission": 1.39,
+        "fba": 2.2,
+        "ads": 0.92,
+        "returns": 0.18,
+        "sourcing": 0.8,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -13,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟢 低竞争": 10,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-12",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0HHXHF78K",
+      "name": "Luftballon Zahl 2027 Schwarz, Helium Folienballon 2027 Geburtstag Ballon Number für 2027 Geburtstagsdeko 40 Zoll, 100CM ",
+      "price": 10.92,
+      "reviews": 74,
+      "rating": 4.2,
+      "rank": 33,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "74 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHXHF78K",
+      "image_url": "https://m.media-amazon.com/images/I/51XyCuI4HTL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "zahlen luftballons 2027",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": false,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.255,
+      "net_profit": 2.79,
+      "cost_breakdown": {
+        "vat": 2.18,
+        "commission": 1.64,
+        "fba": 2.2,
+        "ads": 1.09,
+        "returns": 0.22,
+        "sourcing": 0.8,
+        "total_cost": 8.13
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -14,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-09",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0H865N87X",
+      "name": "Luftballon Girlande Schwarz Orange FQZYLCH 130 Stück Verschiedene Größe Latex Ballons Girlande für Geburtstag Halloween ",
+      "price": 10.08,
+      "reviews": 3,
+      "rating": 4.4,
+      "rank": 42,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "3 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H865N87X",
+      "image_url": "https://m.media-amazon.com/images/I/71auqlrQ6KL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "festival",
+      "matched_keyword": "silvester ballon set",
+      "festival_event": "跨年夜（Silvester）",
+      "festival_icon": "🎉",
+      "festival_deadline": "2026-11-14",
+      "is_event": true,
+      "sources": [
+        "📅 跨年夜（Silvester）",
+        "AmazonDE新品"
+      ],
+      "profit_margin": 0.232,
+      "net_profit": 2.34,
+      "cost_breakdown": {
+        "vat": 2.02,
+        "commission": 1.51,
+        "fba": 2.2,
+        "ads": 1.01,
+        "returns": 0.2,
+        "sourcing": 0.8,
+        "total_cost": 7.74
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": -18,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "⏳ 评论偏少": -8,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-11",
+      "is_multi": true,
+      "channel_tags": [
+        "event_product",
+        "keyword_search",
+        "multi_source"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "art",
+        "paint",
+        "tape",
+        "craft"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "acrylic paint set",
+        "paint brush set",
+        "paint by numbers",
+        "washi tape",
+        "decorative tape"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 100,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=art+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=art+supplies&geo=GB"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 65,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "pen"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "pen holder",
+        "pen set",
+        "fountain pen"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 65,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=pen+holder",
+      "url_google": "https://trends.google.com/trends/explore?q=pen+holder&geo=GB"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 53,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "light",
+        "led",
+        "lamp"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "LED light",
+        "fairy lights",
+        "string lights",
+        "LED bulb",
+        "LED panel",
+        "desk lamp",
+        "night light",
+        "table lamp"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 53,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=LED+light",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+light&geo=GB"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 46,
+      "score": 60,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 46,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=GB"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 42,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 42,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.co.uk/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=GB"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "office",
+        65
+      ],
+      [
+        "lighting",
+        53
+      ],
+      [
+        "eco",
+        46
+      ],
+      [
+        "car",
+        42
+      ]
+    ],
+    "cross_validated": [
+      "car",
+      "lighting",
+      "crafts",
+      "office",
+      "pets",
+      "phone",
+      "eco",
+      "kitchen",
+      "sports",
+      "garden",
+      "travel",
+      "home decor"
+    ],
+    "demand_keywords": [
+      "acheter des bons d",
+      "alaska family",
+      "alternatives to",
+      "amazon annonce un plan d",
+      "amazon announces plans to invest",
+      "amazon blocks sales of competitor",
+      "amazon cr",
+      "amazon ne dit pas qu",
+      "amazon pokes fun at glitches",
+      "amazon presence in"
+    ],
+    "season": "autumn",
+    "sources_scanned": [
+      "tiktok",
+      "dealabs",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
