@@ -1,0 +1,243 @@
+{
+  "category_scores": {
+    "car": 38,
+    "lighting": 88,
+    "crafts": 100,
+    "eco": 69,
+    "bathroom": 4,
+    "office": 57,
+    "pets": 100,
+    "phone": 27,
+    "kitchen": 42,
+    "storage": 38,
+    "home decor": 38,
+    "garden": 27,
+    "travel": 30,
+    "baby": 4,
+    "cleaning": 27,
+    "bedding": 4,
+    "sports": 30,
+    "seasonal": 8
+  },
+  "category_evidence": {
+    "car": [
+      "car"
+    ],
+    "lighting": [
+      "lamp",
+      "led",
+      "light"
+    ],
+    "crafts": [
+      "art",
+      "craft",
+      "paint"
+    ],
+    "eco": [
+      "eco",
+      "sustainable"
+    ],
+    "bathroom": [
+      "shower"
+    ],
+    "office": [
+      "office",
+      "pen"
+    ],
+    "pets": [
+      "dog",
+      "pet",
+      "toy",
+      "cat"
+    ],
+    "phone": [
+      "case",
+      "stand"
+    ],
+    "kitchen": [
+      "gadget",
+      "cooking",
+      "kitchen",
+      "cup"
+    ],
+    "storage": [
+      "box",
+      "basket"
+    ],
+    "home decor": [
+      "decor"
+    ],
+    "garden": [
+      "garden",
+      "plant",
+      "outdoor"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "baby": [
+      "baby"
+    ],
+    "cleaning": [
+      "vacuum",
+      "cleaning"
+    ],
+    "bedding": [
+      "throw"
+    ],
+    "sports": [
+      "sport",
+      "exercise"
+    ],
+    "seasonal": [
+      "christmas",
+      "gift"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "car": 2,
+      "lighting": 2,
+      "crafts": 4,
+      "eco": 3,
+      "bathroom": 1,
+      "office": 1,
+      "pets": 2,
+      "phone": 1
+    },
+    "dealabs": {
+      "crafts": 5,
+      "kitchen": 2,
+      "storage": 1,
+      "lighting": 1,
+      "pets": 2,
+      "home decor": 1,
+      "eco": 1
+    },
+    "temu": {
+      "garden": 1,
+      "lighting": 3,
+      "pets": 6,
+      "crafts": 3,
+      "home decor": 1,
+      "eco": 3,
+      "kitchen": 1,
+      "office": 2,
+      "storage": 1,
+      "car": 1
+    },
+    "etsy": {
+      "lighting": 3,
+      "crafts": 4,
+      "travel": 1,
+      "office": 2,
+      "storage": 1,
+      "pets": 5,
+      "home decor": 1,
+      "baby": 1,
+      "eco": 1,
+      "garden": 1
+    },
+    "youtube": {
+      "office": 4,
+      "storage": 2,
+      "lighting": 1,
+      "pets": 5,
+      "crafts": 3,
+      "travel": 1,
+      "phone": 1,
+      "kitchen": 1,
+      "cleaning": 1,
+      "car": 2,
+      "eco": 1
+    },
+    "google_trends": {
+      "storage": 1,
+      "crafts": 2,
+      "bedding": 1,
+      "travel": 1,
+      "sports": 2,
+      "seasonal": 1,
+      "garden": 1,
+      "car": 1,
+      "office": 1,
+      "lighting": 1,
+      "pets": 2,
+      "phone": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 1,
+      "eco": 1,
+      "pets": 2,
+      "sports": 1,
+      "cleaning": 1,
+      "crafts": 1
+    },
+    "market_intel": {
+      "kitchen": 2,
+      "cleaning": 1,
+      "lighting": 4,
+      "pets": 2,
+      "crafts": 1,
+      "travel": 1,
+      "home decor": 1,
+      "eco": 3,
+      "seasonal": 1,
+      "sports": 1
+    }
+  },
+  "cross_validated": {
+    "car": 4,
+    "lighting": 7,
+    "crafts": 8,
+    "eco": 8,
+    "office": 6,
+    "pets": 8,
+    "phone": 3,
+    "kitchen": 5,
+    "storage": 5,
+    "home decor": 5,
+    "garden": 3,
+    "travel": 4,
+    "cleaning": 3,
+    "sports": 3
+  },
+  "demand_keywords": [
+    "acheter des bons d",
+    "alternatives to",
+    "amazon blocks sales of competitor",
+    "amazon d",
+    "amazon ne dit pas qu",
+    "amazon pokes fun at glitches",
+    "amazon rolls out",
+    "amazon vs",
+    "an outdoor",
+    "any actually good",
+    "are these",
+    "bon plan",
+    "cadeaux",
+    "code promo",
+    "consumer trends in e",
+    "create your own",
+    "discover our selection of cheapest",
+    "en avance",
+    "etsy trend check",
+    "explore trending products",
+    "french country autumn outfit ideas",
+    "gilles et",
+    "household consumption of goods fell",
+    "how is",
+    "impossible de garder",
+    "in terms of segment",
+    "is it possible that",
+    "la rose des temps",
+    "le retouuuuur",
+    "les meilleures ventes"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 78647
+}
