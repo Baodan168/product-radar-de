@@ -1,0 +1,473 @@
+{
+  "scan_date": "2026-11-16",
+  "scan_time": "09:00",
+  "scan_ts": "2026-11-16_0900",
+  "stats": {
+    "total_scanned": 24,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0HKN4RQ52",
+      "name": "Sodbrennen Hund Pulver bei Gras und Kotfressen mit Ulmenrinde Hund | Tierärztlich entwickeltes Pulver als Mittel bei Hun",
+      "price": 3590.0,
+      "reviews": 22,
+      "rating": 4.5,
+      "rank": 1,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "22 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKN4RQ52",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71h5Sc2sLdL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H3NMT6RF",
+      "name": "Feandrea Hundetreppe, 2 Stufen, wasserdicht, rutschfest, geringe Neigung | Haustiertreppe, Cord, abnehmbarer waschbarer ",
+      "price": 2499.0,
+      "reviews": 1101,
+      "rating": 4.5,
+      "rank": 2,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1101 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0H3NMT6RF",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81C4wa4dsvL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPL51VPL",
+      "name": "Stillohr Hunde Ohrenschutz Lärmschutz, Gehörschutz Hund Silvester (M) | Verstellbarer Ohrenschützer Hund, Atmungsaktive ",
+      "price": 1699.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 3,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HPL51VPL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71UnLRVHWfL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HNSQGH1M",
+      "name": "BRBNA Gehörschutz Hund, Ohrenschützer für Gewitter & Feuerwerk, Schwarz S | VERSTELLBARER HUNDE-OHRENSCHÜTZER MIT KLETTV",
+      "price": 1899.0,
+      "reviews": 3,
+      "rating": 3.6,
+      "rank": 4,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3 Bewertungen, 3.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HNSQGH1M",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/710tjSkvDTL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GKGHFQW3",
+      "name": "Tractive Smarter Katzen GPS Tracker Mini | Modell 2026 | Marktführer | Live-Ortung | Gesundheitswarnungen & Vitalwerte |",
+      "price": 6900.0,
+      "reviews": 42,
+      "rating": 4.0,
+      "rank": 5,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "42 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0GKGHFQW3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71GpffUMC1L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H4Y2XCRD",
+      "name": "LED Leuchthalsband Hund, USB C aufladbares Hundehalsband Licht, blau-grün | Nachtsicherheit, Verlustschutz, 3 Lichtmodi,",
+      "price": 899.0,
+      "reviews": 40,
+      "rating": 4.6,
+      "rank": 6,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "40 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H4Y2XCRD",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81SKOmMlZxL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H2GJ5YGW",
+      "name": "CoCoDonut LED Leuchthalsband Hund Aufladbar, Sicherheit bei Nacht | Leuchtend, USB‑C, Kürzbar, Wasserdicht, 3 Lichtmodi,",
+      "price": 8.39,
+      "reviews": 24,
+      "rating": 4.5,
+      "rank": 7,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "24 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0H2GJ5YGW",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/816iHNKdzdL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HN1LWBHR",
+      "name": "GLOKIN Katzenabwehrspray, Katzenabwehr, Katzenschreck mit Sprühkopf, 120ml | Anti Kratz Spray für Katzen, Abwehr gegen U",
+      "price": 14.27,
+      "reviews": 14,
+      "rating": 2.0,
+      "rank": 8,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "14 Bewertungen, 2.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HN1LWBHR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Jnr3htTIL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H454BZYT",
+      "name": "Queenmore Hundemantel Mit Geschirr Wintermantel für Dackel, Wasserdicht | Hundejacke Reflektierend Für Französische Bull",
+      "price": 36.11,
+      "reviews": 94,
+      "rating": 4.6,
+      "rank": 9,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "94 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H454BZYT",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71BgCxhUDxL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKFVW3HX",
+      "name": "Schwarz M - Hundepullover Rollkragen Kabelstrick, Weicher Acryl Strickpullover für kleine Hunde und Katzen, Warmes Haust",
+      "price": 5.87,
+      "reviews": 2,
+      "rating": 4.5,
+      "rank": 10,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKFVW3HX",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81a5SClwS8L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HDNKMS1Z",
+      "name": "Yoving Kratzschutz Sofa Katze Selbstklebende Matt 40x200cm Dunkelgrau | 6 Farben Verfügbar, Aus Robuster Polyesterfaser,",
+      "price": 13.44,
+      "reviews": 35,
+      "rating": 4.3,
+      "rank": 11,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "35 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0HDNKMS1Z",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81PHu2nU5lL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKSKP57R",
+      "name": "Morpilot Katzentransportbox für kleine Katzen und Welpen, Faltbare Transporttasche mit Netzeinsätzen, Schultergurt und h",
+      "price": 16.8,
+      "reviews": 6813,
+      "rating": 4.6,
+      "rank": 12,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "6813 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKSKP57R",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/816YbsasDKL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7W4GHF4",
+      "name": "KIKNIN Hundemantel Winter, Hundejacke Wasserdicht für Grosse Hunde, Verstellbarer Schnalle Hundemantel mit Warmem Fleece",
+      "price": 3599.0,
+      "reviews": 12,
+      "rating": 4.2,
+      "rank": 13,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "12 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7W4GHF4",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/712b6Xo8odL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKFPRHWR",
+      "name": "Feandrea Katzenklo Edelstahl XXL, Katzentoilette Offen, Hoher Rand PPT022G101",
+      "price": 3229.0,
+      "reviews": 4,
+      "rating": 4.7,
+      "rank": 14,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKFPRHWR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hxgI3FTSL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HK1BM834",
+      "name": "PET VIOLET Tofu Katzenstreu Natur 10 kg 24 L, Klumpstreu staubarm & spülbar | Pflanzenbasiert & unparfümiert; 4 Vakuumbe",
+      "price": 2295.0,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 15,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HK1BM834",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81fB9rjFTcL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKJ5DL4H",
+      "name": "ZORVENIX Hundemantel Wasserdicht, Hundejacke mit Geschirr für Kleine Hunde, reflektierend, Rosa, M",
+      "price": 10.92,
+      "reviews": 2,
+      "rating": 5.0,
+      "rank": 16,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKJ5DL4H",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Uj4sShpwL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HQP51VBS",
+      "name": "Katzenhöhle Plüsch, Warmer Katzenschlafsack für Katzen und Kleine Hunde, Weicher Kuschelsack Katze mit Flauschigem Innen",
+      "price": 1999.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 17,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HQP51VBS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71sxcO-iIIL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HQJSVHPC",
+      "name": "Kuschelsack Warmer Bequemes Katzenbetten Winterschlafsack für Katzen Katzenschlafsack Katzenhöhle Waschbar Kuschelhöhle ",
+      "price": 1998.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 18,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HQJSVHPC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61l-W6rYDAL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HK5WQRN6",
+      "name": "Tracker Hund Katze Ohne ABO, Kompatibel mit iOS & Android (1 Pack) | SmartTag Hundetracker mit Schutzhülle, GPS Wasserdi",
+      "price": 16.8,
+      "reviews": 7,
+      "rating": 3.9,
+      "rank": 19,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "7 Bewertungen, 3.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0HK5WQRN6",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61nZsQGIC9L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H3N3L3LC",
+      "name": "FUTIME Orthopädisches Hundebett Mittelgroße Hunde, 122x94cm, Grau | Hundebett Orthopädisch, flauschiges Plüsch Memory Fo",
+      "price": 67.22,
+      "reviews": 310,
+      "rating": 4.6,
+      "rank": 20,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "310 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H3N3L3LC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81T7-m1IU5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H4V7RCDF",
+      "name": "PUZAUKAL Hundemantel Winter,Hundemantel Für Kleine Hund,Hundejacke Geschirr | Wintermantel Hund Wasserabweisend Mit Refl",
+      "price": 33.61,
+      "reviews": 4,
+      "rating": 5.0,
+      "rank": 21,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0H4V7RCDF",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/712z4erzljL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKSJ29B8",
+      "name": "Katzenhaus Outdoor Winterfest, 3-lagig Isoliert, Erhöhtem Stand | Katzenhütte Outdoor, Wasserdicht Winterfest, Katzenhöh",
+      "price": 28.99,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 22,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HKSJ29B8",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81antUksuZL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKSCPWZ1",
+      "name": "Anti-Bell-Gerät für Hunde mit Ultraschall, Wiederaufladbar, 15 m Reichweite | Humanes Hundetraining ohne Schock,Zwei Ult",
+      "price": 24.36,
+      "reviews": 97,
+      "rating": 4.8,
+      "rank": 23,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "97 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKSCPWZ1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Ayy17-jDL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HN53NV94",
+      "name": "Hunde-Schneeanzug mit integrierten Stiefeln vollständig isolierte Kleidung | Reflektierende Sicherheitsstreifen, integri",
+      "price": 1399.0,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 24,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HN53NV94",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61HhIbkhCbL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}
