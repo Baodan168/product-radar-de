@@ -1,0 +1,237 @@
+{
+  "category_scores": {
+    "car": 53,
+    "lighting": 58,
+    "crafts": 100,
+    "beauty": 14,
+    "seasonal": 48,
+    "office": 58,
+    "phone": 34,
+    "kitchen": 39,
+    "eco": 82,
+    "home decor": 58,
+    "storage": 10,
+    "pets": 72,
+    "baby": 5,
+    "garden": 34,
+    "travel": 14,
+    "cleaning": 5,
+    "sports": 34,
+    "bedding": 5
+  },
+  "category_evidence": {
+    "car": [
+      "motor",
+      "car"
+    ],
+    "lighting": [
+      "light",
+      "led"
+    ],
+    "crafts": [
+      "art",
+      "craft"
+    ],
+    "beauty": [
+      "makeup",
+      "skincare",
+      "hair"
+    ],
+    "seasonal": [
+      "gift",
+      "christmas"
+    ],
+    "office": [
+      "pen",
+      "office"
+    ],
+    "phone": [
+      "phone",
+      "case",
+      "stand"
+    ],
+    "kitchen": [
+      "gadget",
+      "kitchen",
+      "cup"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "home decor": [
+      "candle",
+      "wall art",
+      "decor"
+    ],
+    "storage": [
+      "box"
+    ],
+    "pets": [
+      "collar",
+      "bed",
+      "toy",
+      "dog",
+      "pet",
+      "cat"
+    ],
+    "baby": [
+      "child"
+    ],
+    "garden": [
+      "outdoor",
+      "garden"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "cleaning": [
+      "cleaning"
+    ],
+    "sports": [
+      "gym",
+      "sport"
+    ],
+    "bedding": [
+      "cushion"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "car": 1,
+      "lighting": 1,
+      "crafts": 2,
+      "beauty": 1,
+      "seasonal": 1,
+      "office": 1,
+      "phone": 1,
+      "kitchen": 1,
+      "eco": 1
+    },
+    "dealabs": {
+      "car": 1,
+      "crafts": 3,
+      "phone": 1,
+      "eco": 2,
+      "home decor": 2
+    },
+    "temu": {
+      "office": 1,
+      "beauty": 2,
+      "home decor": 1,
+      "eco": 2,
+      "storage": 1,
+      "pets": 4,
+      "lighting": 1,
+      "crafts": 1,
+      "phone": 1,
+      "baby": 1
+    },
+    "etsy": {
+      "garden": 1,
+      "lighting": 1,
+      "pets": 2,
+      "crafts": 3,
+      "home decor": 3,
+      "eco": 2,
+      "seasonal": 3,
+      "car": 1,
+      "office": 1
+    },
+    "youtube": {
+      "car": 3,
+      "office": 2,
+      "storage": 1,
+      "lighting": 1,
+      "pets": 1,
+      "crafts": 5,
+      "travel": 1,
+      "kitchen": 3,
+      "cleaning": 1,
+      "sports": 2,
+      "eco": 1
+    },
+    "google_trends": {
+      "lighting": 1,
+      "pets": 2,
+      "travel": 2,
+      "phone": 1,
+      "garden": 2,
+      "sports": 1,
+      "crafts": 2,
+      "seasonal": 1,
+      "office": 1,
+      "bedding": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 2,
+      "pets": 1,
+      "eco": 3,
+      "crafts": 2,
+      "car": 1,
+      "lighting": 1,
+      "seasonal": 1
+    },
+    "market_intel": {
+      "pets": 2,
+      "sports": 1,
+      "crafts": 3,
+      "garden": 1,
+      "office": 1,
+      "eco": 2,
+      "car": 1,
+      "lighting": 1
+    }
+  },
+  "cross_validated": {
+    "car": 6,
+    "lighting": 7,
+    "crafts": 8,
+    "seasonal": 4,
+    "office": 7,
+    "phone": 4,
+    "kitchen": 3,
+    "eco": 8,
+    "home decor": 4,
+    "pets": 6,
+    "garden": 3,
+    "sports": 3
+  },
+  "demand_keywords": [
+    "amazon data request page",
+    "amazon rolls out",
+    "are these",
+    "autumn in the",
+    "before you update your",
+    "bon plan",
+    "bons plans",
+    "classic equestrian style meets autumn",
+    "code promo",
+    "cosy fall decor in the",
+    "dernier jour des",
+    "des achats peu co",
+    "do not buy",
+    "fall in",
+    "france finds",
+    "gift ideas trending now",
+    "handmade products for home decor",
+    "high quality",
+    "houzz for",
+    "inside the",
+    "is it possible that",
+    "la boutique a le stock",
+    "la consommation des m",
+    "la mode",
+    "le dernier c",
+    "legami vide ses stocks",
+    "les meilleures ventes",
+    "les voil",
+    "meilleures ventes",
+    "nos produits"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 67542
+}

@@ -1,0 +1,720 @@
+{
+  "scan_date": "2026-11-18",
+  "scan_time": "15:30",
+  "scan_ts": "2026-11-18_1530",
+  "stats": {
+    "total_scanned": 37,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B08Z8C9D42",
+      "name": "Sigg - Edelstahl Trinkflasche - Shield ONE - Einwandig & Federleicht - Für kohlensäurehaltige Getränke geeignet - Auslau",
+      "price": 102.53,
+      "reviews": 3921,
+      "rating": 4.1,
+      "rank": 1,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "3921 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B08Z8C9D42",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61i58vgeXvL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B078XXPC96",
+      "name": "Amazon Basics Neopren Hanteln Gewichte, Hantelset, 2er-Set, 1–5kg, Sechseckig, für Krafttraining und Fitnesskurse",
+      "price": 40.72,
+      "reviews": 32531,
+      "rating": 4.8,
+      "rank": 2,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "32531 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B078XXPC96",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81nkc75eR8L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GRK9KZ2P",
+      "name": "Oura Ring 5 Smart Ring - Gold - Gr. 8 - Schlaf & Fitness-Tracker | Größe mit Größenset prüfen| Weltweit kompaktester Sma",
+      "price": 2464.35,
+      "reviews": 2671,
+      "rating": 4.5,
+      "rank": 3,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2671 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0GRK9KZ2P",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/612D0Ayd+1L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01F2OGJQM",
+      "name": "Fitgriff® Zughilfen (gepolstert) für Krafttraining, Bodybuilding, Fitness - Kreuzheben Gurte - Lifting Straps - für Frau",
+      "price": 61.67,
+      "reviews": 24018,
+      "rating": 4.6,
+      "rank": 4,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "24018 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B01F2OGJQM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81ZDizb0wEL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0B9443SWF",
+      "name": "Fit-Flip Mikrofaser Handtuch schnelltrocknend für Fitness, Sport & Sauna",
+      "price": 109.66,
+      "reviews": 32364,
+      "rating": 4.6,
+      "rank": 5,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "32364 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0B9443SWF",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71PBYgXx6bL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07113WZ15",
+      "name": "Fit-Flip Fitness Handtuch aus Mikrofaser kompakt und schnelltrocknend | mit Magnet und Reißverschluss Tasche, Fitnesshan",
+      "price": 114.58,
+      "reviews": 4336,
+      "rating": 4.4,
+      "rank": 6,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4336 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B07113WZ15",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/714DapP0gFL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07PHDRP78",
+      "name": "Sparrow Trinkflasche 500ml/750ml/1L - Tritan Wasserflasche 1-Klick | Sportflasche, Auslaufsicher, Leicht, Spülmaschinenf",
+      "price": 64.53,
+      "reviews": 45692,
+      "rating": 4.5,
+      "rank": 7,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "45692 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07PHDRP78",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71XCwIN1vZL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CDPVQZ9J",
+      "name": "Antimi Fahrradleuchten-Set, StVZO-zugelassen Beleuchtungsset Led IPX5 Frontlicht + Rücklicht Fahrradlicht Set USB Typ C",
+      "price": 148.17,
+      "reviews": 8170,
+      "rating": 4.3,
+      "rank": 8,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "8170 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0CDPVQZ9J",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Rkrepr7NL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CGRRXL17",
+      "name": "ALPIDEX Yoga Matte 183x60x0,8cm Fitnessmatte Gymnastikmatte | Rutschfest, Yogamatte, Sportmatte, Turnmatte, Trainingsmat",
+      "price": 10613.0,
+      "reviews": 1592,
+      "rating": 4.5,
+      "rank": 9,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1592 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0CGRRXL17",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61uSf02AtuL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07L9WLKZQ",
+      "name": "Gritin Fitnessbänder Widerstandsbänder mit 5 Stufen | Latex Fitnessband Resistance mit Deutscher Übungsanleitung & Trage",
+      "price": 67.91,
+      "reviews": 113109,
+      "rating": 4.4,
+      "rank": 10,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "113109 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B07L9WLKZQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/617NmwvU4tL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07CNRN566",
+      "name": "DANSI Fahrradleuchten-Set StVZO I LED-Fahrradlicht I Rad-Licht hell vorne",
+      "price": 67.91,
+      "reviews": 38749,
+      "rating": 4.3,
+      "rank": 11,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "38749 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B07CNRN566",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61CCfbU1IML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CM9J2FHV",
+      "name": "GYMERK Fitnessbänder Set 4er, 1.8M/2M Fitnessband, 4 Widerstandsstufen mit Übungsposter, Gymnastikband mit Tragetasche &",
+      "price": 7710.0,
+      "reviews": 2883,
+      "rating": 4.6,
+      "rank": 12,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2883 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0CM9J2FHV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71L9dz+zwML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GP1ZD39T",
+      "name": "Sigg WMB ONE Top 2 Verschluss (One Size), Ersatzteile Trinkflaschen, einhändig bedienbarer & auslaufsicherer Verschluss ",
+      "price": 24.4,
+      "reviews": 542,
+      "rating": 4.0,
+      "rank": 13,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "542 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0GP1ZD39T",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41qkgL8eCmL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B003CGTTH4",
+      "name": "VAUDE Überschuhe Bike Gaiter Short, wasserdicht | Fahrradgamaschen Wasserdicht für Radsport – wasser- und windabweisend",
+      "price": 102.46,
+      "reviews": 6682,
+      "rating": 4.4,
+      "rank": 14,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "6682 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B003CGTTH4",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/A1AjUhvNL2L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0D1VP5HKM",
+      "name": "SPEEDAP Imprägnierspray 400 ml, für Textilien, Leder & Outdoor-Ausrüstung | Wasser- & schmutzabweisend, atmungsaktiv, rü",
+      "price": 6578.0,
+      "reviews": 264,
+      "rating": 4.5,
+      "rank": 15,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "264 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0D1VP5HKM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Nur4Xz58L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0DDRF8N9P",
+      "name": "KIVY Trinkflasche 1l aus Tritan - Kohlensäure geeignet & Auslaufsicher | Für Sport, Schule & Büro - Sport Trinkflasche G",
+      "price": 111.13,
+      "reviews": 2767,
+      "rating": 4.6,
+      "rank": 16,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2767 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0DDRF8N9P",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81WxH0dlrlL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H8NF4MRQ",
+      "name": "SONGMICS Künstlicher Weihnachtsbaum, PE PVC, Holzständer, 220 cm | Weihnachtsdekoration, Inklusive Aufbewahrungstasche, ",
+      "price": 5779.0,
+      "reviews": 315,
+      "rating": 4.4,
+      "rank": 1,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "315 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H8NF4MRQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91i+N6MDKqL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HL8JMTT3",
+      "name": "Latava Ölsprüher für Speiseöl, UV- Schutz Glas Sprühflasche Öl, 100% BPA frei Öl Zerstäuber Küche Ölsprühflasche Heißluf",
+      "price": 6.79,
+      "reviews": 18,
+      "rating": 4.9,
+      "rank": 2,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "18 Bewertungen, 4.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0HL8JMTT3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61EMt3723RL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08JKHDR2Y",
+      "name": "NIGRIN Scheiben Frostschutz Fertigmix ENERGIZER | 5 Liter | wirksam bis -18°C | Reinigungszusatz für Autoscheiben und Sc",
+      "price": 6527.0,
+      "reviews": 2691,
+      "rating": 4.6,
+      "rank": 1,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2691 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B08JKHDR2Y",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71RlQSOZz0L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01N7RVVEE",
+      "name": "Pingi Luftentfeuchter Auto - Auto Entfeuchter Beutel, Wiederverwendbar | Nimmt Feuchtigkeit & Kondenswasser auf, gegen b",
+      "price": 123.48,
+      "reviews": 34521,
+      "rating": 4.3,
+      "rank": 2,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "34521 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B01N7RVVEE",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/816XDRTNEsL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BCQNN2LG",
+      "name": "LYVANAS Eiskratzer Auto TESTSIEGER 2026* - Ergonomisch, schnell & stark | Profi Scheibenkratzer - Effizienter & sicherer",
+      "price": 9548.0,
+      "reviews": 6873,
+      "rating": 4.4,
+      "rank": 3,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "6873 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0BCQNN2LG",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Aa5tTlg4L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09GVNLD83",
+      "name": "OOONO P-DISC NO1 - Elektronische Parkscheibe mit Zulassung fürs Auto - Automatische Digitale Parkscheibe Elektrisch mit ",
+      "price": 16868.0,
+      "reviews": 28895,
+      "rating": 4.5,
+      "rank": 4,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "28895 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B09GVNLD83",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81EZlfOjqHL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0C813PVBZ",
+      "name": "Castrol Edge 5W-30 LL Motoröl, 5 Liter",
+      "price": 31083.0,
+      "reviews": 18051,
+      "rating": 4.8,
+      "rank": 5,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "18051 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0C813PVBZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81HwaxSMtaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00FZWPO5Y",
+      "name": "Bosch Aerotwin A 863 S Front-Scheibenwischer - 2 Wischblätter | Set mit 2 Ersatz-Scheibenwischern und vormontiertem Adap",
+      "price": 11826.0,
+      "reviews": 26169,
+      "rating": 4.7,
+      "rank": 6,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "26169 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B00FZWPO5Y",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51rGGbKbejL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CQ2J1FDV",
+      "name": "NIGRIN Auto Eiskratzer Scheibenkratzer für Winter, ergonomischer Softgriff, stufenförmige Eisbrecherzacken schwarz-rot 1",
+      "price": 3418.0,
+      "reviews": 913,
+      "rating": 4.6,
+      "rank": 7,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "913 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0CQ2J1FDV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61LBseO12ML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0F98R4MY5",
+      "name": "Miracase Handyhalterung Auto [Stabilere Doppelhaken] für Lüftung Universale | Halterung für Navigationsgeräte，360 Grad V",
+      "price": 82.61,
+      "reviews": 23545,
+      "rating": 4.6,
+      "rank": 8,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "23545 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0F98R4MY5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81qH3MI2q6L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08144X7H6",
+      "name": "SONAX FelgenBeast (1 Liter) Felgenreiniger | Felgenreiniger für alle polierten, verchromten und matten Stahl- & Leichtme",
+      "price": 6578.0,
+      "reviews": 13199,
+      "rating": 4.7,
+      "rank": 9,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "13199 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B08144X7H6",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61dCEohScAL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B002WC7N54",
+      "name": "NIGRIN 6190 Eiskratzer Auto mit Schneebesen, ergonomischer rutschfester Softgriff, aus hochstabilem ABS, Made in Canada,",
+      "price": 11165.0,
+      "reviews": 5876,
+      "rating": 4.5,
+      "rank": 10,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "5876 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B002WC7N54",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Ew7d0ivOL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BN48F6LP",
+      "name": "HELDENWERK® Erste Hilfe Set Auto Norm 2026 DIN 13164:2022 StVZO konform | Verbandskasten Auto europaweit nutzbar, Nach n",
+      "price": 58.14,
+      "reviews": 5189,
+      "rating": 4.7,
+      "rank": 11,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "5189 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0BN48F6LP",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61FF8YuOckL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CD7PRLM6",
+      "name": "LYVANAS Eiskratzer Auto mit Besen TESTSIEGER 2026* - schnell & stark | Ergonomischer Profi Schneebesen Auto - Langlebige",
+      "price": 11752.0,
+      "reviews": 2420,
+      "rating": 4.4,
+      "rank": 12,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2420 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0CD7PRLM6",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71JcBqF4b6L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00DEID79G",
+      "name": "CTEK MXS 5.0 Batterieladegerät 12V, 5A, Auto & Motorrad mit AGM-Modus | Temperaturkompensation, Rekonditionierungs- & AG",
+      "price": 54404.0,
+      "reviews": 39160,
+      "rating": 4.8,
+      "rank": 13,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "39160 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B00DEID79G",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81aqUf5Ns3L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGY26858",
+      "name": "DiliDala Handstaubsauger Akku, 32000PA Handstaubsauger Auto, EIN-Touch-Staubbehälter Handstaubsauger Akku Testsieger Kab",
+      "price": 32332.0,
+      "reviews": 90,
+      "rating": 4.7,
+      "rank": 14,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "90 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGY26858",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61L-7K+rHFL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CS3B7MD8",
+      "name": "AstroAI Kabellose Elektrische Luftpumpe, Tragbare Akku Fahrradpumpe | mit alle ventile LED-Licht, Wiederaufladbare Reife",
+      "price": 22777.0,
+      "reviews": 20215,
+      "rating": 4.5,
+      "rank": 15,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "20215 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0CS3B7MD8",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716H7mjw+1L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0C1NNPS39",
+      "name": "Blukar Handyhalterung Auto [Upgrade Saugnapf] Handyhalter für Autos | 360° Drehbar KFZ Handy Halterung für Armaturenbret",
+      "price": 86.43,
+      "reviews": 26991,
+      "rating": 4.4,
+      "rank": 16,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "26991 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0C1NNPS39",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/8132f86VbML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FJM1SM8W",
+      "name": "Autobatterie Ladegerät 12V 6A, HAUSPROFI KFZ Batterieladegerät mit Reparaturfunktion & Wintermodus, Erhaltungsladegerät ",
+      "price": 104.96,
+      "reviews": 660,
+      "rating": 4.6,
+      "rank": 17,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "660 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0FJM1SM8W",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71xB+it7c9L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B002NF2S6E",
+      "name": "Nigrin 73803 Anti-Beschlag-Schwamm, für Auto Innenscheiben, beseitigt Kondenswasser-Beschläge, verhindert erneutes Besch",
+      "price": 15.14,
+      "reviews": 2441,
+      "rating": 4.3,
+      "rank": 18,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2441 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B002NF2S6E",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51p428KejcL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09HPSWT56",
+      "name": "Auto Windschutzscheiben Abdeckung - Hochleistungs-Ultra-Dick Schutzabdeckung Schnee EIS Frost Staub Wasserbeständig UV,F",
+      "price": 86.43,
+      "reviews": 1242,
+      "rating": 4.4,
+      "rank": 19,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1242 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B09HPSWT56",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61N8Qhu9XfL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}
