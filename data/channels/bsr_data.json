@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "asin": "B0GSYJ1MDH",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/61myp5CyeZL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "Digital Kurzzeitmesser Küchentimer - 2Pcs Kurzzeitwecker Digital with Magnet & Loud Alarm, Stoppuhr Digital für Cooking, Studying, Sports & Meetings, Timer Digital, Eieruhr Magnetisch",
+    "price": null,
+    "scraped_at": "2026-11-18T09:04:10.737525"
+  },
+  {
+    "asin": "B0GZVL4Y46",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/4154eoDmH7L._AC_SR150,150_.jpg\\&quot;",
+    "title": "Eieruhr Mechanisch Küchentimer Kurzzeitwecker Kitchen Zubehör",
+    "price": null,
+    "scraped_at": "2026-11-18T09:04:10.738313"
+  },
+  {
+    "asin": "B0CNW4LFSQ",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/61h+d2vHMoL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "KüChentimer Eieruhr Mechanisch Kurzzeitwecker Roter Mechanischer Timer",
+    "price": null,
+    "scraped_at": "2026-11-18T09:04:10.738713"
+  },
+  {
+    "asin": "B0H74PZXFX",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/61K4j2+EbbL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "Kitchen Timer, Eieruhr Mechanisch Keine Batterien Erforderlich, Küchenwecker 100% Mechanische Mit Edelstahlgehäuse - Küchenuhr, Stoppuhr, Countdown-Erinnerung Magnetisch Küchenuhr Eieruhr (Gray)",
+    "price": null,
+    "scraped_at": "2026-11-18T09:04:17.077777"
+  }
+]

@@ -1,0 +1,1320 @@
+{
+  "scan_date": "2026-11-18",
+  "scan_time": "09:00",
+  "scan_ts": "2026-11-18_0900",
+  "stats": {
+    "total_scanned": 64,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0HLPKKRZZ",
+      "name": "Legami - Set mit Löschbaren Gelstiften - Xmas 2026 | Set aus 5 Dream Peaks Mini Erasable Gel-Stiften, limitierte Edition",
+      "price": 13958.0,
+      "reviews": 5129,
+      "rating": 4.6,
+      "rank": 1,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "5129 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPKKRZZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WnCNlBOQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLPZ84DH",
+      "name": "LEGAMI - Gelschreiber mit dekorativem Tier Lovely Friends, rollt nicht, abnehmbares und wiederverwendbares Tier, 0,5 mm ",
+      "price": 43.15,
+      "reviews": 4452,
+      "rating": 4.8,
+      "rank": 2,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4452 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPZ84DH",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61po4BQRSJL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLPNVTKN",
+      "name": "Legami – Kawaii 2-in-1 Eisbärenbeutel, Silikon | Kawaii Dual-Use-Tasche, Stifthalter, Eisbär, Weihnachts-2026 Limited Ed",
+      "price": 80.39,
+      "reviews": 17,
+      "rating": 4.7,
+      "rank": 3,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "17 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPNVTKN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/614+Rxm3giL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPCZ3RF5",
+      "name": "LEGAMI Löschbarer Gelstift Koala „Sleeping la Vida Loca“ - Erasable Pen",
+      "price": 2062.0,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 4,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPCZ3RF5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41cACuEkj0L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HC2PGQKN",
+      "name": "Legami - Set 1 Löschbarer Stift + 1 Kawaii + 1 Lovely Pen - Koala | Koala-Set, 1 Kawaii-Silikonetui, 1 radiierbarer Gels",
+      "price": 124.14,
+      "reviews": 12908,
+      "rating": 4.8,
+      "rank": 5,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "12908 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HC2PGQKN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61WmFO9aCKL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKFXDBK1",
+      "name": "GutSache 5er Set 0,7mm radierbare Gelstifte Neue Weihnachtsstifte 2026 | 5 Tintenfarben, drehbarer Stiftkopf mit wechsel",
+      "price": 73.82,
+      "reviews": 211,
+      "rating": 4.4,
+      "rank": 6,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "211 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKFXDBK1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71JBqnAlAML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HJZLHHGR",
+      "name": "Legami Halloween löschbarer Gelschreiber \"Spooky Party\" - ein Set | Glow-in-the-dark Gelschreiber in Blindbox im Sarg",
+      "price": 5172.0,
+      "reviews": 203,
+      "rating": 2.2,
+      "rank": 7,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "203 Bewertungen, 2.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0HJZLHHGR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61HSs1Ph6tL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HN58GVQC",
+      "name": "3er Set Radierbare Stifte Pokémon Pikachu Evoli Bisasam Geschenk für Kinder | 3 radierbare Pokémon-Stifte, blaue Tinte, ",
+      "price": 61.99,
+      "reviews": 7,
+      "rating": 4.8,
+      "rank": 8,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "7 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HN58GVQC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71b+j9BgNsL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "3440184404",
+      "name": "Kosmos Himmelsjahr 2027: Sonne, Mond und Sterne im Jahreslauf – Astronomie-Jahrbuch mit digitalem Astrokalender, Planete",
+      "price": 13005.0,
+      "reviews": 26,
+      "rating": 5.0,
+      "rank": 9,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "26 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/3440184404",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71iMNU7Hz2L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HBMTPZ5T",
+      "name": "Bastelkalender 2027 im Langen Format mit 3 Spalten zum Selbstgestalten | DIY Fotokalender, 3 Spalten, Langes Format, Sel",
+      "price": 10337.0,
+      "reviews": 107,
+      "rating": 4.5,
+      "rank": 10,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "107 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HBMTPZ5T",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71D90Ay5SGL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HBNJMP9G",
+      "name": "UNITURE® Tischkalender 2027 Wochenkalender Buntes Design Querformat | Jan–Dez 2027, 297 x 115 mm, FSC-zertifiziert, Made",
+      "price": 7382.0,
+      "reviews": 1073,
+      "rating": 4.5,
+      "rank": 11,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1073 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HBNJMP9G",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Y9Auc2tHL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GZV4JH53",
+      "name": "EBERHARD FABER - Tintenroller radierbar Animal Erase It | Eule, Reh, Waschbär und Leo, 4 Gelschreiber blau 0,7 mm",
+      "price": 6975.0,
+      "reviews": 21,
+      "rating": 4.3,
+      "rank": 12,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "21 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0GZV4JH53",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71qsl5H9YPL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKZQ1LS7",
+      "name": "papercrush Pop-Up Postkarte Adventskalender Winterdorf, 3D Weihnachtskarte | Nostalgische Adventskalenderkarte mit Türch",
+      "price": 55.27,
+      "reviews": 9,
+      "rating": 4.8,
+      "rank": 13,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "9 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKZQ1LS7",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/714q-iUFXnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HM86DNCX",
+      "name": "Boxclever Press Home Planer Kalender 2027 Wandkalender. Familienplaner 2027 von Januar bis Dezember 2027. Wandkalender 2",
+      "price": 120.74,
+      "reviews": 15,
+      "rating": 5.0,
+      "rank": 14,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "15 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HM86DNCX",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81eBRsH8gGL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HBM56CFK",
+      "name": "UNITURE® Bastelkalender 2027 Fotokalender DIN A4 zum Selbstgestalten | DIY Kalender, Foto einkleben, Kreative Momente, J",
+      "price": 6643.0,
+      "reviews": 132,
+      "rating": 4.7,
+      "rank": 15,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "132 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HBM56CFK",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WG7EVly5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GTBJXKT7",
+      "name": "Brigitte Goldkalender 2027: Taschenkalender 10 x 14 cm mit Leseband, Stifthalter & vielen nützlichen Sonderseiten",
+      "price": 10197.0,
+      "reviews": 24,
+      "rating": 3.9,
+      "rank": 16,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "24 Bewertungen, 3.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0GTBJXKT7",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/A1PN4za2HEL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGY26858",
+      "name": "DiliDala Handstaubsauger Akku, 32000PA Handstaubsauger Auto, EIN-Touch-Staubbehälter Handstaubsauger Akku Testsieger Kab",
+      "price": 32505.0,
+      "reviews": 89,
+      "rating": 4.6,
+      "rank": 1,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "89 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGY26858",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61L-7K+rHFL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPT5DMKR",
+      "name": "Warmfay Auto Sitzbezüge Winter Sitzauflage, 12V Warm Sitzkissen Vordersitze | Autositzauflage Warm und Komfortabel, Univ",
+      "price": 12923.0,
+      "reviews": 2,
+      "rating": 5.0,
+      "rank": 2,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPT5DMKR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71ZV4QEeQ6L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMX56JSL",
+      "name": "BERGSTEIN® Scheibenenteiser Spray [6x500 ml] Enteiserspray Auto -30 °C | Scheibenenteiser Spray | Enteiserspray Auto | E",
+      "price": 18451.0,
+      "reviews": 27,
+      "rating": 4.7,
+      "rank": 3,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "27 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMX56JSL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81TheZJ2+uL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPPR5NCN",
+      "name": "RITUALS Homme Collection Autoduft Set, Arabischer Amber, 2 x 3 g | Luxus-Autoduft, nachfüllbares Design, langanhaltender",
+      "price": 15443.0,
+      "reviews": 1049,
+      "rating": 4.5,
+      "rank": 4,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1049 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPPR5NCN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41jUNfKl4-L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H8P23GD1",
+      "name": "BIRDDIE 148x110cm Frontscheibenabdeckung Winter Auto Frostschutz Abdeckung | Mit Rückspiegelabdeckung Frostabdeckung Son",
+      "price": 105.52,
+      "reviews": 48,
+      "rating": 4.1,
+      "rank": 5,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "48 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0H8P23GD1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81dPu14NBcL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6X26Y6H",
+      "name": "Frontscheibe Abdeckung Auto Winter, gegen Eis, Schnee, Frost Sonnenschutz | 4-lagige Extra Dick Frostschutz",
+      "price": 105.52,
+      "reviews": 72,
+      "rating": 4.8,
+      "rank": 6,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "72 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6X26Y6H",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/818IjqUUYrL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPPMHS6G",
+      "name": "RITUALS The Ritual of Karma Autoduft Set, Lotusblüte, 2 x 3 g | Luxus-Autoduft, nachfüllbares Design, langanhaltender Pr",
+      "price": 15443.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 7,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HPPMHS6G",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51CNfX06V7L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPFJ2WG3",
+      "name": "ACEZUK 9000A Starthilfe Powerbank 12V für Benziner & 10,0L Diesel | Auto Starthilfe mit LED-Taschenlampe, großen Bildsch",
+      "price": 31396.0,
+      "reviews": 113,
+      "rating": 4.6,
+      "rank": 8,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "113 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPFJ2WG3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61F3AFt4g7L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HK3R2S93",
+      "name": "Sauberkugel® Saubergeist Innenraumreiniger Auto für Zwischenräume | Handgefertigt für Lüftungsschlitze, Getränkehalter, ",
+      "price": 11047.0,
+      "reviews": 154,
+      "rating": 4.2,
+      "rank": 9,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "154 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0HK3R2S93",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716F+9pS-zL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGRT3JDZ",
+      "name": "HELDENWERK® 2026 Warnleuchte V16 Notlicht für Auto & Motorrad | Bis zu 1 km sichtbar, 360° LED Rundumlicht, IP54 geschüt",
+      "price": 116.38,
+      "reviews": 23,
+      "rating": 4.6,
+      "rank": 10,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "23 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGRT3JDZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81mbgCiTUhL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7HYYJFL",
+      "name": "Nyamofly Frontscheibenabdeckung Winter mit 6 Riemen, 10 Magneten und 360°-Reflektorstreifen,Abdeckung von Seitenfenstern",
+      "price": 16987.0,
+      "reviews": 8,
+      "rating": 4.0,
+      "rank": 11,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "8 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7HYYJFL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91gN13xDaDL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H55MHX5H",
+      "name": "Bowagn Frontscheibenabdeckung Auto Winter,Frostschutz Auto Frontscheibe | Schützt vor Eis und Schnee,Schützt vor Frost,S",
+      "price": 68.28,
+      "reviews": 21,
+      "rating": 4.5,
+      "rank": 12,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "21 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0H55MHX5H",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Qd1+62PRL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPPPP51P",
+      "name": "RITUALS Homme Collection Autoduft Refill, Arabischer Amber, 2 x 3 g | Luxus-Autoduft, nachfüllbares Design, langanhalten",
+      "price": 13965.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 13,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HPPPP51P",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/411lMVIzDGL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHM9DJSN",
+      "name": "Jake-Water ,Waschhandschuh Auto, Wundertuch Trockenhandschuh | Ultra-Wipes HandschuhFensterputzen, Praktisch Auto Reinig",
+      "price": 111.65,
+      "reviews": 12,
+      "rating": 4.5,
+      "rank": 14,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "12 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHM9DJSN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81EyXfJqsUL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6Q8DYZM",
+      "name": "Starthilfe Powerbank für PKW, 8000A Auto-Booster, 10L Benzin & 8L Diesel | 150PSI Reifenfüller, 5 Modi, 60s Schnellaufpu",
+      "price": 41371.0,
+      "reviews": 59,
+      "rating": 4.4,
+      "rank": 15,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "59 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6Q8DYZM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81dE5j+sviL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HN2PJWWC",
+      "name": "ROBBYROB Scheibenfrostschutz Konzentrat 2 x 5 L bis -60 °C – Winter | Für Auto & Scheibenwaschanlage – polycarbonatvertr",
+      "price": 12628.0,
+      "reviews": 16,
+      "rating": 4.8,
+      "rank": 16,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "16 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HN2PJWWC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715qjFn3TqL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HNZS7LNS",
+      "name": "Elektrischer Eiskratzer Auto mit Rotierender Scheibe für Winter, Neu-1Pcs | Kabelloser USB-Aufladbarer Scheibenkratzer, ",
+      "price": 21421.0,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 17,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HNZS7LNS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71LQ5fsl8pL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HFRRFZW3",
+      "name": "200W Autoheizung KFZ Heizung: Tragbar 12V Zigarettenanzünder Auto Heizlüfter 12 volt akku Standheizung Ventilator Defogg",
+      "price": 21835.0,
+      "reviews": 3512,
+      "rating": 4.6,
+      "rank": 18,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3512 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HFRRFZW3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71MGC4jNaZL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6HJNG2V",
+      "name": "moveland Reifentaschen 18-22 Zoll, 600D & 210D Oxford-Gewebe, 4er-Set | Reißfeste Keep Clean Reifenschutzhüllen und Reif",
+      "price": 20682.0,
+      "reviews": 3,
+      "rating": 5.0,
+      "rank": 19,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6HJNG2V",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81HnHB+VVLL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BR9T2M94",
+      "name": "WOKICOR Küchentimer Mechanisch, Kitchen Timer Erinnerung Time, Edelstahl Retro Design Mintgrün, Magnetisch am Kühlschran",
+      "price": 10.82,
+      "reviews": 91,
+      "rating": 4.3,
+      "rank": 3,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "91 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0BR9T2M94",
+      "image_url": "https://m.media-amazon.com/images/I/71OsNT+0MYL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H74PZXFX",
+      "name": "Kitchen Timer, Eieruhr Mechanisch Keine Batterien Erforderlich, Küchenwecker 100% Mechanische Mit Edelstahlgehäuse - Küc",
+      "price": 9.24,
+      "reviews": 101,
+      "rating": 4.3,
+      "rank": 4,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "101 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0H74PZXFX",
+      "image_url": "https://m.media-amazon.com/images/I/616mCYS9xkL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGQNR45X",
+      "name": "2 Stück mechanischer magnetischer Küchentimer‑Set mit lautem Alarm | Einfache Bedienung, zuverlässiger Alarmton, geeigne",
+      "price": 10.99,
+      "reviews": 1,
+      "rating": 1.0,
+      "rank": 6,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "1 Bewertungen, 1.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGQNR45X",
+      "image_url": "https://m.media-amazon.com/images/I/61EILbcRpqL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GZVL4Y46",
+      "name": "JITPOU Eieruhr Mechanisch Küchentimer Kurzzeitwecker Kitchen Zubehör | Edelstahl Timer Countdown-Erinnerung 1-60 Minuten",
+      "price": 9.24,
+      "reviews": 8,
+      "rating": 4.2,
+      "rank": 8,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "8 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0GZVL4Y46",
+      "image_url": "https://m.media-amazon.com/images/I/61rWEXhk4YL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GCQMS6N3",
+      "name": "Yooyan Mechanischer Küchentimer Rot – 1-60 Minuten Countdown, Lauter Alarm & Magnetische Rückseite, Batterieloses Uhrwer",
+      "price": 8.39,
+      "reviews": 28,
+      "rating": 3.5,
+      "rank": 10,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "28 Bewertungen, 3.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0GCQMS6N3",
+      "image_url": "https://m.media-amazon.com/images/I/61i5p9jdJ+L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HBVRMBSM",
+      "name": "Eieruhr Mechanisch, Küchentimer, Kurzzeitwecker Küche, Eieruhr Magnetisch | Keine Batterien Erforderlich, 1–60 Minuten, ",
+      "price": 10.99,
+      "reviews": 14,
+      "rating": 3.8,
+      "rank": 11,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "14 Bewertungen, 3.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HBVRMBSM",
+      "image_url": "https://m.media-amazon.com/images/I/715-taOsl2L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0G7VKFHKP",
+      "name": "Ymswjgj Analoge Zeitanzeige Countdown-Uhr Visueller Timer Eieruhr Mechanisch Küchenwecker Küchentimer Mechanisch Kurzzei",
+      "price": 7.08,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 12,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0G7VKFHKP",
+      "image_url": "https://m.media-amazon.com/images/I/71tTjJ-ivQL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BR9ZR922",
+      "name": "Küchentimer Mechanisch, Visueller Timer, Küche Kurzzeitmesser Eieruhr Magnetisch Küchenuhr Analog I Küchenwecker Kurzzei",
+      "price": 8.39,
+      "reviews": 56,
+      "rating": 4.4,
+      "rank": 13,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "56 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0BR9ZR922",
+      "image_url": "https://m.media-amazon.com/images/I/71-mwXG0RpL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B007SKA8WU",
+      "name": "cilio Küchentimer PURE, mechanischer Kurzzeitwecker, Edelstahl | Kurzzeitwecker, rostfreier Edelstahl, hochwertiger Kuns",
+      "price": 9.76,
+      "reviews": 27,
+      "rating": 4.5,
+      "rank": 16,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "27 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B007SKA8WU",
+      "image_url": "https://m.media-amazon.com/images/I/71ICO++mquL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H74X157B",
+      "name": "Kitchen Timer, Eieruhr Mechanisch Keine Batterien Erforderlich, Küchenwecker 100% Mechanische Mit Edelstahlgehäuse - Küc",
+      "price": 8.39,
+      "reviews": 101,
+      "rating": 4.3,
+      "rank": 17,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "101 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0H74X157B",
+      "image_url": "https://m.media-amazon.com/images/I/61BP0utew-L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GZNZRQ95",
+      "name": "Eieruhr mechanisch, Küchentimer magnetisch aus 304 Edelstahl, 72 dB | Magnetischer Kurzzeitwecker für die Küche ohne Bat",
+      "price": 9.59,
+      "reviews": 8,
+      "rating": 3.7,
+      "rank": 18,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "8 Bewertungen, 3.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0GZNZRQ95",
+      "image_url": "https://m.media-amazon.com/images/I/61Qd9dhubvL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6N22Y45",
+      "name": "Shengxi Eieruhr Mechanisch Edelstahl Küchentimer Magnetisch Kurzzeitwecker | 60Minuten Küchenwecker Mechanisch Magnetisc",
+      "price": 8.73,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 19,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "1 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6N22Y45",
+      "image_url": "https://m.media-amazon.com/images/I/61zfPQU7FXL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08D3XC4DP",
+      "name": "LANTING Mechanischer Küchentimer Visueller Timer 60 Min Magnetisch Schwarz | LANTING Mechanischer Küchentimer Visueller ",
+      "price": 10.99,
+      "reviews": 145,
+      "rating": 3.6,
+      "rank": 25,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "145 Bewertungen, 3.6★",
+      "amazon_url": "https://www.amazon.de/dp/B08D3XC4DP",
+      "image_url": "https://m.media-amazon.com/images/I/61J068bC3KL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0D9LM2SC1",
+      "name": "KüChentimer Eieruhr Mechanisch Kurzzeitwecker Schwarz Mechanischer Timer | KüChe Magnetisch Magnetisch Am KüHlschrank Zu",
+      "price": 12.6,
+      "reviews": 135,
+      "rating": 4.3,
+      "rank": 26,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "135 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0D9LM2SC1",
+      "image_url": "https://m.media-amazon.com/images/I/61VKL2NBoML._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CNW4LFSQ",
+      "name": "KüChentimer Eieruhr Mechanisch Kurzzeitwecker Roter Mechanischer Timer | KüChe Magnetisch Magnetisch Am KüHlschrank Zu B",
+      "price": 13.44,
+      "reviews": 135,
+      "rating": 4.3,
+      "rank": 27,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "135 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0CNW4LFSQ",
+      "image_url": "https://m.media-amazon.com/images/I/61+CfUZ37bL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GJPXW674",
+      "name": "Eieruhr Mechanisch Küchentimer Magnetisch Kurzzeitwecker mit 72 dB Glocken Alarm,Küchenwecker Mechanisch Magnetisch für ",
+      "price": 11.52,
+      "reviews": 47,
+      "rating": 3.9,
+      "rank": 28,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "47 Bewertungen, 3.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0GJPXW674",
+      "image_url": "https://m.media-amazon.com/images/I/51AAA1yT18L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0C376F8NF",
+      "name": "Youery Küchentimer Magnetisch Edelstahl 60-Minuten Mechanisch | Visueller Countdown Timer, Eieruhr, Lauter Wecker, Für K",
+      "price": 9.24,
+      "reviews": 108,
+      "rating": 4.0,
+      "rank": 29,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "108 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0C376F8NF",
+      "image_url": "https://m.media-amazon.com/images/I/611MzcmR04L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FKGJZGFZ",
+      "name": "Küchentimer Magnetisch Edelstahl, 60 Minuten, Mechanisch, Kühlschrank | Visueller Countdown Timer, Eieruhr, Lauter Wecke",
+      "price": 9.24,
+      "reviews": 108,
+      "rating": 4.0,
+      "rank": 30,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "108 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0FKGJZGFZ",
+      "image_url": "https://m.media-amazon.com/images/I/71jbvToTI0L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0C787Y19G",
+      "name": "Eieruhr mechanisch aus Edelstahl, Küchenwecker in Eiform | drehbarer Kurzzeitwecker 60 Min. Kurzzeitmesser ohne Batterie",
+      "price": 8.39,
+      "reviews": 76,
+      "rating": 4.1,
+      "rank": 31,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "76 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0C787Y19G",
+      "image_url": "https://m.media-amazon.com/images/I/51u6lfTjA4L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FYDMHRBK",
+      "name": "KAIYAYA Edelstahl Eieruhr,Mechanischer Küchenwerkzeug Zeitgeber,8×6×6cm Silberfarben Praktischer Egg Timer,Küchenwecker ",
+      "price": 7.99,
+      "reviews": 17,
+      "rating": 4.2,
+      "rank": 34,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "17 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0FYDMHRBK",
+      "image_url": "https://m.media-amazon.com/images/I/619fthjy7uL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GZKHKL4P",
+      "name": "Eieruhr Mechanisch, Kurzzeitwecker Küche mit 72 dB 1-60 Minuten, Eieruhr Magnetisch Kurzzeitmesser Küchentimer Magnetisc",
+      "price": 7.55,
+      "reviews": 9,
+      "rating": 4.1,
+      "rank": 36,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "9 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0GZKHKL4P",
+      "image_url": "https://m.media-amazon.com/images/I/613UKMvmzcL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GSYJ1MDH",
+      "name": "Digital Kurzzeitmesser Küchentimer - 2Pcs Kurzzeitwecker Digital with Magnet & Loud Alarm, Stoppuhr Digital für Cooking,",
+      "price": 9.24,
+      "reviews": 17,
+      "rating": 4.8,
+      "rank": 40,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "17 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0GSYJ1MDH",
+      "image_url": "https://m.media-amazon.com/images/I/71WI0AzW5+L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0G5YB6RKL",
+      "name": "1 Stück Eieruhr, Edelstahl Eieruhr Mechanisch, Egg Timer Für Backen, Kochen und Tee, Silber",
+      "price": 7.22,
+      "reviews": 14,
+      "rating": 4.5,
+      "rank": 41,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "14 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0G5YB6RKL",
+      "image_url": "https://m.media-amazon.com/images/I/61leS4Ww6RL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0D9HBVJTY",
+      "name": "FISHTEC - Kurzzeitwecker Mechanisch aus Edelstahl, Magnetisch, Ø 8 x 3,2 cm – Timer ohne Batterie für Küche, Büro, Klass",
+      "price": 11.76,
+      "reviews": 6,
+      "rating": 4.2,
+      "rank": 42,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "6 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0D9HBVJTY",
+      "image_url": "https://m.media-amazon.com/images/I/714sEd4Qp9L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H9LV9XV5",
+      "name": "loxeu Küchentimer Mechanische 60 Minuten Kurzzeitwecker Küche 2 Stück | 1 Stunde Eieruhr Mechanisch Tragbare Timer mit L",
+      "price": 8.49,
+      "reviews": 6,
+      "rating": 3.1,
+      "rank": 43,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "6 Bewertungen, 3.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0H9LV9XV5",
+      "image_url": "https://m.media-amazon.com/images/I/611BfcRKaML._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GXHCNWX7",
+      "name": "Mepham Digitaler Küchentimer mit LED-Anzeige, Magnetischer Timer mit 360° Drehregler, Countdown & Count-up Timer, Lautlo",
+      "price": 6.64,
+      "reviews": 27,
+      "rating": 4.0,
+      "rank": 44,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "27 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0GXHCNWX7",
+      "image_url": "https://m.media-amazon.com/images/I/61FIv+oY53L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FPFP9TM9",
+      "name": "Küchentimer, Keine Batterien Erforderlich Eieruhr Mechanisch, 100% Mechanisch Edelstahlgehäuse, Eieruhr, Magnetische Rüc",
+      "price": 9.99,
+      "reviews": 34,
+      "rating": 4.2,
+      "rank": 45,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "34 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0FPFP9TM9",
+      "image_url": "https://m.media-amazon.com/images/I/616tYU9EsiL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FN7TXW7V",
+      "name": "Tbintul Küchentimer, Eieruhr Magnetisch, Magnetischer Visueller Timer Edelstahl Countdown Timer, Eieruhr Mechanisch, 60-",
+      "price": 7.99,
+      "reviews": 53,
+      "rating": 3.3,
+      "rank": 46,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "53 Bewertungen, 3.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0FN7TXW7V",
+      "image_url": "https://m.media-amazon.com/images/I/51HiQSZdYDL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0D5B39MQN",
+      "name": "VMUTGA Eieruhr, Mechanische Eieruhr, Eiförmige Kurzzeitwecker, Timer Eiförmiger Timer aus Edelstahl, für die Küche bis 5",
+      "price": 7.69,
+      "reviews": 174,
+      "rating": 4.1,
+      "rank": 47,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "174 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0D5B39MQN",
+      "image_url": "https://m.media-amazon.com/images/I/615+Aj-5VzL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Küchentimer mechanisch analog magnetisch Kurzzeitwecker Backen Edelstahl",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "category_scores": {
+    "cleaning": 34,
+    "car": 44,
+    "sports": 5,
+    "crafts": 100,
+    "phone": 53,
+    "beauty": 44,
+    "home decor": 67,
+    "seasonal": 58,
+    "kitchen": 39,
+    "lighting": 58,
+    "eco": 86,
+    "office": 63,
+    "storage": 10,
+    "pets": 86,
+    "travel": 10,
+    "garden": 44,
+    "bedding": 5,
+    "baby": 5,
+    "bathroom": 5
+  },
+  "category_evidence": {
+    "cleaning": [
+      "mop",
+      "cleaning",
+      "brush"
+    ],
+    "car": [
+      "vehicle",
+      "car"
+    ],
+    "sports": [
+      "water bottle"
+    ],
+    "crafts": [
+      "paint",
+      "craft",
+      "art",
+      "brush"
+    ],
+    "phone": [
+      "phone",
+      "case",
+      "stand"
+    ],
+    "beauty": [
+      "brush",
+      "nail",
+      "skincare",
+      "makeup",
+      "mirror"
+    ],
+    "home decor": [
+      "decor",
+      "wall art",
+      "mirror",
+      "candle"
+    ],
+    "seasonal": [
+      "halloween",
+      "christmas",
+      "gift"
+    ],
+    "kitchen": [
+      "spice",
+      "cup",
+      "cooking",
+      "gadget"
+    ],
+    "lighting": [
+      "led",
+      "light"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "office": [
+      "pen",
+      "office"
+    ],
+    "storage": [
+      "box"
+    ],
+    "pets": [
+      "collar",
+      "toy",
+      "pet",
+      "bed",
+      "cat"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "garden": [
+      "outdoor",
+      "plant",
+      "garden"
+    ],
+    "bedding": [
+      "sheet"
+    ],
+    "baby": [
+      "baby"
+    ],
+    "bathroom": [
+      "mirror"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "cleaning": 2,
+      "car": 1,
+      "sports": 1,
+      "crafts": 1,
+      "phone": 1,
+      "beauty": 3,
+      "home decor": 1,
+      "seasonal": 1,
+      "kitchen": 1,
+      "lighting": 1,
+      "eco": 1
+    },
+    "dealabs": {
+      "crafts": 3,
+      "eco": 2,
+      "home decor": 2,
+      "office": 1,
+      "storage": 1
+    },
+    "temu": {
+      "office": 3,
+      "pets": 4,
+      "phone": 1,
+      "beauty": 1,
+      "home decor": 1,
+      "eco": 2,
+      "cleaning": 1,
+      "crafts": 2,
+      "lighting": 1
+    },
+    "etsy": {
+      "kitchen": 1,
+      "lighting": 2,
+      "crafts": 6,
+      "travel": 1,
+      "home decor": 2,
+      "eco": 3,
+      "seasonal": 3,
+      "garden": 1,
+      "car": 1,
+      "cleaning": 1,
+      "office": 1,
+      "pets": 1,
+      "bedding": 1,
+      "phone": 1,
+      "beauty": 1,
+      "baby": 1
+    },
+    "youtube": {
+      "kitchen": 1,
+      "car": 2,
+      "office": 1,
+      "storage": 1,
+      "pets": 1,
+      "crafts": 4,
+      "phone": 2,
+      "eco": 1
+    },
+    "google_trends": {
+      "lighting": 2,
+      "pets": 3,
+      "travel": 1,
+      "phone": 2,
+      "office": 1,
+      "crafts": 2,
+      "seasonal": 1,
+      "garden": 3,
+      "bathroom": 1,
+      "beauty": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 2,
+      "pets": 2,
+      "eco": 2,
+      "crafts": 2,
+      "car": 1,
+      "lighting": 1,
+      "seasonal": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "car": 1,
+      "pets": 4,
+      "crafts": 1,
+      "phone": 1,
+      "home decor": 2,
+      "eco": 3,
+      "seasonal": 1,
+      "garden": 2,
+      "office": 1
+    }
+  },
+  "cross_validated": {
+    "cleaning": 3,
+    "car": 5,
+    "crafts": 8,
+    "phone": 6,
+    "beauty": 4,
+    "home decor": 6,
+    "seasonal": 5,
+    "kitchen": 5,
+    "lighting": 5,
+    "eco": 8,
+    "office": 7,
+    "pets": 6,
+    "garden": 3
+  },
+  "demand_keywords": [
+    "amazon data request page",
+    "amazon notes that most items",
+    "amazon rolls out",
+    "are these",
+    "bon plan",
+    "bons plans",
+    "bons plans en",
+    "classic equestrian style meets autumn",
+    "code promo",
+    "commitment to",
+    "dernier jour des",
+    "des achats peu co",
+    "france in the",
+    "handmade products for home decor",
+    "is it possible that",
+    "la valeur des",
+    "le jardinage offre un point",
+    "legami sort sa nouvelle collection",
+    "legami vide ses stocks",
+    "lemonading",
+    "les incontournables citrouilles",
+    "les meilleures boutiques",
+    "les meilleures id",
+    "les meilleures ventes",
+    "les voil",
+    "margins in",
+    "meilleures ventes",
+    "mes indispensables pour la maison",
+    "miser sur les fleurs de",
+    "most anticipated"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 68433
+}
