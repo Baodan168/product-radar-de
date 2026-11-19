@@ -26,9 +26,9 @@
         "trend": 80,
         "gap": 65,
         "profit": 72,
-        "final": 75
-      },
-      "recommendation": "buy"
+        "final": 75,
+        "recommendation": "buy"
+      }
     },
     {
       "keyword": "Weihnachtsstrickmütze",
@@ -50,9 +50,9 @@
         "trend": 78,
         "gap": 68,
         "profit": 70,
-        "final": 74
-      },
-      "recommendation": "buy"
+        "final": 74,
+        "recommendation": "buy"
+      }
     },
     {
       "keyword": "Joghurtbecher geteilt",
@@ -74,14 +74,14 @@
         "trend": 72,
         "gap": 58,
         "profit": 70,
-        "final": 68
-      },
-      "recommendation": "buy"
+        "final": 68,
+        "recommendation": "buy"
+      }
     },
     {
       "keyword": "Weihnachtsgeschenkpapier",
       "keyword_cn": "圣诞礼品包装纸",
-      "amazon_keyword": "Weihnachtsgeschenkpapier Folie Muster Geschenkverpackung",
+      "amazon_keyword": "Weihnachtsgeschenkpapier Folie mit Muster für Weihnachten",
       "search_1688": "圣诞包装纸 礼物包装 雪梨纸 批发",
       "demand_signals": [
         "1688 义乌神龙纸业圣诞雪梨纸/拷贝纸 0.13元起已售10万+件，包装纸类供应链出货规模极大（来源：1688.com）",
@@ -98,9 +98,9 @@
         "trend": 66,
         "gap": 52,
         "profit": 68,
-        "final": 60
-      },
-      "recommendation": "watch"
+        "final": 60,
+        "recommendation": "watch"
+      }
     }
   ]
 }
