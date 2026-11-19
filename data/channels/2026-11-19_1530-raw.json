@@ -1,0 +1,948 @@
+{
+  "scan_date": "2026-11-19",
+  "scan_time": "15:30",
+  "scan_ts": "2026-11-19_1530",
+  "stats": {
+    "total_scanned": 49,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0H6WFNLDR",
+      "name": "Gaiatop Handwärmer Elektrisch 2er-Set, Taschenwärmer Wiederverwendbar | Kompakt für Handschuhe, Camping Zubehör, Wichtel",
+      "price": 92.47,
+      "reviews": 96,
+      "rating": 4.4,
+      "rank": 1,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "96 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6WFNLDR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61D2XL061mL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0F2TJ5Z7L",
+      "name": "NEOLYMP Bodenschutzmatte Fitnessgerät - Laufband Matte 8mm Dicke - langlebig, rutschfest & stoßdämpfend - Fitness Unterl",
+      "price": 16586.0,
+      "reviews": 141,
+      "rating": 4.6,
+      "rank": 2,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "141 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0F2TJ5Z7L",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71j-x1ZHteL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GJD99NP7",
+      "name": "NEOLYMP Soft Kettlebell bodenschonend & leise - stoßdämpfende Kugelhantel mit Eisensandfüllung - ergonomischer Softgriff",
+      "price": 21826.0,
+      "reviews": 79,
+      "rating": 4.8,
+      "rank": 3,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "79 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0GJD99NP7",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71rh2pTAemL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H93Y497R",
+      "name": "Garmin CIRQA Smart Band, Fitnesstracker ohne Display, L/XL, Schwarz | ohne Abo, bis zu 10 Tage Akkulaufzeit, 80+ Sportpr",
+      "price": 1110.0,
+      "reviews": 315,
+      "rating": 4.2,
+      "rank": 4,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "315 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0H93Y497R",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81ESAFsgNbL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKJQWSZH",
+      "name": "Panini FIFA 365 Adrenalyn XL 2027 Trading Cards – 5X Booster mit je 6 Karten",
+      "price": 6598.0,
+      "reviews": 5,
+      "rating": 4.5,
+      "rank": 5,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "5 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKJQWSZH",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81c+tYjeViL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08HLDDNGK",
+      "name": "MAMEIDO Trinkflasche mit Strohhalm 1 l (Wild Allure) | auslaufsicher, BPA-frei mit 2-in-1-Sportdeckel, Strohhalm & Trage",
+      "price": 17606.0,
+      "reviews": 801,
+      "rating": 4.4,
+      "rank": 6,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "801 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B08HLDDNGK",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81SYA9Rl2KL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08HLD4G5V",
+      "name": "MAMEIDO Trinkflasche Kohlensäure geeignet aus Tritan 1 l Wild Candy | auslaufsicher, BPA-frei mit abnehmbarer Trageschla",
+      "price": 17254.0,
+      "reviews": 297,
+      "rating": 4.6,
+      "rank": 7,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "297 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B08HLD4G5V",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81lYt0IDslL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7SFVRJ9",
+      "name": "SIGG - Edelstahl Müslibecher - VITA Therm Bowl Morning Blue 0.5 L | Isoliert, Auslaufsicher, Fach für Toppings & Löffel,",
+      "price": 140.61,
+      "reviews": 39,
+      "rating": 4.8,
+      "rank": 8,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "39 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7SFVRJ9",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71m5Twk6GdL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMCGV8L5",
+      "name": "Zeacool Fitness Tracker Smartwatch Herren Damen, IP68 Wasserdicht Fitnessuhr, Aktivitätstracker mit 24h Herzfrequenz, Sc",
+      "price": 155.8,
+      "reviews": 99,
+      "rating": 4.6,
+      "rank": 9,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "99 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMCGV8L5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61HdayBcPjL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H87N656V",
+      "name": "KIVY Trinkflasche 1l aus Tritan - Kohlensäure geeignet & Auslaufsicher | Für Sport, Schule & Büro - Sport Trinkflasche G",
+      "price": 117.13,
+      "reviews": 33,
+      "rating": 4.8,
+      "rank": 10,
+      "category": "Sports",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "33 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H87N656V",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81RYOxvy8tL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08JKHDR2Y",
+      "name": "NIGRIN Scheiben Frostschutz Fertigmix ENERGIZER | 5 Liter | wirksam bis -18°C | Reinigungszusatz für Autoscheiben und Sc",
+      "price": 6187.0,
+      "reviews": 2692,
+      "rating": 4.6,
+      "rank": 1,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2692 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B08JKHDR2Y",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71RlQSOZz0L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01N7RVVEE",
+      "name": "Pingi Luftentfeuchter Auto - Auto Entfeuchter Beutel, Wiederverwendbar | Nimmt Feuchtigkeit & Kondenswasser auf, gegen b",
+      "price": 123.29,
+      "reviews": 34534,
+      "rating": 4.3,
+      "rank": 2,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "34534 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B01N7RVVEE",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/816XDRTNEsL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BCQNN2LG",
+      "name": "LYVANAS Eiskratzer Auto TESTSIEGER 2026* - Ergonomisch, schnell & stark | Profi Scheibenkratzer - Effizienter & sicherer",
+      "price": 7332.0,
+      "reviews": 6878,
+      "rating": 4.4,
+      "rank": 3,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "6878 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0BCQNN2LG",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Aa5tTlg4L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FDXTYPT2",
+      "name": "Bosch Aerotwin eA 863 S Front-Scheibenwischer - 650 mm und 450 mm | Set mit 2 Ersatz-Wischblättern und vormontiertem Ada",
+      "price": 9416.0,
+      "reviews": 413,
+      "rating": 4.8,
+      "rank": 4,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "413 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0FDXTYPT2",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61GQPtC5cNL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09GVNLD83",
+      "name": "OOONO P-DISC NO1 - Elektronische Parkscheibe mit Zulassung fürs Auto - Automatische Digitale Parkscheibe Elektrisch mit ",
+      "price": 16843.0,
+      "reviews": 28907,
+      "rating": 4.5,
+      "rank": 5,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "28907 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B09GVNLD83",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81EZlfOjqHL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0C813PVBZ",
+      "name": "Castrol Edge 5W-30 LL Motoröl, 5 Liter",
+      "price": 46198.0,
+      "reviews": 18075,
+      "rating": 4.8,
+      "rank": 6,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "18075 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0C813PVBZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81HwaxSMtaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0F98R4MY5",
+      "name": "Miracase Handyhalterung Auto [Stabilere Doppelhaken] für Lüftung Universale | Halterung für Navigationsgeräte，360 Grad V",
+      "price": 58.49,
+      "reviews": 23549,
+      "rating": 4.6,
+      "rank": 7,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "23549 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0F98R4MY5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81qH3MI2q6L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CQ2J1FDV",
+      "name": "NIGRIN Auto Eiskratzer Scheibenkratzer für Winter, ergonomischer Softgriff, stufenförmige Eisbrecherzacken schwarz-rot 1",
+      "price": 6737.0,
+      "reviews": 915,
+      "rating": 4.6,
+      "rank": 8,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "915 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0CQ2J1FDV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61LBseO12ML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08144X7H6",
+      "name": "SONAX FelgenBeast (1 Liter) Felgenreiniger | Felgenreiniger für alle polierten, verchromten und matten Stahl- & Leichtme",
+      "price": 6568.0,
+      "reviews": 13202,
+      "rating": 4.7,
+      "rank": 9,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "13202 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B08144X7H6",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61dCEohScAL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BN48F6LP",
+      "name": "HELDENWERK® Erste Hilfe Set Auto Norm 2026 DIN 13164:2022 StVZO konform | Verbandskasten Auto europaweit nutzbar, Nach n",
+      "price": 58.05,
+      "reviews": 5193,
+      "rating": 4.7,
+      "rank": 10,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "5193 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0BN48F6LP",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61FF8YuOckL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00DEID79G",
+      "name": "CTEK MXS 5.0 12V Batterieladegerät für Auto und Motorrad | Temperaturkompensation, Rekonditionierung, AGM-Option, Erhalt",
+      "price": 41648.0,
+      "reviews": 39169,
+      "rating": 4.8,
+      "rank": 11,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "39169 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B00DEID79G",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81aqUf5Ns3L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0C1NNPS39",
+      "name": "Blukar Handyhalterung Auto [Upgrade Saugnapf] Handyhalter für Autos | 360° Drehbar KFZ Handy Halterung für Armaturenbret",
+      "price": 58.49,
+      "reviews": 27009,
+      "rating": 4.4,
+      "rank": 12,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "27009 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0C1NNPS39",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/8132f86VbML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B002WC7N54",
+      "name": "NIGRIN 6190 Eiskratzer Auto mit Schneebesen, ergonomischer rutschfester Softgriff, aus hochstabilem ABS, Made in Canada,",
+      "price": 11148.0,
+      "reviews": 5878,
+      "rating": 4.5,
+      "rank": 13,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "5878 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B002WC7N54",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Ew7d0ivOL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CS3B7MD8",
+      "name": "AstroAI Kabellose Elektrische Luftpumpe, Tragbare Akku Fahrradpumpe | mit alle ventile LED-Licht, Wiederaufladbare Reife",
+      "price": 15999.0,
+      "reviews": 20251,
+      "rating": 4.5,
+      "rank": 14,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "20251 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0CS3B7MD8",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716H7mjw+1L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CD7PRLM6",
+      "name": "LYVANAS Eiskratzer Auto mit Besen TESTSIEGER 2026* - schnell & stark | Ergonomischer Profi Schneebesen Auto - Langlebige",
+      "price": 9900.0,
+      "reviews": 2422,
+      "rating": 4.4,
+      "rank": 15,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2422 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0CD7PRLM6",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71JcBqF4b6L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00S9NX2PK",
+      "name": "ROBBYROB Enteiserspray 500 ml Klarblick – Scheibenenteiser fürs Auto | Löst Eis & Reif schnell ohne Kratzen – für Windsc",
+      "price": 8476.0,
+      "reviews": 165,
+      "rating": 4.4,
+      "rank": 16,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "165 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B00S9NX2PK",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71or+foZPeL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FJM1SM8W",
+      "name": "Autobatterie Ladegerät 12V 6A, HAUSPROFI KFZ Batterieladegerät mit Reparaturfunktion & Wintermodus, Erhaltungsladegerät ",
+      "price": 99.52,
+      "reviews": 660,
+      "rating": 4.6,
+      "rank": 17,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "660 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0FJM1SM8W",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71xB+it7c9L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FNK82YBB",
+      "name": "VICSEED Militärische Handyhalterung Auto Magnet für MagSafe Autohalterung | 20XN55 Magnete,50KG Vakuum Saugnapf,360° Dre",
+      "price": 166.45,
+      "reviews": 10429,
+      "rating": 4.5,
+      "rank": 18,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "10429 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0FNK82YBB",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81LV-Me9rmL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B002NF2S6E",
+      "name": "Nigrin 73803 Anti-Beschlag-Schwamm, für Auto Innenscheiben, beseitigt Kondenswasser-Beschläge, verhindert erneutes Besch",
+      "price": 12.84,
+      "reviews": 2442,
+      "rating": 4.3,
+      "rank": 19,
+      "category": "Automotive",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2442 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B002NF2S6E",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51p428KejcL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGY26858",
+      "name": "DiliDala Handstaubsauger Akku, 32000PA Handstaubsauger Auto, EIN-Touch-Staubbehälter Handstaubsauger Akku Testsieger Kab",
+      "price": 32284.0,
+      "reviews": 95,
+      "rating": 4.7,
+      "rank": 1,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "95 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGY26858",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61L-7K+rHFL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPT5DMKR",
+      "name": "Warmfay Auto Sitzbezüge Winter Sitzauflage, 12V Warm Sitzkissen Vordersitze | Autositzauflage Warm und Komfortabel, Univ",
+      "price": 12469.0,
+      "reviews": 3,
+      "rating": 5.0,
+      "rank": 2,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPT5DMKR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71ZV4QEeQ6L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMX56JSL",
+      "name": "BERGSTEIN® Scheibenenteiser Spray [6x500 ml] Enteiserspray Auto -30 °C | Scheibenenteiser Spray | Enteiserspray Auto | E",
+      "price": 18325.0,
+      "reviews": 28,
+      "rating": 4.7,
+      "rank": 3,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "28 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMX56JSL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81TheZJ2+uL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPPR5NCN",
+      "name": "RITUALS Homme Collection Autoduft Set, Arabischer Amber, 2 x 3 g | Luxus-Autoduft, nachfüllbares Design, langanhaltender",
+      "price": 15338.0,
+      "reviews": 1052,
+      "rating": 4.5,
+      "rank": 4,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1052 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPPR5NCN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41jUNfKl4-L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6X26Y6H",
+      "name": "Frontscheibe Abdeckung Auto Winter, gegen Eis, Schnee, Frost Sonnenschutz | 4-lagige Extra Dick Frostschutz",
+      "price": 104.8,
+      "reviews": 79,
+      "rating": 4.8,
+      "rank": 5,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "79 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6X26Y6H",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/818IjqUUYrL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPPMHS6G",
+      "name": "RITUALS The Ritual of Karma Autoduft Set, Lotusblüte, 2 x 3 g | Luxus-Autoduft, nachfüllbares Design, langanhaltender Pr",
+      "price": 15338.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 6,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HPPMHS6G",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51CNfX06V7L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPFJ2WG3",
+      "name": "ACEZUK 9000A Starthilfe Powerbank 12V für Benziner & 10,0L Diesel | Auto Starthilfe mit LED-Taschenlampe, großen Bildsch",
+      "price": 30977.0,
+      "reviews": 118,
+      "rating": 4.6,
+      "rank": 7,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "118 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPFJ2WG3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61F3AFt4g7L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGRT3JDZ",
+      "name": "HELDENWERK® 2026 Warnleuchte V16 Notlicht für Auto & Motorrad | Bis zu 1 km sichtbar, 360° LED Rundumlicht, IP54 geschüt",
+      "price": 115.59,
+      "reviews": 23,
+      "rating": 4.6,
+      "rank": 8,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "23 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGRT3JDZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81mbgCiTUhL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H8P23GD1",
+      "name": "BIRDDIE 148x110cm Frontscheibenabdeckung Winter Auto Frostschutz Abdeckung | Mit Rückspiegelabdeckung Frostabdeckung Son",
+      "price": 89.61,
+      "reviews": 51,
+      "rating": 4.2,
+      "rank": 9,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "51 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0H8P23GD1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81dPu14NBcL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HK3R2S93",
+      "name": "Sauberkugel® Saubergeist Innenraumreiniger Auto für Zwischenräume | Handgefertigt für Lüftungsschlitze, Getränkehalter, ",
+      "price": 10972.0,
+      "reviews": 155,
+      "rating": 4.3,
+      "rank": 10,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "155 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0HK3R2S93",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716F+9pS-zL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHM9DJSN",
+      "name": "Jake-Water ,Waschhandschuh Auto, Wundertuch Trockenhandschuh | Ultra-Wipes HandschuhFensterputzen, Praktisch Auto Reinig",
+      "price": 110.96,
+      "reviews": 12,
+      "rating": 4.5,
+      "rank": 11,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "12 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHM9DJSN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81EyXfJqsUL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPPPP51P",
+      "name": "RITUALS Homme Collection Autoduft Refill, Arabischer Amber, 2 x 3 g | Luxus-Autoduft, nachfüllbares Design, langanhalten",
+      "price": 13870.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 12,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HPPPP51P",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/411lMVIzDGL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H55MHX5H",
+      "name": "Bowagn Frontscheibenabdeckung Auto Winter,Frostschutz Auto Frontscheibe | Schützt vor Eis und Schnee,Schützt vor Frost,S",
+      "price": 67.81,
+      "reviews": 22,
+      "rating": 4.6,
+      "rank": 13,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "22 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H55MHX5H",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Qd1+62PRL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HN2PJWWC",
+      "name": "ROBBYROB Scheibenfrostschutz Konzentrat 2 x 5 L bis -60 °C – Winter | Für Auto & Scheibenwaschanlage – polycarbonatvertr",
+      "price": 12542.0,
+      "reviews": 19,
+      "rating": 4.8,
+      "rank": 14,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "19 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HN2PJWWC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715qjFn3TqL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7HYYJFL",
+      "name": "Nyamofly Frontscheibenabdeckung Winter mit 6 Riemen, 10 Magneten und 360°-Reflektorstreifen,Abdeckung von Seitenfenstern",
+      "price": 13937.0,
+      "reviews": 8,
+      "rating": 4.0,
+      "rank": 15,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "8 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7HYYJFL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91gN13xDaDL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6Q8DYZM",
+      "name": "Starthilfe Powerbank für PKW, 8000A Auto-Booster, 10L Benzin & 8L Diesel | 150PSI Reifenfüller, 5 Modi, 60s Schnellaufpu",
+      "price": 31227.0,
+      "reviews": 60,
+      "rating": 4.5,
+      "rank": 16,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "60 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6Q8DYZM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81dE5j+sviL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7X8HSSS",
+      "name": "YaberAuto Starthilfe Powerbank für Pkw mit Kompressor 8000A 160PSI, Auto Starthilfe Powerbank (Alle Benzin-/14,0L-Diesel",
+      "price": 66042.0,
+      "reviews": 98,
+      "rating": 4.9,
+      "rank": 17,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "98 Bewertungen, 4.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7X8HSSS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81yyyCHKkjL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HCZJTXKV",
+      "name": "Eiskratzer Auto mit Besen,Schneebesen Auto,Ergonomisch & Vielseitig | Effektive Schnee- und Eis Entfernung, Lackschonend",
+      "price": 9533.0,
+      "reviews": 9,
+      "rating": 5.0,
+      "rank": 18,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "9 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HCZJTXKV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71XfCZkIX2L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HNZS7LNS",
+      "name": "Elektrischer Eiskratzer Auto mit Rotierender Scheibe für Winter, Neu-1Pcs | Kabelloser USB-Aufladbarer Scheibenkratzer, ",
+      "price": 21275.0,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 19,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HNZS7LNS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71LQ5fsl8pL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HFRRFZW3",
+      "name": "200W Autoheizung KFZ Heizung: Tragbar 12V Zigarettenanzünder Auto Heizlüfter 12 volt akku Standheizung Ventilator Defogg",
+      "price": 22009.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 20,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HFRRFZW3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71MGC4jNaZL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}
