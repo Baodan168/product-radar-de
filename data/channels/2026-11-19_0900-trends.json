@@ -1,0 +1,231 @@
+{
+  "category_scores": {
+    "eco": 68,
+    "pets": 94,
+    "crafts": 100,
+    "phone": 5,
+    "beauty": 21,
+    "kitchen": 73,
+    "bathroom": 16,
+    "car": 41,
+    "baby": 11,
+    "home decor": 47,
+    "lighting": 47,
+    "seasonal": 52,
+    "cleaning": 11,
+    "office": 36,
+    "garden": 41,
+    "bedding": 5,
+    "travel": 11,
+    "storage": 5,
+    "sports": 11
+  },
+  "category_evidence": {
+    "eco": [
+      "eco"
+    ],
+    "pets": [
+      "pet",
+      "toy",
+      "cat"
+    ],
+    "crafts": [
+      "art",
+      "tape"
+    ],
+    "phone": [
+      "stand"
+    ],
+    "beauty": [
+      "hair",
+      "skincare",
+      "makeup"
+    ],
+    "kitchen": [
+      "cup",
+      "kitchen",
+      "gadget",
+      "spice"
+    ],
+    "bathroom": [
+      "toilet",
+      "bath",
+      "bathroom"
+    ],
+    "car": [
+      "car"
+    ],
+    "baby": [
+      "baby",
+      "child"
+    ],
+    "home decor": [
+      "decor",
+      "candle"
+    ],
+    "lighting": [
+      "light",
+      "led"
+    ],
+    "seasonal": [
+      "halloween",
+      "christmas",
+      "gift"
+    ],
+    "cleaning": [
+      "mop",
+      "cleaning"
+    ],
+    "office": [
+      "pen"
+    ],
+    "garden": [
+      "plant",
+      "garden",
+      "outdoor"
+    ],
+    "bedding": [
+      "pillow"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "storage": [
+      "box"
+    ],
+    "sports": [
+      "sport"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "eco": 1,
+      "pets": 3,
+      "crafts": 2,
+      "phone": 1,
+      "beauty": 4,
+      "kitchen": 2,
+      "bathroom": 2,
+      "car": 1,
+      "baby": 1
+    },
+    "dealabs": {
+      "car": 1,
+      "pets": 2,
+      "crafts": 3,
+      "home decor": 2,
+      "eco": 1,
+      "kitchen": 1,
+      "lighting": 1
+    },
+    "temu": {
+      "pets": 2,
+      "crafts": 3,
+      "seasonal": 1,
+      "cleaning": 1,
+      "office": 1,
+      "kitchen": 1,
+      "car": 1,
+      "eco": 1
+    },
+    "etsy": {
+      "kitchen": 2,
+      "crafts": 3,
+      "home decor": 2,
+      "eco": 2,
+      "seasonal": 3,
+      "pets": 1,
+      "garden": 1
+    },
+    "youtube": {
+      "crafts": 1,
+      "bedding": 1,
+      "travel": 1,
+      "kitchen": 2,
+      "cleaning": 1,
+      "storage": 1,
+      "pets": 1,
+      "eco": 1
+    },
+    "google_trends": {
+      "garden": 3,
+      "car": 1,
+      "pets": 2,
+      "crafts": 3,
+      "sports": 1,
+      "seasonal": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "reddit": {
+      "kitchen": 2,
+      "office": 2,
+      "pets": 3,
+      "eco": 1,
+      "bathroom": 1,
+      "crafts": 2,
+      "car": 1,
+      "lighting": 2,
+      "sports": 1,
+      "travel": 1,
+      "baby": 1,
+      "seasonal": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "pets": 1,
+      "crafts": 2,
+      "garden": 1,
+      "office": 1,
+      "eco": 2,
+      "lighting": 2
+    }
+  },
+  "cross_validated": {
+    "eco": 8,
+    "pets": 8,
+    "crafts": 8,
+    "kitchen": 7,
+    "car": 5,
+    "home decor": 3,
+    "lighting": 3,
+    "seasonal": 4,
+    "office": 3,
+    "garden": 3
+  },
+  "demand_keywords": [
+    "accessoire tendance indispensable",
+    "alternatives to",
+    "amazon investit",
+    "amazon va concurrencer temu",
+    "amazon vs",
+    "are these",
+    "autumn clothes sold on",
+    "best selling items",
+    "bon plan",
+    "bons plans",
+    "bons plans en",
+    "browse what",
+    "buy and",
+    "calendrier de l",
+    "code promo",
+    "consumer trends in e",
+    "cosy fall decor in the",
+    "decorating my home for autumn",
+    "des achats peu co",
+    "fall clothes for women",
+    "fall decor trends",
+    "fall fashion trends",
+    "french e",
+    "from ghost",
+    "gift ideas trending now",
+    "good deals on amazon",
+    "handmade home decor kitchen and",
+    "handmade products for home decor",
+    "jardin d",
+    "je vous montre mes trouvailles"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 68436
+}

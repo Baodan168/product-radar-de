@@ -1,0 +1,1708 @@
+{
+  "scan_date": "2026-11-19",
+  "scan_time": "09:00",
+  "scan_ts": "2026-11-19_0900",
+  "stats": {
+    "total_scanned": 89,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0HLPKKRZZ",
+      "name": "Legami - Set mit Löschbaren Gelstiften - Xmas 2026 | Set aus 5 Dream Peaks Mini Erasable Gel-Stiften, limitierte Edition",
+      "price": 13884.0,
+      "reviews": 5133,
+      "rating": 4.6,
+      "rank": 1,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "5133 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPKKRZZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WnCNlBOQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLPZ84DH",
+      "name": "LEGAMI - Gelschreiber mit dekorativem Tier Lovely Friends, rollt nicht, abnehmbares und wiederverwendbares Tier, 0,5 mm ",
+      "price": 42.92,
+      "reviews": 4466,
+      "rating": 4.8,
+      "rank": 2,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4466 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPZ84DH",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61po4BQRSJL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLPNVTKN",
+      "name": "Legami – Kawaii 2-in-1 Eisbärenbeutel, Silikon | Kawaii Dual-Use-Tasche, Stifthalter, Eisbär, Weihnachts-2026 Limited Ed",
+      "price": 79.97,
+      "reviews": 22,
+      "rating": 4.2,
+      "rank": 3,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "22 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPNVTKN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/614+Rxm3giL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPCZ3RF5",
+      "name": "LEGAMI Löschbarer Gelstift Koala „Sleeping la Vida Loca“ - Erasable Pen",
+      "price": 2051.0,
+      "reviews": 2,
+      "rating": 5.0,
+      "rank": 4,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPCZ3RF5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41cACuEkj0L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKFXDBK1",
+      "name": "GutSache 5er Set 0,7mm radierbare Gelstifte Neue Weihnachtsstifte 2026 | 5 Tintenfarben, drehbarer Stiftkopf mit wechsel",
+      "price": 56.15,
+      "reviews": 213,
+      "rating": 4.4,
+      "rank": 5,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "213 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKFXDBK1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71JBqnAlAML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HJZLHHGR",
+      "name": "Legami Halloween löschbarer Gelschreiber \"Spooky Party\" - ein Set | Glow-in-the-dark Gelschreiber in Blindbox im Sarg",
+      "price": 5145.0,
+      "reviews": 208,
+      "rating": 2.2,
+      "rank": 6,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "208 Bewertungen, 2.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0HJZLHHGR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61HSs1Ph6tL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "3440184404",
+      "name": "Kosmos Himmelsjahr 2027: Sonne, Mond und Sterne im Jahreslauf – Astronomie-Jahrbuch mit digitalem Astrokalender, Planete",
+      "price": 12936.0,
+      "reviews": 26,
+      "rating": 5.0,
+      "rank": 7,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "26 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/3440184404",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71iMNU7Hz2L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HN58GVQC",
+      "name": "3er Set Radierbare Stifte Pokémon Pikachu Evoli Bisasam Geschenk für Kinder | 3 radierbare Pokémon-Stifte, blaue Tinte, ",
+      "price": 7343.0,
+      "reviews": 7,
+      "rating": 4.8,
+      "rank": 8,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "7 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HN58GVQC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71b+j9BgNsL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HQ6RMHF3",
+      "name": "Saatgut Kalender 2027 mit Samen, 12 Monatskarten und Holzständer | 12 pflanzbare Monatskarten mit Blumenmotiven und Holz",
+      "price": 5873.0,
+      "reviews": 3,
+      "rating": 5.0,
+      "rank": 9,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HQ6RMHF3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71DhuaMuNrL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HBMTPZ5T",
+      "name": "Bastelkalender 2027 im Langen Format mit 3 Spalten zum Selbstgestalten | DIY Fotokalender, 3 Spalten, Langes Format, Sel",
+      "price": 7490.0,
+      "reviews": 107,
+      "rating": 4.5,
+      "rank": 10,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "107 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HBMTPZ5T",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71D90Ay5SGL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HBNJMP9G",
+      "name": "UNITURE® Tischkalender 2027 Wochenkalender Buntes Design Querformat | Jan–Dez 2027, 297 x 115 mm, FSC-zertifiziert, Made",
+      "price": 5931.0,
+      "reviews": 1073,
+      "rating": 4.5,
+      "rank": 11,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1073 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HBNJMP9G",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Y9Auc2tHL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HM86DNCX",
+      "name": "Boxclever Press Home Planer Kalender 2027 Wandkalender. Familienplaner 2027 von Januar bis Dezember 2027. Wandkalender 2",
+      "price": 120.1,
+      "reviews": 16,
+      "rating": 5.0,
+      "rank": 12,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "16 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HM86DNCX",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81eBRsH8gGL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKZQ1LS7",
+      "name": "papercrush Pop-Up Postkarte Adventskalender Winterdorf, 3D Weihnachtskarte | Nostalgische Adventskalenderkarte mit Türch",
+      "price": 54.98,
+      "reviews": 10,
+      "rating": 4.9,
+      "rank": 13,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "10 Bewertungen, 4.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKZQ1LS7",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/714q-iUFXnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HBM56CFK",
+      "name": "UNITURE® Bastelkalender 2027 Fotokalender DIN A4 zum Selbstgestalten | DIY Kalender, Foto einkleben, Kreative Momente, J",
+      "price": 5615.0,
+      "reviews": 132,
+      "rating": 4.7,
+      "rank": 14,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "132 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HBM56CFK",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WG7EVly5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GV6413N9",
+      "name": "Lady Journal Mini Deluxe Türkis 2027: Taschenkalender 8x11,5 cm - Wochenplaner mit Tucson Einband & Motivprägung, Leseba",
+      "price": 30.8,
+      "reviews": 5,
+      "rating": 5.0,
+      "rank": 15,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "5 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0GV6413N9",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61DXqTM9lbL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKJRD1QY",
+      "name": "Einpflanzbarer Kalender 2027, Wildblumen Papierkalender | Saatgut Kalender 2027 Mit Ständer, Umweltfreundlicher Pflanzba",
+      "price": 6453.0,
+      "reviews": 8,
+      "rating": 4.0,
+      "rank": 16,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "8 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKJRD1QY",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71kPdiVjkWL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GTBJXKT7",
+      "name": "Brigitte Goldkalender 2027: Taschenkalender 10 x 14 cm mit Leseband, Stifthalter & vielen nützlichen Sonderseiten",
+      "price": 8967.0,
+      "reviews": 25,
+      "rating": 3.9,
+      "rank": 17,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "25 Bewertungen, 3.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0GTBJXKT7",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/A1PN4za2HEL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKSWL71P",
+      "name": "LEGAMI Set mit 5 radierbaren Gelstiften, farbige Löschtinte, Tiermotiv | Gorilla, Henne und Fur-Ever Blister mit 3 Hunde",
+      "price": 10136.0,
+      "reviews": 2,
+      "rating": 5.0,
+      "rank": 18,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKSWL71P",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Fzd853EnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLDS9LSF",
+      "name": "Conipa Briefablage A4 stapelbar, 5 Stück, Dokumentenablage Pastellfarben | Platzsparende Ablagefächer für Schreibtisch u",
+      "price": 15067.0,
+      "reviews": 35,
+      "rating": 4.6,
+      "rank": 19,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "35 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLDS9LSF",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Y-QYNChQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HL83CNT5",
+      "name": "Flanliy Weihnachtsstifte – Radierbarer Kugelschreiber Weihnachten mit drehbarer Kappe, Wechselnde Gesichtsausdrücke, Kre",
+      "price": 9496.0,
+      "reviews": 5,
+      "rating": 5.0,
+      "rank": 20,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "5 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HL83CNT5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81vR6cP2tgL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07D4T5XVT",
+      "name": "MjAMjAM - Premium Nassfutter für Katzen - saftiges Huhn an leckeren Möhrchen, 6er Pack (6 x 400 g), getreidefrei mit ext",
+      "price": 9481.0,
+      "reviews": 3991,
+      "rating": 4.5,
+      "rank": 1,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "3991 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07D4T5XVT",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715zaQl9iML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07CPK4T22",
+      "name": "Biokat's Diamond Care Fresh Katzenstreu mit Babypuder-Duft - Feine Klumpstreu aus Bentonit mit Aktivkohle und Aloe Vera ",
+      "price": 71.0,
+      "reviews": 26667,
+      "rating": 4.5,
+      "rank": 2,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "26667 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07CPK4T22",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61JZ0-J35cL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01J57509O",
+      "name": "animonda Carny Adult Katzenfutter nass Kräftige Variation (12 x 400g) | getreidefreies Katzennassfutter ohne Zucker, für",
+      "price": 11752.0,
+      "reviews": 4823,
+      "rating": 4.4,
+      "rank": 3,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4823 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B01J57509O",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81orE2t7nGL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0DFCQ682Y",
+      "name": "Vitakraft Adventskalender 2026, Hundeleckerli, Vorweihnachtszeit (1x 244g) | 24 abwechslungsreiche herzhafte, fleischige",
+      "price": 6975.0,
+      "reviews": 1015,
+      "rating": 4.7,
+      "rank": 4,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1015 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0DFCQ682Y",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91MZ4zj9LgL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BQJ8C31K",
+      "name": "HUNTER Milford Hunde-Regenmantel | ergonomische Passform, individuell verstellbar, Geschirr-Reißverschluss, waschbar bei",
+      "price": 149.42,
+      "reviews": 1041,
+      "rating": 4.5,
+      "rank": 5,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1041 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0BQJ8C31K",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51T7bDrx8aL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0B6GKHS2S",
+      "name": "Ring Innenkamera (Indoor Camera 2. Gen.) | 1080p-HD-Video, Privatsphäre-Sichtschutz, WLAN, ideal für Haustiere, Mini Sic",
+      "price": 15611.0,
+      "reviews": 4166,
+      "rating": 4.5,
+      "rank": 6,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4166 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0B6GKHS2S",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51N-W3kyGpL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0079F3N12",
+      "name": "GOURMET Gold Feine Pastete, mit Thunfisch, 12 x 85g | Katzenfutter nass",
+      "price": 3513.0,
+      "reviews": 896,
+      "rating": 4.6,
+      "rank": 7,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "896 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0079F3N12",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71IDFpBGaML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09P1WBRJM",
+      "name": "SHEBA Filets Katzennassfutter Huhn 16 x 60g (16er-Pack)",
+      "price": 11642.0,
+      "reviews": 1713,
+      "rating": 4.7,
+      "rank": 8,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1713 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B09P1WBRJM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71MZmlAtKsL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00NABTGY2",
+      "name": "Amazon Basics Hundekotbeutel für Hunde, Unparfümiert, 900 Beutel, Schwarz",
+      "price": 109.88,
+      "reviews": 236868,
+      "rating": 4.8,
+      "rank": 9,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "236868 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B00NABTGY2",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/810dO54ZD6L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00MW8G3YU",
+      "name": "Amazon Basics Welpen Unterlagen, Pipi Matten für Hunde, 5-lagiges Auslaufsicheres Design, 56cm x 56cm, 50 Stück, Blau",
+      "price": 77.39,
+      "reviews": 223668,
+      "rating": 4.6,
+      "rank": 10,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "223668 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B00MW8G3YU",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Co+yjlWAL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08HPFJ2R2",
+      "name": "FELIX So gut wie es aussieht Nassfutter für Katzen Gemischte Vielfalt Vorteilspack, 120 praktische Portionsbeutel, zarte",
+      "price": 27481.0,
+      "reviews": 2414,
+      "rating": 4.8,
+      "rank": 11,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2414 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B08HPFJ2R2",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71HVw2kTppL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08HP7BH9B",
+      "name": "FELIX So gut wie es aussieht Nassfutter für Katzen Geschmacksvielfalt vom Land Vorteilspack, 44 praktische Portionsbeute",
+      "price": 10474.0,
+      "reviews": 6171,
+      "rating": 4.7,
+      "rank": 12,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "6171 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B08HP7BH9B",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/810nqdlF5kL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H2BD3XQX",
+      "name": "animonda Vom Feinsten Katzenfutter in Gelee Mix Land & Wasser (12 x 85 g) | Katzen Nassfutter in Gelee mit Taurin und Vi",
+      "price": 3888.0,
+      "reviews": 87,
+      "rating": 4.7,
+      "rank": 13,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "87 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0H2BD3XQX",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/714k2yzTPtL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CP2G2SZ5",
+      "name": "SHEBA Adult Sauce Collection Mix Katzennassfutter in Sauce Schale 32 x 85g | 100% Qualität, Huhn, Ente, Lachs, Thunfisch",
+      "price": 9107.0,
+      "reviews": 1942,
+      "rating": 4.7,
+      "rank": 14,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1942 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0CP2G2SZ5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71avbjmhLTL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FM8V6RFF",
+      "name": "Catit Go Natural Katzenstreu klumpend | parfumfrei | 99% staubfrei, 5,6 kg | auf Basis von Erbsenhülsen, ohne Duft für e",
+      "price": 85.33,
+      "reviews": 9409,
+      "rating": 4.3,
+      "rank": 15,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "9409 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0FM8V6RFF",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71vW1ixVe-L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B077GPYZYL",
+      "name": "SHEBA Adult Katzennassfutter Geflügel in Sauce 40 x 85g (40er-Pack) | Katzenfutter als vollwertiges Alleinfuttermittel m",
+      "price": 11165.0,
+      "reviews": 3623,
+      "rating": 4.7,
+      "rank": 16,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "3623 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B077GPYZYL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71j-SX5ONnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01MFDF226",
+      "name": "Gourmet Perle Erlesene Streifen Katzenfutter nass, Sorten-Mix, 60er Pack (60 x 85g)",
+      "price": 20683.0,
+      "reviews": 7528,
+      "rating": 4.6,
+      "rank": 17,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "7528 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B01MFDF226",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71flBU6kITL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0F7LY2FSZ",
+      "name": "Vitakraft Liquid Snack, Katzen Leckerli, Mega Pack, feine Auswahl (48x 15g) | cremiger Katzensnack, kalorienarm, pur ode",
+      "price": 27908.0,
+      "reviews": 1543,
+      "rating": 4.8,
+      "rank": 18,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1543 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0F7LY2FSZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Lwj0YlbIL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B087MKL24X",
+      "name": "MjAMjAM - Premium Nassfutter für Katzen - Kitten saftiges Hühnchen mit Lachsöl, 6er Pack (6 x 800 g), getreidefrei mit e",
+      "price": 14523.0,
+      "reviews": 3463,
+      "rating": 4.6,
+      "rank": 19,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "3463 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B087MKL24X",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61c7JGF85RL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BPD587DQ",
+      "name": "WHISKAS TASTY MIX Nassfutter in Sauce für Katzen 40 x 85g Chef’s Choice",
+      "price": 8225.0,
+      "reviews": 3034,
+      "rating": 4.7,
+      "rank": 20,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "3034 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0BPD587DQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71td-XIckaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B001MZV3FS",
+      "name": "animonda GranCarno Adult Hunde Nassfutter mit Rind+Lamm (6x800 g) | getreidefreies Hundenassfutter ohne Zucker, für ausg",
+      "price": 8813.0,
+      "reviews": 625,
+      "rating": 4.5,
+      "rank": 21,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "625 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B001MZV3FS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81qcQJNekQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B007ZY4D0W",
+      "name": "Pedigree DentaStix Hundesnack für mittelgroße Hunde (10-25kg), Zahnpflege-Snack mit Huhn und Rind, 1 Packung je 56 Stück",
+      "price": 6534.0,
+      "reviews": 10571,
+      "rating": 4.7,
+      "rank": 22,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "10571 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B007ZY4D0W",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71OjkPahCnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BPD4QFMT",
+      "name": "Whiskas 1+ Katzennassfutter Ragout Geflügel Auswahl in Gelee, 40x85g (1 Packung) – Hochwertiges Nassfutter für ausgewach",
+      "price": 8225.0,
+      "reviews": 3098,
+      "rating": 4.6,
+      "rank": 23,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "3098 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0BPD4QFMT",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71AIDzBcz-L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08HPMP2QF",
+      "name": "FELIX So gut wie es aussieht Nassfutter für Katzen Gemischte Vielfalt Vorteilspack, 44 praktische Portionsbeutel, zarte ",
+      "price": 10474.0,
+      "reviews": 4560,
+      "rating": 4.7,
+      "rank": 24,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4560 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B08HPMP2QF",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81ExbQAi+2L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07CPDVRD9",
+      "name": "Biokat's Diamond Care Classic Katzenstreu ohne Duft - Feine Klumpstreu aus Bentonit mit Aktivkohle und Aloe Vera - 1 Sac",
+      "price": 71.0,
+      "reviews": 9882,
+      "rating": 4.5,
+      "rank": 25,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "9882 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07CPDVRD9",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71BTCs+F4GL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BZ117CZZ",
+      "name": "animonda Carny Kitten Nassfutter Variation für Katzenkinder (12 x 200 g) | Kitten Nassfutter für wachsende Kätzchen, Kat",
+      "price": 8078.0,
+      "reviews": 1293,
+      "rating": 4.6,
+      "rank": 26,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1293 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0BZ117CZZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715d6PzLC-L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H1WBGWCR",
+      "name": "MjAMjAM - Premium Trockenfutter für Katzen - Knusprige Mahlzeiten - Kitten - Frisches Geflügelfleisch, 1er Pack (1x1,5kg",
+      "price": 11752.0,
+      "reviews": 94,
+      "rating": 4.6,
+      "rank": 27,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "94 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H1WBGWCR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51zzd7JLsJL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HRV69FNG",
+      "name": "LED Hund Flügel Projektorlicht, buntes Feen & Drachen Flügel Schattenlicht | wasserdichtes Halsband Zubehör, sicheres La",
+      "price": 13957.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 1,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HRV69FNG",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/819SanevuXL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKN4RQ52",
+      "name": "Sodbrennen Hund Pulver bei Gras und Kotfressen mit Ulmenrinde Hund | Tierärztlich entwickeltes Pulver als Mittel bei Hun",
+      "price": 20881.0,
+      "reviews": 25,
+      "rating": 4.3,
+      "rank": 2,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "25 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKN4RQ52",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71h5Sc2sLdL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HRVCQNZS",
+      "name": "Angel Wings Lights Für Hund | 2x LED Projektion Mit Fee & Drachen | ANGELSFLÜGEL PROJEKTORLICHT FÜR DEN DOG-GENERATION: ",
+      "price": 13222.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 3,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HRVCQNZS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hLQtaoNzL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKJ5DL4H",
+      "name": "ZORVENIX Hundemantel Wasserdicht, Hundejacke mit Geschirr für Kleine Hunde, reflektierend, Rosa, M",
+      "price": 80.26,
+      "reviews": 3,
+      "rating": 5.0,
+      "rank": 4,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKJ5DL4H",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Uj4sShpwL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HRN9CQY7",
+      "name": "Flügel Projektor für Hunde Leuchtende Engels Drachenflügel zum Anstecken (#C)",
+      "price": 27841.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 5,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HRN9CQY7",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51YgIvTt6eL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H3THH1YB",
+      "name": "BEDSURE wasserdichte Hundedecke mittelgroße Hunde - 102x76cm Hundedecke waschbar, Decke Hund aus Sherpa Fleece, Katzende",
+      "price": 83.94,
+      "reviews": 396,
+      "rating": 4.4,
+      "rank": 6,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "396 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H3THH1YB",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81SSEyfBdzL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPL6QGD6",
+      "name": "Stillohr Hunde Ohrenschutz Lärmschutz, Gehörschutz Hund Silvester (L) | Verstellbarer Ohrenschützer Hund, Atmungsaktive ",
+      "price": 12487.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 7,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HPL6QGD6",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71UnLRVHWfL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKFPRHWR",
+      "name": "Feandrea Katzenklo Edelstahl XXL, Katzentoilette Offen, Hoher Rand PPT022G101",
+      "price": 23733.0,
+      "reviews": 6,
+      "rating": 4.8,
+      "rank": 8,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "6 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKFPRHWR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hxgI3FTSL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GKGHFQW3",
+      "name": "Tractive Smarter Katzen GPS Tracker Mini | Modell 2026 | Marktführer | Live-Ortung | Gesundheitswarnungen & Vitalwerte |",
+      "price": 40571.0,
+      "reviews": 47,
+      "rating": 4.0,
+      "rank": 9,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "47 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0GKGHFQW3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71GpffUMC1L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKFZ5XHG",
+      "name": "Schwarz XL - Hundepullover Rollkragen Kabelstrick, Weicher Acryl Strickpullover für kleine Hunde und Katzen, Warmes Haus",
+      "price": 43.14,
+      "reviews": 2,
+      "rating": 4.5,
+      "rank": 10,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKFZ5XHG",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81a5SClwS8L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPBQ5NWJ",
+      "name": "WOLFSBLUT Adventskalender für Hunde 2026 | mit 24 weihnachtlichen Überraschungen, leckere und getreidefreie Hundesnacks",
+      "price": 14692.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 11,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HPBQ5NWJ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61A9xBcFDLL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKNXM8BY",
+      "name": "MIJOMA Hunde-Adventskalender mit 24 Türchen – 100 g Snacks, 1 Stück | Mit Hühnchen, Ente und teilweise Kabeljau, ab 4 Mo",
+      "price": 12311.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 12,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HKNXM8BY",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71vTV7dUKML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKSKP57R",
+      "name": "Morpilot Katzentransportbox für kleine Katzen und Welpen, Faltbare Transporttasche mit Netzeinsätzen, Schultergurt und h",
+      "price": 123.48,
+      "reviews": 6823,
+      "rating": 4.6,
+      "rank": 13,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "6823 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKSKP57R",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/816YbsasDKL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HNZZTQ92",
+      "name": "PlainFylora Ultraschall Zahnreinigungs-Set – Elektrisches Dentalpflege-Gerät mit 5 Reinigungsmodi, 2 Wechselköpfen, Dent",
+      "price": 242.47,
+      "reviews": 4,
+      "rating": 5.0,
+      "rank": 14,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HNZZTQ92",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Bj-QQM7YL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HP66JZWW",
+      "name": "myMayla Gassi Tasche Set Hund - Leckerlitasche mit Flaschen- & Tubenhalter | Einhand-Magnetverschluss, Kotbeutelspender,",
+      "price": 293.92,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 15,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HP66JZWW",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81oVSMXNAZL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HDYHJD78",
+      "name": "KIKNIN Stark Saugfähiger Hundebademantel, Mikrofaser Hundebademantel mit Klettverschluss und Verstellbarer Kordelzug, Id",
+      "price": 13957.0,
+      "reviews": 24,
+      "rating": 4.5,
+      "rank": 16,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "24 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HDYHJD78",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71mW1jSHlgL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HRQF4BM5",
+      "name": "CHENRI Zoomie Monster Hundespielzeug, Zoomie Monster Hundeball, Interaktives Hunde Ball Spielzeug mit Sound, Automatisch",
+      "price": 16574.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 17,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HRQF4BM5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71K83vJONxL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H2GHCP68",
+      "name": "CoCoDonut LED Leuchthalsband Hund Aufladbar, Sicherheit bei Nacht | Leuchtend, USB‑C, Kürzbar, Wasserdicht, 3 Lichtmodi,",
+      "price": 7343.0,
+      "reviews": 27,
+      "rating": 4.6,
+      "rank": 18,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "27 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H2GHCP68",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715bb8sPKYL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HDNH1TH2",
+      "name": "Yoving Kratzschutz Sofa Katze Selbstklebende Matt 40x200cm Hellgrau | 6 Farben Verfügbar, Aus Robuster Polyesterfaser, K",
+      "price": 98.78,
+      "reviews": 47,
+      "rating": 4.4,
+      "rank": 19,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "47 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HDNH1TH2",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81DUMaYVR5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKNH1G9K",
+      "name": "Katze GPS Tracker Hund Ohne ABO,GPS-Tracker für Haustierhalsbänder Kompatibel mit iOS ＆ Android,7-Tage-Track-Wiedergabe,",
+      "price": 187.06,
+      "reviews": 34,
+      "rating": 4.9,
+      "rank": 20,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "34 Bewertungen, 4.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKNH1G9K",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81xO01dq4xL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7RRDRYJ",
+      "name": "CITÉTOILE Wasserdichter Hundemantel Warm Gefüttert Braun S | Hundejacke mit Fleecefutter und Bauchschutz, Verstellbarer ",
+      "price": 234.61,
+      "reviews": 8,
+      "rating": 4.5,
+      "rank": 21,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "8 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7RRDRYJ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71aFL1sS5eL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H4Y2XCRD",
+      "name": "LED Leuchthalsband Hund, USB C aufladbares Hundehalsband Licht, blau-grün | Nachtsicherheit, Verlustschutz, 3 Lichtmodi,",
+      "price": 6608.0,
+      "reviews": 53,
+      "rating": 4.5,
+      "rank": 22,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "53 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0H4Y2XCRD",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81SKOmMlZxL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKSCPWZ1",
+      "name": "Anti-Bell-Gerät für Hunde mit Ultraschall, Wiederaufladbar, 15 m Reichweite | Humanes Hundetraining ohne Schock,Zwei Ult",
+      "price": 123.48,
+      "reviews": 79,
+      "rating": 4.8,
+      "rank": 23,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "79 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKSCPWZ1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Ayy17-jDL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HFMVJF5K",
+      "name": "Feandrea Katzenklo Edelstahl XXL, geschlossen, mit Pflanze | Katzentoilette Edelstahl XXL, 49 x 49 x 59 cm, Geruchskontr",
+      "price": 39351.0,
+      "reviews": 13,
+      "rating": 4.5,
+      "rank": 24,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "13 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HFMVJF5K",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81dHl4a-jgL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01FSGVN4M",
+      "name": "Amazon Basics Druckerpapier A4,80g/m², 2500 Blatt, 5er-Pack, Weiß",
+      "price": 135.83,
+      "reviews": 46587,
+      "rating": 4.5,
+      "rank": 2,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "46587 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B01FSGVN4M",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71xmc2j184L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09GS6RMTL",
+      "name": "100x Albyco Laminiertaschen - Format A4, 216x303mm - St. 2x80 (160) μm | Albyco Glänzende Laminierfolien - Für Papierfor",
+      "price": 44.25,
+      "reviews": 8740,
+      "rating": 4.8,
+      "rank": 3,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "8740 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B09GS6RMTL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71QD3Z7UAnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09Z3F73D3",
+      "name": "Papierdrachen Adventskalender 2026 zum Befüllen - Motiv Holy Night - 24 braune bedruckte Geschenktüten mit Zahlenaufkleb",
+      "price": 58.58,
+      "reviews": 1952,
+      "rating": 4.6,
+      "rank": 4,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1952 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B09Z3F73D3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81HA7U7LFwL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CJYFR9TQ",
+      "name": "FairToner Kopierpapier 2500 Blatt DIN-A4 80g, Weiß | 5 x 500 Blatt / 5er Pack, Universal Druckerpapier, Für Laserdrucker",
+      "price": 14626.0,
+      "reviews": 2411,
+      "rating": 4.8,
+      "rank": 6,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2411 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0CJYFR9TQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71lBRz9y1iL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00H8NUBY2",
+      "name": "Pelikan Tintenlöscher Super Pirat, Strichstärke B (breit), 6 Stück | Tintenkiller zum Löschen und Überschreiben",
+      "price": 38.73,
+      "reviews": 11862,
+      "rating": 4.7,
+      "rank": 7,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "11862 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B00H8NUBY2",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/712mV9U4EfL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B016KYO2BM",
+      "name": "HP Home und Office, A4, Weiß, 5 Pakete mit 500 Blatt | HP Kopierpapier DIN A4, 500 Blatt, 80 g/m², weiß, Büro und Home O",
+      "price": 147.59,
+      "reviews": 19672,
+      "rating": 4.7,
+      "rank": 8,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "19672 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B016KYO2BM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61xD1VwX8kL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07TSL31SV",
+      "name": "50x braune Beutel 20 x 13 cm - EXTRA STARK - Kraftpapiertüten Geschenktüten Kraftpapier als DIY Adventskalender - Ostern",
+      "price": 47.11,
+      "reviews": 2982,
+      "rating": 4.6,
+      "rank": 9,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2982 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B07TSL31SV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715VHa27VbL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00BI5H0PY",
+      "name": "Schneider Slider Rave XB Kugelschreiber, 5 Stück, Hellblau-Blau | Tinte: Blau, Viscoglide-Technologie für lange Texte oh",
+      "price": 111.57,
+      "reviews": 9959,
+      "rating": 4.8,
+      "rank": 10,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "9959 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B00BI5H0PY",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71PUNwiMB5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CB18K7B4",
+      "name": "YSAGi Schreibtischunterlage, Premium PU Leder Mauspad, Beige, 80x40cm | Rutschfeste Schreibtisch Unterlage, Tischunterla",
+      "price": 74.75,
+      "reviews": 27432,
+      "rating": 4.6,
+      "rank": 11,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "27432 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0CB18K7B4",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Ywx2jYLKL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GGHNKX1S",
+      "name": "Häfft Familienplaner 2027 mit 4 Spalten - Wandkalender \"Blattgold\" | Mit Feiertagen, Ferienterminen & Zusatzinfos - Fami",
+      "price": 55.49,
+      "reviews": 269,
+      "rating": 4.6,
+      "rank": 12,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "269 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0GGHNKX1S",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/710QXTgdpaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08C5DR9GR",
+      "name": "Papierdrachen Adventskalender 2026 - Cozy Winter Schwarz | 24 bedruckte Papiertüten - praktische Größe 14x22 cm - inkl. ",
+      "price": 61.67,
+      "reviews": 2185,
+      "rating": 4.6,
+      "rank": 13,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2185 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B08C5DR9GR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81AViBx9x5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09G1C6YF5",
+      "name": "Adventskalender Aufkleber (Zahlen 1-24) - Sticker für Kalender zum selber basteln für Weihnachten - Adventskalenderzahle",
+      "price": 2933.0,
+      "reviews": 696,
+      "rating": 4.7,
+      "rank": 14,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "696 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B09G1C6YF5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91k6M6q2NuL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0B1ZNYY9B",
+      "name": "Japun - 50er Set Falt-Karten und Briefumschläge, DIN A6 / C6, weiß | Blanko Klapp-Karten aus 230 g/m² Papier zum Beschri",
+      "price": 10283.0,
+      "reviews": 1750,
+      "rating": 4.7,
+      "rank": 15,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1750 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0B1ZNYY9B",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61I57ArxruL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B000OZKBTG",
+      "name": "STABILO - Dreikant-Buntstift - Trio dick kurz | 12er Pack, Mini, kurzer Buntstift",
+      "price": 25.06,
+      "reviews": 7035,
+      "rating": 4.6,
+      "rank": 16,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "7035 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B000OZKBTG",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81wjjljUCkL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H9YG3BD6",
+      "name": "WLUSEAXI 24 Adventskalender Tüten Zum Befüllen, Papiertüten Adventskalender | Weihnachtskalender Selbst Befüllen – DIY-K",
+      "price": 49.32,
+      "reviews": 35,
+      "rating": 4.4,
+      "rank": 17,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "35 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H9YG3BD6",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61NTMOFP5AL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B082BF2G68",
+      "name": "STAEDTLER Noris Colour 187 Buntstifte – 16er Set, Dreikant | Aus PEFC-Holz, rutschfeste Soft-Oberfläche, leuchtende Farb",
+      "price": 24.03,
+      "reviews": 7766,
+      "rating": 4.7,
+      "rank": 18,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "7766 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B082BF2G68",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61I9P+rBorL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FMNTDQ7Z",
+      "name": "DECHISY Adventskalender Tüten, 24 Papiertüten Adventskalender mit Zahlenaufklebern & Klammern, Diy adventstüten zum Befü",
+      "price": 49.32,
+      "reviews": 231,
+      "rating": 4.6,
+      "rank": 19,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "231 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0FMNTDQ7Z",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81PIC-9nznL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B000MQHDKM",
+      "name": "STABILO woody 3-in-1 Multifunktionsstift | 10er-Pack, assortierte Farben",
+      "price": 79.67,
+      "reviews": 6860,
+      "rating": 4.8,
+      "rank": 20,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "6860 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B000MQHDKM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Gd613ZDRL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}
