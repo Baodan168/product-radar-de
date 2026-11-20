@@ -1,0 +1,235 @@
+{
+  "category_scores": {
+    "eco": 68,
+    "sports": 12,
+    "crafts": 100,
+    "phone": 33,
+    "beauty": 24,
+    "kitchen": 74,
+    "bathroom": 12,
+    "car": 56,
+    "storage": 6,
+    "baby": 6,
+    "office": 56,
+    "home decor": 50,
+    "garden": 39,
+    "pets": 80,
+    "seasonal": 50,
+    "cleaning": 18,
+    "bedding": 6,
+    "travel": 18,
+    "kitchen_gadgets": 6,
+    "lighting": 35
+  },
+  "category_evidence": {
+    "eco": [
+      "eco"
+    ],
+    "sports": [
+      "water bottle",
+      "sport"
+    ],
+    "crafts": [
+      "art",
+      "tape"
+    ],
+    "phone": [
+      "phone"
+    ],
+    "beauty": [
+      "nail",
+      "skincare",
+      "makeup",
+      "hair"
+    ],
+    "kitchen": [
+      "spice",
+      "cup",
+      "gadget",
+      "kitchen"
+    ],
+    "bathroom": [
+      "bath",
+      "bathroom"
+    ],
+    "car": [
+      "car"
+    ],
+    "storage": [
+      "box"
+    ],
+    "baby": [
+      "baby"
+    ],
+    "office": [
+      "pen"
+    ],
+    "home decor": [
+      "candle",
+      "decor"
+    ],
+    "garden": [
+      "garden",
+      "outdoor",
+      "plant"
+    ],
+    "pets": [
+      "cat",
+      "pet"
+    ],
+    "seasonal": [
+      "christmas",
+      "gift",
+      "halloween"
+    ],
+    "cleaning": [
+      "cleaning",
+      "mop",
+      "cleaner"
+    ],
+    "bedding": [
+      "pillow"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "kitchen_gadgets": [
+      "slicer"
+    ],
+    "lighting": [
+      "light",
+      "led",
+      "lamp"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "eco": 1,
+      "sports": 1,
+      "crafts": 1,
+      "phone": 1,
+      "beauty": 4,
+      "kitchen": 2,
+      "bathroom": 2,
+      "car": 1,
+      "storage": 1,
+      "baby": 1
+    },
+    "dealabs": {
+      "car": 1,
+      "office": 3,
+      "crafts": 3,
+      "home decor": 2,
+      "eco": 1,
+      "kitchen": 1,
+      "garden": 1,
+      "pets": 1,
+      "sports": 1,
+      "phone": 1
+    },
+    "temu": {
+      "crafts": 3,
+      "seasonal": 1,
+      "cleaning": 1,
+      "office": 1,
+      "pets": 1,
+      "car": 1,
+      "eco": 1
+    },
+    "etsy": {
+      "kitchen": 2,
+      "crafts": 3,
+      "home decor": 2,
+      "eco": 2,
+      "seasonal": 3,
+      "pets": 1,
+      "car": 1
+    },
+    "youtube": {
+      "crafts": 1,
+      "bedding": 1,
+      "travel": 2,
+      "kitchen": 3,
+      "cleaning": 2,
+      "pets": 1,
+      "kitchen_gadgets": 1,
+      "car": 1
+    },
+    "google_trends": {
+      "garden": 2,
+      "car": 1,
+      "pets": 2,
+      "crafts": 3,
+      "home decor": 1,
+      "eco": 1
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 2,
+      "pets": 3,
+      "eco": 1,
+      "car": 1,
+      "lighting": 1,
+      "crafts": 1,
+      "travel": 1,
+      "seasonal": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "pets": 2,
+      "crafts": 2,
+      "phone": 1,
+      "garden": 1,
+      "office": 1,
+      "lighting": 4,
+      "eco": 2
+    }
+  },
+  "cross_validated": {
+    "eco": 7,
+    "crafts": 8,
+    "phone": 3,
+    "kitchen": 6,
+    "car": 7,
+    "office": 4,
+    "home decor": 3,
+    "garden": 3,
+    "pets": 7,
+    "seasonal": 3
+  },
+  "demand_keywords": [
+    "accessoire tendance indispensable",
+    "alternatives to",
+    "amazon contre",
+    "amazon va concurrencer temu",
+    "amazon vs",
+    "are these",
+    "autumn clothes sold on",
+    "best sellers",
+    "bon plan",
+    "bons plans",
+    "bons plans en",
+    "code promo",
+    "comment vendre sur",
+    "compiled a list of smart",
+    "consumer trends in e",
+    "cosy fall decor in the",
+    "des achats peu co",
+    "et on a d",
+    "fall clothes for women",
+    "fall fashion trends",
+    "french e",
+    "from ghost",
+    "gift ideas trending now",
+    "handmade home decor kitchen and",
+    "handmade products for home decor",
+    "jardin d",
+    "la beaut",
+    "la collection",
+    "la consommation des m",
+    "la mode"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 70149
+}
