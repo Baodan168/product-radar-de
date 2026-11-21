@@ -3,13 +3,13 @@
   "updated_at": "2026-11-21T08:40:00+08:00",
   "scan_date": "2026-11-21",
   "scan_time": "2026-11-21 08:40 CST",
-  "summary": "14天去重后避开圣诞装饰/厨房小件/收纳/健身/保暖等已推品类，从Amazon.de榜单、TikTok德国区趋势与1688供应链交叉验证，产出3个候选：3D睡眠眼罩（strong buy）、盒装咖啡滤纸（watch）、一次性丁腈手套（watch，利润率不达标如实标注）。",
+  "summary": "14天去重后避开圣诞装饰/厨房小件/收纳/健身/保暖等已推品类，从Amazon.de榜单、TikTok德国区趋势与1688供应链交叉验证，产出3个候选：3D睡眠眼罩（buy）、盒装咖啡滤纸（watch）、一次性丁腈手套（watch，利润率不达标如实标注）。",
   "trend_forecast": "① 12月20日-12月24日「圣诞礼品末班车」窗口：驱动事件为圣诞前5天的紧急礼物需求与自提物流截止，消费者在最后一周集中补购助眠、健康类小体积礼物。品类方向：3D睡眠眼罩（助眠场景礼物属性强、轻小免海运）、盒装咖啡滤纸（家庭囤货型消耗品）。此窗口开始日为12/20，倒推3周，最晚空运下单死线11/29，空运时效10-15天，12/10前后可到仓，赶得上圣诞周出单。② 12月26日-12月31日「节后清仓+新年囤货」窗口：驱动事件为圣诞后折扣心理与新年前清洁整理需求，消费者处理节后大扫除、补充清洁与厨房耗材。品类方向：一次性丁腈手套（大扫除、厨房食品级场景）、咖啡滤纸复购。窗口开始12/26，倒推3周，最晚空运下单死线12/05，到仓约12/15-12/25，衔接节后清洁季。③ 1月2日-1月15日「新年健康季」窗口：驱动事件为新年决心（健康饮食、规律作息、预算管理），德国消费者在1月初集中采购助眠、饮食管理类小物，此需求从1月延续至2月不回落。品类方向：3D睡眠眼罩（新年改善睡眠的自用需求延续）、盒装咖啡滤纸（健康咖啡消费习惯维持）。窗口开始1/2，倒推3周，最晚空运下单死线12/12，到仓12/22-12/31，吃下整个1月健康季。④ 1月10日-1月20日「冬季室内生活延续」窗口：驱动事件为德国冬季长夜、居家时间增加，室内舒适与助眠需求维持高位，是圣诞季之后的次级稳定需求。品类方向：睡眠眼罩（夜长助眠刚需、复购与多色拓展空间）、桌面收纳与消耗品补充。窗口开始1/10，倒推3周，最晚空运下单死线12/20，到仓1月初，衔接1月中下旬。⑤ 整体提示：黑五网一（11/27、11/30）窗口的采购死线早已过线（倒推3周为11月上旬），本轮不列入采购建议，避免误导；圣诞装饰类14天内已密集推荐，本轮起转向助眠、消耗品与清洁耗材等非季节依赖型品类，降低圣诞后断崖风险。以上窗口均按空运10-15天时效倒推死线，卡线下单风险自负。",
   "insights": [
     {
       "keyword": "Schlafmaske 3D",
       "keyword_cn": "3D遮光睡眠眼罩",
-      "amazon_keyword": "3D Schlafmaske mit Ohrstöpseln",
+      "amazon_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
       "search_1688": "3D睡眠眼罩 遮光 记忆棉 耳塞套装 批发",
       "demand_signals": [
         "Amazon.de睡眠类目Bestseller榜#1为Gritin 3D睡眠眼罩，4.7★、15,591条评论、售价€8.54（来源：Amazon.de Sleep & Snoring Best Sellers）",
@@ -26,14 +26,15 @@
         "trend": 85,
         "gap": 75,
         "profit": 88,
-        "final": 84
+        "final": 84,
+        "recommendation": "buy"
       },
       "recommendation": "buy"
     },
     {
       "keyword": "Kaffeefilter",
       "keyword_cn": "盒装咖啡滤纸",
-      "amazon_keyword": "Kaffeefilter 50 Stück eckig",
+      "amazon_keyword": "Kaffeefilter 50 Stück eckig für Kaffeemaschine",
       "search_1688": "盒装咖啡滤纸 V60 手冲 防潮 批发",
       "demand_signals": [
         "1688盒装滤纸复购率53-57%、热销单品售出6万+件，防潮盒装设计为增长点（来源：1688工业品wiki滤纸品类页）",
@@ -50,14 +51,15 @@
         "trend": 68,
         "gap": 70,
         "profit": 72,
-        "final": 70
+        "final": 70,
+        "recommendation": "watch"
       },
       "recommendation": "watch"
     },
     {
       "keyword": "Einweghandschuhe Nitrile",
       "keyword_cn": "一次性丁腈手套",
-      "amazon_keyword": "Einweghandschuhe Nitrile 100 Stück",
+      "amazon_keyword": "Einweghandschuhe Nitrile 100 Stück Küche",
       "search_1688": "一次性丁腈手套 100只 食品级 批发",
       "demand_signals": [
         "Amazon.de DIY工具类目Bestseller榜#5为Arnomed一次性丁腈手套，4.6★、29,427条评论、售价€8.49（来源：Amazon.de DIY Best Sellers）",
@@ -74,7 +76,8 @@
         "trend": 80,
         "gap": 45,
         "profit": 40,
-        "final": 60
+        "final": 60,
+        "recommendation": "watch"
       },
       "recommendation": "watch"
     }
