@@ -1,0 +1,235 @@
+{
+  "category_scores": {
+    "car": 42,
+    "lighting": 79,
+    "pets": 74,
+    "crafts": 100,
+    "phone": 33,
+    "beauty": 23,
+    "sports": 9,
+    "kitchen": 60,
+    "bathroom": 9,
+    "storage": 5,
+    "home decor": 56,
+    "baby": 5,
+    "eco": 56,
+    "garden": 33,
+    "cleaning": 9,
+    "office": 38,
+    "seasonal": 42,
+    "kitchen_gadgets": 5,
+    "travel": 9
+  },
+  "category_evidence": {
+    "car": [
+      "car"
+    ],
+    "lighting": [
+      "lamp",
+      "strip",
+      "led",
+      "light"
+    ],
+    "pets": [
+      "bed",
+      "cat",
+      "pet"
+    ],
+    "crafts": [
+      "stickers",
+      "tape",
+      "craft",
+      "art",
+      "paint"
+    ],
+    "phone": [
+      "earbuds",
+      "phone"
+    ],
+    "beauty": [
+      "skincare",
+      "hair",
+      "makeup",
+      "nail"
+    ],
+    "sports": [
+      "water bottle",
+      "sport"
+    ],
+    "kitchen": [
+      "gadget",
+      "spice",
+      "kitchen"
+    ],
+    "bathroom": [
+      "bathroom",
+      "bath"
+    ],
+    "storage": [
+      "box"
+    ],
+    "home decor": [
+      "decor",
+      "candle"
+    ],
+    "baby": [
+      "baby"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "garden": [
+      "plant",
+      "garden",
+      "outdoor"
+    ],
+    "cleaning": [
+      "mop",
+      "cleaner"
+    ],
+    "office": [
+      "pen"
+    ],
+    "seasonal": [
+      "christmas",
+      "halloween",
+      "gift"
+    ],
+    "kitchen_gadgets": [
+      "slicer"
+    ],
+    "travel": [
+      "travel"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "car": 2,
+      "lighting": 4,
+      "pets": 1,
+      "crafts": 2,
+      "phone": 2,
+      "beauty": 4,
+      "sports": 1,
+      "kitchen": 2,
+      "bathroom": 2,
+      "storage": 1,
+      "home decor": 1,
+      "baby": 1,
+      "eco": 1
+    },
+    "dealabs": {
+      "car": 1,
+      "crafts": 3,
+      "home decor": 2,
+      "eco": 1,
+      "kitchen": 1,
+      "garden": 1,
+      "sports": 1
+    },
+    "temu": {
+      "pets": 3,
+      "crafts": 3,
+      "kitchen": 1,
+      "cleaning": 2,
+      "office": 1,
+      "phone": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "etsy": {
+      "kitchen": 2,
+      "crafts": 5,
+      "home decor": 2,
+      "eco": 2,
+      "seasonal": 3,
+      "pets": 1,
+      "car": 1
+    },
+    "youtube": {
+      "pets": 3,
+      "crafts": 3,
+      "beauty": 1,
+      "kitchen": 3,
+      "office": 2,
+      "lighting": 3,
+      "phone": 1,
+      "kitchen_gadgets": 1,
+      "travel": 1
+    },
+    "google_trends": {
+      "garden": 2,
+      "pets": 1,
+      "crafts": 3,
+      "car": 1,
+      "seasonal": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "reddit": {
+      "office": 2,
+      "pets": 3,
+      "eco": 1,
+      "car": 1,
+      "crafts": 1,
+      "travel": 1,
+      "seasonal": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "pets": 1,
+      "crafts": 2,
+      "garden": 1,
+      "lighting": 4,
+      "eco": 2
+    }
+  },
+  "cross_validated": {
+    "car": 5,
+    "lighting": 3,
+    "pets": 7,
+    "crafts": 8,
+    "phone": 3,
+    "kitchen": 6,
+    "home decor": 5,
+    "eco": 7,
+    "garden": 3,
+    "office": 3,
+    "seasonal": 3
+  },
+  "demand_keywords": [
+    "accessoire tendance indispensable",
+    "amazon",
+    "amazon vs",
+    "are these",
+    "autumn clothes sold on",
+    "best sellers",
+    "bon plan",
+    "bons plans",
+    "bons plans en",
+    "buy and",
+    "code promo",
+    "consumer trends in e",
+    "cosy fall decor in the",
+    "dernier jour des",
+    "des achats peu co",
+    "des coupons",
+    "explore portable mini projectors",
+    "fall fashion trends",
+    "french e",
+    "from ghost",
+    "gift ideas trending now",
+    "good deals on amazon",
+    "handmade home decor kitchen and",
+    "handmade products for home decor",
+    "is it possible that",
+    "jardin d",
+    "je vous montre mes trouvailles",
+    "la beaut",
+    "la collection",
+    "la consommation des m"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 65989
+}

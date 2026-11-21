@@ -1,0 +1,815 @@
+{
+  "scan_date": "2026-11-21",
+  "scan_time": "15:30",
+  "scan_ts": "2026-11-21_1530",
+  "stats": {
+    "total_scanned": 42,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0HLPKKRZZ",
+      "name": "Legami - Set mit Löschbaren Gelstiften - Xmas 2026 | Set aus 5 Dream Peaks Mini Erasable Gel-Stiften, limitierte Edition",
+      "price": 1399.0,
+      "reviews": 5229,
+      "rating": 4.6,
+      "rank": 1,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "5229 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPKKRZZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WnCNlBOQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01FSGVN4M",
+      "name": "Amazon Basics Druckerpapier A4,80g/m², 2500 Blatt, 5er-Pack, Weiß",
+      "price": 18.48,
+      "reviews": 46610,
+      "rating": 4.5,
+      "rank": 2,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "46610 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B01FSGVN4M",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71xmc2j184L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09Z3F73D3",
+      "name": "Papierdrachen Adventskalender 2026 zum Befüllen - Motiv Holy Night - 24 braune bedruckte Geschenktüten mit Zahlenaufkleb",
+      "price": 7.97,
+      "reviews": 1954,
+      "rating": 4.6,
+      "rank": 3,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1954 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B09Z3F73D3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81HA7U7LFwL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09GS6RMTL",
+      "name": "100x Albyco Laminiertaschen - Format A4, 216x303mm - St. 2x80 (160) μm | Albyco Glänzende Laminierfolien - Für Papierfor",
+      "price": 6.02,
+      "reviews": 8762,
+      "rating": 4.8,
+      "rank": 4,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "8762 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B09GS6RMTL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71QD3Z7UAnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLPZ84DH",
+      "name": "LEGAMI - Gelschreiber mit dekorativem Tier Lovely Friends, rollt nicht, abnehmbares und wiederverwendbares Tier, 0,5 mm ",
+      "price": 5.84,
+      "reviews": 4474,
+      "rating": 4.8,
+      "rank": 5,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4474 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPZ84DH",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61po4BQRSJL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CJYFR9TQ",
+      "name": "FairToner Kopierpapier 2500 Blatt DIN-A4 80g, Weiß | 5 x 500 Blatt / 5er Pack, Universal Druckerpapier, Für Laserdrucker",
+      "price": 1990.0,
+      "reviews": 2421,
+      "rating": 4.8,
+      "rank": 6,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2421 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0CJYFR9TQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71lBRz9y1iL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00H8NUBS8",
+      "name": "Pelikan Tintenlöscher Super Pirat, Strichstärke B (breit) 10 Stück | Tintenkiller zum Löschen und Überschreiben",
+      "price": 5.8,
+      "reviews": 11867,
+      "rating": 4.7,
+      "rank": 7,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "11867 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B00H8NUBS8",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61wPxDi-LbL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08C5DR9GR",
+      "name": "Papierdrachen Adventskalender 2026 - Cozy Winter Schwarz | 24 bedruckte Papiertüten - praktische Größe 14x22 cm - inkl. ",
+      "price": 7.14,
+      "reviews": 2187,
+      "rating": 4.6,
+      "rank": 8,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2187 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B08C5DR9GR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81AViBx9x5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CB18K7B4",
+      "name": "YSAGi Schreibtischunterlage, Premium PU Leder Mauspad, Beige, 80x40cm | Rutschfeste Schreibtisch Unterlage, Tischunterla",
+      "price": 10.17,
+      "reviews": 27447,
+      "rating": 4.6,
+      "rank": 9,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "27447 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0CB18K7B4",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Ywx2jYLKL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07TSL31SV",
+      "name": "50x braune Beutel 20 x 13 cm - EXTRA STARK - Kraftpapiertüten Geschenktüten Kraftpapier als DIY Adventskalender - Ostern",
+      "price": 6.08,
+      "reviews": 2985,
+      "rating": 4.6,
+      "rank": 10,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2985 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B07TSL31SV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715VHa27VbL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B016KYO2BM",
+      "name": "HP Home und Office, A4, Weiß, 5 Pakete mit 500 Blatt | HP Kopierpapier DIN A4, 500 Blatt, 80 g/m², weiß, Büro und Home O",
+      "price": 20.08,
+      "reviews": 19684,
+      "rating": 4.7,
+      "rank": 11,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "19684 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B016KYO2BM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61xD1VwX8kL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B000OZKBTG",
+      "name": "STABILO - Dreikant-Buntstift - Trio dick kurz | 12er Pack, Mini, kurzer Buntstift",
+      "price": 3.4,
+      "reviews": 7034,
+      "rating": 4.6,
+      "rank": 12,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "7034 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B000OZKBTG",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81wjjljUCkL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00BI5H0PY",
+      "name": "Schneider Slider Rave XB Kugelschreiber, 5 Stück, Hellblau-Blau | Tinte: Blau, Viscoglide-Technologie für lange Texte oh",
+      "price": 14.58,
+      "reviews": 9965,
+      "rating": 4.8,
+      "rank": 13,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "9965 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B00BI5H0PY",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71PUNwiMB5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B000MQHDKM",
+      "name": "STABILO woody 3-in-1 Multifunktionsstift | 10er-Pack, assortierte Farben",
+      "price": 10.84,
+      "reviews": 6862,
+      "rating": 4.8,
+      "rank": 14,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "6862 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B000MQHDKM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Gd613ZDRL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0DSW7R4VN",
+      "name": "WOLFBOX MegaFlow 50 Electric Air Duster, 110000 RPM, Cordless, 3-Gang | Mit Akku, für Computer, Tastatur, Haus, Outdoor,",
+      "price": 3399.0,
+      "reviews": 17203,
+      "rating": 4.6,
+      "rank": 15,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "17203 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0DSW7R4VN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/713BEhBxXWL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLPNVTKN",
+      "name": "Legami – Kawaii 2-in-1 Eisbärenbeutel, Silikon | Kawaii Dual-Use-Tasche, Stifthalter, Eisbär, Weihnachts-2026 Limited Ed",
+      "price": 10.88,
+      "reviews": 32,
+      "rating": 4.4,
+      "rank": 16,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "32 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPNVTKN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/614+Rxm3giL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B082BF2G68",
+      "name": "STAEDTLER Noris colour 187 Buntstifte – 16er Set, Dreikant | Aus PEFC-Holz, rutschfeste Soft-Oberfläche, leuchtende Farb",
+      "price": 3.27,
+      "reviews": 7770,
+      "rating": 4.7,
+      "rank": 17,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "7770 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B082BF2G68",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61I9P+rBorL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GGHNKX1S",
+      "name": "Häfft Familienplaner 2027 mit 4 Spalten - Wandkalender \"Blattgold\" | Mit Feiertagen, Ferienterminen & Zusatzinfos - Fami",
+      "price": 7.55,
+      "reviews": 284,
+      "rating": 4.7,
+      "rank": 18,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "284 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0GGHNKX1S",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/710QXTgdpaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0D1XXYNFS",
+      "name": "Dusor Geschenke für Männer Papa Kinder, Magnetic Fidget Pen Männergeschenke | Adventskalender Füllung Kinder, Weihnachts",
+      "price": 1599.0,
+      "reviews": 1688,
+      "rating": 4.4,
+      "rank": 19,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1688 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0D1XXYNFS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71-tEDujGkL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09G1C6YF5",
+      "name": "Adventskalender Aufkleber (Zahlen 1-24) - Sticker für Kalender zum selber basteln für Weihnachten - Adventskalenderzahle",
+      "price": 399.0,
+      "reviews": 696,
+      "rating": 4.7,
+      "rank": 20,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "696 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B09G1C6YF5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91k6M6q2NuL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0B1ZNYY9B",
+      "name": "Japun - 50er Set Falt-Karten und Briefumschläge, DIN A6 / C6, weiß | Blanko Klapp-Karten aus 230 g/m² Papier zum Beschri",
+      "price": 1239.0,
+      "reviews": 1753,
+      "rating": 4.7,
+      "rank": 21,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1753 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0B1ZNYY9B",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61I57ArxruL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H956N8X3",
+      "name": "Ninja CRISPi Airfryer, 1x 3,8-Liter- und 2x 2,3-Liter-Glasbehälter, Deckel | 4-in-1: Heißluftfrittieren, Braten, Warmhal",
+      "price": 98.32,
+      "reviews": 2972,
+      "rating": 4.5,
+      "rank": 1,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2972 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0H956N8X3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81K5TNowWkL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H8NF4MRQ",
+      "name": "SONGMICS Künstlicher Weihnachtsbaum, PE PVC, Holzständer, 220 cm | Weihnachtsdekoration, Inklusive Aufbewahrungstasche, ",
+      "price": 9999.0,
+      "reviews": 320,
+      "rating": 4.4,
+      "rank": 2,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "320 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H8NF4MRQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91i+N6MDKqL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HNVKV7K5",
+      "name": "Bienenwachs Brotbeutel 2 Stück, 43×33 cm Wiederverwendbar für Brot | Aufbewahrung Frischhalten mit Reißverschluss, Langl",
+      "price": 15.96,
+      "reviews": 305,
+      "rating": 4.4,
+      "rank": 3,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "305 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HNVKV7K5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81leKNPVnuL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HQ5QQYHW",
+      "name": "Silonn Eiswürfelmaschine Klein, 8 Eiswürfel in 6 Min, 12 kg/24h, 2 Eisgrößen, Selbstreinigende Eismaschine, Tragbar für ",
+      "price": 4999.0,
+      "reviews": 21604,
+      "rating": 4.5,
+      "rank": 4,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "21604 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HQ5QQYHW",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71x8bn0YH8L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08Z8C9D42",
+      "name": "Sigg - Edelstahl Trinkflasche - Shield ONE - Einwandig & Federleicht - Für kohlensäurehaltige Getränke geeignet - Auslau",
+      "price": 13.95,
+      "reviews": 3934,
+      "rating": 4.1,
+      "rank": 1,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "3934 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B08Z8C9D42",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61i58vgeXvL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GRK9KZ2P",
+      "name": "Oura Ring 5 Smart Ring - Gold - Gr. 8 - Schlaf & Fitness-Tracker | Größe mit Größenset prüfen| Weltweit kompaktester Sma",
+      "price": 335.29,
+      "reviews": 2694,
+      "rating": 4.5,
+      "rank": 2,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2694 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0GRK9KZ2P",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/612D0Ayd+1L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B078XXPC96",
+      "name": "Amazon Basics Neopren Hanteln Gewichte, Hantelset, 2er-Set, 1–5kg, Sechseckig, für Krafttraining und Fitnesskurse",
+      "price": 5.54,
+      "reviews": 32623,
+      "rating": 4.7,
+      "rank": 3,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "32623 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B078XXPC96",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81nkc75eR8L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FHL12F97",
+      "name": "Monopoly Panini Prizm: FIFA World Cup Trading Cards Booster Box | aktuelle Stars und FIFA World Cup Legends | Geschenke ",
+      "price": 8.39,
+      "reviews": 553,
+      "rating": 4.3,
+      "rank": 4,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "553 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0FHL12F97",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71lt+5nxtjL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0B9443SWF",
+      "name": "Fit-Flip Mikrofaser Handtuch schnelltrocknend für Fitness, Sport & Sauna",
+      "price": 14.92,
+      "reviews": 32387,
+      "rating": 4.6,
+      "rank": 5,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "32387 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0B9443SWF",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71PBYgXx6bL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B003CGTTH4",
+      "name": "VAUDE Überschuhe Bike Gaiter Short, wasserdicht | Fahrradgamaschen Wasserdicht für Radsport – wasser- und windabweisend",
+      "price": 13.94,
+      "reviews": 6721,
+      "rating": 4.4,
+      "rank": 6,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "6721 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B003CGTTH4",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/A1AjUhvNL2L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CDPVQZ9J",
+      "name": "Antimi Fahrradleuchten-Set, StVZO-zugelassen Beleuchtungsset Led IPX5 Frontlicht + Rücklicht Fahrradlicht Set USB Typ C",
+      "price": 14.36,
+      "reviews": 8186,
+      "rating": 4.3,
+      "rank": 7,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "8186 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0CDPVQZ9J",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Rkrepr7NL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01F2OGJQM",
+      "name": "Fitgriff® Zughilfen (gepolstert) für Krafttraining, Bodybuilding, Fitness - Kreuzheben Gurte - Lifting Straps - für Frau",
+      "price": 7.13,
+      "reviews": 24057,
+      "rating": 4.6,
+      "rank": 8,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "24057 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B01F2OGJQM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81ZDizb0wEL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07113WZ15",
+      "name": "Fit-Flip Fitness Handtuch aus Mikrofaser kompakt und schnelltrocknend | mit Magnet und Reißverschluss Tasche, Fitnesshan",
+      "price": 15.59,
+      "reviews": 4352,
+      "rating": 4.4,
+      "rank": 9,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4352 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B07113WZ15",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/714DapP0gFL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CGRRXL17",
+      "name": "ALPIDEX Yoga Matte 183x60x0,8cm Fitnessmatte Gymnastikmatte | Rutschfest, Yogamatte, Sportmatte, Turnmatte, Trainingsmat",
+      "price": 1444.0,
+      "reviews": 1596,
+      "rating": 4.5,
+      "rank": 10,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1596 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0CGRRXL17",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61uSf02AtuL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07PHDRP78",
+      "name": "Sparrow Trinkflasche 500ml/750ml/1L - Tritan Wasserflasche 1-Klick | Sportflasche, Auslaufsicher, Leicht, Spülmaschinenf",
+      "price": 8.78,
+      "reviews": 45714,
+      "rating": 4.5,
+      "rank": 11,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "45714 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07PHDRP78",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71XCwIN1vZL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07L9WLKZQ",
+      "name": "Gritin Fitnessbänder Widerstandsbänder mit 5 Stufen | Latex Fitnessband Resistance mit Deutscher Übungsanleitung & Trage",
+      "price": 7.45,
+      "reviews": 113148,
+      "rating": 4.4,
+      "rank": 12,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "113148 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B07L9WLKZQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/617NmwvU4tL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07KH5YC1T",
+      "name": "ATNKE LED Beleuchtete Mütze,Wiederaufladbare USB Laufmütze mit Licht Extrem Heller 4 LED Lampe Winter Warme Stirnlampe f",
+      "price": 9.5,
+      "reviews": 17088,
+      "rating": 4.6,
+      "rank": 13,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "17088 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B07KH5YC1T",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61FVnIjKaHL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0DDRF8N9P",
+      "name": "KIVY Trinkflasche 1l aus Tritan - Kohlensäure geeignet & Auslaufsicher | Für Sport, Schule & Büro - Sport Trinkflasche G",
+      "price": 15.12,
+      "reviews": 2777,
+      "rating": 4.5,
+      "rank": 14,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2777 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0DDRF8N9P",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81WxH0dlrlL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FN8TLQHH",
+      "name": "air up Trinkflasche Twist Pro Lavender (600 ml) für Schule, Sport, Gym | inkl. 5 zuckerfreien Duft-Pods & Strohhalm | Wa",
+      "price": 8795.0,
+      "reviews": 1998,
+      "rating": 4.2,
+      "rank": 15,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1998 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0FN8TLQHH",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51HryKPVPYL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BB3GRZCQ",
+      "name": "ION8 Leichte Stahl Trinkflasche, 600ml/20oz, Aschmarine | Nicht isoliert, Auslaufsicher, Leicht zu öffnen, Sicherer Vers",
+      "price": 8.74,
+      "reviews": 16967,
+      "rating": 4.2,
+      "rank": 16,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "16967 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0BB3GRZCQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61OH8LX8F7L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H3V3ST69",
+      "name": "Gaiatop Handwärmer Elektrisch, 2er-Pack 3 Heizmodi Magnetisch Tragbar Taschenwärmer Wiederverwendbar, Outdoor Camping Ha",
+      "price": 12.6,
+      "reviews": 2281,
+      "rating": 4.7,
+      "rank": 17,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2281 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0H3V3ST69",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Roc7y8EIL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}
