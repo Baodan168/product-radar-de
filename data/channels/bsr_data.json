@@ -1,6 +1,6 @@
 [
   {
-    "asin": "B0HLPNVTKN",
+    "asin": "B0CRGV149Y",
     "domain": "de",
     "bsr_rank": null,
     "bsr_category": null,
@@ -8,9 +8,51 @@
     "bsr_sub_category": null,
     "reviews": null,
     "rating": null,
-    "image_url": "https://m.media-amazon.com/images/I/61U5Fo7lzAL._AC_QL10_SX980_SY55_FMwebp_.jpg",
-    "title": "Legami – Kawaii 2-in-1 Eisbärenbeutel, Silikon",
+    "image_url": "https://m.media-amazon.com/images/I/519Hy348ByL._AC_US40_.jpg",
+    "title": "60 StüCk Rote Clown Nasen Cosplay Nasen Schaumstoff Nasen für Halloween Weihnachten Karneval KostüM Dress Up",
     "price": null,
-    "scraped_at": "2026-11-21T15:33:21.900976"
+    "scraped_at": "2026-11-23T09:03:10.587148"
+  },
+  {
+    "asin": "B0F6CTMZ53",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/51Oziyt2p2L._AC_US40_.jpg",
+    "title": "clownsnasen rot Clown Nase Erwachsene Clown noses (PVC,8)",
+    "price": null,
+    "scraped_at": "2026-11-23T09:03:10.589578"
+  },
+  {
+    "asin": "B0BW9M9D63",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/71vb9ZcWHkL._AC_SX569_.jpg",
+    "title": "com-four® 3-teiliges Clown Kostümzubehör für Erwachsene",
+    "price": 40.99,
+    "scraped_at": "2026-11-23T09:03:10.590199"
+  },
+  {
+    "asin": "B0H9Y5X779",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/81TV8YFlYyL._AC_PT0_BL0_SX208_SY228_FMwebp_QL25_.jpg\\&quot;",
+    "title": "4 Stück Glitzersteine Gesicht Festival Selbstklebend Festival Gesichtsschmuck Strasssteine Gesicht Face Gems für Halloween, Party Make up, Temporäre Tattoos",
+    "price": null,
+    "scraped_at": "2026-11-23T09:03:18.146680"
   }
 ]
