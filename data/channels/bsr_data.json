@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "asin": "B0GHMM3D1Y",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/41uXgJbggOL._AC_SR140,110_.jpg\\&quot;",
+    "title": "JoyCat Glitzersteine Gesicht Festival für Frauen, Teenager und Kinder, Gesicht Strasssteine, Strass Juwelen Kristalle Strasssteine für Karneval Schminke Party Make up",
+    "price": null,
+    "scraped_at": "2026-11-24T15:34:48.645449"
+  },
+  {
+    "asin": "B0H9Y5X779",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/516AEL6OMsL._AC_.jpg",
+    "title": "4 Stück Glitzersteine Gesicht Festival Selbstklebend Festival Gesichtsschmuck Strasssteine Gesicht Face Gems für Halloween, Party Make up, Temporäre Tattoos",
+    "price": null,
+    "scraped_at": "2026-11-24T15:34:48.646330"
+  }
+]
