@@ -1,0 +1,1438 @@
+{
+  "scan_date": "2026-11-24",
+  "scan_time": "09:00",
+  "scan_ts": "2026-11-24_0900",
+  "stats": {
+    "total_scanned": 71,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B09Z3F73D3",
+      "name": "Papierdrachen Adventskalender 2026 zum Befüllen - Motiv Holy Night - 24 braune bedruckte Geschenktüten mit Zahlenaufkleb",
+      "price": 7.97,
+      "reviews": 1959,
+      "rating": 4.6,
+      "rank": 1,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1959 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B09Z3F73D3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81HA7U7LFwL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08C5DR9GR",
+      "name": "Papierdrachen Adventskalender 2026 - Cozy Winter Schwarz | 24 bedruckte Papiertüten - praktische Größe 14x22 cm - inkl. ",
+      "price": 7.14,
+      "reviews": 2192,
+      "rating": 4.6,
+      "rank": 2,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2192 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B08C5DR9GR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81AViBx9x5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLPKKRZZ",
+      "name": "Legami - Set mit Löschbaren Gelstiften - Xmas 2026 | Set aus 5 Dream Peaks Mini Erasable Gel-Stiften, limitierte Edition",
+      "price": 1390.0,
+      "reviews": 876,
+      "rating": 4.5,
+      "rank": 3,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "876 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPKKRZZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WnCNlBOQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09GS6RMTL",
+      "name": "100x Albyco Laminiertaschen - Format A4, 216x303mm - St. 2x80 (160) μm | Albyco Glänzende Laminierfolien - Für Papierfor",
+      "price": 6.02,
+      "reviews": 8778,
+      "rating": 4.8,
+      "rank": 4,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "8778 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B09GS6RMTL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71QD3Z7UAnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLPZ84DH",
+      "name": "LEGAMI - Gelschreiber mit dekorativem Tier Lovely Friends, rollt nicht, abnehmbares und wiederverwendbares Tier, 0,5 mm ",
+      "price": 5.84,
+      "reviews": 4479,
+      "rating": 4.8,
+      "rank": 5,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4479 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPZ84DH",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61po4BQRSJL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01FSGVN4M",
+      "name": "Amazon Basics Druckerpapier A4,80g/m², 2500 Blatt, 5er-Pack, Weiß",
+      "price": 18.48,
+      "reviews": 46628,
+      "rating": 4.6,
+      "rank": 6,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "46628 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B01FSGVN4M",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71xmc2j184L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CB18K7B4",
+      "name": "YSAGi Schreibtischunterlage, Premium PU Leder Mauspad, Beige, 80x40cm | Rutschfeste Schreibtisch Unterlage, Tischunterla",
+      "price": 10.17,
+      "reviews": 27464,
+      "rating": 4.6,
+      "rank": 7,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "27464 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0CB18K7B4",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Ywx2jYLKL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B000U0CPTO",
+      "name": "STABILO Trio thick - Dreikant-Farbstift | 18er-Pack, sortierte Farben",
+      "price": 6.24,
+      "reviews": 3714,
+      "rating": 4.8,
+      "rank": 8,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "3714 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B000U0CPTO",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Qvg8YqiML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00H8NUBS8",
+      "name": "Pelikan Tintenlöscher Super Pirat, Strichstärke B (breit) 10 Stück | Tintenkiller zum Löschen und Überschreiben",
+      "price": 5.8,
+      "reviews": 11870,
+      "rating": 4.7,
+      "rank": 9,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "11870 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B00H8NUBS8",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61wPxDi-LbL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00PUO9ZO8",
+      "name": "STATIONERY ISLAND Kreidestifte für Tafel Abwaschbar, Weiß Kreidestift für Fenster, 3mm 6 Stück Kreidemarker, Fensterstif",
+      "price": 7.55,
+      "reviews": 16839,
+      "rating": 4.4,
+      "rank": 10,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "16839 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B00PUO9ZO8",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61pt7x-dnVL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0DSW7R4VN",
+      "name": "WOLFBOX MegaFlow 50 Electric Air Duster, 110000 RPM, Cordless, 3-Gang | Mit Akku, für Computer, Tastatur, Haus, Outdoor,",
+      "price": 3399.0,
+      "reviews": 17277,
+      "rating": 4.6,
+      "rank": 11,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "17277 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0DSW7R4VN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/713BEhBxXWL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07TSL31SV",
+      "name": "50x braune Beutel 20 x 13 cm - EXTRA STARK - Kraftpapiertüten Geschenktüten Kraftpapier als DIY Adventskalender - Ostern",
+      "price": 6.08,
+      "reviews": 2988,
+      "rating": 4.6,
+      "rank": 12,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2988 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B07TSL31SV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715VHa27VbL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0936KP7CF",
+      "name": "Papierdrachen Adventskalender 2026 zum Befüllen - 24 pastellfarbene Geschenktüten mit Zahlenaufklebern - Motiv Hygge - D",
+      "price": 7.18,
+      "reviews": 446,
+      "rating": 4.7,
+      "rank": 13,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "446 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0936KP7CF",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Nlf8OsVcL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B000MQHDKM",
+      "name": "STABILO - Buntstift, Wasserfarbe & Wachsmalkreide - woody 3 in 1 | 10er Pack",
+      "price": 10.84,
+      "reviews": 6864,
+      "rating": 4.8,
+      "rank": 14,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "6864 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B000MQHDKM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Gd613ZDRL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0DB2NSFZV",
+      "name": "50x Stück Beutel 20 x 13 cm - EXTRA STARK - braune Kraftpapiertüten Geschenktüten Kraftpapierbeutel als DIY Adventskalen",
+      "price": 5.4,
+      "reviews": 233,
+      "rating": 4.6,
+      "rank": 15,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "233 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0DB2NSFZV",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61JClWPzr-L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HLPNVTKN",
+      "name": "Legami – Kawaii 2-in-1 Eisbärenbeutel, Silikon | Kawaii Dual-Use-Tasche, Stifthalter, Eisbär, Weihnachts-2026 Limited Ed",
+      "price": 10.88,
+      "reviews": 41,
+      "rating": 4.5,
+      "rank": 16,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "41 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HLPNVTKN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/614+Rxm3giL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0D1XXYNFS",
+      "name": "Dusor Geschenke für Männer Papa Kinder, Magnetic Fidget Pen Männergeschenke | Adventskalender Füllung Kinder, Weihnachts",
+      "price": 1599.0,
+      "reviews": 1697,
+      "rating": 4.4,
+      "rank": 17,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1697 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0D1XXYNFS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71-tEDujGkL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GGHNKX1S",
+      "name": "Häfft Familienplaner 2027 mit 4 Spalten - Wandkalender \"Blattgold\" | Mit Feiertagen, Ferienterminen & Zusatzinfos - Fami",
+      "price": 7.55,
+      "reviews": 292,
+      "rating": 4.6,
+      "rank": 18,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "292 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0GGHNKX1S",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/710QXTgdpaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CJYFR9TQ",
+      "name": "FairToner Kopierpapier 2500 Blatt DIN-A4 80g, Weiß | 5 x 500 Blatt / 5er Pack, Universal Druckerpapier, Für Laserdrucker",
+      "price": 1990.0,
+      "reviews": 2437,
+      "rating": 4.8,
+      "rank": 19,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2437 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0CJYFR9TQ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71lBRz9y1iL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00HQE9NM4",
+      "name": "Canon SELPHY RP-108 Tinten- und Papier-Multipack – Original Canon Fotodrucker Tintenpatronen 2er-Pack & 108 Blatt Fotopa",
+      "price": 23.44,
+      "reviews": 20893,
+      "rating": 4.8,
+      "rank": 20,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "20893 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B00HQE9NM4",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Brh8+q0BL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00BI5H0PY",
+      "name": "Schneider Slider Rave XB Kugelschreiber, 5 Stück, Hellblau-Blau | Tinte: Blau, Viscoglide-Technologie für lange Texte oh",
+      "price": 14.59,
+      "reviews": 9971,
+      "rating": 4.8,
+      "rank": 21,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "9971 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B00BI5H0PY",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71PUNwiMB5L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FMJCJ2P5",
+      "name": "Radierbarer Kugelschreiber, Neuer Weihnachtsstifte 2026, 4 PCS Radierbare Stifte Weihnachten, Radierbarer Gelschreiber, ",
+      "price": 6.36,
+      "reviews": 225,
+      "rating": 4.2,
+      "rank": 22,
+      "category": "Office",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "225 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0FMJCJ2P5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71ATAnxZjkL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07D4T5XVT",
+      "name": "MjAMjAM - Premium Nassfutter für Katzen - saftiges Huhn an leckeren Möhrchen, 6er Pack (6 x 400 g), getreidefrei mit ext",
+      "price": 1299.0,
+      "reviews": 4004,
+      "rating": 4.5,
+      "rank": 1,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4004 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07D4T5XVT",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715zaQl9iML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07CPK4T22",
+      "name": "Biokat's Diamond Care Fresh Katzenstreu mit Babypuder-Duft - Feine Klumpstreu aus Bentonit mit Aktivkohle und Aloe Vera ",
+      "price": 9.66,
+      "reviews": 26713,
+      "rating": 4.5,
+      "rank": 2,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "26713 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07CPK4T22",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61JZ0-J35cL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0DFCQ682Y",
+      "name": "Vitakraft Adventskalender 2026, Hundeleckerli, Vorweihnachtszeit (1x 244g) | 24 abwechslungsreiche herzhafte, fleischige",
+      "price": 949.0,
+      "reviews": 1036,
+      "rating": 4.7,
+      "rank": 3,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1036 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0DFCQ682Y",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91MZ4zj9LgL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01J57509O",
+      "name": "animonda Carny Adult Katzenfutter nass Kräftige Variation (12 x 400g) | getreidefreies Katzennassfutter ohne Zucker, für",
+      "price": 1599.0,
+      "reviews": 4834,
+      "rating": 4.4,
+      "rank": 4,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4834 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B01J57509O",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81orE2t7nGL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0B6GKHS2S",
+      "name": "Ring Innenkamera (Indoor Camera 2. Gen.) | 1080p-HD-Video, Privatsphäre-Sichtschutz, WLAN, ideal für Haustiere, Mini Sic",
+      "price": 2124.0,
+      "reviews": 4200,
+      "rating": 4.5,
+      "rank": 5,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4200 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0B6GKHS2S",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51N-W3kyGpL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00NABTGY2",
+      "name": "Amazon Basics Hundekotbeutel für Hunde, Unparfümiert, 900 Beutel, Schwarz",
+      "price": 14.95,
+      "reviews": 237035,
+      "rating": 4.8,
+      "rank": 6,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "237035 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B00NABTGY2",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/810dO54ZD6L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B077GPYZYL",
+      "name": "SHEBA Adult Katzennassfutter Geflügel in Sauce 40 x 85g (40er-Pack) | Katzenfutter als vollwertiges Alleinfuttermittel m",
+      "price": 1499.0,
+      "reviews": 3651,
+      "rating": 4.7,
+      "rank": 7,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "3651 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B077GPYZYL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71j-SX5ONnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0079F3N12",
+      "name": "GOURMET Gold Feine Pastete, mit Thunfisch, 12 x 85g | Katzenfutter nass",
+      "price": 798.0,
+      "reviews": 908,
+      "rating": 4.6,
+      "rank": 8,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "908 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0079F3N12",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71IDFpBGaML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00MW8G3YU",
+      "name": "Amazon Basics Welpen Unterlagen, Pipi Matten für Hunde, 5-lagiges Auslaufsicheres Design, 56cm x 56cm, 50 Stück, Blau",
+      "price": 10.53,
+      "reviews": 223676,
+      "rating": 4.6,
+      "rank": 9,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "223676 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B00MW8G3YU",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Co+yjlWAL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CKB9P2S4",
+      "name": "HUNTER Milford Hunde-Regenmantel | ergonomische Passform, individuell verstellbar, Geschirr-Reißverschluss, waschbar bei",
+      "price": 15.12,
+      "reviews": 1055,
+      "rating": 4.6,
+      "rank": 10,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1055 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0CKB9P2S4",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61TrdXJ4t-L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H2BD3XQX",
+      "name": "animonda Vom Feinsten Katzenfutter in Gelee Mix Land & Wasser (12 x 85 g) | Katzen Nassfutter in Gelee mit Taurin und Vi",
+      "price": 529.0,
+      "reviews": 91,
+      "rating": 4.8,
+      "rank": 11,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "91 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H2BD3XQX",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/714k2yzTPtL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08LRZ8N4M",
+      "name": "Savlot Hundejacke Winterweste Jacken Hundemantel Hundepullover Haustier Skifahren Kostüm Ärmellose Baumwolle Gepolsterte",
+      "price": 22.39,
+      "reviews": 9152,
+      "rating": 4.5,
+      "rank": 12,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "9152 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B08LRZ8N4M",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61xATUYSC7L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08HP7BH9B",
+      "name": "FELIX So gut wie es aussieht Nassfutter für Katzen Geschmacksvielfalt vom Land Vorteilspack, 44 praktische Portionsbeute",
+      "price": 1425.0,
+      "reviews": 6194,
+      "rating": 4.7,
+      "rank": 13,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "6194 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B08HP7BH9B",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/810nqdlF5kL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0BPF53S3W",
+      "name": "WHISKAS Nassfutter in Sauce für Katzen 84 x 85g Klassische Auswahl",
+      "price": 2289.0,
+      "reviews": 4082,
+      "rating": 4.7,
+      "rank": 14,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4082 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0BPF53S3W",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81PvoXzZdqL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B007ZY4D0W",
+      "name": "Pedigree DentaStix Hundesnack für mittelgroße Hunde (10-25kg), Zahnpflege-Snack mit Huhn und Rind, 1 Packung je 56 Stück",
+      "price": 889.0,
+      "reviews": 10585,
+      "rating": 4.7,
+      "rank": 15,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "10585 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B007ZY4D0W",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71OjkPahCnL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CP2G2SZ5",
+      "name": "SHEBA Adult Sauce Collection Mix Katzennassfutter in Sauce Schale 32 x 85g | 100% Qualität, Huhn, Ente, Lachs, Thunfisch",
+      "price": 1240.0,
+      "reviews": 1953,
+      "rating": 4.7,
+      "rank": 16,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1953 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0CP2G2SZ5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71avbjmhLTL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01MFDF226",
+      "name": "Gourmet Perle Erlesene Streifen Katzenfutter nass, Sorten-Mix, 60er Pack (60 x 85g)",
+      "price": 3200.0,
+      "reviews": 7539,
+      "rating": 4.6,
+      "rank": 17,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "7539 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B01MFDF226",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Owszyq1WL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09P1WBRJM",
+      "name": "SHEBA Filets Katzennassfutter Huhn 16 x 60g (16er-Pack)",
+      "price": 1584.0,
+      "reviews": 1723,
+      "rating": 4.7,
+      "rank": 18,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1723 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B09P1WBRJM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71MZmlAtKsL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07CPDVRD9",
+      "name": "Biokat's Diamond Care Classic Katzenstreu ohne Duft - Feine Klumpstreu aus Bentonit mit Aktivkohle und Aloe Vera - 1 Sac",
+      "price": 9.66,
+      "reviews": 9889,
+      "rating": 4.5,
+      "rank": 19,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "9889 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07CPDVRD9",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71BTCs+F4GL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CTCFWBQC",
+      "name": "by Amazon weißes Ultra-Klumpstreu für Katzen 10L",
+      "price": 6.92,
+      "reviews": 5691,
+      "rating": 4.1,
+      "rank": 20,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "5691 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0CTCFWBQC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61KZL8zBzHL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0F7LY2FSZ",
+      "name": "Vitakraft Liquid Snack, Katzen Leckerli, Mega Pack, feine Auswahl (48x 15g) | cremiger Katzensnack, kalorienarm, pur ode",
+      "price": 1619.0,
+      "reviews": 1562,
+      "rating": 4.8,
+      "rank": 21,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1562 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0F7LY2FSZ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Lwj0YlbIL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H1W16RJF",
+      "name": "MjAMjAM - Premium Trockenfutter für Katzen - Knusprige Mahlzeiten - Frisches Geflügelfleisch, 1er Pack (1x1,5kg), getrei",
+      "price": 1599.0,
+      "reviews": 72,
+      "rating": 4.8,
+      "rank": 22,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "72 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H1W16RJF",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61iCE6Oz76L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B087MKL24X",
+      "name": "MjAMjAM - Premium Nassfutter für Katzen - Kitten saftiges Hühnchen mit Lachsöl, 6er Pack (6 x 800 g), getreidefrei mit e",
+      "price": 1976.0,
+      "reviews": 3468,
+      "rating": 4.6,
+      "rank": 23,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "3468 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B087MKL24X",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61c7JGF85RL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B001MZV3JO",
+      "name": "animonda GranCarno Adult Rind (6 x 800 g), Hundenassfutter für ausgewachsene Tiere, Nassfutter für Hunde mit 100 % frisc",
+      "price": 1199.0,
+      "reviews": 655,
+      "rating": 4.4,
+      "rank": 24,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "655 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B001MZV3JO",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81B4yIHTKrL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0079F3FQ0",
+      "name": "GOURMET Gold Feine Komposition, mit Rind und Huhn, 12 x 85g | Katzenfutter nass",
+      "price": 999.0,
+      "reviews": 1289,
+      "rating": 4.7,
+      "rank": 25,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "1289 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0079F3FQ0",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71yWz9vI4NL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HK4ZVHJ8",
+      "name": "MoleQlar 3D Schlafmaske mit Memory Foam – lichtundurchlässige Augenmaske ohne Druck auf die Augen – verstellbare Schlafb",
+      "price": 28.5,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 7,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HK4ZVHJ8",
+      "image_url": "https://m.media-amazon.com/images/I/61k93lmSAJL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0F63D4DRM",
+      "name": "INNELO Schlafmaske weich & bequem für Frauen & Herren, Seitenschläfer | 2026 Neuheit, 100 % lichtdicht, 3D Schlafbrille ",
+      "price": 10.16,
+      "reviews": 132,
+      "rating": 4.6,
+      "rank": 8,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "132 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0F63D4DRM",
+      "image_url": "https://m.media-amazon.com/images/I/81N4im0WCHL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CMHL9985",
+      "name": "WellTouch Schlafmaske zur Tiefenentspannung | Komfortable Augenmaske mit 3D Memory Foam | inkl. Ohrstöpsel & Beutel | Kü",
+      "price": 10.99,
+      "reviews": 23,
+      "rating": 4.3,
+      "rank": 10,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "23 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0CMHL9985",
+      "image_url": "https://m.media-amazon.com/images/I/616B6pu-QRL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FND8QWYS",
+      "name": "HIXO 3D Schlafmaske – Lichtundurchlässige Augenmaske mit Memory Foam – Schlafbrille & Nasenpolster – Für Damen & Herren ",
+      "price": 4.11,
+      "reviews": 3,
+      "rating": 3.8,
+      "rank": 11,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "3 Bewertungen, 3.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0FND8QWYS",
+      "image_url": "https://m.media-amazon.com/images/I/61OXsahGqhL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HH9B87LQ",
+      "name": "Schlafmaske für Seitenschläfer 2 Stück, 3D Schlafmaske für Herren Frauen | 3D Verdunkelungs Schlafbrille mit Elastikband",
+      "price": 3.35,
+      "reviews": 4,
+      "rating": 3.6,
+      "rank": 12,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "4 Bewertungen, 3.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HH9B87LQ",
+      "image_url": "https://m.media-amazon.com/images/I/71zviMFGTBL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GLFC6ZDW",
+      "name": "URAQT 2 Stück 3D Schlafmaske für Seitenschläfer, 3D Schlafmaske mit Augenmulden, Augenmaske zum Schlafen ohne Augendruck",
+      "price": 3.86,
+      "reviews": 114,
+      "rating": 4.1,
+      "rank": 13,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "114 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0GLFC6ZDW",
+      "image_url": "https://m.media-amazon.com/images/I/61m8MC9ti3L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GVQB36CQ",
+      "name": "3D Schlafmaske für Seitenschläfer, Atmungsaktive Schlafbrille 100％ Lichtblockierend Augenmaske mit Verstellbarem Band, M",
+      "price": 4.99,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 16,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0GVQB36CQ",
+      "image_url": "https://m.media-amazon.com/images/I/61LgH62RpzL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H82V456H",
+      "name": "3D Augenhöhlen Schlafmaske für Seitenschläfer, lichtblockierend，1 Rosa | Memory Foam, augenschonend & atmungsaktiv, vers",
+      "price": 3.18,
+      "reviews": 9,
+      "rating": 3.2,
+      "rank": 17,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "9 Bewertungen, 3.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0H82V456H",
+      "image_url": "https://m.media-amazon.com/images/I/717VgrpU-ML._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GYS4TBCQ",
+      "name": "LitBear 3D Schlafmaske für Seitenschläfer, Lichtblockierende Schlafbrille | Upgrade Extratiefe Augenmulde, Weich und Atm",
+      "price": 8.39,
+      "reviews": 115,
+      "rating": 4.5,
+      "rank": 19,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "115 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0GYS4TBCQ",
+      "image_url": "https://m.media-amazon.com/images/I/818n6m7+KzL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0F1XXR1C4",
+      "name": "Oumida 3D Schlafmaske für Seitenschläfer, Verstellbares Gummiband, lichtblockierend und Atmungsaktiv, Augenmaske für Män",
+      "price": 4.19,
+      "reviews": 118,
+      "rating": 4.6,
+      "rank": 25,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "118 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0F1XXR1C4",
+      "image_url": "https://m.media-amazon.com/images/I/81Lg0mhHx8L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H4Z2QZJX",
+      "name": "Kobete Nackenkissen Flugzeug, Reisekissen 100% Memory Foam, Nackenhörnchen Erwachsene, Nackenkissen Reise mit 3D-Schlafm",
+      "price": 11.99,
+      "reviews": 13,
+      "rating": 4.3,
+      "rank": 27,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "13 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0H4Z2QZJX",
+      "image_url": "https://m.media-amazon.com/images/I/912xdHVmQxL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HFJC717D",
+      "name": "Schlafmaske für Seitenschläfer, mit Verstellbar Gummiband und Ohrstöpsel | 3D Schlafbrille Bequem für Frauen Herren, lic",
+      "price": 3.35,
+      "reviews": 5,
+      "rating": 3.7,
+      "rank": 28,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "5 Bewertungen, 3.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HFJC717D",
+      "image_url": "https://m.media-amazon.com/images/I/71+dntOSMSL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HFD2S8L3",
+      "name": "3D Schlafmaske Schlafbrille, verstellbar, druckfreier Memory‑Schaum | weich, atmungsaktiv, für Männer und Frauen, nahezu",
+      "price": 5.87,
+      "reviews": 12,
+      "rating": 4.4,
+      "rank": 32,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "12 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HFD2S8L3",
+      "image_url": "https://m.media-amazon.com/images/I/61+kE7VkImL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H1G67B1Z",
+      "name": "YFONG Schlafmaske aus Bambusviskose, Komfort für Frauen Herren, Dunkelgrau | Ultra Weich & Verstellbares Breites Band, L",
+      "price": 7.13,
+      "reviews": 39,
+      "rating": 4.5,
+      "rank": 33,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "39 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0H1G67B1Z",
+      "image_url": "https://m.media-amazon.com/images/I/81XjqJ0DEPL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FG7RNV6R",
+      "name": "GRIFEMA Schlafmaske 100% Verdunkelung, 3D Augenmaske ohne Augendruck | Große Schlafmaske, Verstellbar für Seitenschläfer",
+      "price": 6.71,
+      "reviews": 170,
+      "rating": 4.4,
+      "rank": 34,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "170 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0FG7RNV6R",
+      "image_url": "https://m.media-amazon.com/images/I/71Ux1ZP2N8L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FD8RRJGZ",
+      "name": "2025 Schlafmaske für Seitenschläfer, 3D Augenmaske, 15mm mit tiefen Augenhöhlen und erhöhten Nasenpads lichtblockierend ",
+      "price": 9.27,
+      "reviews": 58,
+      "rating": 4.4,
+      "rank": 36,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "58 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0FD8RRJGZ",
+      "image_url": "https://m.media-amazon.com/images/I/81vztZ6uLnL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FN7L7BP7",
+      "name": "Kulamo Nackenkissen Flugzeug, Reisekissen Memory Foam, Nackenhörnchen Erwachsene, Nackenkissen Reise mit 3D-Schlafmaske,",
+      "price": 12.99,
+      "reviews": 74,
+      "rating": 4.0,
+      "rank": 39,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "74 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0FN7L7BP7",
+      "image_url": "https://m.media-amazon.com/images/I/719TKQswfsL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H1173V58",
+      "name": "Nackenkissen & Reisedecke für Flugzeug - Memory Foam Reisekissen und Decke | Comfy Reise Zubehör mit 3D-Schlafmaske Ohrs",
+      "price": 21.84,
+      "reviews": 4,
+      "rating": 5.0,
+      "rank": 41,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "4 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0H1173V58",
+      "image_url": "https://m.media-amazon.com/images/I/71HpCiGifbL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GXZS4NVC",
+      "name": "VINTEAM 3D Augenmaske mit Kopfhörern Schallisolierung Lichtabschirmung | Komfortable Bluetooth Schlafkopfhörer Memory-Sc",
+      "price": 13.91,
+      "reviews": 71,
+      "rating": 4.0,
+      "rank": 42,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "71 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0GXZS4NVC",
+      "image_url": "https://m.media-amazon.com/images/I/61OvP3BF7-L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FNN2R6JB",
+      "name": "KQDRAVINE Schlafmaske, 1 Stück Augenbinde und 1 Paar Ohrstöpsel, Verdunkelungs Augenmaske mit Gummiband für Frauen Herre",
+      "price": 5.03,
+      "reviews": 11,
+      "rating": 4.1,
+      "rank": 44,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "11 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0FNN2R6JB",
+      "image_url": "https://m.media-amazon.com/images/I/619ZekKvuAL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HK3N9882",
+      "name": "2 Stück Frosch Schlafmaske mit 2 Paar Ohrstöpsel, Lustige 3D Schlafbrille Plüsch mit Verstellbaren Augenlidern, 100% Ver",
+      "price": 8.39,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 48,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HK3N9882",
+      "image_url": "https://m.media-amazon.com/images/I/71UPX7cqIfL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "3D Schlafmaske mit Ohrstöpseln Memory Foam",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B00O19QCIK",
+      "name": "1000 x Einweg Kunststoff Handschuhe PE, Größe L – Reinigung Essen zubereitet etc.",
+      "price": 8.07,
+      "reviews": 184,
+      "rating": 3.7,
+      "rank": 22,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "184 Bewertungen, 3.7★",
+      "amazon_url": "https://www.amazon.de/dp/B00O19QCIK",
+      "image_url": "https://m.media-amazon.com/images/I/61yAH4+GWNL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Einweghandschuhe Nitrile 100 Stück Küche",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B087RSS4SG",
+      "name": "Nitril-Handschuhe 100 Stück in Spender-Box – puderfrei, Nicht steril, beidseitig tragbar - Magenta (M)",
+      "price": 9.0,
+      "reviews": 45,
+      "rating": 4.1,
+      "rank": 24,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "45 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B087RSS4SG",
+      "image_url": "https://m.media-amazon.com/images/I/51rzR7QD95L._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Einweghandschuhe Nitrile 100 Stück Küche",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01HQF1WUS",
+      "name": "Nitras 8320 BLACK WAVE unsterile, medizinische, lebensmittelgeeignete Nitril-Einmalhandschuhe Farbe schwarz, puderfrei &",
+      "price": 0.04,
+      "reviews": 132,
+      "rating": 4.6,
+      "rank": 26,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "132 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B01HQF1WUS",
+      "image_url": "https://m.media-amazon.com/images/I/71Ia8n3AcLL._AC_UL320_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "keyword_source": "discovery",
+      "matched_keyword": "Einweghandschuhe Nitrile 100 Stück Küche",
+      "sources": [
+        "趋势发现",
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}

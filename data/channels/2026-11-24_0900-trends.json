@@ -1,0 +1,227 @@
+{
+  "category_scores": {
+    "lighting": 60,
+    "pets": 70,
+    "bedding": 10,
+    "beauty": 25,
+    "crafts": 100,
+    "phone": 45,
+    "kitchen": 60,
+    "bathroom": 10,
+    "storage": 5,
+    "home decor": 45,
+    "baby": 5,
+    "eco": 55,
+    "car": 40,
+    "office": 40,
+    "seasonal": 30,
+    "garden": 10,
+    "sports": 5,
+    "travel": 10,
+    "cleaning": 5
+  },
+  "category_evidence": {
+    "lighting": [
+      "light",
+      "night light",
+      "led"
+    ],
+    "pets": [
+      "pet",
+      "toy",
+      "cat"
+    ],
+    "bedding": [
+      "pillow"
+    ],
+    "beauty": [
+      "makeup",
+      "hair"
+    ],
+    "crafts": [
+      "art",
+      "tape"
+    ],
+    "phone": [
+      "phone",
+      "case"
+    ],
+    "kitchen": [
+      "gadget",
+      "kitchen"
+    ],
+    "bathroom": [
+      "bathroom",
+      "bath"
+    ],
+    "storage": [
+      "box"
+    ],
+    "home decor": [
+      "decor"
+    ],
+    "baby": [
+      "baby"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "car": [
+      "car"
+    ],
+    "office": [
+      "pen"
+    ],
+    "seasonal": [
+      "christmas",
+      "gift"
+    ],
+    "garden": [
+      "garden",
+      "plant"
+    ],
+    "sports": [
+      "fitness"
+    ],
+    "travel": [
+      "luggage",
+      "travel"
+    ],
+    "cleaning": [
+      "cleaning"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "lighting": 3,
+      "pets": 1,
+      "bedding": 1,
+      "beauty": 3,
+      "crafts": 1,
+      "phone": 2,
+      "kitchen": 2,
+      "bathroom": 2,
+      "storage": 1,
+      "home decor": 1,
+      "baby": 1,
+      "eco": 1
+    },
+    "dealabs": {
+      "car": 1,
+      "pets": 3,
+      "crafts": 3,
+      "home decor": 1,
+      "eco": 1,
+      "kitchen": 1,
+      "office": 1,
+      "phone": 1
+    },
+    "temu": {
+      "car": 1,
+      "crafts": 3,
+      "seasonal": 1,
+      "office": 1,
+      "pets": 1,
+      "garden": 1,
+      "sports": 1,
+      "eco": 1
+    },
+    "etsy": {
+      "crafts": 3,
+      "kitchen": 1,
+      "pets": 1,
+      "home decor": 1,
+      "eco": 1,
+      "car": 1,
+      "seasonal": 1
+    },
+    "youtube": {
+      "lighting": 2,
+      "pets": 2,
+      "crafts": 2,
+      "bedding": 1,
+      "travel": 1,
+      "beauty": 2,
+      "kitchen": 4,
+      "cleaning": 1,
+      "phone": 1,
+      "office": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "google_trends": {
+      "car": 1,
+      "crafts": 3,
+      "pets": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "reddit": {
+      "car": 1,
+      "crafts": 2,
+      "travel": 1,
+      "seasonal": 1,
+      "office": 1,
+      "pets": 1,
+      "phone": 1,
+      "lighting": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "crafts": 3,
+      "phone": 1,
+      "garden": 1,
+      "office": 1,
+      "eco": 2,
+      "lighting": 1,
+      "pets": 1
+    }
+  },
+  "cross_validated": {
+    "lighting": 4,
+    "pets": 8,
+    "crafts": 8,
+    "phone": 5,
+    "kitchen": 5,
+    "home decor": 5,
+    "eco": 7,
+    "car": 5,
+    "office": 5,
+    "seasonal": 3
+  },
+  "demand_keywords": [
+    "accessoires de fitness",
+    "amazon en",
+    "are these",
+    "articles de jardinage pour l",
+    "autumn clothes sold on",
+    "avec des v",
+    "best selling items",
+    "bon plan",
+    "bons plans",
+    "cannot be offered free of charge",
+    "comment puis",
+    "connaissez vous des bons plans",
+    "dates importantes",
+    "des achats peu co",
+    "fall clothes for women",
+    "fall fashion trends",
+    "france says",
+    "gift ideas trending now",
+    "handmade decor items",
+    "handmade home decor kitchen and",
+    "handmade products for home decor",
+    "is pre",
+    "je vous montre mes trouvailles",
+    "jeunes",
+    "la consommation des m",
+    "la mode",
+    "les articles les plus populaires",
+    "les meilleures ventes",
+    "les produits tendances",
+    "les sacs tendance pour l"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 68433
+}
