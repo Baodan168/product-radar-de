@@ -1,7 +1,21 @@
 # 交接：法国站框架 → hermes 接入运营
 
 > **给接入法国站运营的 hermes：开工前先读 CLAUDE.md，再读这里。**
-> 最后更新：2026-08-29 by ZCode（框架搭建会话）
+> 最后更新：2026-11-25 by Hermes（Pages 部署降级到分支直推）
+
+## ⚠️ 部署方式变更（2026-11-25）
+
+GitHub Actions 的 artifact 服务对本仓库故障：upload-pages-artifact 上传成功但
+deploy-pages 在 run 内列 artifact 恒为 0，pages.yml 连续 7 次部署失败（11-23 起），
+线上数据停在 11-21。处理：
+
+1. **Pages 切到 Deploy from branch（legacy，main /）**：本机生成产物直接推入
+   仓库树上线。github_api_push.py 白名单已补 index/platform/data/*.js 5 个文件。
+2. **pages.yml 已 disable**。恢复条件：GitHub artifact 服务确认修复后，
+   `PUT /actions/workflows/pages.yml/enable` + Pages 切回 build_type=workflow +
+   移除 github_api_push.py 里「2026-11-25 DE Pages 降级」白名单段。
+3. 脱敏门禁（desensitize --check）已从 CI 收编进 github_api_push.py，推送前强制执行。
+
 
 ## 项目定位（先对齐这个）
 
