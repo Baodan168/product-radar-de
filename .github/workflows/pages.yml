@@ -79,9 +79,9 @@ jobs:
           # 但仓库树里存在（API 推送绕过 gitignore）。有则拷，无则跳过。
           cp data/channels/*.json deploy/data/channels/ 2>/dev/null || echo "  ℹ️ data/channels/ 不在树中，跳过"
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: deploy
 
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
