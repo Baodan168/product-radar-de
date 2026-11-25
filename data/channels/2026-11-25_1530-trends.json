@@ -1,0 +1,229 @@
+{
+  "category_scores": {
+    "lighting": 71,
+    "pets": 98,
+    "beauty": 44,
+    "cleaning": 32,
+    "car": 43,
+    "sports": 32,
+    "crafts": 100,
+    "home decor": 48,
+    "kitchen": 71,
+    "storage": 43,
+    "eco": 76,
+    "office": 65,
+    "garden": 43,
+    "travel": 11,
+    "seasonal": 32,
+    "phone": 32
+  },
+  "category_evidence": {
+    "lighting": [
+      "light",
+      "led"
+    ],
+    "pets": [
+      "toy",
+      "bed",
+      "cat",
+      "pet"
+    ],
+    "beauty": [
+      "makeup",
+      "nail",
+      "hair",
+      "skincare"
+    ],
+    "cleaning": [
+      "cleaning"
+    ],
+    "car": [
+      "car"
+    ],
+    "sports": [
+      "water bottle",
+      "sport"
+    ],
+    "crafts": [
+      "craft",
+      "stickers",
+      "art"
+    ],
+    "home decor": [
+      "wall art",
+      "decor"
+    ],
+    "kitchen": [
+      "kitchen",
+      "cup",
+      "gadget"
+    ],
+    "storage": [
+      "box",
+      "basket"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "office": [
+      "pen",
+      "office"
+    ],
+    "garden": [
+      "garden",
+      "patio",
+      "plant",
+      "outdoor"
+    ],
+    "travel": [
+      "packing",
+      "travel"
+    ],
+    "seasonal": [
+      "gift",
+      "christmas"
+    ],
+    "phone": [
+      "phone"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "lighting": 3,
+      "pets": 2,
+      "beauty": 7,
+      "cleaning": 1,
+      "car": 2,
+      "sports": 1,
+      "crafts": 2,
+      "home decor": 2,
+      "kitchen": 1,
+      "storage": 1,
+      "eco": 1
+    },
+    "dealabs": {
+      "car": 1,
+      "crafts": 2,
+      "office": 1,
+      "kitchen": 1,
+      "garden": 1,
+      "lighting": 1
+    },
+    "temu": {
+      "office": 2,
+      "sports": 1,
+      "travel": 1,
+      "seasonal": 1,
+      "kitchen": 1,
+      "pets": 2,
+      "crafts": 3,
+      "home decor": 1,
+      "eco": 2,
+      "garden": 1,
+      "lighting": 1,
+      "phone": 1
+    },
+    "etsy": {
+      "crafts": 4,
+      "eco": 2,
+      "pets": 2,
+      "home decor": 1,
+      "seasonal": 1
+    },
+    "youtube": {
+      "storage": 3,
+      "pets": 3,
+      "crafts": 2,
+      "kitchen": 4,
+      "cleaning": 1,
+      "office": 1,
+      "beauty": 1
+    },
+    "google_trends": {
+      "kitchen": 1,
+      "garden": 2,
+      "car": 1,
+      "office": 1,
+      "storage": 1,
+      "pets": 2,
+      "crafts": 1,
+      "phone": 1,
+      "eco": 3,
+      "home decor": 1
+    },
+    "reddit": {
+      "kitchen": 1,
+      "office": 2,
+      "lighting": 1,
+      "pets": 3,
+      "crafts": 2,
+      "eco": 1,
+      "cleaning": 1,
+      "car": 1,
+      "travel": 1,
+      "seasonal": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "office": 2,
+      "pets": 1,
+      "sports": 1,
+      "crafts": 2,
+      "phone": 1,
+      "garden": 1,
+      "eco": 2,
+      "lighting": 2
+    }
+  },
+  "cross_validated": {
+    "lighting": 5,
+    "pets": 7,
+    "cleaning": 3,
+    "car": 4,
+    "sports": 3,
+    "crafts": 8,
+    "home decor": 4,
+    "kitchen": 7,
+    "storage": 3,
+    "eco": 6,
+    "office": 6,
+    "garden": 4,
+    "seasonal": 3,
+    "phone": 3
+  },
+  "demand_keywords": [
+    "alternatives to",
+    "amazon lance son",
+    "are these",
+    "art artisanal fait main",
+    "aucun n",
+    "avec des v",
+    "bon plan",
+    "bons plans",
+    "bons plans en",
+    "cannot be offered free of charge",
+    "cette id",
+    "code promo",
+    "collection automne hiver",
+    "collections automne",
+    "colors of",
+    "consumer trends in e",
+    "deco haus",
+    "des achats peu co",
+    "french e",
+    "gift ideas trending now",
+    "going to",
+    "handmade in france",
+    "how is",
+    "je surveille les prix",
+    "je vous montre mes trouvailles",
+    "la beaut",
+    "la consommation des m",
+    "la mode",
+    "le top des produits",
+    "les articles les plus populaires"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 66972
+}

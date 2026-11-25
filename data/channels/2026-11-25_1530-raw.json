@@ -1,0 +1,1081 @@
+{
+  "scan_date": "2026-11-25",
+  "scan_time": "15:30",
+  "scan_ts": "2026-11-25_1530",
+  "stats": {
+    "total_scanned": 56,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B008YETL18",
+      "name": "De'Longhi Decalk - Entkalker für Kaffeemaschinen 5 Entkalkungsdosen | Echt De'Longhi Entkalker, Pflegezubehör für Kaffee",
+      "price": 12223.0,
+      "reviews": 138254,
+      "rating": 4.8,
+      "rank": 1,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "138254 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B008YETL18",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71DuIPbpAaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09ZYLM43B",
+      "name": "Ninja Foodi MAX Dual Zone Heißluftfritteuse, 9,5 L, 6-in-1, Kupfer/Schwarz | 2 Fächer, mit Zange, Antihaftbeschichtung, ",
+      "price": 861.06,
+      "reviews": 8479,
+      "rating": 4.7,
+      "rank": 2,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "8479 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B09ZYLM43B",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61FZ31g+LeL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B074M9DZ4M",
+      "name": "Philips Original AquaClean Wasser-Filter Doppelpack für Kaffeevollautomaten | Bis zu 5000 Tassen ohne Entkalken, Click&G",
+      "price": 92.23,
+      "reviews": 36782,
+      "rating": 4.7,
+      "rank": 3,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "36782 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B074M9DZ4M",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61lf71xP0UL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08GH6R477",
+      "name": "Tefal Jamie Oliver Cook's Direct On Bratpfanne 28 cm, Thermo-Signal | Edelstahlpfanne Induktion, Titanium-Antihaftbeschi",
+      "price": 246.01,
+      "reviews": 11830,
+      "rating": 4.6,
+      "rank": 4,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "11830 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B08GH6R477",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/616N+FuD+WL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FBWS67J1",
+      "name": "Stanley 1913 Aerolight Transit Thermobecher 0.35L - Hält 4 Stunden Heiß - Spülmaschinenfest - Kaffeebecher To Go Auslauf",
+      "price": 146.39,
+      "reviews": 18730,
+      "rating": 4.5,
+      "rank": 5,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "18730 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0FBWS67J1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51FBr8NL4VL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B001JYP09M",
+      "name": "tesa Powerstrips DECO Haken SMALL - 200 g - 1 x 5 Dekohaken | Klebehaken zur Befestigung von Deko an Glas und Spiegeln -",
+      "price": 28.62,
+      "reviews": 5329,
+      "rating": 4.6,
+      "rank": 6,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "5329 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B001JYP09M",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71N-B8ebrUL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B06XFS8NFB",
+      "name": "Yankee Candle Duftkerze im Glas (groß) | Christmas Magic | Kerze mit langer Brenndauer bis zu 150 Stunden | Perfekte Ges",
+      "price": 122.67,
+      "reviews": 16581,
+      "rating": 4.7,
+      "rank": 7,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "16581 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B06XFS8NFB",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81dEyBHlipL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HSBCP7B9",
+      "name": "Interaktives Haustier-Projektor-Spielzeug für Hunde und Katzen | Pfotenförmige Indoor-Unterhaltung für Haustiere mit wäh",
+      "price": 32198.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 1,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HSBCP7B9",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71YbxMZgcQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HRV69FNG",
+      "name": "LED Hund Flügel Projektorlicht, buntes Feen & Drachen Flügel Schattenlicht | wasserdichtes Halsband Zubehör, sicheres La",
+      "price": 14632.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 2,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HRV69FNG",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/819SanevuXL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKN4RQ52",
+      "name": "Sodbrennen Hund Pulver bei Gras und Kotfressen mit Ulmenrinde Hund | Tierärztlich entwickeltes Pulver als Mittel bei Hun",
+      "price": 20795.0,
+      "reviews": 29,
+      "rating": 4.2,
+      "rank": 3,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "29 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKN4RQ52",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71h5Sc2sLdL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HS83JNNM",
+      "name": "LED Flügelprojektor für Hunde, Drachen- und Engelsflügel, Haustierlicht (C) | LED Flügelprojektor für Hunde, Drachenflüg",
+      "price": 14632.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 4,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HS83JNNM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81cfptAKecL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HRZ36DWC",
+      "name": "Cymwer LED Hundeflügel Projektionslicht – Geschenk for Tierfreunde | Flügel-Projektion am Boden: Das LED-Hundeflügel-Pro",
+      "price": 13497.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 5,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HRZ36DWC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71vWFXuSD9L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HS88JNQB",
+      "name": "LED Angel Wings Projektorlicht für Hund, Feen & Drachen Flügel Lights | LED Hund Flügel Projektorlicht, Wasserdichtes Fl",
+      "price": 10240.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 6,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HS88JNQB",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81tYDT9uV6L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GKGHFQW3",
+      "name": "Tractive Smarter Katzen GPS Tracker Mini | Modell 2026 | Marktführer | Live-Ortung | Gesundheitswarnungen & Vitalwerte |",
+      "price": 40403.0,
+      "reviews": 62,
+      "rating": 3.9,
+      "rank": 7,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "62 Bewertungen, 3.9★",
+      "amazon_url": "https://www.amazon.de/dp/B0GKGHFQW3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71GpffUMC1L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HS47XSBK",
+      "name": "Tumble Turtle Hundespielzeug, Schildkröte mit Hüpfball, 1 Stück | Interaktiver wiederaufladbarer Hüpfball mit Musik, Mus",
+      "price": 11682.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 8,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HS47XSBK",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71ge81RR0HL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HRYT9JC9",
+      "name": "LED-Projektionsleuchte mit Flügelmotiven für Hunde – Feen- & Drachenflügel | Wasserdichtes Zubehör für das Halsband: Sic",
+      "price": 11704.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 9,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HRYT9JC9",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/819SanevuXL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKFPRHWR",
+      "name": "Feandrea Katzenklo Edelstahl XXL, Katzentoilette Offen, Hoher Rand PPT022G101",
+      "price": 23634.0,
+      "reviews": 15,
+      "rating": 4.7,
+      "rank": 10,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "15 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKFPRHWR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hxgI3FTSL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HSC5FS77",
+      "name": "Interaktives Haustier Projektionsspielzeug for Hunde Und Katzen, USB | Pfotenförmiger Projektor Mit Verschiedenen Lichtm",
+      "price": 24879.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 11,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HSC5FS77",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71EdcehCL+L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HSJBZFX2",
+      "name": "LED Hund Flügel Projektorlicht Feen & Drachen Flügel Schattenlicht，A-200 | Engelsflügel-Lichter für Dog-Projektor Wasser",
+      "price": 10972.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 12,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HSJBZFX2",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71+yqjO+x3L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HQJ3W3N3",
+      "name": "2er Pack Tierhaarentferner Handschuh, Fell Magnet für Hunde und Katzen | Waschbares Elektrostatisches Netzgewebe, Enthaa",
+      "price": 92.23,
+      "reviews": 69,
+      "rating": 4.8,
+      "rank": 13,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "69 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HQJ3W3N3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81nz8jxFrgL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HSC6B5RY",
+      "name": "Interaktives Haustier Projektor Spielzeug, Pfotenform Animiertes Bodenprojektionsspiel, Freisprecheinrichtung Indoor Sti",
+      "price": 7876.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 14,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HSC6B5RY",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81e9-HpFTXL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HD5Z5ZXD",
+      "name": "Lesguyor Heizmatte Katzen & Hunde 45x40cm – Heizdecke mit Thermostat 6 Heizstufen (30-55°C) & 4 Timer, Wasserdichtes Wär",
+      "price": 168.27,
+      "reviews": 49,
+      "rating": 4.4,
+      "rank": 15,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "49 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HD5Z5ZXD",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61XPdQdS76L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HSJ9TD12",
+      "name": "2027 Haustier Projektor für Hund Katzen Spielzeug interaktive Bodenprojektion Interaktives Haustier mit dynamischem Spie",
+      "price": 16820.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 16,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HSJ9TD12",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61L2KGb6ruL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HSJ1MQ29",
+      "name": "Haustier LED Hundeflügel Projektionslicht Angel Wings Lights Für Hund，A-200 | LED Flügel-Projektion am Boden wirft dekor",
+      "price": 14632.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 17,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HSJ1MQ29",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71+yqjO+x3L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HRVCQNZS",
+      "name": "Angel Wings Lights Für Hund | 2x LED Projektion Mit Fee & Drachen | ANGELSFLÜGEL PROJEKTORLICHT FÜR DEN DOG-GENERATION: ",
+      "price": 14632.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 18,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HRVCQNZS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hLQtaoNzL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPBQ5NWJ",
+      "name": "WOLFSBLUT Adventskalender für Hunde 2026 | mit 24 weihnachtlichen Überraschungen, leckere und getreidefreie Hundesnacks",
+      "price": 13900.0,
+      "reviews": 3,
+      "rating": 5.0,
+      "rank": 19,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPBQ5NWJ",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61A9xBcFDLL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H2GJ5YGW",
+      "name": "CoCoDonut LED Leuchthalsband Hund Aufladbar, Sicherheit bei Nacht | Leuchtend, USB‑C, Kürzbar, Wasserdicht, 3 Lichtmodi,",
+      "price": 49.63,
+      "reviews": 36,
+      "rating": 4.4,
+      "rank": 20,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "36 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H2GJ5YGW",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/816iHNKdzdL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FT2ZXSHP",
+      "name": "OSDUE Schnüffelteppich Hund, Futterschnüffel-Futtermatte, Hunde-Schnüffelmatte, Welpen-Trainingsmatte, Interaktive Hunde",
+      "price": 64.56,
+      "reviews": 139,
+      "rating": 4.2,
+      "rank": 21,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "139 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0FT2ZXSHP",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81CxKrI1B0L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FJ1Y8T2C",
+      "name": "luciphia wasserdichte Decke Hundedecke Katzendecke Waschbar Sherpa Fleece | Sofadecke für Katzen Hund Welpe, Kuscheldeck",
+      "price": 88.78,
+      "reviews": 132,
+      "rating": 4.3,
+      "rank": 22,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "132 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0FJ1Y8T2C",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61vQwtCj2qL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FQC2RMBL",
+      "name": "Ableckbarer Pfotenbalsam für Hunde & Katzen mit Kokosöl, 100 % Natürliche | Spendet Feuchtigkeit für trockene, rissige P",
+      "price": 88.78,
+      "reviews": 1638,
+      "rating": 4.6,
+      "rank": 23,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1638 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0FQC2RMBL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61W+yeJIddL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FX28JHQ5",
+      "name": "AIEDECOPT 4 Stück Hundeschuhe Pfotenschutz, Hundeschuhe Winter Anti Rutsch, Schneestiefel Hunde, Plüsch Hundestiefel für",
+      "price": 61.41,
+      "reviews": 121,
+      "rating": 3.6,
+      "rank": 24,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "121 Bewertungen, 3.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0FX28JHQ5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Ab57B91kL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GZPYB46C",
+      "name": "Feandrea Kratzbaum, Klein, mit Sisal Kratzbrett und Plattform | Kratzstamm für Katzen, 40 x 30 x 44 cm, mit Spielball, G",
+      "price": 14924.0,
+      "reviews": 15,
+      "rating": 4.1,
+      "rank": 25,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "15 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0GZPYB46C",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/817GbxromXL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6X26Y6H",
+      "name": "Frontscheibe Abdeckung Auto Winter, gegen Eis, Schnee, Frost Sonnenschutz | 4-lagige Extra Dick Frostschutz",
+      "price": 116.82,
+      "reviews": 99,
+      "rating": 4.8,
+      "rank": 1,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "99 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6X26Y6H",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/818IjqUUYrL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H55MHX5H",
+      "name": "Bowagn Frontscheibenabdeckung Auto Winter,Frostschutz Auto Frontscheibe | Schützt vor Eis und Schnee,Schützt vor Frost,S",
+      "price": 98.37,
+      "reviews": 25,
+      "rating": 4.6,
+      "rank": 2,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "25 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0H55MHX5H",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Qd1+62PRL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H8P23GD1",
+      "name": "BIRDDIE 148x110cm Frontscheibenabdeckung Winter Auto Frostschutz Abdeckung | Mit Rückspiegelabdeckung Frostabdeckung Son",
+      "price": 104.52,
+      "reviews": 63,
+      "rating": 4.3,
+      "rank": 3,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "63 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0H8P23GD1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81dPu14NBcL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMX56JSL",
+      "name": "BERGSTEIN® Scheibenenteiser Spray [6x500 ml] Enteiserspray Auto -30 °C | Scheibenenteiser Spray | Enteiserspray Auto | E",
+      "price": 19741.0,
+      "reviews": 39,
+      "rating": 4.6,
+      "rank": 4,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "39 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMX56JSL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81TheZJ2+uL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HHN15KS6",
+      "name": "Frontscheibenabdeckung Magnetisch Windschutzscheibenabdeckung mit Seitenspiegel Frostschutz Auto Frontscheibe Abdeckung ",
+      "price": 99.25,
+      "reviews": 12,
+      "rating": 5.0,
+      "rank": 5,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "12 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHN15KS6",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71QgZoR5bdL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPPR5NCN",
+      "name": "RITUALS Homme Collection Autoduft Set, Arabischer Amber, 2 x 3 g | Luxus-Autoduft, nachfüllbares Design, langanhaltender",
+      "price": 15298.0,
+      "reviews": 1059,
+      "rating": 4.5,
+      "rank": 6,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1059 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPPR5NCN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41jUNfKl4-L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGY26858",
+      "name": "DiliDala Handstaubsauger Akku, 32000PA Handstaubsauger Auto, EIN-Touch-Staubbehälter Handstaubsauger Akku Testsieger Kab",
+      "price": 32198.0,
+      "reviews": 136,
+      "rating": 4.6,
+      "rank": 7,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "136 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGY26858",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61L-7K+rHFL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HKWNSWW6",
+      "name": "Friesenthal Auto Scheibenenteiser Enteiser Spray Auto KFZ Scheiben Enteiser 12 Flaschen 6L",
+      "price": 21951.0,
+      "reviews": 132,
+      "rating": 4.3,
+      "rank": 8,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "132 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0HKWNSWW6",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81zVoYo-nJL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H8GLMJR5",
+      "name": "200W KFZ Heizung Autoheizung: Tragbar Auto Heizlüfter 12V Zigarettenanzünder 12 volt akku Standheizung Ventilator Defogg",
+      "price": 21936.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 9,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0H8GLMJR5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71CITQbORaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HNZS7LNS",
+      "name": "Elektrischer Eiskratzer Auto mit Rotierender Scheibe für Winter, Neu-1Pcs | Kabelloser USB-Aufladbarer Scheibenkratzer, ",
+      "price": 24147.0,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 10,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HNZS7LNS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71LQ5fsl8pL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPPMHS6G",
+      "name": "RITUALS The Ritual of Karma Autoduft Set, Lotusblüte, 2 x 3 g | Luxus-Autoduft, nachfüllbares Design, langanhaltender Pr",
+      "price": 15298.0,
+      "reviews": 1,
+      "rating": 4.0,
+      "rank": 11,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPPMHS6G",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51CNfX06V7L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7S4D945",
+      "name": "JelKen Auto Frontscheibenabdeckung Winter, Faltbarer Sonnenschutz, Verdickte und Reißfest Windschutzscheibenabdeckung mi",
+      "price": 104.52,
+      "reviews": 64,
+      "rating": 4.4,
+      "rank": 12,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "64 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7S4D945",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715uSOoA-kL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPFJ2WG3",
+      "name": "ACEZUK 9000A Starthilfe Powerbank 12V für Benziner & 10,0L Diesel | Auto Starthilfe mit LED-Taschenlampe, großen Bildsch",
+      "price": 29549.0,
+      "reviews": 151,
+      "rating": 4.7,
+      "rank": 13,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "151 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPFJ2WG3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61F3AFt4g7L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HK3R2S93",
+      "name": "Sauberkugel® Saubergeist Innenraumreiniger Auto für Zwischenräume | Handgefertigt für Lüftungsschlitze, Getränkehalter, ",
+      "price": 10943.0,
+      "reviews": 163,
+      "rating": 4.3,
+      "rank": 14,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "163 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0HK3R2S93",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716F+9pS-zL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGLT7H7J",
+      "name": "HEEGFF Autoheizung, Tragbare Auto-Heizung, 360 ° Rotation Winter Auto Defogger Kit, 2 in 1 Auto Heizlüfter und Kühlfunkt",
+      "price": 21219.0,
+      "reviews": 6,
+      "rating": 5.0,
+      "rank": 15,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "6 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGLT7H7J",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/710EJ7aZ0cL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HN2PJWWC",
+      "name": "ROBBYROB Scheibenfrostschutz Konzentrat 2 x 5 L bis -60 °C – Winter | Für Auto & Scheibenwaschanlage – polycarbonatvertr",
+      "price": 13607.0,
+      "reviews": 24,
+      "rating": 4.8,
+      "rank": 16,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "24 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HN2PJWWC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715qjFn3TqL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6B9KT11",
+      "name": "Nyamofly Frontscheibenabdeckung Winter, Windschutzscheibenabdeckung Frostschutz Auto mit 6 Windschutzseilen, Scheibenabd",
+      "price": 14632.0,
+      "reviews": 6,
+      "rating": 4.4,
+      "rank": 17,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "6 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6B9KT11",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81ncAEy92eL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HFVKMMKG",
+      "name": "2 Stück Elektromagnetische Auto-Enteiser, Scheibenenteiser für den Winter | Mikrowellen- und Molekularinterferenz, Eis- ",
+      "price": 13900.0,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 18,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HFVKMMKG",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/8119gQAKt7L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HD5YTNML",
+      "name": "WORKPRO Elektrischer Eiskratzer Auto, Akku Scheibenkratzer, 3200 U/min | Ergonomischer Griff Für Müheloses Enteisen, 30 ",
+      "price": 307.49,
+      "reviews": 0,
+      "rating": 0.0,
+      "rank": 19,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 avis",
+      "amazon_url": "https://www.amazon.de/dp/B0HD5YTNML",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716i61pm25L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HRTHV3PB",
+      "name": "Kivermo Hoffmarkt Icewave Anti-Frost-System, Ice Wave Enteiser Für Autos",
+      "price": 21951.0,
+      "reviews": 2,
+      "rating": 5.0,
+      "rank": 20,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HRTHV3PB",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61BvsoSxjaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H956N8X3",
+      "name": "Ninja CRISPi Airfryer, 1x 3,8-Liter- und 2x 2,3-Liter-Glasbehälter, Deckel | 4-in-1: Heißluftfrittieren, Braten, Warmhal",
+      "price": 719.65,
+      "reviews": 2999,
+      "rating": 4.5,
+      "rank": 1,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2999 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0H956N8X3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81K5TNowWkL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GJV2VWJW",
+      "name": "3 x Alu Cuttermesser Profi Set 18mm (Metall Gehäuse) - inkl. 13x SK5 Carbonstahl Klingen extra scharf - Cuttermesser Set",
+      "price": 7085.0,
+      "reviews": 1101,
+      "rating": 4.7,
+      "rank": 2,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1101 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0GJV2VWJW",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81cSrO-5OqL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HNVKV7K5",
+      "name": "Bienenwachs Brotbeutel 2 Stück, 43×33 cm Wiederverwendbar für Brot | Aufbewahrung Frischhalten mit Reißverschluss, Langl",
+      "price": 116.82,
+      "reviews": 315,
+      "rating": 4.4,
+      "rank": 3,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "315 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0HNVKV7K5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81leKNPVnuL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7RN15HW",
+      "name": "Kitchen in the box Kompakte Küchenmaschine 3,5 L, Rührmaschine & Knetmaschine mit 10 Geschwindigkeiten, Leichte Teigmasc",
+      "price": 307.49,
+      "reviews": 1732,
+      "rating": 4.2,
+      "rank": 4,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1732 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7RN15HW",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71NLdsp74GL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}
