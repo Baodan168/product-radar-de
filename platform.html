@@ -1,0 +1,2024 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>选品平台 | 2026-11-25</title>
+<link rel='icon' type='image/svg+xml' href='data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"%3E%3Ccircle cx="24" cy="24" r="22" fill="none" stroke="%235856D6" stroke-width="2"/%3E%3Ccircle cx="24" cy="24" r="3" fill="%235856D6"/%3E%3C/svg%3E'>
+<link rel="stylesheet" href="shared/oa-theme.css?v=202611250905">
+
+</head>
+<body>
+<main class="shell">
+
+  <header class="hero" id="sectionTop">
+    <div class="hero-main">
+      <div class="hero-headline">
+        <div class="hero-logo">🎯</div>
+        <div>
+          <p class="hero-tag">SELECTION PLATFORM</p>
+          <h1>选品平台</h1>
+        </div>
+      </div>
+      <p class="hero-sub">每天上下午定时运行、实时多源搜索、提供趋势选品方向</p>
+    </div>
+  </header>
+
+<div class="date-bar">
+  <label>📅 日期：</label>
+  <select id="datePicker"></select>
+  <div class="stats" id="dateStats"></div>
+</div>
+
+<div class="main-tabs">
+  <button class="main-tab active" data-tab="discovery" style="--tc:var(--purple)">🔍 趋势发现 <span class="cnt" id="discCnt">0</span></button>
+  <button class="main-tab" data-tab="radar" style="--tc:var(--blue)">📡 雷达扫描 <span class="cnt" id="radarCnt">0</span></button>
+  <button class="main-tab" data-tab="festival" style="--tc:var(--orange)">📅 节日选品 <span class="cnt">16</span></button>
+  <button class="main-tab" data-tab="kanban" style="--tc:var(--green)">📋 选品看板</button>
+  </div>
+
+<!-- DISCOVERY -->
+<div class="section active" id="sec-discovery">
+  <div id="forecastArea"></div>
+  <div id="seasonBar" class="season-bar"></div>
+  <div class="insight-list" id="insightList"></div>
+  <div class="empty" id="emptyDisc" style="display:none">
+    <div style="font-size:48px;margin-bottom:12px">🔍</div>
+    <p>该日期无趋势发现数据</p>
+  </div>
+</div>
+
+<!-- RADAR -->
+<div class="section" id="sec-radar">
+  <div class="st-filter">
+    <span class="lbl">状态:</span>
+    <button class="st-tab" data-status="pending" style="--s-c:#8e8e93">待评估</button>
+    <button class="st-tab" data-status="supplier" style="--s-c:#007AFF">找供应商</button>
+    <button class="st-tab" data-status="sample" style="--s-c:#FF9500">已采样</button>
+    <button class="st-tab" data-status="listed" style="--s-c:#34C759">已上架</button>
+    <button class="st-tab" data-status="rejected" style="--s-c:#FF3B30">不考虑</button>
+    <button class="st-tab active" data-status="all">全部</button>
+  </div>
+  <div class="filter-bar">
+    <div class="search-box"><input type="text" id="radarSearch" placeholder="🔍 搜索产品名称..."/></div>
+    <div class="fg"><label>利润率:</label><select id="fMargin"><option value="all">全部</option><option value="30">≥30%</option><option value="25">≥25%</option><option value="20">≥20%</option></select></div>
+    <div class="fg"><label>排序:</label><select id="fSort"><option value="score">评分↓</option><option value="margin">利润率↓</option><option value="new">新发现优先</option></select></div>
+    <button class="btn-export" data-act="export-csv">📥 导出CSV</button>
+  </div>
+  <div class="product-grid" id="radarGrid"></div>
+  <div class="empty" id="emptyRadar" style="display:none">
+    <div style="font-size:48px;margin-bottom:12px">📡</div>
+    <p id="emptyRadarMsg">该日期无雷达数据</p>
+  </div>
+</div>
+
+<!-- FESTIVAL -->
+<div class="section" id="sec-festival">
+  
+    <div class="festival-header">
+      <h2>📅 Festival Planner 2026 Jul - 2027 Jun | 16 Events | 52 SKUs</h2>
+      <div class="countdown">
+        今日 <strong>2026-11-25</strong>
+        · 最近备货节点：<strong>💝 情人节（Valentinstag）</strong>（2027-02-14）· 选品截止 <strong>2026-11-29</strong> · <span class="badge week">🟠本周启动</span>
+      </div>
+    </div>
+    
+    <div class="stat-cards">
+      <div class="stat-card urgent" onclick="filterByUrgency('urgent')">
+        <div class="num">6</div>
+        <div class="label">🔴 紧急（已过截止）</div>
+      </div>
+      <div class="stat-card week" onclick="filterByUrgency('week')">
+        <div class="num">1</div>
+        <div class="label">🟠 本周必须启动</div>
+      </div>
+      <div class="stat-card month" onclick="filterByUrgency('month')">
+        <div class="num">0</div>
+        <div class="label">🟡 本月需备货</div>
+      </div>
+      <div class="stat-card plan" onclick="filterByUrgency('plan')">
+        <div class="num">7</div>
+        <div class="label">🟢 规划观察中</div>
+      </div>
+    </div>
+    
+    <!-- 2026-08-28 季节选品面板 -->
+    <div class="season-nav"><button class="season-btn" data-season="spring" onclick="setSeason(this, 'spring')">🌸 春季(3-5月)</button> <button class="season-btn" data-season="summer" onclick="setSeason(this, 'summer')">☀️ 夏季(6-8月)</button> <button class="season-btn season-btn-active" data-season="autumn" onclick="setSeason(this, 'autumn')">🍂 秋季(9-11月)</button> <button class="season-btn" data-season="winter" onclick="setSeason(this, 'winter')">❄️ 冬季(12-2月)</button></div><div id="seasonPanelWrap">      <div class="season-panel" id="seasonPanel-spring" data-season="spring" style="display:none"><div class="season-panel-head"><span class="season-panel-title">🌸 春季选品推荐（3-5月）</span><span class="season-panel-meta">覆盖 3 个节日事件 · 24 个推荐方向</span></div><div class="season-panel-note">🔎 以下关键词已自动注入每日雷达扫描（与季节同步轮换），点击月份按钮查看该季节节日</div><div class="season-region-tags"><span class="region-tag">🇬🇧 UK全境: 标准春(3-5月)</span></div><div class="season-kw-list"><span class="season-kw">spring cleaning tools</span><span class="season-kw">garden tools</span><span class="season-kw">kitchen gadgets</span><span class="season-kw">home decor</span><span class="season-kw">storage solutions</span><span class="season-kw">mothers day gift</span><span class="season-kw">plant pots</span><span class="season-kw">garden gloves</span><span class="season-kw">lawn care starter kit</span><span class="season-kw">garden accessories</span><span class="season-kw">easter decoration</span><span class="season-kw">outdoor tools</span><span class="season-kw">party supplies</span><span class="season-kw">cleaning supplies</span><span class="season-kw">bird feeder</span><span class="season-kw">wildlife friendly garden</span><span class="season-kw">herb growing kit</span><span class="season-kw">BBQ accessories</span><span class="season-kw">garden decor</span><span class="season-kw">picnic items</span><span class="season-kw">outdoor cushions</span><span class="season-kw">garden lighting</span><span class="season-kw">outdoor storage box</span><span class="season-kw">patio heater cover</span></div>      </div>      <div class="season-panel" id="seasonPanel-summer" data-season="summer" style="display:none"><div class="season-panel-head"><span class="season-panel-title">☀️ 夏季选品推荐（6-8月）</span><span class="season-panel-meta">覆盖 1 个节日事件 · 25 个推荐方向</span></div><div class="season-panel-note">🔎 以下关键词已自动注入每日雷达扫描（与季节同步轮换），点击月份按钮查看该季节节日</div><div class="season-region-tags"><span class="region-tag">🇬🇧 UK全境: 标准夏(6-8月)</span></div><div class="season-kw-list"><span class="season-kw">travel accessories</span><span class="season-kw">car cleaning</span><span class="season-kw">outdoor gadgets</span><span class="season-kw">water bottle</span><span class="season-kw">picnic set</span><span class="season-kw">camping accessories</span><span class="season-kw">fathers day gift</span><span class="season-kw">garden hose</span><span class="season-kw">outdoor rug</span><span class="season-kw">outdoor accessories</span><span class="season-kw">BBQ tools</span><span class="season-kw">travel gadgets</span><span class="season-kw">car accessories</span><span class="season-kw">camping gear</span><span class="season-kw">beach accessories</span><span class="season-kw">prime day deals</span><span class="season-kw">portable fan</span><span class="season-kw">shade sail</span><span class="season-kw">back to school stationery</span><span class="season-kw">lunch box</span><span class="season-kw">desk organiser</span><span class="season-kw">storage</span><span class="season-kw">outdoor cooling</span><span class="season-kw">garden storage box</span><span class="season-kw">outdoor cushions storage</span></div>      </div>      <div class="season-panel" id="seasonPanel-autumn" data-season="autumn" style="display:block"><div class="season-panel-head"><span class="season-panel-title">🍂 秋季选品推荐（9-11月） <span class="season-cur-tag">当前</span></span><span class="season-panel-meta">覆盖 6 个节日事件 · 23 个推荐方向</span></div><div class="season-panel-note">🔎 以下关键词已自动注入每日雷达扫描（与季节同步轮换），点击月份按钮查看该季节节日</div><div class="season-deadline-bar">❄️ 冬季空运截止已过（2026-10-15），仅限现货/快铁</div><div class="season-region-tags"><span class="region-tag">🇬🇧 UK全境: 标准秋(9-11月)</span></div><div class="season-kw-list"><span class="season-kw">kitchen gadgets</span><span class="season-kw">autumn decor</span><span class="season-kw">desk accessories</span><span class="season-kw">storage organiser</span><span class="season-kw">candles</span><span class="season-kw">university essentials</span><span class="season-kw">leaf blower accessory</span><span class="season-kw">garden tool organiser</span><span class="season-kw">halloween decoration</span><span class="season-kw">autumn garden tools</span><span class="season-kw">party supplies</span><span class="season-kw">bird feeder</span><span class="season-kw">bird accessories</span><span class="season-kw">greenhouse heater</span><span class="season-kw">plant covers</span><span class="season-kw">garden waste bags</span><span class="season-kw">christmas decoration</span><span class="season-kw">gift ideas</span><span class="season-kw">tinsel garlands</span><span class="season-kw">blanket throw</span><span class="season-kw">black friday deals</span><span class="season-kw">outdoor christmas lighting</span><span class="season-kw">christmas tree accessories</span></div>      </div>      <div class="season-panel" id="seasonPanel-winter" data-season="winter" style="display:none"><div class="season-panel-head"><span class="season-panel-title">❄️ 冬季选品推荐（12-2月）</span><span class="season-panel-meta">覆盖 6 个节日事件 · 24 个推荐方向</span></div><div class="season-panel-note">🔎 以下关键词已自动注入每日雷达扫描（与季节同步轮换），点击月份按钮查看该季节节日</div><div class="season-region-tags"><span class="region-tag">🇬🇧 UK全境: 标准冬(12-2月)</span></div><div class="season-kw-list"><span class="season-kw">christmas gifts</span><span class="season-kw">party supplies</span><span class="season-kw">storage organiser</span><span class="season-kw">kitchen gadgets</span><span class="season-kw">travel accessories</span><span class="season-kw">home decor</span><span class="season-kw">heated throws</span><span class="season-kw">winter garden care</span><span class="season-kw">fire pit accessories</span><span class="season-kw">desk accessories</span><span class="season-kw">meal prep containers</span><span class="season-kw">cleaning tools</span><span class="season-kw">kitchen gadgets new year</span><span class="season-kw">thermal gloves</span><span class="season-kw">heated blanket</span><span class="season-kw">door draft stopper</span><span class="season-kw">winter warmers</span><span class="season-kw">valentine gift ideas</span><span class="season-kw">romantic gift</span><span class="season-kw">decorative items</span><span class="season-kw">gift packaging</span><span class="season-kw">garden storage</span><span class="season-kw">outdoor furniture covers</span><span class="season-kw">window boxes</span></div>      </div></div>
+
+    <div class="month-nav">
+      <a href="#month-1" onclick="scrollToMonth(1)">1月</a><a href="#month-2" onclick="scrollToMonth(2)">2月</a><a href="#month-3" onclick="scrollToMonth(3)">3月</a><a href="#month-4" onclick="scrollToMonth(4)">4月</a><a href="#month-5" onclick="scrollToMonth(5)">5月</a><a href="#month-6" onclick="scrollToMonth(6)">6月</a><a href="#month-7" onclick="scrollToMonth(7)">7月</a><a href="#month-8" onclick="scrollToMonth(8)">8月</a><a href="#month-9" onclick="scrollToMonth(9)">9月</a><a href="#month-10" onclick="scrollToMonth(10)">10月</a><a href="#month-11" onclick="scrollToMonth(11)">11月</a><a href="#month-12" onclick="scrollToMonth(12)">12月</a>
+    </div>
+    
+    <!-- 2026-08-28 季节选品面板 -->
+    <div class="season-filter-bar">
+    </div>
+    
+    <div class="filter-bar festival-filter-bar">
+      <div class="filter-group">
+        <label>品类</label>
+        <select id="filterCategory" onchange="filterFestivals()">
+          <option value="">全部</option>
+          <option value="decor">🎀装饰</option>
+          <option value="gift">🎁礼品</option>
+          <option value="apparel">👕服饰</option>
+          <option value="home">🏠家居</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label>月份</label>
+        <select id="filterMonth" onchange="filterFestivals()">
+          <option value="">全部</option>
+          <option value="1">1月</option><option value="2">2月</option><option value="3">3月</option><option value="4">4月</option><option value="5">5月</option><option value="6">6月</option><option value="7">7月</option><option value="8">8月</option><option value="9">9月</option><option value="10">10月</option><option value="11">11月</option><option value="12">12月</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label>紧急度</label>
+        <select id="filterUrgency" onchange="filterFestivals()">
+          <option value="">全部</option>
+          <option value="urgent">🔴紧急</option>
+          <option value="week">🟠本周</option>
+          <option value="month">🟡本月</option>
+          <option value="plan">🟢规划</option>
+          <option value="past">⚫已过</option>
+        </select>
+      </div>
+      <input type="text" id="filterSearch" placeholder="搜索节日/SKU/关键词..." oninput="filterFestivals()">
+      <label class="filter-toggle">
+        <input type="checkbox" id="filterHidePast" checked onchange="filterFestivals()">
+        隐藏已过节日
+      </label>
+      <button id="resetFilter" onclick="resetFilters()">重置</button>
+    </div>
+    
+    <div class="festival-list">
+    
+      <div class="month-section" id="month-2" data-month="2">
+        <h2>2月 (2)</h2>
+        <div class="festival-cards">
+        
+      <div class="festival-card" id="festival-karneval-2027" data-urgency="urgent" data-category="seasonal" data-month="2" style="border-left-color:#db2777">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🎭</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">狂欢节（Karneval / Fasching）</span>
+                <span class="name-en">Karneval Germany</span>
+                
+              </div>
+              <div class="card-meta">
+                2027-02-08 · 4 SKUs · ✈️ 空运 截止 2027-01-09 · 🚆 卡航/快铁 截止 2026-12-23 · 🚢 海运 截止 2026-11-23
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag urgent">⚠️ 🔴紧急</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (4)</button><button class="cat-pill" onclick="filterProductCat(this, 'deco')">📦 deco (4)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">狂欢节面部亮片贴（Kölle Alaaf风）</div>
+                  <div class="sku-en">Carnival Face Gems</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1-2</td>
+                <td class="price">€6.99-8.99</td>
+                <td class="margin">约65-75%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=karneval%20gesicht%20tattoo" target="_blank">🛒 karneval gesicht tattoo</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=face%20gems%20fasching" target="_blank">🛒 face gems fasching</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=schminksteine%20carnival" target="_blank">🛒 schminksteine carnival</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%C1%C1%C6%AC%C3%E6%B2%BF%CC%F9%20%D7%D4%D5%B3" target="_blank">🏭 亮片面部贴 自粘</a></td>
+              </tr>
+                    
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">派对羽毛披肩（多彩）</div>
+                  <div class="sku-en">Feather Boa Costume Accessory</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1.5-2.5</td>
+                <td class="price">€7.99-9.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=federboa%20karneval" target="_blank">🛒 federboa karneval</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=kost%C3%BCm%20zubeh%C3%B6r%20fasching" target="_blank">🛒 kostüm zubehör fasching</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=verkleidung%20accessoires" target="_blank">🛒 verkleidung accessoires</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%BB%F0%BC%A6%D3%F0%C3%AB%C5%FB%BC%E7" target="_blank">🏭 火鸡羽毛披肩</a></td>
+              </tr>
+                    
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">小丑鼻子+侦探斗篷道具包</div>
+                  <div class="sku-en">Clown Nose &amp; Cape Prop Set</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1.5-3</td>
+                <td class="price">€7.99-9.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★☆☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=clownsnase%20karneval" target="_blank">🛒 clownsnase karneval</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=kost%C3%BCm%20zubeh%C3%B6r%20set" target="_blank">🛒 kostüm zubehör set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=fasching%20requisiten" target="_blank">🛒 fasching requisiten</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%BA%A3%C3%E0%B1%C7%2B%C5%FB%B7%E7" target="_blank">🏭 海绵鼻+披风</a></td>
+              </tr>
+                    
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">纸帽子派对套装</div>
+                  <div class="sku-en">Festive Party Hat</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1-2</td>
+                <td class="price">€6.99-8.99</td>
+                <td class="margin">约65-75%</td>
+                <td class="match">★★★☆☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=partyh%C3%BCte%20set" target="_blank">🛒 partyhüte set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=karneval%20m%C3%BCtze%20kinder" target="_blank">🛒 karneval mütze kinder</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=faschingshut" target="_blank">🛒 faschingshut</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%D7%B6%D0%CE%C5%C9%B6%D4%C3%B1" target="_blank">🏭 锥形派对帽</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+      <div class="festival-card" id="festival-valentinstag-2027" data-urgency="week" data-category="seasonal" data-month="2" style="border-left-color:#e11d48">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">💝</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">情人节（Valentinstag）</span>
+                <span class="name-en">Valentines Day Germany</span>
+                
+              </div>
+              <div class="card-meta">
+                2027-02-14 · 3 SKUs · ✈️ 空运 截止 2027-01-15 · 🚆 卡航/快铁 截止 2026-12-29 · 🚢 海运 截止 2026-11-29
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag week">⏰ 🟠本周启动</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (3)</button><button class="cat-pill" onclick="filterProductCat(this, 'deco')">📦 deco (1)</button><button class="cat-pill" onclick="filterProductCat(this, 'home')">🏠 家居 (2)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">爱心LED串灯（电池款）</div>
+                  <div class="sku-en">Heart LED String Lights</div>
+                  <span class="compliance-flag review" title="疑似被过滤词误伤，需人工复核合规性">⚠️ 待复核</span>
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1.5-3</td>
+                <td class="price">€8.99-11.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=herz%20lichterkette" target="_blank">🛒 herz lichterkette</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=valentinstag%20deko%20led" target="_blank">🛒 valentinstag deko led</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=herzen%20deko%20zimmer" target="_blank">🛒 herzen deko zimmer</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%B0%AE%D0%C4%D4%EC%D0%CDLED%B4%AE" target="_blank">🏭 爱心造型LED串</a></td>
+              </tr>
+                    
+              <tr data-cat="home">
+                <td>
+                  <div class="sku-name">丝绒首饰收纳盒（爱心形）</div>
+                  <div class="sku-en">Heart Jewelry Box Velvet</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#10b98115;color:#10b981">🏠 家居</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€9.99-12.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=schmuckk%C3%A4stchen%20herz" target="_blank">🛒 schmuckkästchen herz</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=geschenk%20freundin%20schmuck" target="_blank">🛒 geschenk freundin schmuck</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=valentinstag%20geschenk%20box" target="_blank">🛒 valentinstag geschenk box</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CB%BF%C8%DE%CA%D7%CA%CE%BA%D0" target="_blank">🏭 丝绒首饰盒</a></td>
+              </tr>
+                    
+              <tr data-cat="home">
+                <td>
+                  <div class="sku-name">礼品袋+贺卡套装</div>
+                  <div class="sku-en">Gift Bag &amp; Card Set</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#10b98115;color:#10b981">🏠 家居</span></td>
+                <td class="cost">€1.5-2.5</td>
+                <td class="price">€7.99-9.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=geschenkt%C3%BCten%20valentinstag" target="_blank">🛒 geschenktüten valentinstag</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=gru%C3%9Fkarte%20liebe%20set" target="_blank">🛒 grußkarte liebe set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=geschenkverpackung%20herz" target="_blank">🛒 geschenkverpackung herz</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%C0%F1%C6%B7%B4%FC%BA%D8%BF%A8" target="_blank">🏭 礼品袋贺卡</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+        </div>
+      </div>
+        
+      <div class="month-section" id="month-3" data-month="3">
+        <h2>3月 (1)</h2>
+        <div class="festival-cards">
+        
+      <div class="festival-card" id="festival-ostern-2027" data-urgency="plan" data-category="seasonal" data-month="3" style="border-left-color:#fbbf24">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🐣</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">复活节（Ostern）</span>
+                <span class="name-en">Easter Germany</span>
+                
+              </div>
+              <div class="card-meta">
+                2027-03-28 · 4 SKUs · ✈️ 空运 截止 2027-02-26 · 🚆 卡航/快铁 截止 2027-02-09 · 🚢 海运 截止 2027-01-10
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag plan">✅ 🟢规划中</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (4)</button><button class="cat-pill" onclick="filterProductCat(this, 'deco')">📦 deco (2)</button><button class="cat-pill" onclick="filterProductCat(this, 'home')">🏠 家居 (1)</button><button class="cat-pill" onclick="filterProductCat(this, 'kitchen')">📦 kitchen (1)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">彩蛋装饰挂件套装（24只）</div>
+                  <div class="sku-en">Easter Egg Ornaments Set</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€8.99-11.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=ostereier%20deko%20set" target="_blank">🛒 ostereier deko set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=eier%20zum%20aufh%C3%A4ngen" target="_blank">🛒 eier zum aufhängen</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=osterbasteln%20kinder" target="_blank">🛒 osterbasteln kinder</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CB%DC%C1%CF%B2%CA%B5%B0%B9%D2%CA%CE24%D6%BB" target="_blank">🏭 塑料彩蛋挂饰24只</a></td>
+              </tr>
+                    
+              <tr data-cat="home">
+                <td>
+                  <div class="sku-name">复活节藤编篮子（找蛋用）</div>
+                  <div class="sku-en">Easter Basket Wicker</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#10b98115;color:#10b981">🏠 家居</span></td>
+                <td class="cost">€2-4</td>
+                <td class="price">€9.99-13.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=osterkorb%20kind" target="_blank">🛒 osterkorb kind</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=nestkorb%20ostern" target="_blank">🛒 nestkorb ostern</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=eierkorb%20weide" target="_blank">🛒 eierkorb weide</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%C1%F8%B1%E0%D0%A1%C0%BA%2B%D6%BD%CB%BF" target="_blank">🏭 柳编小篮+纸丝</a></td>
+              </tr>
+                    
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">兔子造型桌饰/花环</div>
+                  <div class="sku-en">Bunny Table Wreath</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€8.99-12.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=osterdeko%20tisch" target="_blank">🛒 osterdeko tisch</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=hase%20kranz%20fr%C3%BChling" target="_blank">🛒 hase kranz frühling</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=ostern%20hase%20deko" target="_blank">🛒 ostern hase deko</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%C3%AB%D5%B1%CD%C3%D7%D3%BB%A8%BB%B7" target="_blank">🏭 毛毡兔子花环</a></td>
+              </tr>
+                    
+              <tr data-cat="kitchen">
+                <td>
+                  <div class="sku-name">彩蛋染色工具套装</div>
+                  <div class="sku-en">Egg Dyeing Kit</div>
+                  <span class="compliance-flag review" title="疑似被过滤词误伤，需人工复核合规性">⚠️ 待复核</span>
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 kitchen</span></td>
+                <td class="cost">€1-2</td>
+                <td class="price">€6.99-8.99</td>
+                <td class="margin">约65-75%</td>
+                <td class="match">★★★☆☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=eierf%C3%A4rben%20set" target="_blank">🛒 eierfärben set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=osterfarben%20eier" target="_blank">🛒 osterfarben eier</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=eier%20bemalen%20kinder" target="_blank">🛒 eier bemalen kinder</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CA%B3%C6%B7%C9%AB%CB%D8%C8%BE%B5%B0%D6%BD%A3%A8%CA%B3%C6%B7%BD%D3%B4%A5%BC%B6%A3%A9" target="_blank">🏭 食品色素染蛋纸（食品接触级）</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+        </div>
+      </div>
+        
+      <div class="month-section" id="month-5" data-month="5">
+        <h2>5月 (2)</h2>
+        <div class="festival-cards">
+        
+      <div class="festival-card" id="festival-vatertag-2027" data-urgency="plan" data-category="seasonal" data-month="5" style="border-left-color:#0ea5e9">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon"> Fathers Day Germany</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">父亲节/升天节（Vatertag）</span>
+                <span class="name-en">Fathers Day Germany</span>
+                
+              </div>
+              <div class="card-meta">
+                2027-05-06 · 3 SKUs · ✈️ 空运 截止 2027-04-06 · 🚆 卡航/快铁 截止 2027-03-20 · 🚢 海运 截止 2027-02-18
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag plan">✅ 🟢规划中</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (3)</button><button class="cat-pill" onclick="filterProductCat(this, 'outdoor')">📦 outdoor (2)</button><button class="cat-pill" onclick="filterProductCat(this, 'kitchen')">📦 kitchen (1)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="outdoor">
+                <td>
+                  <div class="sku-name">折叠野餐垫（防水背带）</div>
+                  <div class="sku-en">Foldable Picnic Blanket</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 outdoor</span></td>
+                <td class="cost">€2.5-4</td>
+                <td class="price">€9.99-13.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=picknickdecke%20faltbar" target="_blank">🛒 picknickdecke faltbar</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=outdoor%20decke%20wasserdicht" target="_blank">🛒 outdoor decke wasserdicht</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=vatertag%20geschenk%20praktisch" target="_blank">🛒 vatertag geschenk praktisch</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%BC%D3%BA%F1%C5%A3%BD%F2%B2%BC%D2%B0%B2%CD%B5%E6" target="_blank">🏭 加厚牛津布野餐垫</a></td>
+              </tr>
+                    
+              <tr data-cat="outdoor">
+                <td>
+                  <div class="sku-name">车载手机支架（磁吸）</div>
+                  <div class="sku-en">Magnetic Car Phone Mount</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 outdoor</span></td>
+                <td class="cost">€1.5-3</td>
+                <td class="price">€8.99-12.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=handyh%20magnetic%20auto" target="_blank">🛒 handyh magnetic auto</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=autohalterung%20magnetisch" target="_blank">🛒 autohalterung magnetisch</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=kfz%20handyhalter" target="_blank">🛒 kfz handyhalter</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%B4%C5%CE%FC%B3%B5%D4%D8%D6%A7%BC%DC" target="_blank">🏭 磁吸车载支架</a></td>
+              </tr>
+                    
+              <tr data-cat="kitchen">
+                <td>
+                  <div class="sku-name">户外保温壶（不锈钢1L）</div>
+                  <div class="sku-en">Stainless Thermos Flask 1L</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 kitchen</span></td>
+                <td class="cost">€3-5</td>
+                <td class="price">€12.99-13.99</td>
+                <td class="margin">约45-55%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=isolierkanne%20edelstahl" target="_blank">🛒 isolierkanne edelstahl</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=thermosflasche%20outdoor" target="_blank">🛒 thermosflasche outdoor</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=vatertag%20outdoorgeschenk" target="_blank">🛒 vatertag outdoorgeschenk</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=316%B2%BB%D0%E2%B8%D6%B1%A3%CE%C2%BA%F8" target="_blank">🏭 316不锈钢保温壶</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+      <div class="festival-card" id="festival-muttertag-2027" data-urgency="plan" data-category="seasonal" data-month="5" style="border-left-color:#f472b6">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">💐</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">母亲节（Muttertag）</span>
+                <span class="name-en">Mothers Day Germany</span>
+                
+              </div>
+              <div class="card-meta">
+                2027-05-09 · 3 SKUs · ✈️ 空运 截止 2027-04-09 · 🚆 卡航/快铁 截止 2027-03-23 · 🚢 海运 截止 2027-02-21
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag plan">✅ 🟢规划中</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (3)</button><button class="cat-pill" onclick="filterProductCat(this, 'home')">🏠 家居 (3)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="home">
+                <td>
+                  <div class="sku-name">丝绒首饰盘（多层）</div>
+                  <div class="sku-en">Jewelry Tray Velvet</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#10b98115;color:#10b981">🏠 家居</span></td>
+                <td class="cost">€2.5-4</td>
+                <td class="price">€9.99-13.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=schmuckaufbewahrung%20damen" target="_blank">🛒 schmuckaufbewahrung damen</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=schmuckkasten%20klein" target="_blank">🛒 schmuckkasten klein</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=geschenk%20muttertag" target="_blank">🛒 geschenk muttertag</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CB%BF%C8%DE%B6%E0%B2%E3%CA%D7%CA%CE%C5%CC" target="_blank">🏭 丝绒多层首饰盘</a></td>
+              </tr>
+                    
+              <tr data-cat="home">
+                <td>
+                  <div class="sku-name">梳妆丝绒收纳盘（多层）</div>
+                  <div class="sku-en">Velvet Vanity Tray</div>
+                  <span class="compliance-flag review" title="疑似被过滤词误伤，需人工复核合规性">⚠️ 待复核</span>
+                </td>
+                <td><span class="cat-tag" style="background:#10b98115;color:#10b981">🏠 家居</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€9.99-12.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=schmuckablage%20damen" target="_blank">🛒 schmuckablage damen</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=kommmode%20ablage" target="_blank">🛒 kommmode ablage</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=muttertag%20geschenk%20stilvoll" target="_blank">🛒 muttertag geschenk stilvoll</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CC%D5%B4%C9%CF%E3%DE%B9%C6%BF%A3%A8%BF%D5%C6%BF%A3%AC%B2%BB%BA%AC%CF%E3%D2%BA%A3%A9" target="_blank">🏭 陶瓷香薰瓶（空瓶，不含香液）</a></td>
+              </tr>
+                    
+              <tr data-cat="home">
+                <td>
+                  <div class="sku-name">鲜花保鲜手提盒</div>
+                  <div class="sku-en">Flower Carrying Box</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#10b98115;color:#10b981">🏠 家居</span></td>
+                <td class="cost">€2-3</td>
+                <td class="price">€8.99-11.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=blumenbox%20tragbar" target="_blank">🛒 blumenbox tragbar</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=blumen%20geschenkbox" target="_blank">🛒 blumen geschenkbox</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=blumenhalter%20auto" target="_blank">🛒 blumenhalter auto</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%C5%A3%C6%A4%CA%D6%CC%E1%BB%A8%BA%D0" target="_blank">🏭 牛皮手提花盒</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+        </div>
+      </div>
+        
+      <div class="month-section" id="month-8" data-month="8">
+        <h2>8月 (1)</h2>
+        <div class="festival-cards">
+        
+      <div class="festival-card" id="festival-schulanfang-2027" data-urgency="plan" data-category="seasonal" data-month="8" style="border-left-color:#3b82f6">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🎒</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">开学季（Schulanfang）</span>
+                <span class="name-en">Back to School Germany</span>
+                
+              </div>
+              <div class="card-meta">
+                2027-08-09 · 3 SKUs · ✈️ 空运 截止 2027-07-10 · 🚆 卡航/快铁 截止 2027-06-23 · 🚢 海运 截止 2027-05-24
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag plan">✅ 🟢规划中</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (3)</button><button class="cat-pill" onclick="filterProductCat(this, 'office')">📦 office (3)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="office">
+                <td>
+                  <div class="sku-name">磁性周计划白板（冰箱贴）</div>
+                  <div class="sku-en">Magnetic Weekly Planner Board</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 office</span></td>
+                <td class="cost">€2-4</td>
+                <td class="price">€9.99-13.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=wochenplaner%20magnetisch" target="_blank">🛒 wochenplaner magnetisch</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=k%C3%BChlschrank%20whiteboard" target="_blank">🛒 kühlschrank whiteboard</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=familienplaner%20magnet" target="_blank">🛒 familienplaner magnet</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%B4%C5%D0%D4%B0%D7%B0%E5%D6%DC%BC%C6%BB%AE" target="_blank">🏭 磁性白板周计划</a></td>
+              </tr>
+                    
+              <tr data-cat="office">
+                <td>
+                  <div class="sku-name">桌面文具收纳架（多格）</div>
+                  <div class="sku-en">Desk Organiser Stationery Holder</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 office</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€8.99-12.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=stiftehalter%20schreibtisch" target="_blank">🛒 stiftehalter schreibtisch</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=schreibtisch%20organizer" target="_blank">🛒 schreibtisch organizer</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=stiftebox%20kinder" target="_blank">🛒 stiftebox kinder</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%D7%C0%C3%E6%B6%E0%B8%F1%CA%D5%C4%C9" target="_blank">🏭 桌面多格收纳</a></td>
+              </tr>
+                    
+              <tr data-cat="office">
+                <td>
+                  <div class="sku-name">姓名标签贴纸（防水可打印）</div>
+                  <div class="sku-en">Waterproof Name Labels</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 office</span></td>
+                <td class="cost">€1-2</td>
+                <td class="price">€6.99-8.99</td>
+                <td class="margin">约65-75%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=namensaufkleber%20wasserfest" target="_blank">🛒 namensaufkleber wasserfest</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=etiketten%20kinder%20schule" target="_blank">🛒 etiketten kinder schule</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=beschriftungsetiketten" target="_blank">🛒 beschriftungsetiketten</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%B7%C0%CB%AE%D0%D5%C3%FB%CC%F9" target="_blank">🏭 防水姓名贴</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+        </div>
+      </div>
+        
+      <div class="month-section" id="month-9" data-month="9">
+        <h2>9月 (1)</h2>
+        <div class="festival-cards">
+        
+      <div class="festival-card" id="festival-herbst-garten-2027" data-urgency="plan" data-category="garden" data-month="9" style="border-left-color:#d97706">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🍂</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">秋园整理季（Herbst im Garten）</span>
+                <span class="name-en">Autumn Garden Germany</span>
+                
+              </div>
+              <div class="card-meta">
+                2027-09-15 · 3 SKUs · ✈️ 空运 截止 2027-08-16 · 🚆 卡航/快铁 截止 2027-07-30 · 🚢 海运 截止 2027-06-30
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag plan">✅ 🟢规划中</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (3)</button><button class="cat-pill" onclick="filterProductCat(this, 'outdoor')">📦 outdoor (3)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="outdoor">
+                <td>
+                  <div class="sku-name">落叶收集爪</div>
+                  <div class="sku-en">Leaf Scoop Claw</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 outdoor</span></td>
+                <td class="cost">€1.5-3</td>
+                <td class="price">€8.99-11.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=laubgreifer%20handschuh" target="_blank">🛒 laubgreifer handschuh</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=laubkescher%20claws" target="_blank">🛒 laubkescher claws</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=bl%C3%A4tter%20sammeln" target="_blank">🛒 blätter sammeln</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CB%DC%C1%CF%C2%E4%D2%B6%D7%A6" target="_blank">🏭 塑料落叶爪</a></td>
+              </tr>
+                    
+              <tr data-cat="outdoor">
+                <td>
+                  <div class="sku-name">植物防冻罩（无纺布）</div>
+                  <div class="sku-en">Plant Frost Protection Fleece</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 outdoor</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€8.99-12.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=pflanzenvlies%20winterschutz" target="_blank">🛒 pflanzenvlies winterschutz</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=frostschutz%20garten" target="_blank">🛒 frostschutz garten</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=pflanzen%20abdeckung" target="_blank">🛒 pflanzen abdeckung</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CE%DE%B7%C4%B2%BC%B7%C0%B6%B3%B2%BC" target="_blank">🏭 无纺布防冻布</a></td>
+              </tr>
+                    
+              <tr data-cat="outdoor">
+                <td>
+                  <div class="sku-name">花园杂物收纳袋（大号立式）</div>
+                  <div class="sku-en">Garden Waste Bag Large</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 outdoor</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€8.99-12.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=gartensack%20laub" target="_blank">🛒 gartensack laub</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=abfallsack%20garten%20gro%C3%9F" target="_blank">🛒 abfallsack garten groß</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=laubsack%20faltbar" target="_blank">🛒 laubsack faltbar</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=PP%B1%E0%D6%AF%C1%A2%CA%BD%B4%FC" target="_blank">🏭 PP编织立式袋</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+        </div>
+      </div>
+        
+      <div class="month-section" id="month-10" data-month="10">
+        <h2>10月 (2)</h2>
+        <div class="festival-cards">
+        
+      <div class="festival-card" id="festival-halloween-2026" data-urgency="past" data-category="seasonal" data-month="10" style="border-left-color:#ff7518">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🎃</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">万圣节（Halloween）</span>
+                <span class="name-en">Halloween Germany</span>
+                
+              </div>
+              <div class="card-meta">
+                2026-10-31 · 4 SKUs · ✈️ 空运 截止 2026-10-01 · 🚆 卡航/快铁 截止 2026-09-14 · 🚢 海运 截止 2026-08-15
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag past">⚫ ⚫已过</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (4)</button><button class="cat-pill" onclick="filterProductCat(this, 'kitchen')">📦 kitchen (1)</button><button class="cat-pill" onclick="filterProductCat(this, 'deco')">📦 deco (3)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="kitchen">
+                <td>
+                  <div class="sku-name">南瓜雕刻工具套装</div>
+                  <div class="sku-en">Pumpkin Carving Kit</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 kitchen</span></td>
+                <td class="cost">€1.5-3</td>
+                <td class="price">€7.99-9.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=k%C3%BCrbis%20schnitz%20set" target="_blank">🛒 kürbis schnitz set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=k%C3%BCrbis%20messer%20kinder" target="_blank">🛒 kürbis messer kinder</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=halloween%20k%C3%BCrbis%20deko" target="_blank">🛒 halloween kürbis deko</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%C4%CF%B9%CF%B5%F1%BF%CC%B9%A4%BE%DF%20%B2%BB%D0%E2%B8%D6%BE%E2%B3%DD%B2%F9" target="_blank">🏭 南瓜雕刻工具 不锈钢锯齿铲</a></td>
+              </tr>
+                    
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">蜘蛛网桌布（镂空蕾丝黑）</div>
+                  <div class="sku-en">Spider Web Lace Tablecloth</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€8.99-11.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=spinnennetz%20tischdecke" target="_blank">🛒 spinnennetz tischdecke</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=halloween%20tischdeko" target="_blank">🛒 halloween tischdeko</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=grusel%20deko%20party" target="_blank">🛒 grusel deko party</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%EF%CE%BF%D5%BA%DA%C0%D9%CB%BF%D7%C0%B2%BC%20%D6%A9%D6%EB%CD%F8" target="_blank">🏭 镂空黑蕾丝桌布 蜘蛛网</a></td>
+              </tr>
+                    
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">蝙蝠墙贴套装（3D立体）</div>
+                  <div class="sku-en">3D Bat Wall Stickers</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1-2</td>
+                <td class="price">€6.99-8.99</td>
+                <td class="margin">约65-75%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=fledermaus%20wanddeko" target="_blank">🛒 fledermaus wanddeko</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=halloween%20wandtattoo%203d" target="_blank">🛒 halloween wandtattoo 3d</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=grusel%20wohnung%20deko" target="_blank">🛒 grusel wohnung deko</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=3D%C1%A2%CC%E5%F2%F9%F2%F0%CC%F9%20%CB%AB%C3%E6%BD%BA%BA%DA%BF%A8" target="_blank">🏭 3D立体蝙蝠贴 双面胶黑卡</a></td>
+              </tr>
+                    
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">派对银纸拉花（黑橙配色）</div>
+                  <div class="sku-en">Halloween Party Foil Garland</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1.5-2.5</td>
+                <td class="price">€7.99-9.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★☆☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=halloween%20girlande%20party" target="_blank">🛒 halloween girlande party</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=festdeko%20orange%20schwarz" target="_blank">🛒 festdeko orange schwarz</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=party%20deko%20halloween" target="_blank">🛒 party deko halloween</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%BD%F0%CA%F4%C0%AD%BB%A8%20%BA%DA%B3%C8" target="_blank">🏭 金属拉花 黑橙</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+      <div class="festival-card" id="festival-einheit-2027" data-urgency="plan" data-category="seasonal" data-month="10" style="border-left-color:#b91c1c">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🇩🇪</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">德国统一日（Tag der Deutschen Einheit）</span>
+                <span class="name-en">Day of German Unity</span>
+                
+              </div>
+              <div class="card-meta">
+                2027-10-03 · 2 SKUs · ✈️ 空运 截止 2027-09-03 · 🚆 卡航/快铁 截止 2027-08-17 · 🚢 海运 截止 2027-07-18
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag plan">✅ 🟢规划中</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (2)</button><button class="cat-pill" onclick="filterProductCat(this, 'deco')">📦 deco (1)</button><button class="cat-pill" onclick="filterProductCat(this, 'outdoor')">📦 outdoor (1)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">黑红金装饰拉旗</div>
+                  <div class="sku-en">Germany Flag Bunting</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1-2</td>
+                <td class="price">€6.99-8.99</td>
+                <td class="margin">约65-75%</td>
+                <td class="match">★★★☆☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=deutschland%20fahnenkette" target="_blank">🛒 deutschland fahnenkette</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=deko%20deutschland%20farben" target="_blank">🛒 deko deutschland farben</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=wimpelkette%20deutschland" target="_blank">🛒 wimpelkette deutschland</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%BA%DA%BA%EC%BD%F0%B4%AE%C6%EC" target="_blank">🏭 黑红金串旗</a></td>
+              </tr>
+                    
+              <tr data-cat="outdoor">
+                <td>
+                  <div class="sku-name">户外野餐毯（德旗配色不推荐→通用格纹）</div>
+                  <div class="sku-en">Outdoor Picnic Rug Check</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 outdoor</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€8.99-12.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★☆☆☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=picknickdecke%20kariert" target="_blank">🛒 picknickdecke kariert</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=outdoor%20decke%20strand" target="_blank">🛒 outdoor decke strand</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=faltdecke%20wetterfest" target="_blank">🛒 faltdecke wetterfest</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%B8%F1%CE%C6%D7%A5%C8%DE%D2%B0%B2%CD%CC%BA" target="_blank">🏭 格纹抓绒野餐毯</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+        </div>
+      </div>
+        
+      <div class="month-section" id="month-11" data-month="11">
+        <h2>11月 (3)</h2>
+        <div class="festival-cards">
+        
+      <div class="festival-card" id="festival-st-martin-2026" data-urgency="past" data-category="kids" data-month="11" style="border-left-color:#f59e0b">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🏮</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">圣马丁节（St. Martin / Laternenfest）</span>
+                <span class="name-en">St. Martin Lantern Festival</span>
+                
+              </div>
+              <div class="card-meta">
+                2026-11-11 · 4 SKUs · ✈️ 空运 截止 2026-10-12 · 🚆 卡航/快铁 截止 2026-09-25 · 🚢 海运 截止 2026-08-26
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag past">⚫ ⚫已过</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (4)</button><button class="cat-pill" onclick="filterProductCat(this, 'deco')">📦 deco (2)</button><button class="cat-pill" onclick="filterProductCat(this, 'outdoor')">📦 outdoor (2)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">灯笼亲子DIY材料包（动物造型）</div>
+                  <div class="sku-en">Lantern Craft Kit Animal</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€2-4</td>
+                <td class="price">€9.99-13.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=laternen%20bastelset" target="_blank">🛒 laternen bastelset</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=laterne%20st%20martin" target="_blank">🛒 laterne st martin</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=bastelset%20festlich" target="_blank">🛒 bastelset festlich</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%B6%F9%CD%AFDIY%B5%C6%C1%FD%B2%C4%C1%CF%B0%FC%20%CA%D6%CC%E1%B8%CB" target="_blank">🏭 儿童DIY灯笼材料包 手提杆</a></td>
+              </tr>
+                    
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">麦秆星灯罩（手工材料，不含灯）</div>
+                  <div class="sku-en">Straw Star Shade Craft</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1-2</td>
+                <td class="price">€6.99-8.99</td>
+                <td class="margin">约65-75%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=strohstern%20bastelset" target="_blank">🛒 strohstern bastelset</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=weihnachtsstern%20deko" target="_blank">🛒 weihnachtsstern deko</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=fensterstern%20papier" target="_blank">🛒 fensterstern papier</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%B5%E7%B3%D8LED%B9%D2%B5%C6%20%B7%C0%CC%CC%BF%C7%A3%A8%B2%BB%B4%F8%B5%E7%B3%D8%B7%A2%BB%F5%A3%A9" target="_blank">🏭 电池LED挂灯 防烫壳（不带电池发货）</a></td>
+              </tr>
+                    
+              <tr data-cat="outdoor">
+                <td>
+                  <div class="sku-name">灯笼杆（可伸缩铝合金）</div>
+                  <div class="sku-en">Telescopic Lantern Stick</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 outdoor</span></td>
+                <td class="cost">€1-2</td>
+                <td class="price">€6.99-8.99</td>
+                <td class="margin">约65-75%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=laterne%20stab%20kinder" target="_blank">🛒 laterne stab kinder</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=laternenstock" target="_blank">🛒 laternenstock</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=martinslaterne%20stange" target="_blank">🛒 martinslaterne stange</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%C9%EC%CB%F5%B8%CB%20%CB%DC%C1%CF%B9%B3" target="_blank">🏭 伸缩杆 塑料钩</a></td>
+              </tr>
+                    
+              <tr data-cat="outdoor">
+                <td>
+                  <div class="sku-name">反光贴纸（儿童书包/外套用）</div>
+                  <div class="sku-en">Reflective Safety Stickers</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 outdoor</span></td>
+                <td class="cost">€0.8-1.5</td>
+                <td class="price">€6.99-8.99</td>
+                <td class="margin">约70-80%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=reflektierender%20aufkleber%20kinder" target="_blank">🛒 reflektierender aufkleber kinder</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=warnwesten%20aufkleber" target="_blank">🛒 warnwesten aufkleber</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=sicherheit%20reflektor" target="_blank">🛒 sicherheit reflektor</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%B7%B4%B9%E2%CC%F9%20%D0%C7%D0%CE%2F%B0%AE%D0%C4" target="_blank">🏭 反光贴 星形/爱心</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+      <div class="festival-card" id="festival-black-friday-2026" data-urgency="urgent" data-category="promo" data-month="11" style="border-left-color:#111827">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🖤</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">黑色星期五（Black Friday）</span>
+                <span class="name-en">Black Friday Germany</span>
+                
+              </div>
+              <div class="card-meta">
+                2026-11-27 · 3 SKUs · ✈️ 空运 截止 2026-10-28 · 🚆 卡航/快铁 截止 2026-10-11 · 🚢 海运 截止 2026-09-11
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag urgent">⚠️ 🔴紧急</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (3)</button><button class="cat-pill" onclick="filterProductCat(this, 'kitchen')">📦 kitchen (2)</button><button class="cat-pill" onclick="filterProductCat(this, 'bathroom')">📦 bathroom (1)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="kitchen">
+                <td>
+                  <div class="sku-name">厨房抽屉分隔收纳（可调）</div>
+                  <div class="sku-en">Adjustable Drawer Organiser</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 kitchen</span></td>
+                <td class="cost">€2-4</td>
+                <td class="price">€9.99-13.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=schubladenorganizer%20k%C3%BCche" target="_blank">🛒 schubladenorganizer küche</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=besteckschublade%20einlage" target="_blank">🛒 besteckschublade einlage</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=schublade%20sortierer" target="_blank">🛒 schublade sortierer</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%BF%C9%B5%F7%D6%F1%C4%BE%B7%D6%B8%F4" target="_blank">🏭 可调竹木分隔</a></td>
+              </tr>
+                    
+              <tr data-cat="kitchen">
+                <td>
+                  <div class="sku-name">冰箱保鲜收纳盒套装</div>
+                  <div class="sku-en">Fridge Organiser Bins</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 kitchen</span></td>
+                <td class="cost">€2.5-4</td>
+                <td class="price">€9.99-13.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=k%C3%BChlschrank%20organizer%20set" target="_blank">🛒 kühlschrank organizer set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=vorratsboxen%20transparent" target="_blank">🛒 vorratsboxen transparent</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=frischhaltebox%20stapelbar" target="_blank">🛒 frischhaltebox stapelbar</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CD%B8%C3%F7PET%CA%D5%C4%C9%BA%D0" target="_blank">🏭 透明PET收纳盒</a></td>
+              </tr>
+                    
+              <tr data-cat="bathroom">
+                <td>
+                  <div class="sku-name">浴室置物架（免打孔）</div>
+                  <div class="sku-en">Adhesive Bathroom Shelf</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 bathroom</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€9.99-12.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=badregal%20ohne%20bohren" target="_blank">🛒 badregal ohne bohren</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=duschablage%20selbstklebend" target="_blank">🛒 duschablage selbstklebend</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=badezimmer%20organizer" target="_blank">🛒 badezimmer organizer</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CC%AB%BF%D5%C2%C1%D6%C3%CE%EF%BC%DC%2B3M%CC%F9" target="_blank">🏭 太空铝置物架+3M贴</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+      <div class="festival-card" id="festival-advent-2026" data-urgency="urgent" data-category="seasonal" data-month="11" style="border-left-color:#92400e">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🕯️</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">降临节季（1. Advent + Adventskranz）</span>
+                <span class="name-en">First Advent Germany</span>
+                
+              </div>
+              <div class="card-meta">
+                2026-11-29 · 3 SKUs · ✈️ 空运 截止 2026-10-30 · 🚆 卡航/快铁 截止 2026-10-13 · 🚢 海运 截止 2026-09-13
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag urgent">⚠️ 🔴紧急</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (3)</button><button class="cat-pill" onclick="filterProductCat(this, 'deco')">📦 deco (3)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">降临节花环基座（藤编素环）</div>
+                  <div class="sku-en">Advent Wreath Base Vine</div>
+                  <span class="compliance-flag review" title="疑似被过滤词误伤，需人工复核合规性">⚠️ 待复核</span>
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€3-5</td>
+                <td class="price">€12.99-13.99</td>
+                <td class="margin">约45-55%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=adventskranz%20rohling" target="_blank">🛒 adventskranz rohling</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=gestecke%20kranz" target="_blank">🛒 gestecke kranz</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=weihnachten%20kranz%20basteln" target="_blank">🛒 weihnachten kranz basteln</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%B7%C2%D5%E6%CB%C9%D6%A6%CB%C4%D6%F2%BB%B7" target="_blank">🏭 仿真松枝四烛环</a></td>
+              </tr>
+                    
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">节日烛台（金属四联）</div>
+                  <div class="sku-en">Metal Candle Holder 4-arm</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€2.5-4</td>
+                <td class="price">€9.99-13.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=leuchter%204%20arm%20metall" target="_blank">🛒 leuchter 4 arm metall</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=adventsleuchter" target="_blank">🛒 adventsleuchter</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=kerzenhalter%20weihnachten" target="_blank">🛒 kerzenhalter weihnachten</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CC%FA%D2%D5%CB%C4%C1%AA%D6%F2%CC%A8" target="_blank">🏭 铁艺四联烛台</a></td>
+              </tr>
+                    
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">圣诞布艺桌旗（麻布）</div>
+                  <div class="sku-en">Christmas Table Runner</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1.5-3</td>
+                <td class="price">€7.99-10.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=tischl%C3%A4ufer%20weihnachten" target="_blank">🛒 tischläufer weihnachten</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=adventstisch%20deko" target="_blank">🛒 adventstisch deko</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=mitteltisch%20decke%20festlich" target="_blank">🛒 mitteltisch decke festlich</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%C2%E9%B2%BC%D3%A1%BB%A8%D7%C0%C6%EC" target="_blank">🏭 麻布印花桌旗</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+        </div>
+      </div>
+        
+      <div class="month-section" id="month-12" data-month="12">
+        <h2>12月 (4)</h2>
+        <div class="festival-cards">
+        
+      <div class="festival-card" id="festival-nikolaus-2026" data-urgency="urgent" data-category="seasonal" data-month="12" style="border-left-color:#dc2626">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🎅</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">尼古拉斯日（Nikolaustag）</span>
+                <span class="name-en">Nikolaus Day</span>
+                
+              </div>
+              <div class="card-meta">
+                2026-12-06 · 3 SKUs · ✈️ 空运 截止 2026-11-06 · 🚆 卡航/快铁 截止 2026-10-20 · 🚢 海运 截止 2026-09-20
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag urgent">⚠️ 🔴紧急</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (3)</button><button class="cat-pill" onclick="filterProductCat(this, 'deco')">📦 deco (1)</button><button class="cat-pill" onclick="filterProductCat(this, 'home')">🏠 家居 (1)</button><button class="cat-pill" onclick="filterProductCat(this, 'kitchen')">📦 kitchen (1)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">圣诞长袜/靴子挂件（大号）</div>
+                  <div class="sku-en">Christmas Stocking Large</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1.5-3</td>
+                <td class="price">€7.99-10.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=nikolaus%20stiefel%20deko" target="_blank">🛒 nikolaus stiefel deko</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=weihnachtsstofe%20h%C3%A4ngen" target="_blank">🛒 weihnachtsstofe hängen</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=weihnachtssocke%20gro%C3%9F" target="_blank">🛒 weihnachtssocke groß</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CA%A5%B5%AE%CD%E0%B9%D2%CA%CE%20%C8%DE%C3%E6" target="_blank">🏭 圣诞袜挂饰 绒面</a></td>
+              </tr>
+                    
+              <tr data-cat="home">
+                <td>
+                  <div class="sku-name">迷你礼物盒礼盒三件组</div>
+                  <div class="sku-en">Mini Gift Box Trio</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#10b98115;color:#10b981">🏠 家居</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€8.99-12.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=geschenkboxen%20klein%20set" target="_blank">🛒 geschenkboxen klein set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=nikolaus%20f%C3%BCllung%20box" target="_blank">🛒 nikolaus füllung box</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=weihnachts%20geschenkverpackung" target="_blank">🛒 weihnachts geschenkverpackung</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%C5%A3%C6%A4%D6%BD%C0%F1%BA%D0%2012%BC%FE%CC%D7" target="_blank">🏭 牛皮纸礼盒 12件套</a></td>
+              </tr>
+                    
+              <tr data-cat="kitchen">
+                <td>
+                  <div class="sku-name">圣诞巧克力收纳铁盒</div>
+                  <div class="sku-en">Christmas Tin Box</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 kitchen</span></td>
+                <td class="cost">€1.5-3</td>
+                <td class="price">€7.99-10.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★☆☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=blechdose%20weihnachten" target="_blank">🛒 blechdose weihnachten</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=nikolaus%20dose%20leer" target="_blank">🛒 nikolaus dose leer</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=weihnachtliche%20dosen" target="_blank">🛒 weihnachtliche dosen</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%C2%ED%BF%DA%CC%FA%BA%D0%20%CA%A5%B5%AE%D3%A1" target="_blank">🏭 马口铁盒 圣诞印</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+      <div class="festival-card" id="festival-weihnachten-2026" data-urgency="urgent" data-category="seasonal" data-month="12" style="border-left-color:#16a34a">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🎄</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">圣诞节（Weihnachten）</span>
+                <span class="name-en">Christmas Germany</span>
+                
+              </div>
+              <div class="card-meta">
+                2026-12-25 · 4 SKUs · ✈️ 空运 截止 2026-11-25 · 🚆 卡航/快铁 截止 2026-11-08 · 🚢 海运 截止 2026-10-09
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag urgent">⚠️ 🔴紧急</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (4)</button><button class="cat-pill" onclick="filterProductCat(this, 'deco')">📦 deco (2)</button><button class="cat-pill" onclick="filterProductCat(this, 'kitchen')">📦 kitchen (1)</button><button class="cat-pill" onclick="filterProductCat(this, 'home')">🏠 家居 (1)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">圣诞树装饰球装饰球罐装</div>
+                  <div class="sku-en">Christmas Baubles Jar</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€2.5-4.5</td>
+                <td class="price">€9.99-13.99</td>
+                <td class="margin">约50-60%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=weihnachtskugeln%20set" target="_blank">🛒 weihnachtskugeln set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=baumkugeln%20christbaum" target="_blank">🛒 baumkugeln christbaum</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=weihnachtsbaum%20schmuck" target="_blank">🛒 weihnachtsbaum schmuck</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CA%A5%B5%AE%C7%F2%20%CB%DC%C1%CF%B6%C6%C4%A430%D6%BB" target="_blank">🏭 圣诞球 塑料镀膜30只</a></td>
+              </tr>
+                    
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">降临节花环基座（藤编素环）</div>
+                  <div class="sku-en">Advent Wreath Base Vine</div>
+                  <span class="compliance-flag review" title="疑似被过滤词误伤，需人工复核合规性">⚠️ 待复核</span>
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€2-4</td>
+                <td class="price">€9.99-13.99</td>
+                <td class="margin">约55-65%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=adventskranz%20rohling" target="_blank">🛒 adventskranz rohling</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=gestecke%20kranz" target="_blank">🛒 gestecke kranz</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=weihnachten%20kranz%20basteln" target="_blank">🛒 weihnachten kranz basteln</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CC%D9%B1%E0%BB%B7%2B%CB%C9%B9%FB%BA%EC%B9%FB" target="_blank">🏭 藤编环+松果红果</a></td>
+              </tr>
+                    
+              <tr data-cat="kitchen">
+                <td>
+                  <div class="sku-name">圣诞烘焙模具套装（饼干）</div>
+                  <div class="sku-en">Christmas Cookie Cutter Set</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 kitchen</span></td>
+                <td class="cost">€1.5-3</td>
+                <td class="price">€7.99-10.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=pl%C3%A4tzchenform%20set" target="_blank">🛒 plätzchenform set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=ausstecher%20weihnachten" target="_blank">🛒 ausstecher weihnachten</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=backform%20pl%C3%A4tzchen" target="_blank">🛒 backform plätzchen</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%B2%BB%D0%E2%B8%D6%B1%FD%B8%C9%C4%A3%2012%BC%FE" target="_blank">🏭 不锈钢饼干模 12件</a></td>
+              </tr>
+                    
+              <tr data-cat="home">
+                <td>
+                  <div class="sku-name">礼物包装纸+丝带套装</div>
+                  <div class="sku-en">Gift Wrap &amp; Ribbon Set</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#10b98115;color:#10b981">🏠 家居</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€8.99-12.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=geschenkpapier%20set" target="_blank">🛒 geschenkpapier set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=geschenkband%20weihnachten" target="_blank">🛒 geschenkband weihnachten</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=verpackung%20weihnachten" target="_blank">🛒 verpackung weihnachten</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%BE%ED%CD%B2%B0%FC%D7%B0%D6%BD%2B%CB%BF%B4%F8" target="_blank">🏭 卷筒包装纸+丝带</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+      <div class="festival-card" id="festival-silvester-2026" data-urgency="urgent" data-category="seasonal" data-month="12" style="border-left-color:#7c3aed">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🎉</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">跨年夜（Silvester）</span>
+                <span class="name-en">New Years Eve Germany</span>
+                
+              </div>
+              <div class="card-meta">
+                2026-12-31 · 3 SKUs · ✈️ 空运 截止 2026-12-01 · 🚆 卡航/快铁 截止 2026-11-14 · 🚢 海运 截止 2026-10-15
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag urgent">⚠️ 🔴紧急</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (3)</button><button class="cat-pill" onclick="filterProductCat(this, 'deco')">📦 deco (2)</button><button class="cat-pill" onclick="filterProductCat(this, 'kitchen')">📦 kitchen (1)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">派对金属拉花套装（金银）</div>
+                  <div class="sku-en">New Year Foil Garland Set</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1.5-2.5</td>
+                <td class="price">€7.99-9.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=silvester%20deko%20party" target="_blank">🛒 silvester deko party</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=girlande%20gold%20silber" target="_blank">🛒 girlande gold silber</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=neujahr%20party%20deko" target="_blank">🛒 neujahr party deko</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%BD%F0%CA%F4%C1%F7%CB%D5%C0%AD%BB%A8%20%BD%F0%D2%F8" target="_blank">🏭 金属流苏拉花 金银</a></td>
+              </tr>
+                    
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">数字气球套装（2027）</div>
+                  <div class="sku-en">Number Balloons 2027</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€1-2</td>
+                <td class="price">€6.99-9.99</td>
+                <td class="margin">约65-75%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=zahlen%20luftballons%202027" target="_blank">🛒 zahlen luftballons 2027</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=silvester%20ballon%20set" target="_blank">🛒 silvester ballon set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=neujahr%20deko%20ballon" target="_blank">🛒 neujahr deko ballon</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%C2%C1%C4%A4%CA%FD%D7%D6%C6%F8%C7%F2" target="_blank">🏭 铝膜数字气球</a></td>
+              </tr>
+                    
+              <tr data-cat="kitchen">
+                <td>
+                  <div class="sku-name">派对纸盘纸杯套装</div>
+                  <div class="sku-en">Party Plates &amp; Cups Set</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 kitchen</span></td>
+                <td class="cost">€1.5-3</td>
+                <td class="price">€7.99-10.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★☆☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=partygeschirr%20set" target="_blank">🛒 partygeschirr set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=pappteller%20silvester" target="_blank">🛒 pappteller silvester</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=party%20deko%20tisch" target="_blank">🛒 party deko tisch</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%D6%BD%C5%CC%D6%BD%B1%AD%C5%C9%B6%D4%CC%D7%D7%B0" target="_blank">🏭 纸盘纸杯派对套装</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+      <div class="festival-card" id="festival-weihnachten-2027" data-urgency="plan" data-category="seasonal" data-month="12" style="border-left-color:#16a34a">
+        <div class="card-header" onclick="this.parentElement.classList.toggle('expanded')">
+          <div class="card-left">
+            <span class="festival-icon">🎄</span>
+            <div class="card-info">
+              <div class="card-title">
+                <span class="name-cn">圣诞节 2027（Weihnachten）</span>
+                <span class="name-en">Christmas Germany 2027</span>
+                
+              </div>
+              <div class="card-meta">
+                2027-12-25 · 3 SKUs · ✈️ 空运 截止 2027-11-25 · 🚆 卡航/快铁 截止 2027-11-08 · 🚢 海运 截止 2027-10-09
+              </div>
+            </div>
+          </div>
+          <span class="urgency-tag plan">✅ 🟢规划中</span>
+        </div>
+        <div class="card-body">
+          
+      <div class="products-section">
+        <div class="products-header">
+          <h4>📦 选品建议</h4>
+          <span class="cat-tabs-inline"><button class="cat-pill active" onclick="filterProductCat(this, '')">全部 (3)</button><button class="cat-pill" onclick="filterProductCat(this, 'deco')">📦 deco (1)</button><button class="cat-pill" onclick="filterProductCat(this, 'kitchen')">📦 kitchen (1)</button><button class="cat-pill" onclick="filterProductCat(this, 'home')">🏠 家居 (1)</button></span>
+        </div>
+        <div class="product-table-wrap">
+          <table class="product-table">
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>品类</th>
+                <th>成本</th>
+                <th>售价</th>
+                <th>毛利率</th>
+                <th>匹配度</th>
+                <th>风险</th>
+                <th>Amazon</th>
+                <th>1688</th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr data-cat="deco">
+                <td>
+                  <div class="sku-name">圣诞树装饰球装饰球罐装</div>
+                  <div class="sku-en">Christmas Baubles Jar</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 deco</span></td>
+                <td class="cost">€2.5-4.5</td>
+                <td class="price">€9.99-13.99</td>
+                <td class="margin">约50-60%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=weihnachtskugeln%20set" target="_blank">🛒 weihnachtskugeln set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=baumkugeln%20christbaum" target="_blank">🛒 baumkugeln christbaum</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=weihnachtsbaum%20schmuck" target="_blank">🛒 weihnachtsbaum schmuck</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%CA%A5%B5%AE%C7%F2%20%CB%DC%C1%CF%B6%C6%C4%A430%D6%BB" target="_blank">🏭 圣诞球 塑料镀膜30只</a></td>
+              </tr>
+                    
+              <tr data-cat="kitchen">
+                <td>
+                  <div class="sku-name">圣诞烘焙模具套装（饼干）</div>
+                  <div class="sku-en">Christmas Cookie Cutter Set</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#6b728015;color:#6b7280">📦 kitchen</span></td>
+                <td class="cost">€1.5-3</td>
+                <td class="price">€7.99-10.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★★</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=pl%C3%A4tzchenform%20set" target="_blank">🛒 plätzchenform set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=ausstecher%20weihnachten" target="_blank">🛒 ausstecher weihnachten</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=backform%20pl%C3%A4tzchen" target="_blank">🛒 backform plätzchen</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%B2%BB%D0%E2%B8%D6%B1%FD%B8%C9%C4%A312%BC%FE" target="_blank">🏭 不锈钢饼干模12件</a></td>
+              </tr>
+                    
+              <tr data-cat="home">
+                <td>
+                  <div class="sku-name">礼物包装纸+丝带套装</div>
+                  <div class="sku-en">Gift Wrap &amp; Ribbon Set</div>
+                  
+                </td>
+                <td><span class="cat-tag" style="background:#10b98115;color:#10b981">🏠 家居</span></td>
+                <td class="cost">€2-3.5</td>
+                <td class="price">€8.99-12.99</td>
+                <td class="margin">约60-70%</td>
+                <td class="match">★★★★☆</td>
+                <td><span class="risk risk-low">低</span></td>
+                <td class="links"><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=geschenkpapier%20set" target="_blank">🛒 geschenkpapier set</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=geschenkband%20weihnachten" target="_blank">🛒 geschenkband weihnachten</a><a class="kw-link amazon" href="https://www.amazon.co.uk/s?k=verpackung%20weihnachten" target="_blank">🛒 verpackung weihnachten</a></td>
+                <td class="links"><a class="kw-link ali" rel="noopener noreferrer" href="https://s.1688.com/selloffer/offer_search.htm?keywords=%BE%ED%CD%B2%B0%FC%D7%B0%D6%BD%2B%CB%BF%B4%F8" target="_blank">🏭 卷筒包装纸+丝带</a></td>
+              </tr>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+                
+        </div>
+      </div>
+            
+        </div>
+      </div>
+        
+    </div>
+    
+    <!-- Back to Top Button -->
+    <button id="backToTop" class="back-to-top" onclick="scrollToTop()" title="回到顶部">↑</button>
+    
+    <script>
+    // 筛选功能
+    function filterFestivals() {
+      const category = document.getElementById('filterCategory').value;
+      const month = document.getElementById('filterMonth').value;
+      const urgency = document.getElementById('filterUrgency').value;
+      const search = document.getElementById('filterSearch').value.toLowerCase();
+      const hidePast = document.getElementById('filterHidePast').checked;
+
+      document.querySelectorAll('.festival-card').forEach(card => {
+        const cardMonth = card.dataset.month;
+        const cardUrgency = card.dataset.urgency;
+        const cardCategory = card.dataset.category;
+        const cardText = card.textContent.toLowerCase();
+
+        let show = true;
+        // 已过节日默认收起，除非用户主动在紧急度里选"已过"查看
+        if (hidePast && cardUrgency === 'past' && urgency !== 'past') show = false;
+        if (category && cardCategory !== category) show = false;
+        if (month && cardMonth !== month) show = false;
+        if (urgency && cardUrgency !== urgency) show = false;
+        if (search && !cardText.includes(search)) show = false;
+
+        card.style.display = show ? '' : 'none';
+      });
+      
+      // 隐藏空月份
+      document.querySelectorAll('.month-section').forEach(section => {
+        const visibleCards = section.querySelectorAll('.festival-card:not([style*="display: none"])');
+        section.style.display = visibleCards.length > 0 ? '' : 'none';
+      });
+    }
+    
+    // 按紧急度筛选
+    function filterByUrgency(urgency) {
+      document.getElementById('filterUrgency').value = urgency;
+      filterFestivals();
+      
+      // 滚动到第一个匹配的节日
+      const firstCard = document.querySelector('.festival-card[data-urgency="' + urgency + '"]');
+      if (firstCard) {
+        firstCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        firstCard.classList.add('expanded');
+      }
+    }
+    
+    // 重置筛选
+    function resetFilters() {
+      document.getElementById('filterCategory').value = '';
+      document.getElementById('filterMonth').value = '';
+      document.getElementById('filterUrgency').value = '';
+      document.getElementById('filterSearch').value = '';
+      document.getElementById('filterHidePast').checked = true;
+      filterFestivals();
+    }
+    
+    // 滚动到指定月份
+    function scrollToMonth(month) {
+      const section = document.getElementById('month-' + month);
+      if (section) {
+        section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+    
+    // 产品品类筛选
+    function filterProductCat(btn, cat) {
+      const section = btn.closest('.products-section');
+      section.querySelectorAll('.cat-pill').forEach(t => t.classList.remove('active'));
+      btn.classList.add('active');
+      
+      section.querySelectorAll('.product-table tbody tr').forEach(row => {
+        row.style.display = (!cat || row.dataset.cat === cat) ? '' : 'none';
+      });
+    }
+    
+    // 回到顶部
+    function scrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+    
+    // 显示/隐藏回到顶部按钮
+    window.addEventListener('scroll', function() {
+      const btn = document.getElementById('backToTop');
+      if (btn) {
+        btn.classList.toggle('show', window.scrollY > 300);
+      }
+    });
+
+    // 2026-08-28 季节选品面板数据
+    const seasonPanelData={};
+seasonPanelData["spring"]=["spring cleaning tools", "garden tools", "kitchen gadgets", "home decor", "storage solutions", "mothers day gift", "plant pots", "garden gloves", "lawn care starter kit", "garden accessories", "easter decoration", "outdoor tools", "party supplies", "cleaning supplies", "bird feeder", "wildlife friendly garden", "herb growing kit", "BBQ accessories", "garden decor", "picnic items", "outdoor cushions", "garden lighting", "outdoor storage box", "patio heater cover"];
+seasonPanelData["summer"]=["travel accessories", "car cleaning", "outdoor gadgets", "water bottle", "picnic set", "camping accessories", "fathers day gift", "garden hose", "outdoor rug", "outdoor accessories", "BBQ tools", "travel gadgets", "car accessories", "camping gear", "beach accessories", "prime day deals", "portable fan", "shade sail", "back to school stationery", "lunch box", "desk organiser", "storage", "outdoor cooling", "garden storage box", "outdoor cushions storage"];
+seasonPanelData["autumn"]=["kitchen gadgets", "autumn decor", "desk accessories", "storage organiser", "candles", "university essentials", "leaf blower accessory", "garden tool organiser", "halloween decoration", "autumn garden tools", "party supplies", "bird feeder", "bird accessories", "greenhouse heater", "plant covers", "garden waste bags", "christmas decoration", "gift ideas", "tinsel garlands", "blanket throw", "black friday deals", "outdoor christmas lighting", "christmas tree accessories"];
+seasonPanelData["winter"]=["christmas gifts", "party supplies", "storage organiser", "kitchen gadgets", "travel accessories", "home decor", "heated throws", "winter garden care", "fire pit accessories", "desk accessories", "meal prep containers", "cleaning tools", "kitchen gadgets new year", "thermal gloves", "heated blanket", "door draft stopper", "winter warmers", "valentine gift ideas", "romantic gift", "decorative items", "gift packaging", "garden storage", "outdoor furniture covers", "window boxes"];
+const currentSeasonKey="autumn";
+    function setSeason(btn, key) {
+      document.querySelectorAll('.season-btn').forEach(b => b.classList.remove('season-btn-active'));
+      btn.classList.add('season-btn-active');
+      document.querySelectorAll('.season-panel').forEach(p => {
+        p.style.display = (p.dataset.season === key) ? 'block' : 'none';
+      });
+      const monthMap = {spring:[3,4,5], summer:[6,7,8], autumn:[9,10,11], winter:[12,1,2]};
+      window._seasonMonths = monthMap[key] || [];
+      document.getElementById('filterMonth').value = '';
+      filterFestivals();
+    }
+
+    // 初始加载即收起已过节日（filterHidePast 默认勾选）
+    filterFestivals();
+    </script>
+    
+</div>
+
+<!-- KANBAN -->
+<div class="section" id="sec-kanban">
+  <div class="metrics-row" id="metricsRow"></div>
+  <div class="filter-bar">
+    <div class="search-box"><input type="text" id="kanbanSearch" placeholder="🔍 搜索关键词..."/></div>
+    <button class="btn-export" data-act="export-kanban">📥 导出看板</button>
+    <button class="btn-export" id="pauseInjectBtn" data-act="toggle-inject">⏸️ 暂停注入</button>
+    <span id="syncStatus" class="oa-sync-status" title="看板同步状态">⚪ 未同步</span>
+  </div>
+  <div class="kanban-board" id="kanbanBoard"></div>
+</div>
+
+</main>
+<div class="search-overlay" id="searchOverlay">
+  <div class="search-modal">
+    <div class="search-modal-hd">
+      <span style="font-size:18px">🔍</span>
+      <input type="text" id="globalSearchInput" placeholder="搜索关键词、产品名称..." autocomplete="off"/>
+      <button class="close-btn" data-act="toggle-search">ESC</button>
+    </div>
+    <div class="search-results" id="searchResults"></div>
+  </div>
+</div>
+
+<script src="data/radar-all.js?v=202611250905"></script>
+<script src="data/disc-all.js?v=202611250905"></script>
+<script src="data/festivals.js?v=202611250905"></script>
+<script>window.PLATFORM_DATA = {"DATES": ["2026-11-25", "2026-11-24", "2026-11-23", "2026-11-21", "2026-11-20", "2026-11-19", "2026-11-18", "2026-11-17", "2026-11-16", "2026-11-14", "2026-11-13", "2026-11-12", "2026-11-11", "2026-11-10", "2026-11-09", "2026-11-07", "2026-11-06", "2026-11-05", "2026-11-04", "2026-11-03", "2026-11-02"], "RADAR_DATES": ["2026-11-25", "2026-11-24", "2026-11-23", "2026-11-21", "2026-11-20", "2026-11-19", "2026-11-18", "2026-11-17", "2026-11-16", "2026-11-14", "2026-11-13", "2026-11-12", "2026-11-11", "2026-11-10", "2026-11-09", "2026-11-07", "2026-11-06", "2026-11-05", "2026-11-04", "2026-11-03", "2026-11-02"], "DISC_DATES": ["2026-11-25", "2026-11-21", "2026-11-20", "2026-11-19", "2026-11-18", "2026-11-17", "2026-11-16", "2026-11-14", "2026-11-13", "2026-11-12", "2026-11-11"], "STATUS": {"pending": ["\u5f85\u8bc4\u4f30", "#8e8e93"], "supplier": ["\u627e\u4f9b\u5e94\u5546", "#007AFF"], "sample": ["\u5df2\u91c7\u6837", "#FF9500"], "listed": ["\u5df2\u4e0a\u67b6", "#34C759"], "rejected": ["\u4e0d\u8003\u8651", "#FF3B30"]}, "PROD_STATUS": {}, "SEASON_EVENTS": [{"event_name": "Black Friday / Cyber Monday", "date": "2026-11-27", "days_until": 2, "recommended_categories": ["EVERYTHING \u2014 best sellers", "kitchen", "home", "storage", "gadgets", "gifts"], "sourcing_deadline_air": "2026-10-28", "sourcing_deadline_rail": "2026-10-11", "sourcing_deadline_sea": "2026-09-11", "sourcing_urgency": "OVERDUE", "notes": "BIGGEST sales month. FBA gets congested \u2014 ship by early October!"}, {"event_name": "\ud83d\udda4 \u9ed1\u8272\u661f\u671f\u4e94\uff08Black Friday\uff09", "date": "2026-11-27", "days_until": 2, "recommended_categories": ["kitchen", "kitchen", "bathroom"], "sourcing_deadline_air": "2026-10-28", "sourcing_deadline_rail": "2026-10-11", "sourcing_deadline_sea": "2026-09-11", "sourcing_urgency": "OVERDUE", "notes": "Importance: A | 3 SKUs", "source": "festival_planner"}, {"event_name": "\ud83d\udd6f\ufe0f \u964d\u4e34\u8282\u5b63\uff081. Advent + Adventskranz\uff09", "date": "2026-11-29", "days_until": 4, "recommended_categories": ["deco", "deco", "deco"], "sourcing_deadline_air": "2026-10-30", "sourcing_deadline_rail": "2026-10-13", "sourcing_deadline_sea": "2026-09-13", "sourcing_urgency": "OVERDUE", "notes": "Importance: A | 3 SKUs", "source": "festival_planner"}, {"event_name": "\ud83c\udf85 \u5c3c\u53e4\u62c9\u65af\u65e5\uff08Nikolaustag\uff09", "date": "2026-12-06", "days_until": 11, "recommended_categories": ["deco", "home", "kitchen"], "sourcing_deadline_air": "2026-11-06", "sourcing_deadline_rail": "2026-10-20", "sourcing_deadline_sea": "2026-09-20", "sourcing_urgency": "OVERDUE", "notes": "Importance: B | 3 SKUs", "source": "festival_planner"}, {"event_name": "Christmas", "date": "2026-12-25", "days_until": 30, "recommended_categories": ["gift items", "party supplies", "Christmas decorations", "kitchen gadgets", "travel accessories"], "sourcing_deadline_air": "2026-11-25", "sourcing_deadline_rail": "2026-11-08", "sourcing_deadline_sea": "2026-10-09", "sourcing_urgency": "AIR_ONLY", "notes": "Last order dates Dec 18-20. Stock by October!"}, {"event_name": "\ud83c\udf84 \u5723\u8bde\u8282\uff08Weihnachten\uff09", "date": "2026-12-25", "days_until": 30, "recommended_categories": ["deco", "deco", "kitchen"], "sourcing_deadline_air": "2026-11-25", "sourcing_deadline_rail": "2026-11-08", "sourcing_deadline_sea": "2026-10-09", "sourcing_urgency": "OVERDUE", "notes": "Importance: A | 4 SKUs", "source": "festival_planner"}, {"event_name": "Boxing Day / Post-Christmas", "date": "2026-12-26", "days_until": 31, "recommended_categories": ["storage", "organisers", "sale items", "home refresh"], "sourcing_deadline_air": "2026-11-26", "sourcing_deadline_rail": "2026-11-09", "sourcing_deadline_sea": "2026-10-10", "sourcing_urgency": "AIR_ONLY", "notes": "Boxing Day sales + returns period"}, {"event_name": "New Year's Eve", "date": "2026-12-31", "days_until": 36, "recommended_categories": ["party supplies", "decorations", "kitchen gadgets"], "sourcing_deadline_air": "2026-12-01", "sourcing_deadline_rail": "2026-11-14", "sourcing_deadline_sea": "2026-10-15", "sourcing_urgency": "AIR_ONLY", "notes": "NYE entertaining"}, {"event_name": "\ud83c\udf89 \u8de8\u5e74\u591c\uff08Silvester\uff09", "date": "2026-12-31", "days_until": 36, "recommended_categories": ["deco", "deco", "kitchen"], "sourcing_deadline_air": "2026-12-01", "sourcing_deadline_rail": "2026-11-14", "sourcing_deadline_sea": "2026-10-15", "sourcing_urgency": "OVERDUE", "notes": "Importance: B | 3 SKUs", "source": "festival_planner"}, {"event_name": "New Year / January Declutter", "date": "2027-01-02", "days_until": 38, "recommended_categories": ["storage", "organiser", "desk accessories", "meal prep"], "sourcing_deadline_air": "2026-12-03", "sourcing_deadline_rail": "2026-11-16", "sourcing_deadline_sea": "2026-10-17", "sourcing_urgency": "AIR_ONLY", "notes": "Post-Christmas returns, gift card redemptions, resolutions"}, {"event_name": "Veganuary / Health Kick", "date": "2027-01-05", "days_until": 41, "recommended_categories": ["kitchen gadgets", "meal prep", "storage containers"], "sourcing_deadline_air": "2026-12-06", "sourcing_deadline_rail": "2026-11-19", "sourcing_deadline_sea": "2026-10-20", "sourcing_urgency": "AIR_ONLY", "notes": "Healthy eating drives kitchen accessory sales"}, {"event_name": "\ud83c\udfad \u72c2\u6b22\u8282\uff08Karneval / Fasching\uff09", "date": "2027-02-08", "days_until": 75, "recommended_categories": ["deco", "deco", "deco"], "sourcing_deadline_air": "2027-01-09", "sourcing_deadline_rail": "2026-12-23", "sourcing_deadline_sea": "2026-11-23", "sourcing_urgency": "OVERDUE", "notes": "Importance: A | 4 SKUs", "source": "festival_planner"}, {"event_name": "Valentine's Day", "date": "2027-02-14", "days_until": 81, "recommended_categories": ["gift packaging", "decorative items", "travel accessories", "candle holders"], "sourcing_deadline_air": "2027-01-15", "sourcing_deadline_rail": "2026-12-29", "sourcing_deadline_sea": "2026-11-29", "sourcing_urgency": "OK", "notes": "UK Valentine's \u00a31B+ market. Avoid cosmetics/perfume (forbidden)"}, {"event_name": "\ud83d\udc9d \u60c5\u4eba\u8282\uff08Valentinstag\uff09", "date": "2027-02-14", "days_until": 81, "recommended_categories": ["deco", "home", "home"], "sourcing_deadline_air": "2027-01-15", "sourcing_deadline_rail": "2026-12-29", "sourcing_deadline_sea": "2026-11-29", "sourcing_urgency": "URGENT", "notes": "Importance: A | 3 SKUs", "source": "festival_planner"}, {"event_name": "Half Term (Feb)", "date": "2027-02-17", "days_until": 84, "recommended_categories": ["outdoor accessories", "craft supplies", "car accessories"], "sourcing_deadline_air": "2027-01-18", "sourcing_deadline_rail": "2027-01-01", "sourcing_deadline_sea": "2026-12-02", "sourcing_urgency": "OK", "notes": "Family travel and activity products"}], "METRICS": {}, "SEARCH_INDEX": {"generated": "", "total": 0, "entries": []}, "KANBAN_COLS": [["inbox", "\ud83d\udce5 \u6536\u4ef6\u7bb1", "#007AFF"], ["starred", "\u2b50 \u503c\u5f97\u505a", "#FF9500"], ["verified", "\u2705 \u5df2\u9a8c\u8bc1", "#34C759"]], "INJECT_CFG": {"enabled": true, "festival": {"max_per_event": 3, "days_ahead": 30, "sea_deadline_days": 77}, "discovery": {"max_keywords": 5}, "radar": {"max_products": 10, "new_only": true}}, "LOAD_ERRORS": ["metrics: 'list' object has no attribute 'get'", "search_index: 'list' object has no attribute 'get'"], "SYNC_ENDPOINT": ""};</script>
+<script src="assets/platform.js?v=202611250905"></script>
+
+<!-- 回到顶部（固定显示） -->
+<button class="to-top" id="toTop" aria-label="回到顶部" title="回到顶部">↑</button>
+<script>
+(function () {
+  var b = document.getElementById('toTop');
+  if (!b) return;
+  function findScroller() {
+    var sc = document.scrollingElement || document.documentElement;
+    if (sc.scrollHeight > sc.clientHeight + 50) return sc;
+    var els = document.querySelectorAll('.oa-content-wrap, .content-wrap, [class*="scroll"], main, body');
+    for (var i = 0; i < els.length; i++) {
+      if (els[i].scrollHeight > els[i].clientHeight + 50) return els[i];
+    }
+    return sc;
+  }
+  b.addEventListener('click', function () {
+    findScroller().scrollTo({ top: 0, behavior: 'smooth' });
+  });
+})();
+</script>
+
+<!-- Phase 2.3: Debug panel (?debug=1 to show) -->
+<div id="debugPanel" style="display:none;position:fixed;bottom:0;left:0;right:0;background:#1d1d1f;color:#f5f5f7;padding:12px 20px;font-size:12px;font-family:monospace;z-index:9999;max-height:240px;overflow-y:auto;border-top:2px solid #FF9500">
+  <div style="font-weight:bold;margin-bottom:8px;color:#FF9500">Data Load Status</div>
+  <div id="debugContent"></div>
+</div>
+<script>
+(function () {
+  var errs = (window.PLATFORM_DATA && window.PLATFORM_DATA.LOAD_ERRORS) || [];
+  var dc = document.getElementById('debugContent');
+  if (!errs.length) {
+    var okEl = document.createElement('span');
+    okEl.style.color = '#34C759';
+    okEl.textContent = 'All modules loaded OK';
+    dc.appendChild(okEl);
+  } else {
+    errs.forEach(function (e) {
+      var d = document.createElement('div');
+      d.style.cssText = 'color:#FF3B30;padding:2px 0';
+      d.textContent = 'FAIL: ' + e;   // textContent，不拼 innerHTML
+      dc.appendChild(d);
+    });
+  }
+  if (new URLSearchParams(location.search).get('debug') === '1') {
+    document.getElementById('debugPanel').style.display = 'block';
+  }
+})();
+</script>
+</body>
+</html>
