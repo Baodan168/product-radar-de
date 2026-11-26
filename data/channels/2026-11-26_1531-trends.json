@@ -1,0 +1,239 @@
+{
+  "category_scores": {
+    "lighting": 74,
+    "beauty": 24,
+    "car": 44,
+    "phone": 56,
+    "kitchen": 80,
+    "bathroom": 39,
+    "storage": 12,
+    "home decor": 56,
+    "baby": 6,
+    "eco": 86,
+    "pets": 100,
+    "crafts": 100,
+    "office": 44,
+    "sports": 12,
+    "garden": 50,
+    "seasonal": 50,
+    "travel": 6,
+    "bedding": 6
+  },
+  "category_evidence": {
+    "lighting": [
+      "light",
+      "strip",
+      "led"
+    ],
+    "beauty": [
+      "makeup",
+      "hair",
+      "skincare",
+      "mirror"
+    ],
+    "car": [
+      "car"
+    ],
+    "phone": [
+      "earbuds",
+      "case",
+      "phone"
+    ],
+    "kitchen": [
+      "kitchen",
+      "gadget",
+      "cup",
+      "spice"
+    ],
+    "bathroom": [
+      "bathroom",
+      "mirror",
+      "bath",
+      "toilet"
+    ],
+    "storage": [
+      "box",
+      "basket"
+    ],
+    "home decor": [
+      "mirror",
+      "decor"
+    ],
+    "baby": [
+      "baby"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "pets": [
+      "pet",
+      "toy",
+      "bed",
+      "cat"
+    ],
+    "crafts": [
+      "craft",
+      "stickers",
+      "art"
+    ],
+    "office": [
+      "pen",
+      "laptop"
+    ],
+    "sports": [
+      "sport"
+    ],
+    "garden": [
+      "plant",
+      "garden",
+      "outdoor"
+    ],
+    "seasonal": [
+      "halloween",
+      "gift",
+      "christmas"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "bedding": [
+      "throw"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "lighting": 3,
+      "beauty": 3,
+      "car": 1,
+      "phone": 2,
+      "kitchen": 2,
+      "bathroom": 2,
+      "storage": 1,
+      "home decor": 1,
+      "baby": 1,
+      "eco": 1
+    },
+    "dealabs": {
+      "pets": 2,
+      "crafts": 2,
+      "kitchen": 1,
+      "office": 1,
+      "phone": 2
+    },
+    "temu": {
+      "kitchen": 1,
+      "car": 1,
+      "office": 1,
+      "pets": 2,
+      "sports": 1,
+      "crafts": 2,
+      "garden": 1,
+      "lighting": 1,
+      "phone": 1,
+      "eco": 1
+    },
+    "etsy": {
+      "kitchen": 1,
+      "crafts": 5,
+      "home decor": 3,
+      "eco": 3,
+      "seasonal": 3,
+      "car": 2,
+      "pets": 2
+    },
+    "youtube": {
+      "kitchen": 3,
+      "crafts": 2,
+      "eco": 2,
+      "pets": 2,
+      "seasonal": 1,
+      "car": 1,
+      "lighting": 1,
+      "travel": 1
+    },
+    "google_trends": {
+      "kitchen": 1,
+      "storage": 1,
+      "crafts": 2,
+      "seasonal": 1,
+      "garden": 3,
+      "bathroom": 1,
+      "lighting": 1,
+      "pets": 2,
+      "bedding": 1,
+      "phone": 1,
+      "beauty": 1,
+      "home decor": 2,
+      "eco": 1
+    },
+    "reddit": {
+      "office": 2,
+      "pets": 4,
+      "crafts": 3,
+      "eco": 2,
+      "bathroom": 1,
+      "kitchen": 1,
+      "lighting": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "pets": 1,
+      "sports": 1,
+      "crafts": 1,
+      "phone": 1,
+      "garden": 2,
+      "office": 1,
+      "eco": 2,
+      "lighting": 1
+    }
+  },
+  "cross_validated": {
+    "lighting": 6,
+    "car": 4,
+    "phone": 5,
+    "kitchen": 8,
+    "bathroom": 3,
+    "home decor": 3,
+    "eco": 7,
+    "pets": 7,
+    "crafts": 7,
+    "office": 4,
+    "garden": 3,
+    "seasonal": 3
+  },
+  "demand_keywords": [
+    "accessoire d",
+    "acheter toutes les cat",
+    "aucun n",
+    "autumn clothes sold on",
+    "best sellers",
+    "bonnes affaires sur amazon",
+    "bons plans",
+    "bons plans en",
+    "codes promo",
+    "des coupons",
+    "dressing the",
+    "fall clothes for women",
+    "fleurissez votre ext",
+    "from ghost",
+    "gift ideas trending now",
+    "go to channel",
+    "handmade decor items",
+    "handmade products for home decor",
+    "jardinage en",
+    "la collection",
+    "le service de commerce en",
+    "les articles les plus populaires",
+    "les meilleures boutiques",
+    "les meilleures ventes",
+    "les pires articles amazon",
+    "mes indispensables pour la maison",
+    "mode automne femme v",
+    "mode femme automne",
+    "most anticipated",
+    "popular trending now"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 69822
+}
