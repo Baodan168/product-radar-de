@@ -1,0 +1,217 @@
+{
+  "category_scores": {
+    "lighting": 56,
+    "pets": 91,
+    "kitchen": 80,
+    "car": 44,
+    "beauty": 24,
+    "bathroom": 18,
+    "storage": 39,
+    "baby": 6,
+    "seasonal": 33,
+    "office": 44,
+    "crafts": 100,
+    "eco": 86,
+    "phone": 12,
+    "home decor": 56,
+    "garden": 18,
+    "travel": 6,
+    "sports": 12
+  },
+  "category_evidence": {
+    "lighting": [
+      "light",
+      "led"
+    ],
+    "pets": [
+      "cat",
+      "toy",
+      "pet"
+    ],
+    "kitchen": [
+      "kitchen",
+      "cup",
+      "gadget"
+    ],
+    "car": [
+      "car"
+    ],
+    "beauty": [
+      "hair",
+      "skincare",
+      "makeup"
+    ],
+    "bathroom": [
+      "bathroom",
+      "toilet",
+      "bath"
+    ],
+    "storage": [
+      "basket",
+      "box"
+    ],
+    "baby": [
+      "baby"
+    ],
+    "seasonal": [
+      "gift",
+      "christmas"
+    ],
+    "office": [
+      "pen"
+    ],
+    "crafts": [
+      "craft",
+      "art"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "phone": [
+      "phone",
+      "case"
+    ],
+    "home decor": [
+      "decor"
+    ],
+    "garden": [
+      "outdoor",
+      "garden",
+      "plant"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "sports": [
+      "sport"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "lighting": 1,
+      "pets": 2,
+      "kitchen": 3,
+      "car": 1,
+      "beauty": 2,
+      "bathroom": 2,
+      "storage": 1,
+      "baby": 1,
+      "seasonal": 1
+    },
+    "dealabs": {
+      "office": 1,
+      "crafts": 3,
+      "eco": 2,
+      "kitchen": 1,
+      "lighting": 2
+    },
+    "temu": {
+      "crafts": 4,
+      "phone": 1,
+      "home decor": 2,
+      "eco": 3,
+      "pets": 2,
+      "car": 1
+    },
+    "etsy": {
+      "crafts": 3,
+      "kitchen": 1,
+      "pets": 1,
+      "home decor": 1,
+      "eco": 1,
+      "car": 1,
+      "seasonal": 1
+    },
+    "youtube": {
+      "kitchen": 3,
+      "eco": 2,
+      "pets": 2,
+      "crafts": 1,
+      "beauty": 2,
+      "seasonal": 1,
+      "car": 1,
+      "office": 1,
+      "home decor": 1
+    },
+    "google_trends": {
+      "kitchen": 1,
+      "car": 1,
+      "storage": 2,
+      "crafts": 1,
+      "phone": 1,
+      "garden": 2,
+      "office": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "reddit": {
+      "lighting": 2,
+      "travel": 1,
+      "kitchen": 1,
+      "bathroom": 1,
+      "office": 1,
+      "pets": 2,
+      "crafts": 2,
+      "eco": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "storage": 1,
+      "pets": 4,
+      "sports": 2,
+      "crafts": 3,
+      "garden": 1,
+      "lighting": 1,
+      "home decor": 1,
+      "eco": 2,
+      "office": 1
+    }
+  },
+  "cross_validated": {
+    "lighting": 4,
+    "pets": 6,
+    "kitchen": 7,
+    "car": 5,
+    "storage": 3,
+    "seasonal": 3,
+    "office": 5,
+    "crafts": 7,
+    "eco": 7,
+    "home decor": 5
+  },
+  "demand_keywords": [
+    "alternatives to",
+    "amazon investit",
+    "amazon va concurrencer temu",
+    "amazon vs",
+    "are these",
+    "autumn clothes women sold on",
+    "autumn tops for women",
+    "avec des v",
+    "best selling items",
+    "bons plans",
+    "buy and",
+    "buyers want gardens",
+    "cap sur",
+    "code promo",
+    "color cosmetics",
+    "comment vendre sur",
+    "des achats peu co",
+    "essayez gratuitement",
+    "gift ideas trending now",
+    "handmade decor items",
+    "handmade home decor kitchen and",
+    "handmade products for home decor",
+    "household consumption of goods fell",
+    "hurry before they",
+    "in terms of segment",
+    "jardin d",
+    "la collection",
+    "la communaut",
+    "le commerce conversationnel et social",
+    "le paysage du e"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 73631
+}
