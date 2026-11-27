@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-27",
+  "updated_at": "2026-11-27 08:45",
+  "scan_date": "2026-11-27",
+  "scan_time": "2026-11-27 08:41 CST",
+  "summary": "2026-11-27（Black Friday当日）DE选品发现：聚焦圣诞冲刺周+跨年派对+清洁耗材高确定性需求，产出5个机会——空气炸锅烘焙纸（strong_buy，畅销榜#28直接验证）、硅胶马桶刷（buy，榜单位白地）、派对纸屑（buy，TikTok德国12月趋势#1 Boom Clap）、超细纤维抹布（buy，99K评论验证的耗材复购）、耳环（watch，圣诞wishlist趋势+458%但窗口极紧）。今日通过筛选5个机会全部为近14天未推的新品品类（新品5、复扫0），与11-13至11-26已推品类（圣诞装饰/厨房工具/家居收纳/健身小件）无主品类冲突。",
+  "trend_forecast": "① 圣诞冲刺周（12/18–12/24）：时间节点为12/18至12/24圣诞前最后一周，叠加Advent第3、4个周日（12/13、12/20）与12/24平安夜，驱动事件是最后冲刺送礼、Secret Santa交换、家庭聚会与节前大扫除，品类方向为小体积礼品（平价耳环等首饰）、派对纸屑、厨房与卫浴清洁工具、厨房耗材，此窗口仅适合今日或明日起即能下单的品，最晚空运下单死线11/27（即今日，按12/18倒推3周；今日不下单，该窗口对新采品即关闭，切勿误判之后还能补）。② 圣诞-跨年窗口（12/25–12/31）：时间节点为12/25圣诞次日至12/31 Silvester跨年，驱动事件是跨年派对、年终聚会与年末小礼物，品类方向为派对纸屑、一次性派对用品与装饰小件，最晚空运下单死线12/04（按12/25倒推3周，空运时效10-15天，12/04前下单可确保12/20前入仓、吃满12/20-12/31峰值）。③ 新年重置窗口（1/1–1/10）：时间节点为1/1 Neujahr新年当周，驱动事件是新年计划、大扫除收尾、收纳整理与健身重启，品类方向为清洁耗材（抹布、清洁刷）、家居收纳小件、计划本与文具类，最晚空运下单死线12/11（按1/1倒推3周，适合圣诞后立即补货衔接；注意12/25-12/31期间德国物流与FBA仓收拨延迟，建议提前3-4天入仓）。④ Karneval狂欢节窗口（2/1–2/10）：时间节点为2027年2月上旬、Rosenmontag 2/8为峰值，驱动事件是Fasching/Karneval装扮、派对与装饰，品类方向为派对配件、装扮小件、装饰贴纸类，最晚空运下单死线01/11（按2/1倒推3周），该窗口距今约6-7周，是未来4-8周内最确定的下一波季节需求。以上所有窗口空运时效统一按10-15天计，死线均已扣足3周缓冲，已过线的窗口已剔除，不误导采购排期。",
+  "insights": [
+    {
+      "keyword": "Airfryer-Backpapier",
+      "keyword_cn": "空气炸锅烘焙纸",
+      "amazon_keyword": "Airfryer Backpapier Refill 100 Stück",
+      "search_1688": "空气炸锅专用纸 批发",
+      "demand_signals": [
+        "Amazon.de Home & Kitchen 畅销榜 #28：空气炸锅烘焙纸120张装 €7.59，4.6★/15,380 reviews（2026-11-27 榜单快照，Amazon.de）",
+        "Amazon.de 厨房畅销榜 #7：Ninja 空气炸锅 €139.99/8,487 reviews，空气炸锅高保有量驱动耗材持续复购（2026-11-27 榜单快照，Amazon.de）",
+        "1688 空气炸锅专用烘焙纸货源充足且走量：20cm圆形100张装批发价 ¥0.51-3.44，温州云轩款已售4.8万+件（1688 wiki/义乌购，2026年快照）"
+      ],
+      "trend_score": 84,
+      "trend_direction": "rising",
+      "reason": "耗材复购型刚需，需求不受季节约束，€7.59价格带被Amazon.de畅销榜#28直接验证（15,380 reviews），1688拿货价极低（100张仅¥1.2-3.4），毛利空间大，圣诞烹饪高峰还带来额外增量。",
+      "action": "落店130，定价€7.59（对齐榜价），1688采购词「空气炸锅专用纸 批发」，首单200件空运，12/03前下单（耗材全年需求，上架即吃圣诞烹饪高峰，无需卡窗口）。",
+      "competition": "高——Amazon Basics及大量白牌密集，但耗材复购属性+100张规格差异化，价格带明确可打。",
+      "signal_scores": {
+        "trend": 84,
+        "gap": 58,
+        "profit": 85,
+        "final": 83,
+        "recommendation": "strong_buy"
+      }
+    },
+    {
+      "keyword": "Silikon Toilettenbürste",
+      "keyword_cn": "硅胶马桶刷",
+      "amazon_keyword": "Silikon Toilettenbürste mit Halterung Wand",
+      "search_1688": "硅胶马桶刷 批发",
+      "demand_signals": [
+        "Amazon.de「Household Cleaning Tools & Vacuums」畅销榜 #13：Engelbach 硅胶马桶刷+支架，4.5★/823 reviews/€13.59（2026-11-27 榜单快照，Amazon.de）",
+        "TikTok 德国区12月深度清洁（deep clean）内容持续高热，清洁类为德国区固定爆款题材（playfulmedia TikTok Trends Dezember 2026，2026-11-25）",
+        "圣诞/新年访客前家庭深度清洁刚需，清洁工具节前搜索量上行（德国冬季清洁季，Amazon.de 清洁品类畅销榜，2026-11-27 快照）"
+      ],
+      "trend_score": 78,
+      "trend_direction": "rising",
+      "reason": "榜单#13仅823 reviews即上榜，说明该价位竞争白地充足；TikTok清洁内容长期带货，非季节品全年长尾，避开带壁挂支架套装（超200g红线）只做刷体款，合规且省费。",
+      "action": "落店110，定价€12.99，1688采购词「硅胶马桶刷 批发」（约¥9-12/件），首单100件空运，12/02前下单（12/15前入仓，赶圣诞大扫除+全年长尾）。",
+      "competition": "中等——Engelbach等品牌占榜（823 reviews），同价位白地竞品少，品牌集中度中等。",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 82,
+        "profit": 78,
+        "final": 80,
+        "recommendation": "buy"
+      }
+    },
+    {
+      "keyword": "Konfetti",
+      "keyword_cn": "派对纸屑",
+      "amazon_keyword": "Konfetti Party Silvester Deko Bunt",
+      "search_1688": "派对纸屑 五彩纸屑 批发",
+      "demand_signals": [
+        "TikTok Trends Dezember 2026 趋势 #1「Boom Clap」，核心道具即纸屑抛洒（playfulmedia，2026-11-25）",
+        "德国日历锚点：Silvester 12/31跨年派对高峰+Advent派对季（playfulmedia 12月日历，2026-11-25）",
+        "TikTok Shop DE 11月 Top50 中40个产品环比增长，平台消费热度整体上行（TokConnect，数据至11/21，2026-11-23）"
+      ],
+      "trend_score": 80,
+      "trend_direction": "rising",
+      "reason": "TikTok德国12月趋势#1直送纸屑场景，跨年派对为德国确定性峰值，产品极轻（≤50g）毛利极高，季节窗口清晰，窗口结束即停售不留库存。",
+      "action": "落店3002，定价€7.99，1688采购词「派对纸屑 五彩纸屑 批发」（估价¥1.5-3/套，下单前需核价），首单100件空运，12/04前下单（死线12/04，赶12/20-12/31派对峰值，过线不补）。",
+      "competition": "中高——纸屑品类白牌众多，但多为散装低价，组合装+德国站场景化包装有差异空间。",
+      "signal_scores": {
+        "trend": 80,
+        "gap": 70,
+        "profit": 84,
+        "final": 78,
+        "recommendation": "buy"
+      }
+    },
+    {
+      "keyword": "Mikrofaser-Putztücher",
+      "keyword_cn": "超细纤维抹布",
+      "amazon_keyword": "Mikrofaser Putztücher 8er Set Reinigung",
+      "search_1688": "超细纤维抹布 批发",
+      "demand_signals": [
+        "Amazon.de Home & Kitchen 畅销榜 #12：Amazon Basics 超细纤维抹布24条装 €8.48，4.6★/99,154 reviews（2026-11-27 榜单快照，Amazon.de）",
+        "Amazon.de 畅销榜 #4/#15/#19：Swiffer 除尘拖布替换装系列合计26,998 reviews，除尘擦拭耗材复购需求验证（2026-11-27 榜单快照，Amazon.de）",
+        "圣诞前大扫除刚需，1688抹布类走量货源充足（义乌帝诺珊瑚绒抹布已售139万条，1688义乌商盟页，2026-11 快照）"
+      ],
+      "trend_score": 74,
+      "trend_direction": "stable_rising",
+      "reason": "99K reviews验证的确定性耗材需求，复购属性强，8条装控制在200g内符合轻小件红线，圣诞大扫除+全年长尾双驱动，竞争虽高但价格带和规格明确。",
+      "action": "落店110，定价€7.99，1688采购词「超细纤维抹布 批发」（8条装约¥3-4），首单150件空运，12/02前下单（圣诞大扫除窗口+全年耗材长尾）。",
+      "competition": "高——Amazon Basics品牌+白牌密集，以8条装规格和€7.99价格带切入差异化。",
+      "signal_scores": {
+        "trend": 74,
+        "gap": 55,
+        "profit": 82,
+        "final": 72,
+        "recommendation": "buy"
+      }
+    },
+    {
+      "keyword": "Ohrringe",
+      "keyword_cn": "耳环（925银/不锈钢钉式）",
+      "amazon_keyword": "Ohrringe Damen Edelstahl Gold Vergoldet",
+      "search_1688": "925银耳环 饰品 批发",
+      "demand_signals": [
+        "圣诞wishlist视频11/1-11/19在德国/英/法获2.9M播放、环比+458%增长，首饰是观众最想获得的礼品（Convosight，2026-11-10 更新）",
+        "Amazon.de Handmade 耳环畅销榜：€12.90 不锈钢钉式耳环多款在榜，review仅30-122条，白地竞争（2026-11-27 榜单快照，Amazon.de）",
+        "Amazon.de「Damen Ohrringe」榜 #6：925淡水珍珠耳环 2,245 reviews/4.4★、近月100+购买，平价耳环确定性需求（2026-11-27 快照，Amazon.de）"
+      ],
+      "trend_score": 76,
+      "trend_direction": "rising",
+      "reason": "趋势强（wishlist+458%）与榜单白地并存，€9-13价位有多条在榜验证；但首饰品控/退货风险高于家居品，且圣诞送礼窗口极紧，先小批量测款验证，不做重仓。",
+      "action": "落店3002，定价€12.99，1688采购词「925银耳环 饰品 批发」，首单50件小批量测款，11/30前下单（圣诞送礼窗口最后下单日；若错过则转1月常规铺货，不死追窗口）。",
+      "competition": "高——LIEBESKIND、Senteria、Candyfancy等品牌密集，但€9-13平价钉式耳环存在白地子赛道。",
+      "signal_scores": {
+        "trend": 76,
+        "gap": 60,
+        "profit": 78,
+        "final": 70,
+        "recommendation": "watch"
+      }
+    }
+  ]
+}
