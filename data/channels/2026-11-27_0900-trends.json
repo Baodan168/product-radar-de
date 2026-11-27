@@ -1,0 +1,212 @@
+{
+  "category_scores": {
+    "car": 54,
+    "lighting": 100,
+    "pets": 87,
+    "beauty": 22,
+    "phone": 43,
+    "cleaning": 11,
+    "storage": 37,
+    "crafts": 100,
+    "kitchen": 87,
+    "office": 43,
+    "eco": 71,
+    "home decor": 43,
+    "seasonal": 28,
+    "garden": 6,
+    "bathroom": 6,
+    "sports": 6
+  },
+  "category_evidence": {
+    "car": [
+      "car"
+    ],
+    "lighting": [
+      "led",
+      "light"
+    ],
+    "pets": [
+      "toy",
+      "pet",
+      "cat"
+    ],
+    "beauty": [
+      "hair",
+      "makeup",
+      "skincare"
+    ],
+    "phone": [
+      "earbuds",
+      "phone"
+    ],
+    "cleaning": [
+      "cleaning",
+      "mop"
+    ],
+    "storage": [
+      "box",
+      "basket"
+    ],
+    "crafts": [
+      "craft",
+      "art"
+    ],
+    "kitchen": [
+      "gadget",
+      "spice",
+      "kitchen",
+      "mug",
+      "cup"
+    ],
+    "office": [
+      "pen"
+    ],
+    "eco": [
+      "eco"
+    ],
+    "home decor": [
+      "decor"
+    ],
+    "seasonal": [
+      "gift",
+      "halloween"
+    ],
+    "garden": [
+      "plant"
+    ],
+    "bathroom": [
+      "toilet"
+    ],
+    "sports": [
+      "sport"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "car": 2,
+      "lighting": 2,
+      "pets": 1,
+      "beauty": 3,
+      "phone": 1,
+      "cleaning": 1,
+      "storage": 1,
+      "crafts": 1
+    },
+    "dealabs": {
+      "lighting": 4,
+      "crafts": 3,
+      "kitchen": 1,
+      "pets": 1,
+      "phone": 1
+    },
+    "temu": {
+      "office": 1,
+      "kitchen": 1,
+      "lighting": 2,
+      "pets": 3,
+      "crafts": 2,
+      "phone": 1,
+      "eco": 1
+    },
+    "etsy": {
+      "kitchen": 3,
+      "lighting": 1,
+      "crafts": 4,
+      "home decor": 2,
+      "eco": 2,
+      "seasonal": 3,
+      "pets": 1,
+      "car": 1
+    },
+    "youtube": {
+      "kitchen": 4,
+      "eco": 2,
+      "cleaning": 1,
+      "pets": 2,
+      "phone": 1,
+      "office": 1,
+      "storage": 1,
+      "beauty": 1,
+      "home decor": 1
+    },
+    "google_trends": {
+      "kitchen": 1,
+      "car": 1,
+      "storage": 1,
+      "crafts": 3,
+      "garden": 1,
+      "home decor": 1,
+      "eco": 1
+    },
+    "reddit": {
+      "kitchen": 2,
+      "car": 2,
+      "office": 2,
+      "lighting": 2,
+      "pets": 3,
+      "crafts": 3,
+      "eco": 2,
+      "bathroom": 1,
+      "seasonal": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "storage": 1,
+      "lighting": 3,
+      "pets": 2,
+      "sports": 1,
+      "crafts": 2,
+      "phone": 1,
+      "car": 1,
+      "office": 1,
+      "eco": 2
+    }
+  },
+  "cross_validated": {
+    "car": 5,
+    "lighting": 6,
+    "pets": 7,
+    "phone": 5,
+    "storage": 4,
+    "crafts": 7,
+    "kitchen": 7,
+    "office": 4,
+    "eco": 6,
+    "home decor": 3
+  },
+  "demand_keywords": [
+    "accessoires pour la maison",
+    "alternatives to",
+    "apple i",
+    "are these",
+    "avec des v",
+    "best selling items",
+    "bon plan",
+    "bons plans",
+    "bons plans en",
+    "cocotte en fonte",
+    "code promo",
+    "collection automne hiver",
+    "consommation des m",
+    "consumer trends in e",
+    "cosy fall decor in the",
+    "decorate your home for",
+    "des achats peu co",
+    "ensemble automne hiver mode femme",
+    "ensemble femme tendance printemps et",
+    "french e",
+    "gift ideas trending now",
+    "handmade decor items",
+    "handmade home decor kitchen and",
+    "handmade products for home decor",
+    "jardin d",
+    "je vous montre mes trouvailles",
+    "la collection",
+    "la consommation des m",
+    "les articles les plus populaires",
+    "les meilleures ventes"
+  ],
+  "season": "autumn",
+  "total_queries": 24,
+  "total_results_chars": 74534
+}
