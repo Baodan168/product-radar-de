@@ -1,0 +1,587 @@
+{
+  "scan_date": "2026-11-28",
+  "scan_time": "09:00",
+  "scan_ts": "2026-11-28_0900",
+  "stats": {
+    "total_scanned": 30,
+    "passed": 0,
+    "sources": [
+      "amazon",
+      "amazon_de",
+      "keyword",
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0HHN15KS6",
+      "name": "Frontscheibenabdeckung Magnetisch Windschutzscheibenabdeckung mit Seitenspiegel Frostschutz Auto Frontscheibe Abdeckung ",
+      "price": 16.8,
+      "reviews": 17,
+      "rating": 4.8,
+      "rank": 1,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "17 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HHN15KS6",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71QgZoR5bdL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H8P23GD1",
+      "name": "BIRDDIE 148x110cm Frontscheibenabdeckung Winter Auto Frostschutz Abdeckung | Mit Rückspiegelabdeckung Frostabdeckung Son",
+      "price": 14.28,
+      "reviews": 68,
+      "rating": 4.2,
+      "rank": 2,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "68 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0H8P23GD1",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81dPu14NBcL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HMX56JSL",
+      "name": "BERGSTEIN® Scheibenenteiser Spray [6x500 ml] Enteiserspray Auto -30 °C | Scheibenenteiser Spray | Enteiserspray Auto | E",
+      "price": 2497.0,
+      "reviews": 46,
+      "rating": 4.6,
+      "rank": 3,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "46 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HMX56JSL",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81TheZJ2+uL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H55MHX5H",
+      "name": "Bowagn Frontscheibenabdeckung Auto Winter,Frostschutz Auto Frontscheibe | Schützt vor Eis und Schnee,Schützt vor Frost,S",
+      "price": 8.77,
+      "reviews": 28,
+      "rating": 4.0,
+      "rank": 4,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "28 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0H55MHX5H",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Qd1+62PRL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPPR5NCN",
+      "name": "RITUALS Homme Collection Autoduft Set, Arabischer Amber, 2 x 3 g | Luxus-Autoduft, nachfüllbares Design, langanhaltender",
+      "price": 2090.0,
+      "reviews": 1062,
+      "rating": 4.5,
+      "rank": 5,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1062 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPPR5NCN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41jUNfKl4-L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HGY26858",
+      "name": "DiliDala Handstaubsauger Akku, 32000PA Handstaubsauger Auto, EIN-Touch-Staubbehälter Handstaubsauger Akku Testsieger Kab",
+      "price": 4399.0,
+      "reviews": 146,
+      "rating": 4.6,
+      "rank": 6,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "146 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0HGY26858",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61L-7K+rHFL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6B9KT11",
+      "name": "Nyamofly Frontscheibenabdeckung Winter, Windschutzscheibenabdeckung Frostschutz Auto mit 6 Windschutzseilen, Scheibenabd",
+      "price": 1999.0,
+      "reviews": 6,
+      "rating": 4.4,
+      "rank": 7,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "6 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6B9KT11",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81ncAEy92eL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HRTHV3PB",
+      "name": "Kivermo Hoffmarkt Icewave Anti-Frost-System, Ice Wave Enteiser Für Autos",
+      "price": 2999.0,
+      "reviews": 2,
+      "rating": 5.0,
+      "rank": 8,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HRTHV3PB",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61BvsoSxjaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPFJ2WG3",
+      "name": "ACEZUK 9000A Starthilfe Powerbank 12V für Benziner & 10,0L Diesel | Auto Starthilfe mit LED-Taschenlampe, großen Bildsch",
+      "price": 31.92,
+      "reviews": 161,
+      "rating": 4.8,
+      "rank": 9,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "161 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPFJ2WG3",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61F3AFt4g7L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HPPMHS6G",
+      "name": "RITUALS The Ritual of Karma Autoduft Set, Lotusblüte, 2 x 3 g | Luxus-Autoduft, nachfüllbares Design, langanhaltender Pr",
+      "price": 2090.0,
+      "reviews": 1,
+      "rating": 4.0,
+      "rank": 10,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HPPMHS6G",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51CNfX06V7L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H7S4D945",
+      "name": "JelKen Auto Frontscheibenabdeckung Winter, Faltbarer Sonnenschutz, Verdickte und Reißfest Windschutzscheibenabdeckung mi",
+      "price": 14.28,
+      "reviews": 66,
+      "rating": 4.5,
+      "rank": 11,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "66 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0H7S4D945",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715uSOoA-kL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HNZS7LNS",
+      "name": "Elektrischer Eiskratzer Auto mit Rotierender Scheibe für Winter, Neu-1Pcs | Kabelloser USB-Aufladbarer Scheibenkratzer, ",
+      "price": 3299.0,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 12,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HNZS7LNS",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71LQ5fsl8pL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HL8R7BFN",
+      "name": "Frontscheibenabdeckung Winter, Windschutzscheibenabdeckung Auto mit Türgriffe Abdecken,Faltbare Scheibenabdeckung Fronts",
+      "price": 18.48,
+      "reviews": 3,
+      "rating": 3.5,
+      "rank": 13,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3 Bewertungen, 3.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0HL8R7BFN",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71UWRT-cluL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H79D768R",
+      "name": "Showvigor 25'' Eiskratzer Auto mit Besen, Teilbares Stecksystem | mit große Kante Borsten & Ergonomischem Schaumstoffgri",
+      "price": 1199.0,
+      "reviews": 412,
+      "rating": 4.4,
+      "rank": 14,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "412 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0H79D768R",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61ma2ttnWDL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H9Y64KSR",
+      "name": "Auto Frontscheibenabdeckung Winter, Windschutzscheibenabdeckung 156 x 126cm | Scheibenabdeckung Auto Winter, 4-Lagige Ex",
+      "price": 10.92,
+      "reviews": 3,
+      "rating": 5.0,
+      "rank": 15,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0H9Y64KSR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71CdQ-nq7tL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HN2PJWWC",
+      "name": "ROBBYROB Scheibenfrostschutz Konzentrat 2 x 5 L bis -60 °C – Winter | Für Auto & Scheibenwaschanlage – polycarbonatvertr",
+      "price": 1999.0,
+      "reviews": 27,
+      "rating": 4.8,
+      "rank": 16,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "27 Bewertungen, 4.8★",
+      "amazon_url": "https://www.amazon.de/dp/B0HN2PJWWC",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715qjFn3TqL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0HQ69HG5C",
+      "name": "2 Stück elektromagnetischer enteiser Scheibenenteiser für den Winter | USB Elektromagnetische Auto Enteiser Mikrowellen ",
+      "price": 2399.0,
+      "reviews": 2,
+      "rating": 5.0,
+      "rank": 17,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2 Bewertungen, 5.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0HQ69HG5C",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81hRowXmZQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H8GLMJR5",
+      "name": "200W KFZ Heizung Autoheizung: Tragbar Auto Heizlüfter 12V Zigarettenanzünder 12 volt akku Standheizung Ventilator Defogg",
+      "price": 1998.0,
+      "reviews": 1,
+      "rating": 1.0,
+      "rank": 18,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 Bewertungen, 1.0★",
+      "amazon_url": "https://www.amazon.de/dp/B0H8GLMJR5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71CITQbORaL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0H6Q5KPMK",
+      "name": "Auto Starthilfe Powerbank, 8000A, Autobatterie Starthilfe, 150PSI, Tragbar | 10L Benzin & 8L Diesel, 5 Modi, 60s Schnell",
+      "price": 3799.0,
+      "reviews": 72,
+      "rating": 4.1,
+      "rank": 19,
+      "category": "Automotive",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "72 Bewertungen, 4.1★",
+      "amazon_url": "https://www.amazon.de/dp/B0H6Q5KPMK",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71+fEYrDNKL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B08Z8C9D42",
+      "name": "Sigg - Edelstahl Trinkflasche - Shield ONE - Einwandig & Federleicht - Für kohlensäurehaltige Getränke geeignet - Auslau",
+      "price": 13.95,
+      "reviews": 3957,
+      "rating": 4.0,
+      "rank": 1,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "3957 Bewertungen, 4.0★",
+      "amazon_url": "https://www.amazon.de/dp/B08Z8C9D42",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61i58vgeXvL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0DNHRW9CR",
+      "name": "Amazon Basics Neopren Hanteln Gewichte, Hantelset, 2er-Set, 1–5kg, Sechseckig, für Krafttraining und Fitnesskurse",
+      "price": 17.64,
+      "reviews": 32832,
+      "rating": 4.7,
+      "rank": 2,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "32832 Bewertungen, 4.7★",
+      "amazon_url": "https://www.amazon.de/dp/B0DNHRW9CR",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/718b0A68-EL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0GRK9KZ2P",
+      "name": "Oura Ring 5 Smart Ring - Gold - Gr. 8 - Schlaf & Fitness-Tracker | Größe mit Größenset prüfen| Weltweit kompaktester Sma",
+      "price": 335.29,
+      "reviews": 2742,
+      "rating": 4.5,
+      "rank": 3,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2742 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B0GRK9KZ2P",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/612D0Ayd+1L._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07KH5YC1T",
+      "name": "ATNKE LED Beleuchtete Mütze,Wiederaufladbare USB Laufmütze mit Licht Extrem Heller 4 LED Lampe Winter Warme Stirnlampe f",
+      "price": 9.5,
+      "reviews": 17110,
+      "rating": 4.6,
+      "rank": 4,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "17110 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B07KH5YC1T",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61FVnIjKaHL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B01F2OGJQM",
+      "name": "Fitgriff® Zughilfen (gepolstert) für Krafttraining, Bodybuilding, Fitness - Kreuzheben Gurte - Lifting Straps - für Frau",
+      "price": 7.13,
+      "reviews": 24126,
+      "rating": 4.6,
+      "rank": 5,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "24126 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B01F2OGJQM",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81ZDizb0wEL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B09S5SZBY5",
+      "name": "Reusch Torwarthandschuhe Kinder | sicherer Grip & stabile Passform | für Training & Spiel, für Kunstrasen, Naturrasen & ",
+      "price": 9.66,
+      "reviews": 2726,
+      "rating": 4.4,
+      "rank": 6,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2726 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B09S5SZBY5",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81jmQI+unML._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0B9443SWF",
+      "name": "Fit-Flip Mikrofaser Handtuch schnelltrocknend für Fitness, Sport & Sauna",
+      "price": 14.92,
+      "reviews": 32428,
+      "rating": 4.6,
+      "rank": 7,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "32428 Bewertungen, 4.6★",
+      "amazon_url": "https://www.amazon.de/dp/B0B9443SWF",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71PBYgXx6bL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FS785WWX",
+      "name": "FISCHER Fahrrad Beleuchtung-Set Square, 90 Lumen, 40/20 Lux, Front- und Rückleuchte, Fahrradlicht mit USB-Ladefunktion, ",
+      "price": 10.7,
+      "reviews": 447,
+      "rating": 4.4,
+      "rank": 8,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "447 Bewertungen, 4.4★",
+      "amazon_url": "https://www.amazon.de/dp/B0FS785WWX",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715rckiOpQL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0FN8TLQHH",
+      "name": "air up Trinkflasche Twist Pro Lavender (600 ml) für Schule, Sport, Gym | inkl. 5 zuckerfreien Duft-Pods & Strohhalm | Wa",
+      "price": 8795.0,
+      "reviews": 2020,
+      "rating": 4.2,
+      "rank": 9,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2020 Bewertungen, 4.2★",
+      "amazon_url": "https://www.amazon.de/dp/B0FN8TLQHH",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51HryKPVPYL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B07113WZ15",
+      "name": "Fit-Flip Fitness Handtuch aus Mikrofaser kompakt und schnelltrocknend | mit Magnet und Reißverschluss Tasche, Fitnesshan",
+      "price": 15.59,
+      "reviews": 4378,
+      "rating": 4.5,
+      "rank": 10,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "4378 Bewertungen, 4.5★",
+      "amazon_url": "https://www.amazon.de/dp/B07113WZ15",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/714DapP0gFL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    },
+    {
+      "asin": "B0CDPVQZ9J",
+      "name": "Antimi Fahrradleuchten-Set, StVZO-zugelassen Beleuchtungsset Led IPX5 Frontlicht + Rücklicht Fahrradlicht Set USB Typ C",
+      "price": 14.36,
+      "reviews": 8216,
+      "rating": 4.3,
+      "rank": 11,
+      "category": "Sports",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "8216 Bewertungen, 4.3★",
+      "amazon_url": "https://www.amazon.de/dp/B0CDPVQZ9J",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Rkrepr7NL._AC_UL300_SR300,200_.jpg",
+      "currency": "EUR",
+      "platform": "Amazon-DE",
+      "sources": [
+        "AmazonDE新品"
+      ]
+    }
+  ]
+}
