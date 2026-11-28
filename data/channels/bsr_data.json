@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "asin": "B0H1G92Q9C",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/81T417QwGQL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "5 Stück Bunte Künstliche Federboas mit 5 Paar Herz-Sonnenbrillen, Flauschige Party Accessoires für Damen für Karneval, Junggesellenabschied, Hochzeit & Geburtstag (2m)",
+    "price": null,
+    "scraped_at": "2026-11-28T15:34:16.334294"
+  },
+  {
+    "asin": "B0F6CTMZ53",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/51Oziyt2p2L._AC_US40_.jpg",
+    "title": "clownsnasen rot Clown Nase Erwachsene Clown noses (PVC,8)",
+    "price": null,
+    "scraped_at": "2026-11-28T15:34:16.334433"
+  },
+  {
+    "asin": "B0DKFRYSHS",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/41L6AMAT9BL._AC_SR38,50_.jpg",
+    "title": "Erwachsene Kostüm Zubehör für Fasching Karneval Halloween Cosplay Party, 4-Teiliges Kostüm Set mit Brille, gelbe Beanie-Mütze, schwarze Handschuhe und Hosenträger",
+    "price": null,
+    "scraped_at": "2026-11-28T15:34:16.334527"
+  },
+  {
+    "asin": "B0HBK538HT",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/41pG74j9HaL._AC_SR38,50_.jpg",
+    "title": "Arabisches Scheich Kostüm Herren, 11 Stück Araber Accessories",
+    "price": null,
+    "scraped_at": "2026-11-28T15:34:25.956350"
+  },
+  {
+    "asin": "B0DLKML597",
+    "domain": "de",
+    "bsr_rank": null,
+    "bsr_category": null,
+    "bsr_sub_rank": null,
+    "bsr_sub_category": null,
+    "reviews": null,
+    "rating": null,
+    "image_url": "https://m.media-amazon.com/images/I/41MpP8NcW-L._AC_SR38,50_.jpg",
+    "title": "Feder Manschetten, Federn Bunt Manschetten, Karneval Regenbogen Kostüm Accessoires, Bunte Federstulpen für Karneval Halloween Cosplay Party Kostüm Accessoire",
+    "price": null,
+    "scraped_at": "2026-11-28T15:34:25.956617"
+  }
+]
